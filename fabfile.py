@@ -8,7 +8,7 @@ from fabric.api import *
 from fabric.contrib.files import put
 
 env.hosts = ['ffont@fs-labs.s.upf.edu']
-remote_dir = '/homedtic/ffont/test/freesound-labs/'
+remote_dir = '/homedtic/ffont/freesound-labs/'
 
 def __copy_files():
     # Copia l'arxiu de local_settings.py al lloc corresponent
