@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+    	{% for cat in page.categories %} <a href="/category/{{ cat }}" style="margin-right:5px; color:#828282;">{{cat}}</a> {% endfor %} |&nbsp;
+    	{% for tag in page.tags %} <a href="/tag/{{ tag }}" style="margin-right:5px; color:#828282;">{{tag}}</a> {% endfor %}
+    </p>
+  </header>
+
+  <article class="post-content">
+    {% if page.image %}
+		<p><img src="{{page.image}}" alt="{{ page.title }} screenshot" style="border-radius:5px;"></p><br>
+	{% endif %}
+
+    {{ content }}
+
+    {% if page.by %}
+		<br>By: {{ page.by | join: ', ' }}
+	{% endif %}
+	{% if page.release_date %}
+		<br>Released: {{ page.release_date | date: "%-d %B %Y" }}
+	{% endif %}
+	{% if page.project_url %}
+		<br>URL: <a href="{{ page.project_url }}" target="_blank">{{ page.project_url }}</a>
+	{% endif %}
+	{% if page.code %}
+		<br>Code: <a href="{{ page.code }}" target="_blank">{{ page.code }}</a>
+	{% endif %}
+	{% if page.facebook %}
+		<br>Facebook: <a href="{{ page.facebook }}" target="_blank">{{ page.facebook }}</a>
+	{% endif %}
+	{% if page.twitter %}
+		<br>Twitter: <a href="{{ page.twitter }}" target="_blank">{{ page.twitter }}</a>
+	{% endif %}
+  </article>
+
+  
+</div>

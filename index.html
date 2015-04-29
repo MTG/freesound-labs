@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% comment %}
+  <header class="post-header">
+    <h2 class="post-title">Latest additions</h2>
+  </header>
+  {% endcomment %}
+
+  <article class="post-content">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+      <table>
+        <tr>
+        <td style="vertical-align: top;{% if post.image %} padding-right:15px;{% endif %}">
+          <h2 style="margin-bottom:0px;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+          <span class="post-meta">
+            {% for cat in post.categories %} <a href="/category/{{ cat }}" style="margin-right:5px; color:#828282;">{{cat}}</a> {% endfor %} |&nbsp;
+            {% for tag in post.tags %} <a href="/tag/{{ tag }}" style="margin-right:5px; color:#828282;">{{tag}}</a> {% endfor %}
+          </span>
+          {% if post.url %}
+          <br><span class="post-meta"><a href="{{ post.project_url }}" target="_blank">{{ post.project_url }}</a></span>
+          {% endif %}
+        </td>
+        <td class="thumbnail_cell" style="vertical-align: middle;">
+          {% if post.image %}
+            <p><img src="{{post.image}}" alt="{{ post.title }} thumbnail" style="border-radius:3px;"></p>
+          {% endif %}
+        </td>
+        </tr>
+      </table>
+      </li>
+    {% endfor %}
+  </ul>
+
+  </article>
+
+</div>

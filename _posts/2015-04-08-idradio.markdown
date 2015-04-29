@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "idRadio"
+date:   2015-04-28 12:30:00
+release_date: 2014-06-12 12:30:00
+categories: 
+- hacks-and-apps
+tags:
+- music-creation
+- freesound-labs
+project_url: http://tamats.com/apps/idradio/
+image: /assets/idradio_screenshot.png
+by: Xavier Bonfill
+---
+
+**idRadio** is an interactive web platform created by artist [Xavier Bonfill](http://xavierbonfill.com), through which anyone can interact with the sounds recorded in [The Sound of Cultures](/educational/soundofcultures.html) project and mix them to create different compositions online in real time. This project has the support of La obra Social La Caixa.
