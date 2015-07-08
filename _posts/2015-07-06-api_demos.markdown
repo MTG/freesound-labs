@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Freesound API demos"
+date:   2015-07-06 12:00:00
+release_date: 2015-07-01 12:00:00
+categories: 
+- hacks-and-apps
+tags:
+- javascript 
+- freesound-api
+- freesound-labs
+project_url: http://labs.freesound.org/api_demos/
+image: /assets/api_demos.png
+by: 
+- Gerard Roma
+---
+
+
+Freesound API demos is a set of user interfaces for querying the [Freesound](http://www.freesound.org) database that showcase the capabilities of the **Freesound APIv2**. They also serve as an example of pure client-based development, based on the [Javascript Freesound APIv2 client](https://github.com/g-roma/freesound.js).
+
+- *Recorder* shows how to upload sounds to Freesound directly from the browser.
+- *Scatterplot* organizes the results of a text query based on [Essentia](http://essentia.upf.edu) descriptors
+- *cbsearch* shows how to query the Freesound database with a selection of Essentia content-based descriptors, both using target-based querying and filter-based querying.
+- *Sounds* is a custom interface for searching short sounds using  content-based descriptors. Sounds, notes and chords can be found based on the energy, and for pitched sounds note and octave.
+- *Loops* allows you to find loops based on tempo and musical key using Essentia descriptors

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Floop"
+date:   2015-07-06 12:00:00
+release_date: 2015-02-01 12:00:00
+categories: 
+- hacks-and-apps
+tags:
+- music-creation
+- loops 
+- freesound-labs
+project_url: http://labs.freesound.org/floop/
+image: /assets/floop.png
+by: 
+- Gerard Roma
+---
+
+**Floop** is an experimental system for browsing [Freesound](http://www.freesound.org) loops. The core concept is based on indexing sounds using the **Beat Spectrum**, a descriptor that does not give you the musical tempo, but that finds periodicities in any kind of sound. A graph-based interface organizes sound according to timbral similarity for a given set of sounds that share the same "repetitive period" and so can be played rhythmically together.
+
+Related publications:
+
+- Roma, G, and Serra, X. [Music performance by discovering community loops](http://mtg.upf.edu/node/3177). In: Proceedings of the 1st Web Audio Conference. Paris, 2015
