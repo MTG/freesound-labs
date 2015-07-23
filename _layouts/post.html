@@ -21,6 +21,12 @@ layout: default
     {% if page.by %}
 		<br>By: {{ page.by | join: ', ' }}
 	{% endif %}
+	{% if page.authors %}
+		<br>Authors: {{ page.authors | join: ', ' }}
+	{% endif %}
+	{% if page.publication %}
+		<br>Published in: {{ page.publication }}{% if page.publication_date %} ({{ page.publication_date | date: "%Y" }}){% endif %}
+	{% endif %}
 	{% if page.release_date %}
 		<br>Released: {{ page.release_date | date: "%-d %B %Y" }}
 	{% endif %}

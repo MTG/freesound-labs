@@ -6,7 +6,6 @@ categories:
 - educational
 tags:
 - workshops
-- freesound-labs
 project_url: http://barcelona.freesound.org/
 image: /assets/sonsdebarcelona_screenshot.png
 facebook: https://www.facebook.com/sons.debarcelona

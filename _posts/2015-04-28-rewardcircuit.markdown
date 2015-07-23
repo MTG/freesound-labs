@@ -8,7 +8,6 @@ categories:
 tags:
 - videogame 
 - sound-exploration
-- freesound-labs
 - freesound-api 
 project_url: http://themushroomsound.org/misc/LD31/
 image: /assets/rewardcircuit.png

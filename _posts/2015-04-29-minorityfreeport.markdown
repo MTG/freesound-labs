@@ -8,7 +8,6 @@ categories:
 tags:
 - music-hackday 
 - music-creation
-- freesound-labs
 image: /assets/minorityfreeport.png
 by: 
 - Frederic Font

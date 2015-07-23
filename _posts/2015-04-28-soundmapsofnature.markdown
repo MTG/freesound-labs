@@ -6,7 +6,6 @@ categories:
 - educational
 tags:
 - workshops
-- freesound-labs
 project_url: http://phonos.upf.edu/tallerssonors/sonsnatura?language=en
 image: /assets/soundmapsofnature_screenshot.png
 ---

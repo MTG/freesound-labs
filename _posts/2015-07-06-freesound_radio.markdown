@@ -8,7 +8,6 @@ categories:
 tags:
 - collaboration 
 - music-creation
-- freesound-labs
 - research
 image: /assets/fs_radio.png
 by: 

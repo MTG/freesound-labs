@@ -6,7 +6,6 @@ categories:
 - educational
 tags:
 - workshops
-- freesound-labs
 project_url: http://phonos.upf.edu/tallerssonors/socultures?language=en
 image: /assets/soundsofcultures_screenshot.png
 ---

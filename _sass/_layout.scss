@@ -12,6 +12,11 @@
     .thumbnail_cell{display:none;}
 }
 
+.pagination {
+    min-height: 36px;
+    text-align: right;
+}
+
 /**
  * Site header
  */
@@ -200,6 +205,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    text-decoration: underline;
 }
 
 

@@ -9,7 +9,6 @@ tags:
 - music-hackday 
 - remixing
 - audio-mosaicing
-- freesound-labs
 - freesound-api 
 project_url: http://labs.freesound.org/freeccit/
 image: /assets/freeccit_screenshot.png

@@ -8,7 +8,6 @@ categories:
 tags:
 - javascript 
 - freesound-api
-- freesound-labs
 project_url: http://labs.freesound.org/api_demos/
 image: /assets/api_demos.png
 by: 

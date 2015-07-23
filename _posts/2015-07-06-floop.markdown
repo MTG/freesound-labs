@@ -8,7 +8,6 @@ categories:
 tags:
 - music-creation
 - loops 
-- freesound-labs
 project_url: http://labs.freesound.org/floop/
 image: /assets/floop.png
 by: 

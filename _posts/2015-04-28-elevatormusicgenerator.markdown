@@ -9,7 +9,6 @@ tags:
 - music-hackday 
 - music-creation
 - automatic-music-generation
-- freesound-labs
 - freesound-api 
 project_url: http://stb.klingt.org/ElevatorMusicGenerator/
 code: http://stb.klingt.org/ElevatorMusicGenerator/ElevatorMusicGenerator.zip
