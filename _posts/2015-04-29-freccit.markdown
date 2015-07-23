@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Free(cc)it!"
-date:   2015-04-28 10:00:00
+date:   2012-06-13 10:00:00
 release_date: 2012-06-13 12:00:00
 categories: 
 - hacks-and-apps

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Freesound Radio"
-date:   2015-07-06 12:00:00
+date:   2008-01-01 12:00:00
 release_date: 2008-01-01 12:00:00
 categories: 
 - hacks-and-apps
@@ -9,6 +9,7 @@ tags:
 - collaboration 
 - music-creation
 - research
+- radio
 image: /assets/fs_radio.png
 by: 
 - Gerard Roma
