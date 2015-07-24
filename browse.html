@@ -5,6 +5,7 @@ permalink: /browse/
 ---
 
 <h1>Categories</h1>
+<div style="text-align:center;font-size:32px;margin-bottom:20px;">
 {% for page in site.pages %}
   {% if page.title %}
 	  {% if page.url contains '/category/' %}
@@ -12,15 +13,18 @@ permalink: /browse/
 	  {% endif %}
   {% endif %}
 {% endfor %}
-<br>
-<br>
+</div>
 
 <h1>Tags</h1>
-{% for page in site.pages %}
-  {% if page.title %}
-	  {% if page.url contains '/tag/' %}
-	  	<a class="page-link" href="{{ page.url | prepend: site.baseurl }}" style="margin-right: 10px;">{{ page.title }}</a>
-	  {% endif %}
-  {% endif %}
+<div style="text-align:center;line-height:32px;">
+<!-- get all tags and make a list annotated with the desired size in percentage of font size -->
+{% capture site_tags %}{% for tag in site.tags %}{{ tag|first }}{% unless forloop.last %}:*:{{ tag | last | size | times: 700 | divided_by: site.tags.size | plus: 83 }},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+{% for tag_info in tag_words %}
+	{% assign tag = tag_info | split:':*:' | first %}
+	{% assign size = tag_info | split:':*:' | last %}
+    <a href="/tag/{{ tag | slugize }}/" style="font-size: {{ size }}%; margin:4px;">
+        {{ tag }}
+    </a>
 {% endfor %}
-
+</div>

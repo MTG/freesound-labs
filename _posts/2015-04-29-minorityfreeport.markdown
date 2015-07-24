@@ -4,7 +4,7 @@ title:  "Minority Freeport"
 date:   2013-06-14  12:00:00
 release_date: 2013-06-14 12:00:00
 categories: 
-- hacks-and-apps
+- Apps
 tags:
 - music-hackday 
 - music-creation

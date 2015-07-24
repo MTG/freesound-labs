@@ -4,7 +4,7 @@ title:  "Freesound Radio"
 date:   2008-01-01 12:00:00
 release_date: 2008-01-01 12:00:00
 categories: 
-- hacks-and-apps
+- Apps
 tags:
 - collaboration 
 - music-creation

@@ -4,7 +4,7 @@ title:  "idRadio"
 date:   2014-06-12 12:30:00
 release_date: 2014-06-12 12:30:00
 categories: 
-- hacks-and-apps
+- Apps
 tags:
 - music-creation
 - freesound-api 

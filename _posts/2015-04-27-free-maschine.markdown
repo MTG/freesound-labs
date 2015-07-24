@@ -4,7 +4,7 @@ title:  "Free Maschine!"
 date:   2014-06-12 12:00:00
 release_date: 2014-06-12 12:00:00
 categories: 
-- hacks-and-apps
+- Apps
 tags:
 - music-hackday 
 - drum-machine

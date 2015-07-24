@@ -3,10 +3,27 @@ layout: default
 ---
 
 <div class="home">
- 
-  <header class="post-header">
-    <h2 class="post-title">Latest additions...</h2>
-  </header>
+
+ <header class="post-header">
+<h2 class="post-title">Welcome to Freesound Labs!</h2>
+
+<p><strong>Freesound Labs</strong>  is a directory of projects, hacks, apps, research and other initiatives that use content from <a href="https://www.freesound.org">Freesound</a> or use the <a href="https://www.freesound.org/docs/api/">Freesound API</a>. You can use the list below to explore what has been done using Freesound, or use the <a href="/browse/">Browse</a> section to search content according to tags and categories. Check the <a href="/about/">About</a> page for more information on Freesound Labs. This site is run by the Freesound Team at the <a href="http://mtg.upf.edu">Music Technology Group</a> of <a href="http://www.upf.edu">Universitat Pompeu Fabra</a>. Feel free to contact us if you have any questions, comments or suggestions.</p>
+
+</header>
+
+<!-- div style="float:left;" class="latest_additions">Latest additions</div -->
+<div style="float:right;">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous"><<</a>
+  {% else %}
+  {% endif %}
+  <span class="page_number ">page  {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">>></a>
+  {% endif %}
+</div>
+<br style="clear:both;">
+<div class="content_separator"></div>
  
   <article class="post-content">
   <ul class="post-list">
@@ -37,17 +54,18 @@ layout: default
   </ul>
   </article>
 
-<!-- Pagination links -->
-<div class="pagination">
+
+<div class="content_separator"></div>
+<div style="float:right;">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous"><<</a>
   {% else %}
-  
   {% endif %}
   <span class="page_number ">page  {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">>></a>
   {% endif %}
 </div>
+<br style="clear:both;">
 
 </div>

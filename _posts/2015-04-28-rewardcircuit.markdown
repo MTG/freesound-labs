@@ -4,7 +4,7 @@ title:  "Reward Circuit"
 date:   2014-12-5 13:00:00
 release_date: 2014-12-5 13:00:00
 categories: 
-- hacks-and-apps
+- Apps
 tags:
 - videogame 
 - sound-exploration
