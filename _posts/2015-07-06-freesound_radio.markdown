@@ -8,7 +8,6 @@ categories:
 tags:
 - collaboration 
 - music-creation
-- research
 - radio
 image: /assets/fs_radio.png
 by: 
