@@ -7,7 +7,9 @@ categories:
 - Apps
 tags:
 - music-hackday 
-- music-creation
+- gestures
+- visualization 
+- sound-exploration
 image: /assets/minorityfreeport.png
 by: 
 - Frederic Font
