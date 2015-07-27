@@ -9,7 +9,6 @@ tags:
 - music-hackday 
 - visualization 
 - sound-exploration
-- gestures
 - freesound-api 
 project_url: http://tamats.com/apps/mhd/
 image: /assets/freesoundscapes.png
