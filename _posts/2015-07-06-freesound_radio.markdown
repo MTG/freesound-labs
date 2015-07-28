@@ -9,7 +9,7 @@ tags:
 - collaboration 
 - music-creation
 - radio
-image: /assets/fs_radio.png
+image: /fs_radio.png
 by: 
 - Gerard Roma
 ---

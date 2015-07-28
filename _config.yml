@@ -13,3 +13,10 @@ paginate: 5
 
 # Build settings
 markdown: kramdown
+
+# Thumbnails
+mini_magick:
+    thumbnail:
+        source: assets/
+        destination: assets/thumbnails/
+        resize: "300"

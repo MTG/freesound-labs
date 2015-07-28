@@ -12,7 +12,7 @@ tags:
 - freesound-api 
 project_url: http://stb.klingt.org/ElevatorMusicGenerator/
 code: http://stb.klingt.org/ElevatorMusicGenerator/ElevatorMusicGenerator.zip
-image: /assets/elevatormusicgenerator.png
+image: /elevatormusicgenerator.png
 by: 
 - Stefan Brunner
 ---

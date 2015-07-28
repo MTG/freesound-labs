@@ -11,7 +11,7 @@ tags:
 - music-creation
 - freesound-api 
 project_url: http://labs.freesound.org/freemaschine/
-image: /assets/free_maschine_screenshot.png
+image: /free_maschine_screenshot.png
 by: 
 - Javi Agenjo
 - Bram de Jong

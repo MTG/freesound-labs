@@ -11,7 +11,7 @@ tags:
 - audio-mosaicing
 - freesound-api 
 project_url: http://labs.freesound.org/freeccit/
-image: /assets/freeccit_screenshot.png
+image: /freeccit_screenshot.png
 by: 
 - Frederic Font
 - Stelios Togias

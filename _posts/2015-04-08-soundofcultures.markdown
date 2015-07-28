@@ -7,7 +7,7 @@ categories:
 tags:
 - workshops
 project_url: http://phonos.upf.edu/tallerssonors/socultures?language=en
-image: /assets/soundsofcultures_screenshot.png
+image: /soundsofcultures_screenshot.png
 ---
 
 Barcelona is today a multicultural city that hosts clearly different values, traditions, symbols and beliefs that shape the diverse cultural identities of its citizens. What is the influence of cultural diversity in the sounds of a city like this? **The sounds of the cultures of Barcelona** is a project that proposes working with sound as a means to better understand and preserve this cultural wealth of the city, from workshops in which participants seek and record those sounds to identify their own cultural identities and their neighborhood. The sound, then, is a tool that lets approach to this multiplicity of cultural identities of the city, while promotes the interest to creation and technology.

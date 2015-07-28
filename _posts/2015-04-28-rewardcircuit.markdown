@@ -10,7 +10,7 @@ tags:
 - sound-exploration
 - freesound-api 
 project_url: http://themushroomsound.org/misc/LD31/
-image: /assets/rewardcircuit.png
+image: /rewardcircuit.png
 by: 
 - themushroomsound
 ---

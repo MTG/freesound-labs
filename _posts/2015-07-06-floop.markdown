@@ -9,7 +9,7 @@ tags:
 - music-creation
 - loops 
 project_url: http://labs.freesound.org/floop/
-image: /assets/floop.png
+image: /floop.png
 by: 
 - Gerard Roma
 ---

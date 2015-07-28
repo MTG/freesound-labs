@@ -11,7 +11,7 @@ tags:
 - sound-exploration
 - freesound-api 
 project_url: http://tamats.com/apps/mhd/
-image: /assets/freesoundscapes.png
+image: /freesoundscapes.png
 by: 
 - Javi Agenjo
 ---

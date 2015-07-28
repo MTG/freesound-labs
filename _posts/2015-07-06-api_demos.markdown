@@ -9,7 +9,7 @@ tags:
 - javascript 
 - freesound-api
 project_url: http://labs.freesound.org/api_demos/
-image: /assets/api_demos.png
+image: /api_demos.png
 by: 
 - Gerard Roma
 ---

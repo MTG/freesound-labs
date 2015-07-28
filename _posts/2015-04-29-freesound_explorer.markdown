@@ -8,7 +8,7 @@ categories:
 tags:
 - visualization 
 - sound-exploration
-image: /assets/freesound_explorer.png
+image: /freesound_explorer.png
 by: 
 - Frederic Font
 ---

@@ -10,7 +10,7 @@ tags:
 - gestures
 - visualization 
 - sound-exploration
-image: /assets/minorityfreeport.png
+image: /minorityfreeport.png
 by: 
 - Frederic Font
 - Álvaro Sarasúa

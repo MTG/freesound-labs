@@ -9,7 +9,7 @@ tags:
 - music-creation
 - freesound-api 
 project_url: http://tamats.com/apps/idradio/
-image: /assets/idradio_screenshot.png
+image: /idradio_screenshot.png
 by: Xavier Bonfill
 ---
 
