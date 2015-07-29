@@ -11,35 +11,34 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:50 %}
+    {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}
-        {% if post.by %}
-        <br>By: {{ post.by | join: ', ' }}
-        {% endif %}
-        {% if post.authors %}
-            <br>Authors: {{ post.authors | join: ', ' }}
-        {% endif %}
-        {% if post.publication %}
-            <br>Published in: {{ post.publication }}{% if post.publication_date %} ({{ post.publication_date | date: "%Y" }}){% endif %}
-        {% endif %}
-        {% if post.release_date %}
-            <br>Released: {{ post.release_date | date: "%-d %B %Y" }}
-        {% endif %}
-        {% if post.project_url %}
-            <br>URL: <a href="{{ post.project_url }}" target="_blank">{{ post.project_url }}</a>
-        {% endif %}
-        {% if post.code %}
-            <br>Code: <a href="{{ post.code }}" target="_blank">{{ post.code }}</a>
-        {% endif %}
-        {% if post.facebook %}
-            <br>Facebook: <a href="{{ post.facebook }}" target="_blank">{{ post.facebook }}</a>
-        {% endif %}
-        {% if post.twitter %}
-            <br>Twitter: <a href="{{ post.twitter }}" target="_blank">{{ post.twitter }}</a>
-        {% endif %}
-
+            {% if post.by %}
+                {{ "<br>" | xml_escape }}By: {{ post.by | join: ', ' }}
+            {% endif %}
+            {% if post.authors %}
+                {{ "<br>" | xml_escape }}Authors: {{ post.authors | join: ', ' }}
+            {% endif %}
+            {% if post.publication %}
+                {{ "<br>" | xml_escape }}Published in: {{ post.publication }}{% if post.publication_date %} ({{ post.publication_date | date: "%Y" }}){% endif %}
+            {% endif %}
+            {% if post.release_date %}
+                {{ "<br>" | xml_escape }}Released: {{ post.release_date | date: "%-d %B %Y" }}
+            {% endif %}
+            {% if post.project_url %}
+                {{ "<br>" | xml_escape }}URL: {{ post.project_url }}
+            {% endif %}
+            {% if post.code %}
+                {{ "<br>" | xml_escape }}Code: {{ post.code }}
+            {% endif %}
+            {% if post.facebook %}
+                {{ "<br>" | xml_escape }}Facebook: {{ post.facebook }}
+            {% endif %}
+            {% if post.twitter %}
+                {{ "<br>" | xml_escape }}Twitter: {{ post.twitter }}
+            {% endif %}
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
