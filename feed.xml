@@ -11,9 +11,14 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
+        {% if post.image %}
+        <image>
+          <url>{{ post.image | prepend: "/assets/" | prepend: site.url }}</url>
+         </image>
+        {% endif %}
         <description>{{ post.content | xml_escape }}
             {% if post.by %}
                 {{ "<br>" | xml_escape }}By: {{ post.by | join: ', ' }}
