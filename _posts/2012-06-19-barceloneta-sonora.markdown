@@ -7,7 +7,7 @@ categories:
 tags:
 - workshops
 project_url: https://barcelonetasonora.wordpress.com
-image: /assets/postal-bsonora.png
+image: /postal-bsonora.png
 facebook: https://www.facebook.com/barcelonetasonora
 ---
 
