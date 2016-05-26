@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Infinite Orcherstra"
-date:   2016-05-26 12:00:00
-release_date: 2016-05-26 12:00:00
+date:   2016-05-25 12:00:00
+release_date: 2016-05-25 12:00:00
 categories: 
 - Apps
 tags:
@@ -10,7 +10,6 @@ tags:
 - freesound-api
 - performance
 code: https://github.com/hellska/InfiniteOrchestra
-project_url: http://labs.freesound.org/api_demos/
 image: /infinite_orchestra.png
 by: 
 - Daniele Scarano
