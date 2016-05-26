@@ -10,6 +10,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://labs.freesound.org" # the base hostname & protocol for your site
 permalink: /:categories/:title.html
 paginate: 5
+github_username:  mtg
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
