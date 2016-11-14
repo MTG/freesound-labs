@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Ardour"
+date:   2016-01-01 12:00:00
+categories:
+- Apps
+tags:
+- freesound-api
+- daw
+- plugin
+- music-creation
+project_url: https://ardour.org
+image: /ardour.png
+by:
+- Paul Davies and the community
+---
+
+
+**Ardour** is a hard disk recorder and digital audio workstation application which runs on Linux, OS X, FreeBSD and Windows. Released under the terms of the GNU General Public License (version two or any later version), Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers. Development is transparent — anyone can watch our work as it happens. Like a good piece of vintage hardware, you can open the box and look inside. Of course, you don't have to... but one day the fact that anybody can will be useful.
+
+Ardour includes and integration with Freesound that allows to [search and import](http://manual.ardour.org/adding-pre-existing-material/searching-and-importing-from-freesound/) Freesound samples directly within the DAW.

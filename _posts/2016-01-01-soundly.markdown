@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Soundly"
+date:   2016-01-01 12:00:00
+categories:
+- Apps
+tags:
+- freesound-api
+- sound-postproduciton
+- sfx
+- cloud
+project_url: http://www.getsoundly.com
+image: /soundly.png
+by:
+- Peder Jørgensen and Christian Schaanning
+---
+
+**Soundly** lets you drag sound effects from the cloud and drop them into your project, saving precious time you now can spend on something else, like getting a head start on your Christmas shopping. Soundly includes Freesound as one of the libraries that can be searched, and allows in this way its users to directly drag and drop content from Freesound into their production software.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zviu0ZxGts4" frameborder="0" allowfullscreen></iframe>
