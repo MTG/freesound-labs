@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Mixcraft 8"
+date:   2017-01-01 12:30:00
+categories: 
+- Apps
+tags:
+- freesound-api
+- daw
+- plugin
+- music-creation
+project_url: http://www.acoustica.com/mixcraft/
+image: /mixcraft_screenshot.png
+by: Acoustica
+---
+
+**Mixcraft 8** is driven by a new, lightning-fast sound engine, featuring advanced audio and MIDI routing, native sidechaining, and Audio Control, an innovative new feature allowing audio signals to control instrument and effect parameters. Comprehensive support has been added for VST3 plug-ins and MP4 video, both must-have formats in professional studio environments. Mixcraft 8 is packed with high-end features including live performance panel recording, nested submixes, track grouping, and so much more. We’ve even integrated Melodyne pitch correction directly into Mixcraft 8 Pro Studio’s interface for flawless vocal performances. 
+
+Freesound samples directly within the DAW.

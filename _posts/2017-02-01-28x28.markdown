@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "28x28"
+date:   2017-02-01 12:30:00
+release_date: 2017-02-01 12:30:00
+categories: 
+- Apps
+tags:
+- music-creation
+- interactive-composition 
+project_url: http://28x28.xavierbonfill.com/
+image: /28x28_screenshot.png
+by: Xavier Bonfill
+---
+
+**28x28** is an interactive music piece by composer [Xavier Bonfill](http://xavierbonfill.com). A room can be full of sounds, some from within, some from the outside, some that happen by choice, some that happen by chance. The possibilities of their combinations are almost endless, but all sounds can be put together and become music in our minds. 28x28 is a piece made of 28 fragments of 28 seconds each that are combined in a certain order according to a domino game. Nowadays, it feels like 28 seconds is a long time to be doing nothing but listening to a piece of music. However, 28 seconds are not enough even for replying to a text message or checking your Facebook feed. So relax, listen, and have yourself some fun, because all work and no play will make you a dull boy/girl.
+
+Sounds are hosted and loaded from Freesound. Find them at their Freesound page: [http://www.freesound.org/people/xavierbonfill/packs/19252/](http://www.freesound.org/people/xavierbonfill/packs/19252/).
+
+Composition by Xavier Bonfill
+Visual design by Tony Martínez
+Developed by Frederic Font
+
+Music performed by Víctor De La Rosa, Lea Han, Irene Bianco, Pernille Kristiansen, Paulina Storbacka, Jenny Lüning, Vilius Daskevicius & Xavier Bonfill.
+Strings recorded by Weronika Wierzba.
+Other recordings, mix & mastering by Xavier Bonfill.
+
+Composed, designed, produced & developed in Copenhagen, Barcelona & Amsterdam: 2014-2016.
+
+With support from Fundació Phonos /
+UPF Barcelona & OSIC / Generalitat de Catalunya.
