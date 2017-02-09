@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Mixcraft 8"
-date:   2017-01-01 12:30:00
+date:   2017-01-19 12:30:00
+release_date: 2017-01-19 12:00:00
 categories: 
 - Apps
 tags:
