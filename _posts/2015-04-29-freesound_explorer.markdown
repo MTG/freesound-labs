@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Freesound Explorer"
+title:  "Freesound Explorer (old prototype)"
 date:   2010-06-01 12:00:00
 release_date: 2010-06-01 12:00:00
 categories: 
