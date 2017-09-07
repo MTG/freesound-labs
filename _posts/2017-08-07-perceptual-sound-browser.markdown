@@ -9,7 +9,6 @@ tags:
 - perceptual
 - sound-postproduction
 - browsing
-project_url: http://labs.freesound.org/fse/
 code: https://github.com/albincorreya/PerceptualSoundBrowser
 image: /perceptual_sound_browser.png
 by: 
