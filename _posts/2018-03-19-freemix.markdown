@@ -2,7 +2,7 @@
 layout: post
 title:  "Freemix"
 date:   2018-03-19 12:30:00
-release_date: 2018-03-19 12:30:00
+release_date: 2018-03-07 12:30:00
 categories: 
 - Apps
 tags: 
