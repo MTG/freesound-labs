@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Beatpush"
+date:   2016-04-01 12:30:00
+release_date: 2016-04-01 12:30:00
+categories: 
+- Apps
+tags: 
+- drum-machine
+- music-creation
+- freesound-api 
+project_url: http://beatpush.com/
+image: /beatpush.png
+by: 
+- Evan Feenstra
+---
+
+**BeatPush** is a web-based, mobile-ready music production environment. BeatPush's modular layout is designed to be intuitive for students and music production beginners. Audio samples and synthesized notes are displayed as colors, while sequences are arranged in a ring, to represent the cyclical nature of music. Features such as auto-harmonization, drag-and-drop sequencing, and one-click effect automation make it easy to create complex electronic music. BeatPush interfaces with most of the Web Audio API processing nodes, including waveform synthesis, variable speed sample playback, filters, convolution (reverb), compression, envelopes, delay, distortion, panning, etc. BeatPush also integrates the [Freesound.org](https://freesound.org) API, so users can explore millions of Creative Commons licensed audio samples, and import them into their projects. Songs created with BeatPush can be saved, distributed across devices, and shared with friends on social media.

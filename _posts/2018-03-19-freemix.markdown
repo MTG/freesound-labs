@@ -8,6 +8,7 @@ categories:
 tags: 
 - gesture
 - smartphone
+- freesound-api 
 project_url: https://como.ircam.fr/apps/freemix/
 image: /freemix.jpg
 by: 
