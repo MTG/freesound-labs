@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Freemix"
+date:   2018-03-19 12:30:00
+release_date: 2018-03-19 12:30:00
+categories: 
+- Apps
+tags: 
+- gesture
+- smartphone
+project_url: https://como.ircam.fr/apps/freemix/
+image: /freemix.jpg
+by: 
+- Joseph Larralde
+---
+
+**Freemix** is a web app for smartphones using movement to trigger and modify sounds.
+It allows for the rapid design of interactive playful sound apps.
+
+A specific interface (accessible from the main interface's "search sounds" button) allows for querying sounds on Freesound using keywords, which can be filtered by user names and minimum / maximum sound duration (search terms and user names can contain spaces, and therefore must be comma separated). From this interface, the sounds can be listened to and added to the main list by clicking the small "+" button. Then, scroll down and click "OK" to get back to the main interface.
+
+Each sound can be played either as a percussion sound or as a sound texture, by selecting it from the main interface's menu, and by either clicking "assign to percussion" or "assign to texture" :
+ * a *percussion sound* is triggered by a gesture stroke (i.e. a sharp peak in the sensors' energy).
+ * a *texture sound* is played continuously through granular synthesis. Its timbre and volume are directly mapped to the sensors' energy.
+
+Freemix is a prototype application developed by the [ISMM](http://ismm.ircam.fr/) team at [IRCAM](https://www.ircam.fr/) in the framework of the [RAPID-MIX H2020 EU project](http://rapidmix.goldsmithsdigital.com/). It will eventually evolve in the future, incorporating more features from the RAPID-MIX API.
