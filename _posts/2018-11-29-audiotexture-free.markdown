@@ -25,6 +25,6 @@ AudioTexture Free includes an integrated browser to search in Freesound and down
 
 The following video shows how AudioTexture allows to transform a sound after it has been loaded from Freesound:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=pv1ozaJ3K2o" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pv1ozaJ3K2o" frameborder="0" allowfullscreen></iframe>
 
 AudioTexture Free is one of the outcomes of the MTG coordinated [AudioCommons](http://audiocommons.org/) H2020 project of which Le Sound are partners.
