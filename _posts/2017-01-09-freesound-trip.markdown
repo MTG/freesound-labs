@@ -17,6 +17,9 @@ by:
 - Emilio Molina
 - Mónica Rikić
 - Lefteris Stamellos
+- Edu Fonseca
+- Xavier Favory
+- Dmitry Bogdanov
 ---
 
 **Freesound Trip** is a web application that automatically arranges the sounds from [Freesound](http://www.freesound.org) in a three-dimensional space and lets the user fly manually through this space with a first-person perspective, hearing sounds as they get close.
