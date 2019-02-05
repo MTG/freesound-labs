@@ -9,6 +9,7 @@ tags:
 - visualization 
 - sound-exploration
 - music creation
+- audiocommons
 project_url: http://labs.freesound.org/fse/
 code: http://github.com/ffont/freesound-explorer/
 image: /freesound_explorer2.png

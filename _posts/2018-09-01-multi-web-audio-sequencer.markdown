@@ -10,6 +10,7 @@ tags:
 - music-creation
 - collaboration
 - sequencer
+- audiocommons
 project_url: https://labs.freesound.org/sequencer/
 code: https://github.com/Multi-Web-Audio/multi-web-audio-sequencer
 image: /multi-web-audio-sequencer-screenshot.png

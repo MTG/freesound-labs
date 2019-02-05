@@ -10,6 +10,7 @@ tags:
 - music-creation
 - live-coding
 - mir
+- audiocommons
 code: https://github.com/axambo/MIRLC
 project_url: https://github.com/axambo/MIRLC
 image: /mirlc.png
