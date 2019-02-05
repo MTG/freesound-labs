@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "MIRLC"
+date:   2019-02-01 12:00:00
+release_date: 2016-01-01 12:00:00
+categories: 
+- Apps
+- Research
+tags: 
+- freesound-api
+- music-creation
+- live-coding
+- mir
+code: https://github.com/axambo/MIRLC
+image: /mirlc.png
+by: 
+- Anna Xambó
+---
+
+**MIRLC** consists of a set of [SuperCollider](https://supercollider.github.io) extensions for using Music Information Retrieval (MIR) techniques in live conding. In particular, MIRLC includes the MIRLCRep class which is designed for repurposing audio samples from **Freesound** (using and expanding the already existing Freesound *quark* for SuperCollider). This allows to easily search, download and integrate Freesound audio clips in a live coding environment and also keep track of which sounds were used and their licenses. Here is a video of a live performance by the author of MIRLC demonstrating the use if MIRLCRep:
+
+<iframe src="https://player.vimeo.com/video/249968326" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/249968326">MIRLCRep demo</a> from <a href="https://vimeo.com/user15175243">Anna Xamb&oacute;</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
