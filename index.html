@@ -7,13 +7,18 @@ layout: default
  <header class="post-header">
 <h2 class="post-title">Welcome to Freesound Labs!</h2>
 
-<p><strong>Freesound Labs</strong>  is a directory of projects, hacks, apps, research and other stuff 
+<p><strong>Freesound Labs</strong>  is a listing of projects, hacks, apps, research and other stuff 
   that use content from <a href="https://www.freesound.org">Freesound</a> or use the 
-  <a href="https://www.freesound.org/docs/api/">Freesound API</a>. You can use the list below to 
-  explore what has been done using Freesound or use the <a href="/browse/">browse</a> section to 
-  search by tags. Want to add a project to Freesound Labs? Send us an email
+  <a href="https://www.freesound.org/docs/api/">Freesound API</a>. Want to add something missing in the list? Send us an email
   at freesound@freesound.org!
 </p>
+
+<div>
+  <form action="/search" method="get" class="search">
+    <input type="text" id="search-box" name="query" placeholder="Search...">
+    <button type="submit"><i class="fa fa-search"></i></button>
+  </form> 
+</div>
 
 </header>
 
@@ -41,7 +46,7 @@ layout: default
           <h2 style="margin-bottom:0px;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
           <p>{{ post.content | strip_html | truncatewords: 35 }}</p>
           <span class="post-meta">
-            {% for cat in post.categories %} <a href="/category/{{ cat }}" style="margin-right:5px; color:#828282;">{{cat}}</a> {% endfor %} |&nbsp;
+            <!--{% for cat in post.categories %} <a href="/category/{{ cat }}" style="margin-right:5px; color:#828282;">{{cat}}</a> {% endfor %} |&nbsp;-->
             {% for tag in post.tags %} <a href="/tag/{{ tag }}" style="margin-right:5px; color:#828282;">{{tag}}</a> {% endfor %}
           </span>
           {% if post.url %}

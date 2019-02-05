@@ -5,13 +5,13 @@ date:   2019-02-01 12:00:00
 release_date: 2016-01-01 12:00:00
 categories: 
 - Apps
-- Research
 tags: 
 - freesound-api
 - music-creation
 - live-coding
 - mir
 code: https://github.com/axambo/MIRLC
+project_url: https://github.com/axambo/MIRLC
 image: /mirlc.png
 by: 
 - Anna Xambó
