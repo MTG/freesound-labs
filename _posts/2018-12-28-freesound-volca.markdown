@@ -12,7 +12,7 @@ tags:
 - volca
 - music-creation
 project_url: https://hisschemoller.github.io/volca-freesound/
-code: 
+code: https://github.com/hisschemoller/volca-freesound
 image: /volca_freesound.png
 by: 
 - Wouter Hisschemöller
