@@ -27,4 +27,4 @@ The Volca-Freesound app is online at
 https://hisschemoller.github.io/volca-freesound/. More information in author's [original blog post](https://www.hisschemoller.com/blog/2018/volca-freesound/).
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Pz5x5eEtuTM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz5x5eEtuTM" frameborder="0" allowfullscreen></iframe>
