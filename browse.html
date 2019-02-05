@@ -4,6 +4,7 @@ title: Browse
 permalink: /browse/
 ---
 
+<!--
 <h1>Categories</h1>
 <div style="text-align:center;font-size:32px;margin-bottom:20px;">
 {% for page in site.pages %}
@@ -14,8 +15,9 @@ permalink: /browse/
   {% endif %}
 {% endfor %}
 </div>
+-->
 
-<h1>Tags</h1>
+<!--<h1>Tags</h1>-->
 <div style="text-align:center;line-height:32px;">
 <!-- get all tags and make a list annotated with the desired size in percentage of font size -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag|first }}{% unless forloop.last %}:*:{{ tag | last | size | times: 700 | divided_by: site.tags.size | plus: 83 }},{% endunless %}{% endfor %}{% endcapture %}
