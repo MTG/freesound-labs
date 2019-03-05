@@ -36,7 +36,7 @@ Here are a couple of examples of soundscapes that I generated with Freesound Tim
 <p><iframe src="https://freesound.org/embed/sound/iframe/456500/simple/full_size/" width="650" height="200" frameborder="0" scrolling="no"></iframe></p>
 <p><iframe src="https://freesound.org/embed/sound/iframe/456501/simple/full_size/" width="650" height="200" frameborder="0" scrolling="no"></iframe></p>
 
-Enjoy!
+You can [access Freesound Timeline here](https://ffont.github.io/freesound-timeline/). Enjoy!
 
 
 
