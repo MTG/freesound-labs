@@ -20,9 +20,10 @@ by:
 - Niklas Wantrupp
 ---
 
-**CTAG Strämpler** is an eurorack sample streaming and sound synthesis module which incorporates live searching and retrieving of content from Freesound. CTAG Strämpler has beem devleoped by the [CTAG](https://www.creative-technologies.de) (Creative Technologies Arbeitsgruppe) team at Kiel University of Applied Science.
+**CTAG Strämpler** is an eurorack sample streaming and sound synthesis module which incorporates live searching and retrieving of content from Freesound. CTAG Strämpler has been devleoped by the [CTAG](https://www.creative-technologies.de) (Creative Technologies Arbeitsgruppe) team at Kiel University of Applied Science.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zmj8tKPHV8g" frameborder="0" allowfullscreen></iframe>
+<br>
 
 * An **open source** eurorack sample streaming and sound synthesis module.
 * Half streamer, half sampler, therefore called Strämpler (close to German word of Strampler meaning romper suit).
