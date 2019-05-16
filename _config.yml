@@ -13,6 +13,9 @@ paginate: 5
 github_username:  mtg
 gems: [jekyll-paginate]
 
+collections:
+  - papers
+
 # Build settings
 markdown: kramdown
 
