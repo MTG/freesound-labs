@@ -48,7 +48,7 @@ for q in queries:
 
                 extra = ''
                 if 'abstract' in  data:
-                    extra += 'abstract: "{0}"\n'.format(data['abstract'])
+                    extra += 'abstract: "{0}"'.format(data['abstract'])
 
                 contents = TEMPLATE.format(
                     type=data['ENTRYTYPE'],
@@ -60,8 +60,6 @@ for q in queries:
                     publication=publication,
                     extra=extra,
                 )
-
-
                 fid = open(out_filename, 'w')
                 fid.write(contents)
                 fid.close()
