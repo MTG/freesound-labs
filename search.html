@@ -31,6 +31,24 @@ permalink: /search/
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
   };
+
+  papers_index = {
+  {% for paper in site.papers %}
+      "{{ paper.external_url }}": {
+        "title": "{{ paper.title | xml_escape }}",
+        "content"	: "{{ paper.authors }} ({{ paper.year }}) - {{ paper.publication }}",
+        "url": " {{ paper.external_url | xml_escape }}",
+        "authors": "{{ paper.authors }}",
+        "tags": "",
+        "image": "/paper.png",
+        "project_url": ""
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+
+  Object.assign(window.store, papers_index);
+  
 </script>
 <script src="/js/lunr.js"></script>
 <script src="/js/search.js"></script>
