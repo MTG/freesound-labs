@@ -13,7 +13,7 @@ id: "{id}"
 title: "{title}"
 publication: "{publication}"
 year: {year}
-url: {url}
+external_url: {url}
 authors: "{authors}"
 ---
 """

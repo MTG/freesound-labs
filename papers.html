@@ -1,0 +1,27 @@
+---
+layout: page
+title: Papers
+permalink: /papers/
+---
+<p>
+What follows is a list of papers that mention Freesound or use Freesound data for the research. 
+This list is created automatically by finding articles that cite one of the two main Freesound
+reference papers. Some entries have also been added manually. Papers are sorted by year of publication
+ and alphabetically by first author surname.
+</p>
+<p>
+If you have a paper which should be
+on the list and is not, please let us know at freesound@freesound.org.
+</p>
+{% assign papers_grouped_year = site.papers | group_by: "year" %}
+{% assign papers_grouped_year = papers_grouped_year| sort: "name" | reverse %}
+{% for y in papers_grouped_year %}
+<h4>{{ y.name }}</h4>
+<ul>
+    {% assign papers_year = y.items | sort: "authors" %}
+    {% for paper in papers_year %}
+    <li>{{ paper.authors }}. <a href="{{ paper.external_url }}">{{ paper.title }}</a> ({{ paper.year }})</li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
