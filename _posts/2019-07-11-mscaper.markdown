@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Mscaper"
+date:   2019-07-11 10:30:00
+release_date: 2019-07-11 10:30:00
+categories: 
+- Apps
+tags: 
+- freesound-api
+- maxmsp
+- environmental-sounds
+- sampler
+- music-creation
+project_url: https://sites.google.com/view/soundscapeusingwebaudioarchive/home
+image: /mscaper.png
+by: 
+- Paulo Teixeira - University of Porto, Faculty of Engineering
+---
+
+The large and growing archives of audio content on the web have been transforming the sound design practice. In this context, sampling – a fundamental sound design tool – has shifted from mechanical recording to the realms of the copying and cutting on the computer. To effectively browse these large archives and retrieve content became a well-identified problem in Music Information Retrieval, namely through the adoption of audio content-based methodologies.
+
+**MScaper** is a semantically-oriented application for browsing and retrieving audio content, in particular, environmental sounds, from Freesound. We aimed to streamline the retrieval of user-defined queries to foster a fluid generation of soundscapes. Russel’s circumplex model, namely the description of affect based on the combination of valence and arousal dimensions, is adopted to filter textual soundscapes queries from Freesound.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9b0nKYaeQhk" frameborder="0" allowfullscreen></iframe>
