@@ -1,6 +1,3 @@
 FROM jekyll/builder:3.7
-RUN mkdir /gem
-ADD . /gem
-WORKDIR /gem
-USER root
-RUN bundle install 
+RUN gem install jekyll-minimagick
+RUN gem install jekyll-paginate
