@@ -11,7 +11,7 @@ url: "http://labs.freesound.org" # the base hostname & protocol for your site
 permalink: /:categories/:title.html
 paginate: 5
 github_username:  mtg
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 collections:
   - papers
