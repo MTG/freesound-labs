@@ -1,6 +1,6 @@
 ---
 layout: paper
-type: phdthesis,
+type: phdthesis
 id: "lostanlen2017operateurs"
 title: "Opérateurs convolutionnels dans le plan temps-fréquence"
 publication: ""

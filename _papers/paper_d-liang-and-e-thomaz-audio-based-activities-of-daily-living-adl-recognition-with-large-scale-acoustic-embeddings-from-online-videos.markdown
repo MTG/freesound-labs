@@ -2,9 +2,9 @@
 layout: paper
 type: article
 id: "liang2019audio"
-title: "Audio-Based Activities of Daily Living (ADL) Recognition with Large-Scale Acoustic Embeddings from Online Videos"
+title: "Audio-based activities of daily living (adl) recognition with large-scale acoustic embeddings from online videos"
 publication: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 year: 2019
-external_url: https://dl.acm.org/citation.cfm?id=3314404
+external_url: https://dl.acm.org/doi/abs/10.1145/3314404
 authors: "Liang, Dawei and Thomaz, Edison"
 ---

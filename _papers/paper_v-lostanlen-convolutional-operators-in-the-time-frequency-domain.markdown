@@ -1,6 +1,6 @@
 ---
 layout: paper
-type: phdthesis,
+type: phdthesis
 id: "lostanlen2017convolutional"
 title: "Convolutional operators in the time-frequency domain"
 publication: ""
