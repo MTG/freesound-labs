@@ -24,6 +24,9 @@ layout: default
 	{% if page.authors %}
 		<br>Authors: {{ page.authors | join: ', ' }}
 	{% endif %}
+	{% if page.institutions %}
+		<br>Institutions: {{ page.institutions | join: ', ' }}
+	{% endif %}
 	{% if page.publication %}
 		<br>Published in: {{ page.publication }}{% if page.publication_date %} ({{ page.publication_date | date: "%Y" }}){% endif %}
 	{% endif %}

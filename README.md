@@ -3,6 +3,10 @@
 This repository contains code for the frontpage of the Freesound Labs website (https://labs.freesound.org).
 It uses Jekyll to generate a static blog-like website.
 
+## Adding content
+
+### Posts
+
 Here is an example template for new posts (which should be placed in the `_posts` folder):
 
 ```
@@ -33,6 +37,8 @@ Description for the entry.
 
 ```
 
+### Papers
+
 New papers should be added in the `_papers_manual` section using the following template:
 
 ```
@@ -52,6 +58,30 @@ Currently papers can be automatically added automatycally using the `retrieve_pa
 papers manually introduced in the `_papers_mannual` folder with automatic citations found using Google Scholar API. See
 instructions below for tunning the script.
     
+
+### Datasets
+
+New dataset entries should be added to the `_datasets` folder using the following template:
+
+```
+---
+layout: post
+title: "Dataset name"
+date: 2018-03-15
+project_url: https://dataset.url/with/description/and/download
+image: /optional_image.png
+institutions:
+- Music Technology Group of Universitat Pompeu Fabra
+- Institution 2
+authors: 
+- Name Surname
+- Name Surname
+- Name Surname
+---
+DatasetX is an audio dataset containing 11,073 audio files annotated with 41 labels of the [AudioSet Ontology](https://research.google.com/audioset////////ontology/index.html). FSDKaggle2018 has been used for the [DCASE Challenge 2018 Task 2](http://dcase.community/challenge2018/task-general-purpose-audio-tagging), which was run as a Kaggle competition titled [Freesound General-Purpose Audio Tagging Challenge](https://www.kaggle.com/c/freesound-audio-tagging). The description should not be very long or it will look bad in the website ;)
+
+```
+
 
 ## Development
 

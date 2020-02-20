@@ -15,6 +15,7 @@ plugins: [jekyll-paginate]
 
 collections:
   - papers
+  - datasets
 
 # Build settings
 markdown: kramdown

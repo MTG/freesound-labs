@@ -16,7 +16,7 @@ on the list and is not, please let us know at freesound@freesound.org.
 {% assign papers_grouped_year = site.papers | group_by: "year" %}
 {% assign papers_grouped_year = papers_grouped_year| sort: "name" | reverse %}
 {% for y in papers_grouped_year %}
-<h4>{{ y.name }}</h4>
+<h4>{{ y.name }} ({{ y.items.size }})</h4>
 <ul>
     {% assign papers_year = y.items | sort: "authors" %}
     {% for paper in papers_year %}
