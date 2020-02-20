@@ -1,0 +1,42 @@
+---
+layout: page
+title: Datasets
+permalink: /datasets/
+---
+
+<article class="post-content">
+<ul class="post-list">
+    {% for dataset in site.datasets %}
+    <li>
+    <table>
+        <tr>
+        <td style="vertical-align: top;{% if dataset.image %} padding-right:15px;{% endif %} max-width:840px;">
+        <h2 style="margin-bottom:0px;"><a class="post-link" href="{{ dataset.project_url }}">{{ dataset.title }}</a></h2>
+        <p>{{ dataset.content }}</p>
+        {% if dataset.authors %}
+            <p>
+                <span class="post-meta">Authors:</span><br><span style="font-size:14px"> {{ dataset.authors | join: ', ' }}</span>
+            </p>
+        {% endif %}
+        {% if dataset.institutions %}
+            <p>
+                <span class="post-meta">Institutions:</span><br><span style="font-size:14px"> {{ dataset.institutions | join: ', ' }}</span>
+            </p>
+        {% endif %}
+        {% if dataset.url %}
+            <p>
+                <span class="post-meta">More information and download:<br><a href="{{ dataset.project_url }}" target="_blank">{{ dataset.project_url }}</a></span>
+            </p>
+        {% endif %}
+        </td>
+        {% if dataset.image %}
+            <td class="thumbnail_cell" style="vertical-align: middle;">
+                <p><img width="300px" src="/assets/thumbnails/{{dataset.image}}" alt="{{ dataset.title }} thumbnail" style="border-radius:3px;"></p>
+            </td>
+        {% endif %}
+        </tr>
+    </table>
+    </li>
+    {% endfor %}
+</ul>
+</article>
