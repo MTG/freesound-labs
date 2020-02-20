@@ -6,5 +6,5 @@ title: "Optimizing the length of an environmental audio fingerprint for place cl
 publication: "2016 International Conference on Electronics, Communications and Computers (CONIELECOMP)"
 year: 2016
 external_url: https://ieeexplore.ieee.org/abstract/document/7438560/
-authors: "Delgado-Contreras, J Rub{\'e}n and Garc{\'\i}a-V{\'a}zquez, Juan P and Brena, Ram{\'o}n"
+authors: "Delgado-Contreras, J Rubén and García-Vázquez, Juan P and Brena, Ramón"
 ---

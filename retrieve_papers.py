@@ -40,7 +40,7 @@ queries = [
     'Freesound 2: An improved platform for sharing audio clips', # Find papers that cite ISMIR 2015 paper
 ]
 
-# Monkeypatch scholarly URL to make sure content is retreived in english
+# Monkeypatch scholarly URL to make sure content is retrieved in english
 scholarly.scholarly._PUBSEARCH = "/scholar?hl=en&q={0}"
 
 def add_remote_papers():
@@ -110,16 +110,24 @@ def add_local_papers():
 
     skipped = 0
     for filename in os.listdir(MANUAL_PAPERS_DIR):
-        lines = open(os.path.join(MANUAL_PAPERS_DIR, filename), 'r').readlines()
+        if not filename.endswith('.markdown'):
+            continue
+
+        try:
+            lines = open(os.path.join(MANUAL_PAPERS_DIR, filename), 'r').readlines()
+        except UnicodeDecodeError:
+            lines = open(os.path.join(MANUAL_PAPERS_DIR, filename), 'r', encoding='windows-1252').readlines()
         title = ""
         for line in lines:
             if 'title:' in line:
                 position = line.find('"')
-                title = line[position+1:-2].lower()
-        if title not in added_titles:
-            # Paper seems to be new, copy it to the "papers" dir
-            shutil.copy(os.path.join(MANUAL_PAPERS_DIR, filename), os.path.join(PAPERS_DIR, filename))
+                title = line[position+1:-2]   
+      
+        if title.lower() not in added_titles:
+            shutil.copy(os.path.join(MANUAL_PAPERS_DIR, filename), os.path.join(PAPERS_DIR, filename),)
+
         else:
+            print('Skipping ', title)
             skipped += 1
     print(f'{skipped} papers were not added because already existed in papers folder.')
 
