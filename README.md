@@ -5,6 +5,9 @@ It uses Jekyll to generate a static blog-like website.
 
 ## Adding content
 
+To add new **posts**, **papers** or **datasets**, please create Markdown files using the instructions below and open a **new pull request** with the chanegs.
+
+
 ### Posts
 
 Here is an example template for new posts (which should be placed in the `_posts` folder):
