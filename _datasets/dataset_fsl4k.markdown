@@ -2,7 +2,7 @@
 layout: post
 title: "Freesound Loops 4k (FSL4)"
 date: 2016-07-22
-project_url: comming_soon
+project_url: https://zenodo.org/record/3685832#.XlPj75NKiL4
 institutions:
 - Music Technology Group of Universitat Pompeu Fabra
 authors: 
