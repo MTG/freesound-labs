@@ -5,7 +5,7 @@ date: 2019-03-15
 project_url: https://zenodo.org/record/3612637#.Xk6ebi2ZNPU
 image: /fsdkaggle2019.png
 institutions:
-- Music Technology Group of Universitat Pompeu Fabra
+- Music Technology Group (MTG), Universitat Pompeu Fabra
 - Google Research’s Machine Perception Team
 authors: 
 - Eduardo Fonseca

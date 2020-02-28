@@ -5,7 +5,7 @@ date: 2020-02-12
 project_url: https://zenodo.org/record/3665275
 image:
 institutions:
-- Music Technology Group of Universitat Pompeu Fabra
+- Music Technology Group (MTG), Universitat Pompeu Fabra
 authors: 
 - António Ramires
 - Pritish Chandna
