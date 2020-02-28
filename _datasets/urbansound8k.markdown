@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Urban Sonund 8K"
+title: "Urban Sound 8K"
 date: 2015-01-01
 project_url: https://urbansounddataset.weebly.com/urbansound8k.html
 image: /urbansound8k.png
