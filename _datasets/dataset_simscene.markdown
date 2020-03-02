@@ -2,7 +2,7 @@
 layout: post
 title: "SimSceneTVB Learning"
 date: 2019-06-18
-project_url: https://zenodo.org/record/2529934#.Xlj0zi2ZN24
+project_url: https://zenodo.org/record/3248703#.XlzBhabRZUQ
 institutions:
 - Ecole Centrale de Nantes
 - University of Paris Seine, University of Cergy-Pontoise, ENSEA
