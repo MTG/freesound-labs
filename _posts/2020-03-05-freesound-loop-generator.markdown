@@ -21,6 +21,7 @@ The **Freesound Loop Generator** (FLG) is a tool to create music loops using Fre
 a simple 16-step sequencer and several methods to load Freesound sounds into the pads. FLG allows you to export
 the loops you make as WAV files and also allows you to download the sounds loaded in each pad rendered as a single
 32-seconds long WAV file with sounds spaced every 2 seconds so you can easily load the sounds in your sampler of chocie. 
+Additionally, the sequences made in FLG can also be exported as MIDI files so you can recreate the loops in your favorite software.
 
 Some example loops generated with FLG:
 
