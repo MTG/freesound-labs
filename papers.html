@@ -3,15 +3,14 @@ layout: page
 title: Papers
 permalink: /papers/
 ---
-<p>
+<p class="note">
 What follows is a list of papers that mention Freesound or use Freesound data for the research. 
 This list is created automatically by finding articles that cite one of the two main Freesound
 reference papers. Some entries have also been added manually. Papers are sorted by year of publication
- and alphabetically by first author surname.
-</p>
-<p>
+and alphabetically by first author surname.
+<br><br>
 If you have a paper which should be
-on the list and is not, please let us know at freesound@freesound.org.
+on the list and is not, please <b>send us an email</b> at freesound@freesound.org.
 </p>
 {% assign papers_grouped_year = site.papers | group_by: "year" %}
 {% assign papers_grouped_year = papers_grouped_year| sort: "name" | reverse %}

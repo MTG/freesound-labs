@@ -5,8 +5,14 @@ permalink: /datasets/
 ---
 
 <article class="post-content">
+
+<p class="note">This is a list of datasets that use Freesound content, sorted alphabetically. 
+    Do yo have a dataset that uses Freesound and does not appear here? Please <b>send us an email</b> at freesound@freesound.org!
+</p>
+
 <ul class="post-list">
-    {% for dataset in site.datasets %}
+    {% assign sorted_datasets = site.datasets | sort_natural: 'title' %}
+    {% for dataset in sorted_datasets %}
     <li>
     <table>
         <tr>

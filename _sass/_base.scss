@@ -248,3 +248,10 @@ form.search::after {
     clear: both;
     display: table;
 }
+
+.note {
+    padding: 10px;
+    margin-bottom: 40px;
+    background-color: rgba( $red-color, .2 );
+    border-radius: 2px;
+}
