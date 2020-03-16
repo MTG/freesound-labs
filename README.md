@@ -1,7 +1,20 @@
 # Freesound Labs
 
-This repository contains code for the frontpage of the Freesound Labs website (https://labs.freesound.org).
-It uses Jekyll to generate a static blog-like website.
+This repository contains code for the frontpage of the Freesound Labs website (https://labs.freesound.org). It uses Jekyll to generate a static blog-like website.
+
+Contents of this readme file:
+
+<!-- TOC depthFrom:2 -->
+
+- [Adding content](#adding-content)
+    - [Posts](#posts)
+    - [Papers](#papers)
+    - [Datasets](#datasets)
+- [Development](#development)
+- [Deployment](#deployment)
+
+<!-- /TOC -->
+
 
 ## Adding content
 
