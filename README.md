@@ -4,16 +4,7 @@ This repository contains code for the frontpage of the Freesound Labs website (h
 
 Contents of this readme file:
 
-<!-- TOC depthFrom:2 -->
-
-- [Adding content](#adding-content)
-    - [Posts](#posts)
-    - [Papers](#papers)
-    - [Datasets](#datasets)
-- [Development](#development)
-- [Deployment](#deployment)
-
-<!-- /TOC -->
+<!-- TOC depthFrom:2 -->autoauto- [Adding content](#adding-content)auto    - [Posts](#posts)auto    - [Papers](#papers)auto    - [Datasets](#datasets)auto- [Development](#development)auto- [Deployment](#deployment)autoauto<!-- /TOC -->
 
 
 ## Adding content
@@ -70,7 +61,7 @@ authors: "Meutzner, Hendrik and Kolossa, Dorothea"
 ---
 ```
 
-Currently papers can be automatically added automatycally using the `retrieve_papers.py` script. The script will combine the
+Currently papers can be automatically added using the `retrieve_papers.py` script. The script will combine the
 papers manually introduced in the `_papers_mannual` folder with automatic citations found using Google Scholar API. See
 instructions below for tunning the script.
     
