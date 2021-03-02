@@ -109,3 +109,7 @@ NOTE: all commands above should be run from the root of the repository
 
 Deploy commands use Python's Fabric (v1.x) and can be found in `fabfile.py`. Use `fab deploy` to deploy. 
 Currently, Jekyll site is built remotely in the server.
+
+When new commits are made to the repository, an action will be triggered in the remote server to rebuild the site.
+
+Also, the `retreive_papers.py` script is automatically run (and the site rebuilt) once a month.
