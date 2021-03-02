@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "14b192b98fb3291b3bcfc0d9a532b51f5edf50a3"
+title: "Embodied Musical Interaction - Body Physiology, Cross Modality, And Sonic Experience"
+publication: "New Directions in Music and Human-Computer Interaction"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/14b192b98fb3291b3bcfc0d9a532b51f5edf50a3
+authors: "A. Tanaka"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8bce0460eb0d79844a23775f761553fd98480a5a"
+title: "Deep Learning For Tube Amplifier Emulation"
+publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/8bce0460eb0d79844a23775f761553fd98480a5a
+authors: "Eero-Pekka Damskägg, Lauri Juvela, Etienne Thuillier, V. Välimäki"
+---

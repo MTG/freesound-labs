@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "420c6e6dbf00199965c80d60e3cfb9f303447e37"
+title: "End-To-End Adversarial White Box Attacks On Music Instrument Classification"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/420c6e6dbf00199965c80d60e3cfb9f303447e37
+authors: "K. Prinz, A. Flexer"
+---

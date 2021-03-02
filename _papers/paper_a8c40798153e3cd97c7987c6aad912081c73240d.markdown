@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a8c40798153e3cd97c7987c6aad912081c73240d"
+title: "Multi Web Audio Sequencer: Collaborative Music Making"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/a8c40798153e3cd97c7987c6aad912081c73240d
+authors: "Xavier Favory, X. Serra"
+---

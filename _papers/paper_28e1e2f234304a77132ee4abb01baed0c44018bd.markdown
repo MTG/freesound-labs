@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "28e1e2f234304a77132ee4abb01baed0c44018bd"
+title: "Open Band: A Platform For Collective Sound Dialogues"
+publication: "Audio Mostly Conference"
+year: 2017
+external_url: https://www.semanticscholar.org/paper/28e1e2f234304a77132ee4abb01baed0c44018bd
+authors: "A. Stolfi, M. Barthet, Fábio Goródscy, A. C. D. C. Junior"
+---

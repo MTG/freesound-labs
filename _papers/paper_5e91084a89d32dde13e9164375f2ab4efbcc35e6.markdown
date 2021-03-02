@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5e91084a89d32dde13e9164375f2ab4efbcc35e6"
+title: "Cross-Task Learning For Audio Tagging, Sound Event Detection And Spatial Localization: Dcase 2019 Baseline Systems"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/5e91084a89d32dde13e9164375f2ab4efbcc35e6
+authors: "Qiuqiang Kong, Yin Cao, T. Iqbal, Y. Xu, W. Wang, Mark D. Plumbley"
+---

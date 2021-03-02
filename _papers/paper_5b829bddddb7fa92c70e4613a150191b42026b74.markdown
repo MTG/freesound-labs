@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5b829bddddb7fa92c70e4613a150191b42026b74"
+title: "Thuee System For Dcase 2019 Challenge Task 2 Technical Report"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/5b829bddddb7fa92c70e4613a150191b42026b74
+authors: "Kexin He, Yuhan Shen, W. Zhang"
+---

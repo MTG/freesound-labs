@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "980f4703eb17346ac2c0d29c635ee297cca0b374"
+title: "Sonyc Urban Sound Tagging (Sonyc-Ust): A Multilabel Dataset From An Urban Acoustic Sensor Network"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/980f4703eb17346ac2c0d29c635ee297cca0b374
+authors: "M. Cartwright, Ana Elisa Méndez Méndez, J. Cramer, Vincent Lostanlen, G. Dove, Ho-Hsiang Wu, Justin Salamon, Oded Nov, J. Bello"
+---

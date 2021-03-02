@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bb4b9fe02dcaf86503f301205078b0f10156c12d"
+title: "Exploring The Anatomical Encoding Of Voice With A Mathematical Model Of The Vocal System"
+publication: "NeuroImage"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/bb4b9fe02dcaf86503f301205078b0f10156c12d
+authors: "M. F. Assaneo, J. Sitt, G. Varoquaux, M. Sigman, L. Cohen, M. Trevisan"
+---

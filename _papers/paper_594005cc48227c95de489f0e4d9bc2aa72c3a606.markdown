@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "594005cc48227c95de489f0e4d9bc2aa72c3a606"
+title: "Search Result Clustering In Collaborative Sound Collections"
+publication: "ICMR"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/594005cc48227c95de489f0e4d9bc2aa72c3a606
+authors: "Xavier Favory, F. Font, X. Serra"
+---

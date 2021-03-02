@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f3156ad2c45bdbd2e95a5994863161ed7ded3719"
+title: "The Effect Of Room Acoustics On Audio Event Classification"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/f3156ad2c45bdbd2e95a5994863161ed7ded3719
+authors: "Dimitra Emmanouilidou, H. Gamper"
+---

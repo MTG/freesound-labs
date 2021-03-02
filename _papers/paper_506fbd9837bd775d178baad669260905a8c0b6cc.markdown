@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "506fbd9837bd775d178baad669260905a8c0b6cc"
+title: "Training Sound Event Detection On A Heterogeneous Dataset"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/506fbd9837bd775d178baad669260905a8c0b6cc
+authors: "Nicolas Turpault, Romain Serizel"
+---

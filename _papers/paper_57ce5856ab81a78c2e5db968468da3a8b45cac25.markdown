@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "57ce5856ab81a78c2e5db968468da3a8b45cac25"
+title: "Toulouse Campus Surveillance Dataset: Scenarios, Soundtracks, Synchronized Videos With Overlapping And Disjoint Views"
+publication: "MMSys"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/57ce5856ab81a78c2e5db968468da3a8b45cac25
+authors: "T. Malon, G. Roman-Jimenez, Patrice Guyot, S. Chambon, V. Charvillat, A. Crouzil, A. Péninou, J. Pinquier, F. Sèdes, C. Sénac"
+---

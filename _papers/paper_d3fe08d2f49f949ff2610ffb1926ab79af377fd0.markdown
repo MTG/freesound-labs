@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d3fe08d2f49f949ff2610ffb1926ab79af377fd0"
+title: "Dcase 2019 Task 2: Multitask Learning, Semi-Supervised Learning And Model Ensemble With Noisy Data For Audio Tagging"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/d3fe08d2f49f949ff2610ffb1926ab79af377fd0
+authors: "O. Akiyama, J. Sato"
+---

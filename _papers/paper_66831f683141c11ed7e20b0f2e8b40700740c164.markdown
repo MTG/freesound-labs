@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "66831f683141c11ed7e20b0f2e8b40700740c164"
+title: "Vggsound: A Large-Scale Audio-Visual Dataset"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/66831f683141c11ed7e20b0f2e8b40700740c164
+authors: "Honglie Chen, Weidi Xie, A. Vedaldi, Andrew Zisserman"
+---

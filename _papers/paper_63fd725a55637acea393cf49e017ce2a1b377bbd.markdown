@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "63fd725a55637acea393cf49e017ce2a1b377bbd"
+title: "A Framework For Computer-Assisted Sound Design Systems Supported By Modelling Affective And Perceptual Properties Of Soundscape"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/63fd725a55637acea393cf49e017ce2a1b377bbd
+authors: "Miles Thorogood, Jianyu Fan, P. Pasquier"
+---

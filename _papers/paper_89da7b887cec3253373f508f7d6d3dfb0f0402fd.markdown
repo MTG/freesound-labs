@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "89da7b887cec3253373f508f7d6d3dfb0f0402fd"
+title: "An Ubiquitous Smart Guitar System For Collaborative Musical Practice"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/89da7b887cec3253373f508f7d6d3dfb0f0402fd
+authors: "Luca Turchet, M. Barthet"
+---

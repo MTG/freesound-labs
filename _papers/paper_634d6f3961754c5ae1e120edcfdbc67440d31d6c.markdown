@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "634d6f3961754c5ae1e120edcfdbc67440d31d6c"
+title: "The Nigens General Sound Events Database"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/634d6f3961754c5ae1e120edcfdbc67440d31d6c
+authors: "Ivo Trowitzsch, Jalil Taghia, Youssef Kashef, K. Obermayer"
+---

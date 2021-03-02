@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fc33a95ac1e43fe6fcec54e96809cd5a19460659"
+title: "Freesound Radio: Supporting Music Creation By Exploration Of A Sound Database"
+publication: ""
+year: 2009
+external_url: https://www.semanticscholar.org/paper/fc33a95ac1e43fe6fcec54e96809cd5a19460659
+authors: "Gerard Roma Trepat, Perfecto Herrera-Boyer, X. Serra"
+---

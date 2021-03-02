@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "133bcb4e27aa3e8597548e35e28ab2b3d43fd1ba"
+title: "Tag Recommendation Using Folksonomy Information For Online Sound Sharing Platforms"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/133bcb4e27aa3e8597548e35e28ab2b3d43fd1ba
+authors: "F. Font"
+---

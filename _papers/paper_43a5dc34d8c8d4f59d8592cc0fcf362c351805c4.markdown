@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "43a5dc34d8c8d4f59d8592cc0fcf362c351805c4"
+title: "Audio Future Block Prediction With Conditional Generative Adversarial Network"
+publication: "2019 3rd International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/43a5dc34d8c8d4f59d8592cc0fcf362c351805c4
+authors: "Md. Rahat-uz-Zaman, Shadmaan Hye, M. Hasan"
+---

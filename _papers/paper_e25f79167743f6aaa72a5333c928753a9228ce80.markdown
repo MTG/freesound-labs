@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e25f79167743f6aaa72a5333c928753a9228ce80"
+title: "Instrument Classification Using Spiking Neural Networks"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/e25f79167743f6aaa72a5333c928753a9228ce80
+authors: "Jainesh Doshi, Vishrant Tripathi, O. Desai, Shreyas Mangalgi"
+---

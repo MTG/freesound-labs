@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "73e668a99a250f644a4035280e61552aaedc696b"
+title: "Authoring Augmented Soundscapes With User-Contributed Content"
+publication: ""
+year: 2011
+external_url: https://www.semanticscholar.org/paper/73e668a99a250f644a4035280e61552aaedc696b
+authors: "J. Janer, G. Roma, S. Kersten"
+---

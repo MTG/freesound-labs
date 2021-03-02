@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1e817a7746aba5fc2ff5571641f01911a708a858"
+title: "Audio Impairment Recognition Using A Correlation-Based Feature Representation"
+publication: "2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/1e817a7746aba5fc2ff5571641f01911a708a858
+authors: "Alessandro Ragano, Emmanouil Benetos, A. Hines"
+---

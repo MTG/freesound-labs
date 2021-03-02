@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "db7f0385b21a66b80345085e24d87803bc353a54"
+title: "Mmfeat: A Toolkit For Extracting Multi-Modal Features"
+publication: "ACL"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/db7f0385b21a66b80345085e24d87803bc353a54
+authors: "Douwe Kiela"
+---

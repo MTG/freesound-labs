@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "23862c2cf2772326cd8305501376dec29dd7bd51"
+title: "Embodied Musical Interaction Body Physiology, Cross Modality, And Sonic Experience"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/23862c2cf2772326cd8305501376dec29dd7bd51
+authors: "Tom Mudd, - KatieWilkie, Mckenna, A. Mcpherson, M. Wanderley"
+---

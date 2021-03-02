@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6bd3693739cb6ac3f69597f35afe544893712ec2"
+title: "Using Unlabeled Acoustic Data With Locality-Constrained Linear Coding For Energy-Related Activity Recognition In Buildings"
+publication: "2015 IEEE International Conference on Automation Science and Engineering (CASE)"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/6bd3693739cb6ac3f69597f35afe544893712ec2
+authors: "Qingchang Zhu, Z. Chen, Y. Soh"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "54e5300e00d55e703296dd0d39531125c6bd5600"
+title: "Convolutional Operators In The Time-Frequency Domain"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/54e5300e00d55e703296dd0d39531125c6bd5600
+authors: "Vincent Lostanlen"
+---

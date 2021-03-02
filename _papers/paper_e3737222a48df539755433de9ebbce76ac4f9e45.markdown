@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e3737222a48df539755433de9ebbce76ac4f9e45"
+title: "Multichannel-Based Learning For Audio Object Extraction"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/e3737222a48df539755433de9ebbce76ac4f9e45
+authors: "D. Arteaga, J. Pons"
+---

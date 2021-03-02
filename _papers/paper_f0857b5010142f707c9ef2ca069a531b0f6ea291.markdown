@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f0857b5010142f707c9ef2ca069a531b0f6ea291"
+title: "Weak Multi-Label Audio-Tagging With Class Noise"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/f0857b5010142f707c9ef2ca069a531b0f6ea291
+authors: "K. Prinz, A. Flexer"
+---

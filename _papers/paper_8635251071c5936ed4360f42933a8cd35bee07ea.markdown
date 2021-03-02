@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8635251071c5936ed4360f42933a8cd35bee07ea"
+title: "Deep Convolutional Neural Networks And Data Augmentation For Acoustic Event Recognition"
+publication: "INTERSPEECH"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/8635251071c5936ed4360f42933a8cd35bee07ea
+authors: "Naoya Takahashi, Michael Gygli, B. Pfister, L. Gool"
+---

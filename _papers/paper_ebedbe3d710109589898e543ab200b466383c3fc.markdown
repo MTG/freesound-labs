@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ebedbe3d710109589898e543ab200b466383c3fc"
+title: "Comparative Assessment Of Data Augmentation For Semi-Supervised Polyphonic Sound Event Detection"
+publication: "2020 27th Conference of Open Innovations Association (FRUCT)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/ebedbe3d710109589898e543ab200b466383c3fc
+authors: "L. Delphin-Poulat, R. Nicol, Cyril Plapous, Katell Peron"
+---

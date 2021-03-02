@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4a11d3c08e00d5b00a4989b0524bd6a1cd8d21b3"
+title: "Training Neural Audio Classifiers With Few Data"
+publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/4a11d3c08e00d5b00a4989b0524bd6a1cd8d21b3
+authors: "J. Pons, J. Serrà, X. Serra"
+---

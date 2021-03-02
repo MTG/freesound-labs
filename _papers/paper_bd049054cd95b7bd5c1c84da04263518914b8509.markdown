@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bd049054cd95b7bd5c1c84da04263518914b8509"
+title: "Musical Source Separation By Coherent Frequency Modulation Cues"
+publication: ""
+year: 2016
+external_url: https://www.semanticscholar.org/paper/bd049054cd95b7bd5c1c84da04263518914b8509
+authors: "Elliot Creager"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c1256d18050902f8ba95aac11e25780ae72cdc19"
+title: "Holosound: Combining Speech And Sound Identification For Deaf Or Hard Of Hearing Users On A Head-Mounted Display"
+publication: "ASSETS"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/c1256d18050902f8ba95aac11e25780ae72cdc19
+authors: "R. Guo, Y. Yang, Johnson Kuang, X. Bin, Dhruv Jain, Steven Goodman, Leah Findlater, Jon Froehlich"
+---

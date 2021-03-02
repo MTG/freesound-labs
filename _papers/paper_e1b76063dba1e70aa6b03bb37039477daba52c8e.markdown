@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e1b76063dba1e70aa6b03bb37039477daba52c8e"
+title: "Privacy-Aware Environmental Sound Classification For Indoor Human Activity Recognition"
+publication: "PETRA"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/e1b76063dba1e70aa6b03bb37039477daba52c8e
+authors: "W. Wang, F. Seraj, N. Meratnia, P. Havinga"
+---

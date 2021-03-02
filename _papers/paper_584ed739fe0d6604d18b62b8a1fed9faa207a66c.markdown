@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "584ed739fe0d6604d18b62b8a1fed9faa207a66c"
+title: "Hodgepodge: Sound Event Detection Based On Ensemble Of Semi-Supervised Learning Methods"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/584ed739fe0d6604d18b62b8a1fed9faa207a66c
+authors: "Ziqiang Shi, L. Liu, Huibin Lin, R. Liu, Anyan Shi"
+---

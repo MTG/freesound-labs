@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4446b6594a25fe2f770967cdcb3eb6ed690b49db"
+title: "Scattering Wavelet Hash Fingerprints For Musical Audio Recognition"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/4446b6594a25fe2f770967cdcb3eb6ed690b49db
+authors: "Evren Kanalici, Gokhan Bilgin"
+---

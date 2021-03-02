@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d48bc52255517276c0ddaa46a7893a8ec4477983"
+title: "Audible Panorama: Automatic Spatial Audio Generation For Panorama Imagery"
+publication: "CHI"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/d48bc52255517276c0ddaa46a7893a8ec4477983
+authors: "Haikun Huang, M. Solah, Dingzeyu Li, Lap-Fai Yu"
+---

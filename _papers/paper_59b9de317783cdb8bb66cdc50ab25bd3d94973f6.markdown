@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "59b9de317783cdb8bb66cdc50ab25bd3d94973f6"
+title: "Archeo: A Dataset For Sound Event Detection In Areas Of Touristic Interest"
+publication: "2020 15th International Workshop on Semantic and Social Media Adaptation and Personalization (SMA"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/59b9de317783cdb8bb66cdc50ab25bd3d94973f6
+authors: "Theodoros Psallidas, Alexander Mitsou, George Pikramenos, E. Spyrou, Theodore Giannakopoulos"
+---

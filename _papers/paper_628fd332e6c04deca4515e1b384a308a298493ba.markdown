@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "628fd332e6c04deca4515e1b384a308a298493ba"
+title: "It’S All In The Timing"
+publication: "ACM Trans. Comput. Hum. Interact."
+year: 2020
+external_url: https://www.semanticscholar.org/paper/628fd332e6c04deca4515e1b384a308a298493ba
+authors: "C. Asplund, Takashi Obana, P. Bhatnagar, Xun Quan Koh, Simon T. Perrault"
+---

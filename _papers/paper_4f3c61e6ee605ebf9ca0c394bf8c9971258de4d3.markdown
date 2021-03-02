@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4f3c61e6ee605ebf9ca0c394bf8c9971258de4d3"
+title: "Live Repurposing Of Sounds: Mir Explorations With Personal And Crowdsourced Databases"
+publication: "NIME"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/4f3c61e6ee605ebf9ca0c394bf8c9971258de4d3
+authors: "Anna Xambó, G. Roma, Alexander Lerch, M. Barthet, György Fazekas"
+---

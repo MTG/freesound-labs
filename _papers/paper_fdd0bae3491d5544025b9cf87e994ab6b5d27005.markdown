@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fdd0bae3491d5544025b9cf87e994ab6b5d27005"
+title: "Improving Sound Event Detection In Domestic Environments Using Sound Separation"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/fdd0bae3491d5544025b9cf87e994ab6b5d27005
+authors: "Nicolas Turpault, S. Wisdom, H. Erdogan, J. Hershey, Romain Serizel, E. Fonseca, P. Seetharaman, Justin Salamon"
+---

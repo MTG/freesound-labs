@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5a411032384c05517dde1005a3e5800df9b7aa99"
+title: "Audio Tagging Using A Linear Noise Modelling Layer"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/5a411032384c05517dde1005a3e5800df9b7aa99
+authors: "S. Singh, A. Pankajakshan, Emmanouil Benetos, Events"
+---

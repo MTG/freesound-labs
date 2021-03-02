@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "16d456d47655fcc8ee6a8e6d88c3ac04c3cd43a9"
+title: "Guided Learning Convolution System For Dcase 2019 Task 4"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/16d456d47655fcc8ee6a8e6d88c3ac04c3cd43a9
+authors: "L. Lin, X. Wang, Hong Liu, Yueliang Qian"
+---

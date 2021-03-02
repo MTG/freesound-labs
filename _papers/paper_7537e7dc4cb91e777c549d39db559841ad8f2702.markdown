@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7537e7dc4cb91e777c549d39db559841ad8f2702"
+title: "Open-Source Practices For Music Signal Processing Research: Recommendations For Transparent, Sustainable, And Reproducible Audio Research"
+publication: "IEEE Signal Processing Magazine"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/7537e7dc4cb91e777c549d39db559841ad8f2702
+authors: "B. McFee, J. Kim, M. Cartwright, Justin Salamon, Rachel M. Bittner, J. Bello"
+---

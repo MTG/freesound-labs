@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b47371c7457245c9e10ec5fa2c1606a09b8198ae"
+title: "Audio Tagging With Minimal Supervision Based On Mean Teacher For Dcase 2019 Challenge Task 2 Technical Report"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/b47371c7457245c9e10ec5fa2c1606a09b8198ae
+authors: "J. He, Penghao Rao, B. Sun, Lejun Yu"
+---

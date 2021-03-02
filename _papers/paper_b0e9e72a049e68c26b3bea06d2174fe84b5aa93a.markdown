@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b0e9e72a049e68c26b3bea06d2174fe84b5aa93a"
+title: "Music Performance By Discovering Community Loops"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/b0e9e72a049e68c26b3bea06d2174fe84b5aa93a
+authors: "G. Roma, X. Serra"
+---

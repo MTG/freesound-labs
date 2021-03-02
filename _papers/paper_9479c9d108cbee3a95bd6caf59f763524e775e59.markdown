@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9479c9d108cbee3a95bd6caf59f763524e775e59"
+title: "Small World Networks And Creativity In Audio Clip Sharing"
+publication: "Int. J. Soc. Netw. Min."
+year: 2012
+external_url: https://www.semanticscholar.org/paper/9479c9d108cbee3a95bd6caf59f763524e775e59
+authors: "G. Roma, P. Herrera, M. Zanin, S. Marín, F. Font, X. Serra"
+---

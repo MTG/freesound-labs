@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ec04d0ab9c669023a3fe60d480a0c6516bc19f7d"
+title: "Cross Modal Audio Search And Retrieval With Joint Embeddings Based On Text And Audio"
+publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/ec04d0ab9c669023a3fe60d480a0c6516bc19f7d
+authors: "B. Elizalde, Shuayb Zarar, B. Raj"
+---

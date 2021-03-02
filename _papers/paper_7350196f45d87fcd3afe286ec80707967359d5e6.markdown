@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7350196f45d87fcd3afe286ec80707967359d5e6"
+title: "Audio Events Detection In Noisy Embedded Railway Environments"
+publication: "EDCC Workshops"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/7350196f45d87fcd3afe286ec80707967359d5e6
+authors: "Tony Marteau, Sitou Afanou, D. Sodoyer, Sébastien Ambellouis, F. Elbahhar"
+---

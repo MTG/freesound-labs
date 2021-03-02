@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f27779bb81b93f251c0221939804353df085dff8"
+title: "Score Instruments : A New Paradigm Of Musical Instruments To Guide Musical Wonderers"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/f27779bb81b93f251c0221939804353df085dff8
+authors: "Akito van Troyer"
+---

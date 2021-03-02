@@ -1,0 +1,16 @@
+https://www.semanticscholar.org/paper/Shortest-Path-Techniques-for-Annotation-and-of-Mechtley-Spanias/05feb8fc3d522f1ce9be912fbf679129d7dbf52b
+https://www.semanticscholar.org/paper/Multi-and-Cross-Modal-Semantics-Beyond-Vision%3A-in-Kiela-Clark/5c10e4a62afc940d5860a4f39e278fa803d808a3
+https://www.semanticscholar.org/paper/Audio-Clip-Classification-Using-Social-Tags-and-the-Font-Serrà/042a55596a31cf4339e09a9c4cfafa43a7e65c73
+https://www.semanticscholar.org/paper/Factors-in-human-recognition-of-timbre-lexicons-by-Roma-Xambó/22c5aed32f771a0595b8febb36b020260498b598
+https://www.semanticscholar.org/paper/Ecological-Acoustics-Perspective-for-Content-Based-Roma-Janer/adc88c9c4c2a7d47f236853429db0448ac9562d3
+https://www.semanticscholar.org/paper/Community-Structure-in-Audio-Clip-Sharing-Roma-Herrera/2c3e54efeb757b3d3fa6719fe382648aa6093706
+https://www.semanticscholar.org/paper/Graph-grammar-representation-for-collaborative-Roma-Herrera/51bd20f032cc2a54f35486a9615adeba3a408a4c
+https://www.semanticscholar.org/paper/Small-world-networks-and-creativity-in-audio-clip-Roma-Herrera/9479c9d108cbee3a95bd6caf59f763524e775e59
+https://www.semanticscholar.org/paper/Freesound-Radio%3A-supporting-music-creation-by-of-a-Trepat-Herrera-Boyer/fc33a95ac1e43fe6fcec54e96809cd5a19460659
+https://www.semanticscholar.org/paper/Music-performance-by-discovering-community-loops-Roma-Serra/b0e9e72a049e68c26b3bea06d2174fe84b5aa93a
+https://www.semanticscholar.org/paper/Querying-Freesound-with-a-microphone-Roma-Serra/be6b40bd80878c10390a77f024db6921e843517d
+https://www.semanticscholar.org/paper/Authoring-augmented-soundscapes-with-content-Janer-Roma/73e668a99a250f644a4035280e61552aaedc696b
+https://www.semanticscholar.org/paper/An-Online-Platform-for-Interactive-Soundscapes-with-Janer-Kersten/68a0285f5aa90921ff26d784ce106e074811d838
+https://www.semanticscholar.org/paper/Recognizing-Daily-Life-Context-Using-Web-Collected-Rossi-Tröster/7156b535d7a5883c0cb88d6518ea32aa58e89b28
+https://www.semanticscholar.org/paper/AV-clash%2C-online-audiovisual-project%3A-a-case-study-Correia/7e4423f952867ebaf3b87333d05939fa9ec13d91
+https://www.semanticscholar.org/paper/A-Semantic-Hybrid-Approach-for-Sound-Recommendation-Ostuni-Noia/e881c3e6c532d2febdb4ca8b601e8256349778c9

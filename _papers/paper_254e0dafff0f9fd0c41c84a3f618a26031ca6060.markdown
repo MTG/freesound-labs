@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "254e0dafff0f9fd0c41c84a3f618a26031ca6060"
+title: "Multi-Task Learning For Interpretable Weakly Labelled Sound Event Detection"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/254e0dafff0f9fd0c41c84a3f618a26031ca6060
+authors: "S. Deshmukh, B. Raj, R. Singh"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0437e541b59afa4b4bab18871a39e29a7ed0bc25"
+title: "Spectrogram-Based Classification Of Spoken Foul Language Using Deep Cnn"
+publication: "2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/0437e541b59afa4b4bab18871a39e29a7ed0bc25
+authors: "Abdulaziz Saleh Ba Wazir, H. A. Karim, Mohd Haris Lye Abdullah, Sarina Mansor, Nouar AlDahoul, M. Fauzi, John See"
+---

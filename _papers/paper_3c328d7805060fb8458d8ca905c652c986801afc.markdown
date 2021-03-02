@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3c328d7805060fb8458d8ca905c652c986801afc"
+title: "Combined Sound Event Detection And Sound Event Separation Networks For Dcase 2020 Task 4 Technical Report"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/3c328d7805060fb8458d8ca905c652c986801afc
+authors: "You-Siang Chen, Zi Jie Lin, Shang-En Li, Chih-Yuan Koh, M. R. Bai, Jen-Tzung Chien, Yi-Wen Liu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "409a8a2365a486b3a50da6b783196c4acecc9bb5"
+title: "Phd Selection: Factors To Take Into Account"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/409a8a2365a486b3a50da6b783196c4acecc9bb5
+authors: "D. Hernández-Leo, Kostantinos Michos, B. Cabrero, Daniel, A. Martínez-Rodríguez, M. Muñoz, Carla Ten Ventura, K. Sharma, Manaswi Mishra, S. Bhardwaj, Adrian A Perez, Giorgos Neokleous, Pantelis Stylianides, Vibhor Bajpai, N. Delgado, Tessy Troes, Meghana Sudhindra, H. Cuesta"
+---

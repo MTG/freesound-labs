@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dc891a4995bda769f356e8e00c2fc79cf9b10020"
+title: "Analysis Of The Folksonomy Of Freesound"
+publication: ""
+year: 2012
+external_url: https://www.semanticscholar.org/paper/dc891a4995bda769f356e8e00c2fc79cf9b10020
+authors: "F. Font, X. Serra"
+---

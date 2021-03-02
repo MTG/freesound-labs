@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "557efbfe0225a55091c20a1bf9631b6d08109b53"
+title: "Cure Dataset: Ladder Networks For Audio Event Classification"
+publication: "2019 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/557efbfe0225a55091c20a1bf9631b6d08109b53
+authors: "Harishchandra Dubey, Dimitra Emmanouilidou, I. Tashev"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ec601058473af179b77f84fd1c5b03805813a454"
+title: "Audioquilt: 2D Arrangements Of Audio Samples Using Metric Learning And Kernelized Sorting"
+publication: "NIME"
+year: 2014
+external_url: https://www.semanticscholar.org/paper/ec601058473af179b77f84fd1c5b03805813a454
+authors: "Ohad Fried, Zeyu Jin, Reid Oda, A. Finkelstein"
+---

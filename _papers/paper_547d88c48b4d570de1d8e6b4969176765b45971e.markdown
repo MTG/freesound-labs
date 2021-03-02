@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "547d88c48b4d570de1d8e6b4969176765b45971e"
+title: "Bnst And Amygdala Activation To Threat: Effects Of Temporal Predictability And Threat Mode"
+publication: "Behavioural Brain Research"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/547d88c48b4d570de1d8e6b4969176765b45971e
+authors: "N. Siminski, S. Böhme, M. Herrmann"
+---

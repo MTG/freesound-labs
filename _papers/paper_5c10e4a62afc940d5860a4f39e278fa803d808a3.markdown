@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5c10e4a62afc940d5860a4f39e278fa803d808a3"
+title: "Multi- And Cross-Modal Semantics Beyond Vision: Grounding In Auditory Perception"
+publication: "EMNLP"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/5c10e4a62afc940d5860a4f39e278fa803d808a3
+authors: "Douwe Kiela, Stephen Clark"
+---

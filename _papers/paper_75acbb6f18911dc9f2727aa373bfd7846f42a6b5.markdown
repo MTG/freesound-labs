@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "75acbb6f18911dc9f2727aa373bfd7846f42a6b5"
+title: "Attention-Based Convolutional Neural Network For Audio Event Classification With Feature Transfer Learning"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/75acbb6f18911dc9f2727aa373bfd7846f42a6b5
+authors: "Tian-Xiang Chen, Udit Gupta"
+---

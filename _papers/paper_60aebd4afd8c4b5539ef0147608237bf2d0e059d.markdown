@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "60aebd4afd8c4b5539ef0147608237bf2d0e059d"
+title: "Marblenet: Deep 1D Time-Channel Separable Convolutional Neural Network For Voice Activity Detection"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/60aebd4afd8c4b5539ef0147608237bf2d0e059d
+authors: "Fei Jia, Somshubra Majumdar, B. Ginsburg"
+---

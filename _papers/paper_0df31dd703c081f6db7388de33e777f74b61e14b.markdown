@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0df31dd703c081f6db7388de33e777f74b61e14b"
+title: "Multi-Representation Knowledge Distillation For Audio Classification"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/0df31dd703c081f6db7388de33e777f74b61e14b
+authors: "L. Gao, Kele Xu, H. Wang, Yu-xing Peng"
+---

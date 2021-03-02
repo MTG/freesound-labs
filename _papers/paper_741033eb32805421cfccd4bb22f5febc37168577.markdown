@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "741033eb32805421cfccd4bb22f5febc37168577"
+title: "Hearing Aid Research Data Set For Acoustic Environment Recognition"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/741033eb32805421cfccd4bb22f5febc37168577
+authors: "Andreas Hüwel, K. Adiloglu, Jörg-Hendrik Bach"
+---

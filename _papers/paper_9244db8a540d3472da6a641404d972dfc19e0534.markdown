@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9244db8a540d3472da6a641404d972dfc19e0534"
+title: "Cyber-Physical Analytics: Environmental Sound Classification At The Edge"
+publication: "2020 IEEE 6th World Forum on Internet of Things (WF-IoT)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/9244db8a540d3472da6a641404d972dfc19e0534
+authors: "D. Elliott, Evan Martino, C. Otero, Anthony O. Smith, A. Peter, Benjamin Luchterhand, Eric Lam, S. Leung"
+---

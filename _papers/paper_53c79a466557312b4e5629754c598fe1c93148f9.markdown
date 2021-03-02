@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "53c79a466557312b4e5629754c598fe1c93148f9"
+title: "Open Set Audio Recognition For Multi-Class Classification With Rejection"
+publication: "IEEE Access"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/53c79a466557312b4e5629754c598fe1c93148f9
+authors: "Hitham Jleed, M. Bouchard"
+---

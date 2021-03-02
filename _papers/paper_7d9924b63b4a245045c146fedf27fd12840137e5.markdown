@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7d9924b63b4a245045c146fedf27fd12840137e5"
+title: "General-Purpose Audio Tagging By Ensembling Convolutional Neural Networks Based On Multiple Features"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/7d9924b63b4a245045c146fedf27fd12840137e5
+authors: "Kevin Wilkinghoff"
+---

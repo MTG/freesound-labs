@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "13ebd981c8d7862b3588a873b729466c64f6f24d"
+title: "A Method For Automatic Whoosh Sound Description"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/13ebd981c8d7862b3588a873b729466c64f6f24d
+authors: "E. Cherny"
+---

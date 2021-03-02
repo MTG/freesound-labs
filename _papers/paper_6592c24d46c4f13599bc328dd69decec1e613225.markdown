@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6592c24d46c4f13599bc328dd69decec1e613225"
+title: "Audio Representation For Environmental Sound Classification Using Convolutional Neural Networks"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/6592c24d46c4f13599bc328dd69decec1e613225
+authors: "Linus Lexfors, Malte Johansson"
+---

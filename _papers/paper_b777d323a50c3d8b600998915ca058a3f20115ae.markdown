@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b777d323a50c3d8b600998915ca058a3f20115ae"
+title: "'Hi! I Am The Crowd Tasker' Crowdsourcing Through Digital Voice Assistants"
+publication: "CHI"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/b777d323a50c3d8b600998915ca058a3f20115ae
+authors: "Danula Hettiachchi, Zhanna Sarsenbayeva, F. Allison, N. V. Berkel, Tilman Dingler, Gabriele Marini, V. Kostakos, J. Gonçalves"
+---

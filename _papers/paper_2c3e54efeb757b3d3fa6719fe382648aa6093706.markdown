@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2c3e54efeb757b3d3fa6719fe382648aa6093706"
+title: "Community Structure In Audio Clip Sharing"
+publication: "2010 International Conference on Intelligent Networking and Collaborative Systems"
+year: 2010
+external_url: https://www.semanticscholar.org/paper/2c3e54efeb757b3d3fa6719fe382648aa6093706
+authors: "G. Roma, P. Herrera"
+---

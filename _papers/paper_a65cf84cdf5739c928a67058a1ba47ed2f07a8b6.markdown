@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a65cf84cdf5739c928a67058a1ba47ed2f07a8b6"
+title: "Music Source Separation Conditioned On 3D Point Clouds"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/a65cf84cdf5739c928a67058a1ba47ed2f07a8b6
+authors: "Francesc Lluís, V. Chatziioannou, A. Hofmann"
+---

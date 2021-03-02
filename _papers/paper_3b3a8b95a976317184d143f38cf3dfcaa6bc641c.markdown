@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3b3a8b95a976317184d143f38cf3dfcaa6bc641c"
+title: "Neural Audio Captioning Based On Conditional Sequence-To-Sequence Model"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/3b3a8b95a976317184d143f38cf3dfcaa6bc641c
+authors: "Shota Ikawa, Kunio Kashino"
+---

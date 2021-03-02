@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ce9a7c3204ad034381d210991c1431288eabe8ec"
+title: "Detection And Classification Of Acoustic Scenes And Events 2019 Challenge Multi-Label Audio Tagging With Noisy Labels And Variable Length Technical Report"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/ce9a7c3204ad034381d210991c1431288eabe8ec
+authors: "B. Zhu, Kele Xu, D. Wang, Mathurin Aché"
+---

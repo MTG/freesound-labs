@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "33cab872b6f8972a451a2c8d8b4a8e6120597b8b"
+title: "Learning With Out-Of-Distribution Data For Audio Classification"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/33cab872b6f8972a451a2c8d8b4a8e6120597b8b
+authors: "T. Iqbal, Yin Cao, Qiuqiang Kong, Mark D. Plumbley, Wenwu Wang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8cf573fd0eee9c69dd94d29ab81b52d89f623f12"
+title: "Using Recurrent Neural Networks To Improve The Perception Of Speech In Non-Stationary Noise By People With Cochlear Implants."
+publication: "The Journal of the Acoustical Society of America"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/8cf573fd0eee9c69dd94d29ab81b52d89f623f12
+authors: "Tobias Goehring, M. Keshavarzi, R. Carlyon, B. Moore"
+---

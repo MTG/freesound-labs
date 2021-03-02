@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5d4cbb358a9039d237859212cc4072b50ce21921"
+title: "Deep Convolutional Neural Networks And Data Augmentation For Acoustic Event Detection"
+publication: ""
+year: 2016
+external_url: https://www.semanticscholar.org/paper/5d4cbb358a9039d237859212cc4072b50ce21921
+authors: "Naoya Takahashi, Michael Gygli, B. Pfister, L. Gool"
+---

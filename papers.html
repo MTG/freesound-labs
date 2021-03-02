@@ -4,8 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 <p class="note">
-What follows is a list of papers that mention Freesound or use Freesound data for the research. 
-This list is created automatically by finding articles that cite one of the two main Freesound
+What follows is a list of <b>{{ site.papers|size }} papers</b> that mention Freesound or use Freesound data for research. 
+This list is created automatically by finding articles that cite one of the main Freesound
 reference papers. Some entries have also been added manually. Papers are sorted by year of publication
 and alphabetically by first author surname.
 <br><br>
@@ -19,7 +19,7 @@ on the list and is not, please <b>send us an email</b> at freesound@freesound.or
 <ul>
     {% assign papers_year = y.items | sort: "authors" %}
     {% for paper in papers_year %}
-    <li>{{ paper.authors }}. <a href="{{ paper.external_url }}">{{ paper.title }}</a> ({{ paper.year }})</li>
+    <li>{{ paper.authors }}. <a href="{{ paper.external_url }}">{{ paper.title }}</a>{% if paper.publication.size > 0 %}. {{ paper.publication }}{% endif %} ({{ paper.year }}).</li>
     {% endfor %}
 </ul>
 {% endfor %}

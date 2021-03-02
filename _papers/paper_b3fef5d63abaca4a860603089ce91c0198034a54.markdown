@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b3fef5d63abaca4a860603089ce91c0198034a54"
+title: "Fsd50K: An Open Dataset Of Human-Labeled Sound Events"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/b3fef5d63abaca4a860603089ce91c0198034a54
+authors: "E. Fonseca, Xavier Favory, J. Pons, F. Font, X. Serra"
+---

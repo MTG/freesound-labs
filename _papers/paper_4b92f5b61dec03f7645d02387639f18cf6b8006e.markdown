@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4b92f5b61dec03f7645d02387639f18cf6b8006e"
+title: "Generative Speech Coding With Predictive Variance Regularization"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/4b92f5b61dec03f7645d02387639f18cf6b8006e
+authors: "W. Kleijn, Andrew Storus, M. Chinen, T. Denton, Felicia S. C. Lim, Alejandro Luebs, J. Skoglund, Hengchin Yeh"
+---

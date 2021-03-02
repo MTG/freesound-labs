@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c0a71877ca78b6fcb7574ad08ee899735b2e7de0"
+title: "A Non-Speech Audio Captcha Based On Acoustic Event Detection And Classification"
+publication: "2016 24th European Signal Processing Conference (EUSIPCO)"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/c0a71877ca78b6fcb7574ad08ee899735b2e7de0
+authors: "H. Meutzner, D. Kolossa"
+---

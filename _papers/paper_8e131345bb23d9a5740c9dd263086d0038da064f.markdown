@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8e131345bb23d9a5740c9dd263086d0038da064f"
+title: "Fine-Tuning Using Grid Search & Gradient Visualization Technical Report"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/8e131345bb23d9a5740c9dd263086d0038da064f
+authors: "Bowei Hou, Kacper Radzikowski, A. Farid"
+---

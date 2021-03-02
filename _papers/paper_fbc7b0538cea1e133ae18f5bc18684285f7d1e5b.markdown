@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fbc7b0538cea1e133ae18f5bc18684285f7d1e5b"
+title: "One-Shot Conditional Audio Filtering Of Arbitrary Sounds."
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/fbc7b0538cea1e133ae18f5bc18684285f7d1e5b
+authors: "Beat Gfeller, Dominik Roblek, M. Tagliasacchi"
+---

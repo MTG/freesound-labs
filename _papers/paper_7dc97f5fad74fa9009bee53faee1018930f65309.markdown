@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7dc97f5fad74fa9009bee53faee1018930f65309"
+title: "Playsound.Space: Enhancing A Live Performance Tool With Semantic Recommendations"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/7dc97f5fad74fa9009bee53faee1018930f65309
+authors: "F. Viola, Ariane Stolfi, A. Milo, Miguel Ceriani, M. Barthet, György Fazekas"
+---

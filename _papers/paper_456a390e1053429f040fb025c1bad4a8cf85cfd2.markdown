@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "456a390e1053429f040fb025c1bad4a8cf85cfd2"
+title: "Interactive Machine Learning For User-Innovation Toolkits : An Action Design Research Approach"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/456a390e1053429f040fb025c1bad4a8cf85cfd2
+authors: "Francisco Bernardo"
+---

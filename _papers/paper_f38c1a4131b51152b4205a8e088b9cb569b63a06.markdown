@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f38c1a4131b51152b4205a8e088b9cb569b63a06"
+title: "Particle Swarm Optimization For Time Series Motif Discovery"
+publication: "Knowl. Based Syst."
+year: 2016
+external_url: https://www.semanticscholar.org/paper/f38c1a4131b51152b4205a8e088b9cb569b63a06
+authors: "J. Serrà, Josep Lluís Arcos"
+---

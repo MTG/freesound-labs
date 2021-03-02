@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9d4c18101d69c7017311af20609a72e6531b53b6"
+title: "Validated Exponential Analysis For Harmonic Sounds"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/9d4c18101d69c7017311af20609a72e6531b53b6
+authors: "M. Briani, A. Cuyt, W. Lee"
+---

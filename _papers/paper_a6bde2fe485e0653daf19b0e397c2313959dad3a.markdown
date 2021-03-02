@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a6bde2fe485e0653daf19b0e397c2313959dad3a"
+title: "Can Machine Learning Be Used To Recognize And Diagnose Coughs?"
+publication: "2020 International Conference on e-Health and Bioengineering (EHB)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/a6bde2fe485e0653daf19b0e397c2313959dad3a
+authors: "Charles Bales, C. John, Hasan Farooq, Usama Masood, Muhammad Nabeel, A. Imran"
+---

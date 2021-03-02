@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "84785bfb672f51a84cd3a507a955057caa6a3206"
+title: "Investigations On End- To-End Audiovisual Fusion"
+publication: "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/84785bfb672f51a84cd3a507a955057caa6a3206
+authors: "Michael Wand, Ngoc Thang Vu, J. Schmidhuber"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cf8a6223d6ea6bdbb5311580564a46afce5487a8"
+title: "Phase-Aware Single-Stage Speech Denoising And Dereverberation With U-Net"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/cf8a6223d6ea6bdbb5311580564a46afce5487a8
+authors: "Hyeong-Seok Choi, Hye-Seong Heo, J. H. Lee, K. Lee"
+---

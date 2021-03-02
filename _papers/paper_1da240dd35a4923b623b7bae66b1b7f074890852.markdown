@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1da240dd35a4923b623b7bae66b1b7f074890852"
+title: "Aenet: Learning Deep Audio Features For Video Analysis"
+publication: "IEEE Transactions on Multimedia"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/1da240dd35a4923b623b7bae66b1b7f074890852
+authors: "Naoya Takahashi, Michael Gygli, L. V. Van Gool"
+---

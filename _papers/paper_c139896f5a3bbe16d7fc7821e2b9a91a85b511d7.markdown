@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c139896f5a3bbe16d7fc7821e2b9a91a85b511d7"
+title: "Audio Tagging With Noisy Labels And Minimal Supervision"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/c139896f5a3bbe16d7fc7821e2b9a91a85b511d7
+authors: "E. Fonseca, M. Plakal, F. Font, D. Ellis, X. Serra"
+---

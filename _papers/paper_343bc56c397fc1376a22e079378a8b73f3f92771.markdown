@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "343bc56c397fc1376a22e079378a8b73f3f92771"
+title: "Mobile Technologies For Music Interaction"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/343bc56c397fc1376a22e079378a8b73f3f92771
+authors: "A. C. D. C. Junior"
+---

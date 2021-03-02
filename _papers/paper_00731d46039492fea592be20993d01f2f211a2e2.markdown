@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "00731d46039492fea592be20993d01f2f211a2e2"
+title: "Cloud-Smart Musical Instrument Interactions"
+publication: "ACM Trans. Internet Things"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/00731d46039492fea592be20993d01f2f211a2e2
+authors: "Luca Turchet, J. Pauwels, C. Fischione, György Fazekas"
+---

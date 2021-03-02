@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7534738859fc01ff8ceaf7ddeef5039fb7d245d5"
+title: "Folksonomy-Based Tag Recommendation For Collaborative Tagging Systems"
+publication: "Int. J. Semantic Web Inf. Syst."
+year: 2013
+external_url: https://www.semanticscholar.org/paper/7534738859fc01ff8ceaf7ddeef5039fb7d245d5
+authors: "F. Font, J. Serrà, X. Serra"
+---

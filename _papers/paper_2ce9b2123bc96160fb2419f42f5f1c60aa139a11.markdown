@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2ce9b2123bc96160fb2419f42f5f1c60aa139a11"
+title: "Blind Speech Signal Quality Estimation For Speaker Verification Systems"
+publication: "INTERSPEECH"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/2ce9b2123bc96160fb2419f42f5f1c60aa139a11
+authors: "G. Lavrentyeva, M. Volkova, A. Avdeeva, S. Novoselov, Artem Gorlanov, Tseren Andzhukaev, A. Ivanov, A. Kozlov"
+---

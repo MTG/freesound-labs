@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fd26fa64690d772eb028621fbb775dddac0860f8"
+title: "Sound Based Social Networks"
+publication: ""
+year: 2014
+external_url: https://www.semanticscholar.org/paper/fd26fa64690d772eb028621fbb775dddac0860f8
+authors: "João Paulo Cordeiro"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9f35c0d1a7ce43863b2e5b71d8e00d1ec97b2917"
+title: "Dependable Computing - Edcc 2020 Workshops: Ai4Rails, Dreams, Dsogri, Serene 2020, Munich, Germany, September 7, 2020, Proceedings"
+publication: "EDCC Workshops"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/9f35c0d1a7ce43863b2e5b71d8e00d1ec97b2917
+authors: "S. Barbosa, P. Chen, Alfredo Cuzzocrea, Xiaoyong Du, Orhun Kara, Ting Liu, K. Sivalingam, D. Slezak, T. Washio, Xiaokang Yang, J. Yuan, R. Prates, S. Bernardi, V. Vittorini, Francesco Flammini, R. Nardone, S. Marrone, R. Adler, Daniel Schneider, P. Schleiss, Nicola Nostro, R. Olsen, Amleto Di Salle, P. Masci"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5b57f3364a4f57dba98c44c4fb9d88e8f6077a82"
+title: "Towards Mapping Timbre To Emotional Affect"
+publication: "NIME"
+year: 2013
+external_url: https://www.semanticscholar.org/paper/5b57f3364a4f57dba98c44c4fb9d88e8f6077a82
+authors: "Niklas Klügel, G. Groh"
+---

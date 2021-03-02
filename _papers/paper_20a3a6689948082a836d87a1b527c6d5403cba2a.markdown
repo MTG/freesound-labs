@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "20a3a6689948082a836d87a1b527c6d5403cba2a"
+title: "Coala: Co-Aligned Autoencoders For Learning Semantically Enriched Audio Representations"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/20a3a6689948082a836d87a1b527c6d5403cba2a
+authors: "Xavier Favory, Konstantinos Drossos, T. Virtanen, X. Serra"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d5f38e99a47532e834b32fc9a703c71428520fe8"
+title: "Specaugment For Sound Event Detection In Domestic Environments Using Ensemble Of Convolutional Recurrent Neural Networks"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/d5f38e99a47532e834b32fc9a703c71428520fe8
+authors: "Wootaek Lim"
+---

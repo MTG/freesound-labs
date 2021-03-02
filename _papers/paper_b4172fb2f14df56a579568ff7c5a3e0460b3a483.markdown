@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b4172fb2f14df56a579568ff7c5a3e0460b3a483"
+title: "Learning Sound Event Classifiers From Web Audio With Noisy Labels"
+publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/b4172fb2f14df56a579568ff7c5a3e0460b3a483
+authors: "E. Fonseca, M. Plakal, D. Ellis, F. Font, Xavier Favory, X. Serra"
+---

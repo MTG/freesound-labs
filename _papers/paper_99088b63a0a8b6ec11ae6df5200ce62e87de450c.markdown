@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "99088b63a0a8b6ec11ae6df5200ce62e87de450c"
+title: "Dali: A Large Dataset Of Synchronized Audio, Lyrics And Notes, Automatically Created Using Teacher-Student Machine Learning Paradigm"
+publication: "ISMIR"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/99088b63a0a8b6ec11ae6df5200ce62e87de450c
+authors: "Gabriel Meseguer-Brocal, Alice Cohen-Hadria, Geoffroy Peeters"
+---

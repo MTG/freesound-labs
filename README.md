@@ -46,25 +46,10 @@ Description for the entry.
 
 ### Papers
 
-New papers should be added in the `_papers_manual` section using the following template:
-
-```
----
-layout: paper
-type: inproceedings
-id: "meutzner2016non"
-title: "A non-speech audio CAPTCHA based on acoustic event detection and classification"
-publication: "2016 24th European Signal Processing Conference (EUSIPCO)"
-year: 2016
-external_url: https://ieeexplore.ieee.org/abstract/document/7760649/
-authors: "Meutzner, Hendrik and Kolossa, Dorothea"
----
-```
-
-Currently papers can be automatically added using the `retrieve_papers.py` script. The script will combine the
-papers manually introduced in the `_papers_mannual` folder with automatic citations found using Google Scholar API. See
-instructions below for tunning the script.
-    
+Papers can be automatically added using the `retrieve_papers.py` script. However, papers can also be manually added by adding their
+Semantic Scholar URL to the file `manual_paper_semantic_scholar_urls.txt` (one per line). The `retrieve_papers.py` script will combine the
+papers manually introduced with the automatic citations found using Semantic Scholar API. See
+instructions below for running the script.
 
 ### Datasets
 
@@ -113,8 +98,7 @@ You can run the development server with the command:
 
 The `retrieve_papers.py` script can be run with the following command:
 
-
-    docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py --remote --local
+    docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
 
 It should be run before building the site for the papers to appear in it.
 

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3907d7530c07bc640d84a50ff3e48a27a27ab6ac"
+title: "Transfer Learning Of Weakly Labelled Audio"
+publication: "2017 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2017
+external_url: https://www.semanticscholar.org/paper/3907d7530c07bc640d84a50ff3e48a27a27ab6ac
+authors: "Aleksandr Diment, T. Virtanen"
+---

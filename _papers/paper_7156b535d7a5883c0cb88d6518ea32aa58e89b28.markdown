@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7156b535d7a5883c0cb88d6518ea32aa58e89b28"
+title: "Recognizing Daily Life Context Using Web-Collected Audio Data"
+publication: "2012 16th International Symposium on Wearable Computers"
+year: 2012
+external_url: https://www.semanticscholar.org/paper/7156b535d7a5883c0cb88d6518ea32aa58e89b28
+authors: "M. Rossi, G. Tröster, O. Amft"
+---

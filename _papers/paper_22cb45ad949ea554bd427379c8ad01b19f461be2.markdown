@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "22cb45ad949ea554bd427379c8ad01b19f461be2"
+title: "Spot The Odd Song Out : Similarity Model Adaptation And Analysis Using Relative Human Ratings"
+publication: ""
+year: 2014
+external_url: https://www.semanticscholar.org/paper/22cb45ad949ea554bd427379c8ad01b19f461be2
+authors: "D. Wolff"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1a79c4454eadd5846b52a8611032efb65324d0bb"
+title: "Phrase-Level Modeling Of Expression In Violin Performances"
+publication: "Front. Psychol."
+year: 2019
+external_url: https://www.semanticscholar.org/paper/1a79c4454eadd5846b52a8611032efb65324d0bb
+authors: "F. J. M. Ortega, Sergio I. Giraldo, A. Pérez, R. Ramírez"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "387ee5eaf56e44595d60069e7477426cb80eda9f"
+title: "Fuzzy Restricted Boltzmann Machine Based Probabilistic Linear Discriminant Analysis For Noise-Robust Text-Dependent Speaker Verification On Short Utterances"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/387ee5eaf56e44595d60069e7477426cb80eda9f
+authors: "S. Yoon, Min-Sung Koh, Ha-Jin Yu"
+---

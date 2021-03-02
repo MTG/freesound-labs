@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ba6ed19b99ce44e15f45422b66c3211a694e439a"
+title: "Detection Dangerous Events In Environmental Sounds - A Preliminary Evaluation"
+publication: "2015 International Conference on Speech Technology and Human-Computer Dialogue (SpeD)"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/ba6ed19b99ce44e15f45422b66c3211a694e439a
+authors: "V. Apopei"
+---

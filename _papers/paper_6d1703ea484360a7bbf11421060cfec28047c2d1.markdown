@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6d1703ea484360a7bbf11421060cfec28047c2d1"
+title: "Sound-Based Distributional Models"
+publication: "IWCS"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/6d1703ea484360a7bbf11421060cfec28047c2d1
+authors: "A. Lopopolo, Emiel van Miltenburg"
+---

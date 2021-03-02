@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c12e46d7d0bb9fa062bce0549f2a6a9de00758d5"
+title: "Weakly-Supervised Sound Event Detection With Self-Attention"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/c12e46d7d0bb9fa062bce0549f2a6a9de00758d5
+authors: "K. Miyazaki, Tatsuya Komatsu, T. Hayashi, Shinji Watanabe, T. Toda, K. Takeda"
+---

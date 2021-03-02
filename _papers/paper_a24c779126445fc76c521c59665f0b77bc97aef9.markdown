@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a24c779126445fc76c521c59665f0b77bc97aef9"
+title: "Water Sound Recognition Based On Physical Models"
+publication: "2013 IEEE International Conference on Acoustics, Speech and Signal Processing"
+year: 2013
+external_url: https://www.semanticscholar.org/paper/a24c779126445fc76c521c59665f0b77bc97aef9
+authors: "Patrice Guyot, J. Pinquier, R. André-Obrecht"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6051b48273aa01b482ca344f4b5840d497ccc455"
+title: "The Impact Of Label Noise On A Music Tagger"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/6051b48273aa01b482ca344f4b5840d497ccc455
+authors: "K. Prinz, A. Flexer, G. Widmer"
+---

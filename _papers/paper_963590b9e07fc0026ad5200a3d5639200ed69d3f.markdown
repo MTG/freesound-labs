@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "963590b9e07fc0026ad5200a3d5639200ed69d3f"
+title: "Robust Low Rate Speech Coding Based On Cloned Networks And Wavenet"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/963590b9e07fc0026ad5200a3d5639200ed69d3f
+authors: "Felicia Lim, W. Kleijn, M. Chinen, J. Skoglund"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "06b24431681145ede6527286c64958d5d149cb65"
+title: "Robust Sound Event Detection In Binaural Computational Auditory Scene Analysis"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/06b24431681145ede6527286c64958d5d149cb65
+authors: "Ivo Trowitzsch"
+---

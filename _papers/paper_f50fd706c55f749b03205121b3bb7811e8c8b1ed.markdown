@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f50fd706c55f749b03205121b3bb7811e8c8b1ed"
+title: "Feature Selection For Place Classification Through Environmental Sounds"
+publication: "EUSPN/ICTH"
+year: 2014
+external_url: https://www.semanticscholar.org/paper/f50fd706c55f749b03205121b3bb7811e8c8b1ed
+authors: "J. R. Delgado-Contreras, J. García-Vázquez, R. Brena, C. E. Galván-Tejada, J. I. Galván-Tejada"
+---

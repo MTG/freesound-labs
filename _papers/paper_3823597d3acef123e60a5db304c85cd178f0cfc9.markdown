@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3823597d3acef123e60a5db304c85cd178f0cfc9"
+title: "Unsupervised Contrastive Learning Of Sound Event Representations"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/3823597d3acef123e60a5db304c85cd178f0cfc9
+authors: "E. Fonseca, Diego Ortego, K. McGuinness, N. O'Connor, X. Serra"
+---

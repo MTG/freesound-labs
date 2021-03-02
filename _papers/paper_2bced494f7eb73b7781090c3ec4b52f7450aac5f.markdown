@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2bced494f7eb73b7781090c3ec4b52f7450aac5f"
+title: "Joint Acoustic And Supervised Inference For Sound Event Detection Technical Report"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/2bced494f7eb73b7781090c3ec4b52f7450aac5f
+authors: "Sangwook Park, Ashwin Bellur, Sandeep Reddy Kothinti, Masoumeh Heidari Kapourchali, M. Elhilali"
+---

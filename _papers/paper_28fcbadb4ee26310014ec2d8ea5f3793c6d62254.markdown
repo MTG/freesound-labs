@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "28fcbadb4ee26310014ec2d8ea5f3793c6d62254"
+title: "Modular Audio Platform For Youth Engagement In A Museum Context"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/28fcbadb4ee26310014ec2d8ea5f3793c6d62254
+authors: "K. Salo"
+---

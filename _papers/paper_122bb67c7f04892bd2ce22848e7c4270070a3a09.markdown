@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "122bb67c7f04892bd2ce22848e7c4270070a3a09"
+title: "Ubicoustics: Plug-And-Play Acoustic Activity Recognition"
+publication: "UIST"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/122bb67c7f04892bd2ce22848e7c4270070a3a09
+authors: "Gierad Laput, K. Ahuja, Mayank Goel, C. Harrison"
+---

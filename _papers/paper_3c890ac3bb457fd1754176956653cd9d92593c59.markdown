@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3c890ac3bb457fd1754176956653cd9d92593c59"
+title: "Sangeetkosh: An Open Web Platform For Music Education"
+publication: "2015 IEEE 15th International Conference on Advanced Learning Technologies"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/3c890ac3bb457fd1754176956653cd9d92593c59
+authors: "T. Kelkar, Anon Ray, Venkatesh Choppella"
+---

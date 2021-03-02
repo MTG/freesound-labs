@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7f85cb20d0e10bd8c5275cb896352e3db72650b7"
+title: "Towards Realistic Immersive Audiovisual Simulations For Hearing Research: Capture, Virtual Scenes And Reproduction"
+publication: "AVSU@MM"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/7f85cb20d0e10bd8c5275cb896352e3db72650b7
+authors: "Gerard Llorach, G. Grimm, Maartje M. E. Hendrikse, V. Hohmann"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d2e64bbdc151b5ede2b950834f7a095eb8d855b5"
+title: "Audio Event Classification Using Deep Learning Methods"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/d2e64bbdc151b5ede2b950834f7a095eb8d855b5
+authors: "Zhicun Xu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "98052490b1832fe6a3f12fba4c60a8b3b39c27ba"
+title: "Playsound.Space: Improvising In The Browser With Semantic Sound Objects"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/98052490b1832fe6a3f12fba4c60a8b3b39c27ba
+authors: "Ariane Stolfi, A. Milo, M. Barthet"
+---

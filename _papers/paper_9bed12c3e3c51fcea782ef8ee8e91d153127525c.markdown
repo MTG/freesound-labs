@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9bed12c3e3c51fcea782ef8ee8e91d153127525c"
+title: "Playsound.Space: Enhancing A Live Music Performance Tool With Semantic Recommendations"
+publication: "SAAM@ISWC"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/9bed12c3e3c51fcea782ef8ee8e91d153127525c
+authors: "F. Viola, A. Stolfi, A. Milo, Miguel Ceriani, M. Barthet, György Fazekas"
+---

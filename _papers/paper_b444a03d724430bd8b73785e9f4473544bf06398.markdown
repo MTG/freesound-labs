@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b444a03d724430bd8b73785e9f4473544bf06398"
+title: "Zero-Shot Audio Classification Via Semantic Embeddings."
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/b444a03d724430bd8b73785e9f4473544bf06398
+authors: "H. Xie, T. Virtanen"
+---

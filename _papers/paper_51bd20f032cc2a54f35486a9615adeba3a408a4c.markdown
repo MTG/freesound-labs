@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "51bd20f032cc2a54f35486a9615adeba3a408a4c"
+title: "Graph Grammar Representation For Collaborative Sample-Based Music Creation"
+publication: "Audio Mostly Conference"
+year: 2010
+external_url: https://www.semanticscholar.org/paper/51bd20f032cc2a54f35486a9615adeba3a408a4c
+authors: "G. Roma, P. Herrera"
+---

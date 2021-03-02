@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dc06c6ea4c08b1f1d890cbc9786e9133a7342814"
+title: "Good-Sounds.Org: A Framework To Explore Goodness In Instrumental Sounds"
+publication: "ISMIR"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/dc06c6ea4c08b1f1d890cbc9786e9133a7342814
+authors: "Giuseppe Bandiera, O. Picas, Hiroshi Tokuda, Wataru Hariya, K. Oishi, X. Serra"
+---

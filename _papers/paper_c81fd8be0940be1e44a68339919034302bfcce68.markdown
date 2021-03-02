@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c81fd8be0940be1e44a68339919034302bfcce68"
+title: "Promoting Awareness On Sustainable Behavior Through An Ar-Based Art Gallery"
+publication: "AVR"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/c81fd8be0940be1e44a68339919034302bfcce68
+authors: "L. Turchet, Jhonny Hueller"
+---

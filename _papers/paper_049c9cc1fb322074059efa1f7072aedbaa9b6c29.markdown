@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "049c9cc1fb322074059efa1f7072aedbaa9b6c29"
+title: "Monitoring The Shape Of Weather, Soundscapes, And Dynamical Systems: A New Statistic For Dimension-Driven Data Analysis On Large Datasets"
+publication: "2018 IEEE International Conference on Big Data (Big Data)"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/049c9cc1fb322074059efa1f7072aedbaa9b6c29
+authors: "Henry Kvinge, Elin Farnell, M. Kirby, C. Peterson"
+---

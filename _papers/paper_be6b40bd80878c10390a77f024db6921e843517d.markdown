@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "be6b40bd80878c10390a77f024db6921e843517d"
+title: "Querying Freesound With A Microphone"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/be6b40bd80878c10390a77f024db6921e843517d
+authors: "G. Roma, X. Serra"
+---

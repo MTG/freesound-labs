@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "243a694be1b17c4018272ecce46685ad24b079a6"
+title: "Soundwatch: Exploring Smartwatch-Based Deep Learning Approaches To Support Sound Awareness For Deaf And Hard Of Hearing Users"
+publication: "ASSETS"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/243a694be1b17c4018272ecce46685ad24b079a6
+authors: "Dhruv Jain, Hung Q. Ngo, P. Patel, Steven Goodman, Leah Findlater, Jon Froehlich"
+---

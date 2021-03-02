@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bf7990b6b207700ec3359c07e30a5c30d0882f1c"
+title: "Learning Sound Events From Webly Labeled Data"
+publication: "IJCAI"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/bf7990b6b207700ec3359c07e30a5c30d0882f1c
+authors: "A. Kumar, Ankit Shah, A. Hauptmann, B. Raj"
+---

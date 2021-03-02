@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0cd561abfa220a9ebf6169f8b24612637864f889"
+title: "Real-Time Rendering Of Decorative Sound Textures For Soundscapes"
+publication: "ACM Trans. Graph."
+year: 2020
+external_url: https://www.semanticscholar.org/paper/0cd561abfa220a9ebf6169f8b24612637864f889
+authors: "Jinta Zheng, Shih-Hsuan Hung, Kyle Hiebel, Y. Zhang"
+---

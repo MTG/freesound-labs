@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9b8006f9ea0469a6326e072b932c98602e77a50d"
+title: "Jamming With A Smart Mandolin And Freesound-Based Accompaniment"
+publication: "2018 23rd Conference of Open Innovations Association (FRUCT)"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/9b8006f9ea0469a6326e072b932c98602e77a50d
+authors: "L. Turchet, M. Barthet"
+---

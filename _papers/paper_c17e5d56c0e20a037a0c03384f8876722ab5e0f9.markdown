@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c17e5d56c0e20a037a0c03384f8876722ab5e0f9"
+title: "Learning Contextual Tag Embeddings For Cross-Modal Alignment Of Audio And Tags"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/c17e5d56c0e20a037a0c03384f8876722ab5e0f9
+authors: "Xavier Favory, Konstantinos Drossos, T. Virtanen, X. Serra"
+---

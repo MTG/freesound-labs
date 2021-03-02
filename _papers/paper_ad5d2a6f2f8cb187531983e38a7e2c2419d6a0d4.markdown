@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ad5d2a6f2f8cb187531983e38a7e2c2419d6a0d4"
+title: "Pyramidal Temporal Pooling With Discriminative Mapping For Audio Classification"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/ad5d2a6f2f8cb187531983e38a7e2c2419d6a0d4
+authors: "L. Zhang, Ziqiang Shi, Jiqing Han"
+---

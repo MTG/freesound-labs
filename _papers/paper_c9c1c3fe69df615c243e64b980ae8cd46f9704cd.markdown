@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c9c1c3fe69df615c243e64b980ae8cd46f9704cd"
+title: "Instrument Role Classification: Auto-Tagging For Loop Based Music"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/c9c1c3fe69df615c243e64b980ae8cd46f9704cd
+authors: "Joann Ching, Ant'onio Ramires, Y. Yang"
+---

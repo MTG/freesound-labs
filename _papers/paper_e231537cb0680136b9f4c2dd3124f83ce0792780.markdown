@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e231537cb0680136b9f4c2dd3124f83ce0792780"
+title: "How Deep Features Have Improved Event Recognition In Multimedia"
+publication: "ACM Trans. Multim. Comput. Commun. Appl."
+year: 2019
+external_url: https://www.semanticscholar.org/paper/e231537cb0680136b9f4c2dd3124f83ce0792780
+authors: "K. Ahmad, N. Conci"
+---

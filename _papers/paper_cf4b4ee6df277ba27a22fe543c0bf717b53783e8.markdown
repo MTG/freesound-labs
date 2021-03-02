@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cf4b4ee6df277ba27a22fe543c0bf717b53783e8"
+title: "The Internet Of Audio Things: State Of The Art, Vision, And Challenges"
+publication: "IEEE Internet of Things Journal"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/cf4b4ee6df277ba27a22fe543c0bf717b53783e8
+authors: "L. Turchet, G. Fazekas, M. Lagrange, H. S. Ghadikolaei, C. Fischione"
+---

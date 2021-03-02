@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7317227a95f7a18eb6fc1c508a84154ba0e443b5"
+title: "Fusion Architectures For Word-Based Audiovisual Speech Recognition"
+publication: "INTERSPEECH"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/7317227a95f7a18eb6fc1c508a84154ba0e443b5
+authors: "Michael Wand, Jiirgen Schmidhuber"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9c8da385750db215dc0728dc310251b320d319af"
+title: "Deep Embodiment: Grounding Semantics In Perceptual Modalities"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/9c8da385750db215dc0728dc310251b320d319af
+authors: "Douwe Kiela"
+---

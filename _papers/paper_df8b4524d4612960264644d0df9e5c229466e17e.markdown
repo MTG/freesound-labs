@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "df8b4524d4612960264644d0df9e5c229466e17e"
+title: "Homesound: An Iterative Field Deployment Of An In-Home Sound Awareness System For Deaf Or Hard Of Hearing Users"
+publication: "CHI"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/df8b4524d4612960264644d0df9e5c229466e17e
+authors: "Dhruv Jain, Kelly Mack, Akli Amrous, Matt Wright, S. Goodman, Leah Findlater, Jon Froehlich"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f11c11f339e24c9e80b46082b9c10cc1508d34a6"
+title: "Playsound.Space: Inclusive Free Music Improvisations Using Audio Commons"
+publication: "NIME"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/f11c11f339e24c9e80b46082b9c10cc1508d34a6
+authors: "Ariane de Souza Stolfi, Miguel Ceriani, Luca Turchet, M. Barthet"
+---

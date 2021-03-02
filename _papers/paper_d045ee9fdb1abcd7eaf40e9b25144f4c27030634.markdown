@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d045ee9fdb1abcd7eaf40e9b25144f4c27030634"
+title: "Data Augmentation For Instrument Classification Robust To Audio Effects"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/d045ee9fdb1abcd7eaf40e9b25144f4c27030634
+authors: "Ant'onio Ramires, X. Serra"
+---

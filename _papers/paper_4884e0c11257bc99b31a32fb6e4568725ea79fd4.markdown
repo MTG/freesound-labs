@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4884e0c11257bc99b31a32fb6e4568725ea79fd4"
+title: "General-Purpose Tagging Of Freesound Audio With Audioset Labels: Task Description, Dataset, And Baseline"
+publication: "ArXiv"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/4884e0c11257bc99b31a32fb6e4568725ea79fd4
+authors: "E. Fonseca, M. Plakal, F. Font, D. Ellis, Xavier Favory, J. Pons, X. Serra"
+---

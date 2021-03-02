@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e881c3e6c532d2febdb4ca8b601e8256349778c9"
+title: "A Semantic Hybrid Approach For Sound Recommendation"
+publication: "WWW"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/e881c3e6c532d2febdb4ca8b601e8256349778c9
+authors: "Vito Claudio Ostuni, T. D. Noia, E. D. Sciascio, S. Oramas, X. Serra"
+---

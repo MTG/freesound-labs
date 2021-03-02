@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4366ef4e8f0ea4988000dbed7810c2ce6fc82c7d"
+title: "Mimii Dataset: Sound Dataset For Malfunctioning Industrial Machine Investigation And Inspection"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/4366ef4e8f0ea4988000dbed7810c2ce6fc82c7d
+authors: "Harsh Purohit, R. Tanabe, K. Ichige, T. Endo, Y. Nikaido, Kaori Suefusa, Y. Kawaguchi"
+---

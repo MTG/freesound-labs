@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "adc88c9c4c2a7d47f236853429db0448ac9562d3"
+title: "Ecological Acoustics Perspective For Content-Based Retrieval Of Environmental Sounds"
+publication: "EURASIP J. Audio Speech Music. Process."
+year: 2010
+external_url: https://www.semanticscholar.org/paper/adc88c9c4c2a7d47f236853429db0448ac9562d3
+authors: "G. Roma, J. Janer, S. Kersten, Mattia Schirosa, P. Herrera, X. Serra"
+---

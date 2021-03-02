@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "010c9793d8d954951af5b543662db374f206365c"
+title: "Engagement And Interaction In Participatory Sound Art"
+publication: ""
+year: 2016
+external_url: https://www.semanticscholar.org/paper/010c9793d8d954951af5b543662db374f206365c
+authors: "V. Goudarzi, A. Gioti"
+---

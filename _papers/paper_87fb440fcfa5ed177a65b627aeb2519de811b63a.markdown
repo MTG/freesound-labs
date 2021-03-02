@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "87fb440fcfa5ed177a65b627aeb2519de811b63a"
+title: "Characterizing The Effect Of Audio Degradation On Privacy Perception And Inference Performance In Audio-Based Human Activity Recognition"
+publication: "MobileHCI"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/87fb440fcfa5ed177a65b627aeb2519de811b63a
+authors: "D. Liang, Wenting Song, E. Thomaz"
+---

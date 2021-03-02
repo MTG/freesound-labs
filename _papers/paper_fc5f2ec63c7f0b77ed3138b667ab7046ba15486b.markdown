@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fc5f2ec63c7f0b77ed3138b667ab7046ba15486b"
+title: "Interactive Audio Web Development Workflow"
+publication: "ACM Multimedia"
+year: 2014
+external_url: https://www.semanticscholar.org/paper/fc5f2ec63c7f0b77ed3138b667ab7046ba15486b
+authors: "L. Wyse"
+---

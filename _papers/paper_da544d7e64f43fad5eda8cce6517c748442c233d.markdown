@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "da544d7e64f43fad5eda8cce6517c748442c233d"
+title: "Creating Dali, A Large Dataset Of Synchronized Audio, Lyrics, And Notes"
+publication: "Trans. Int. Soc. Music. Inf. Retr."
+year: 2020
+external_url: https://www.semanticscholar.org/paper/da544d7e64f43fad5eda8cce6517c748442c233d
+authors: "Gabriel Meseguer-Brocal, Alice Cohen-Hadria, Geoffroy Peeters"
+---

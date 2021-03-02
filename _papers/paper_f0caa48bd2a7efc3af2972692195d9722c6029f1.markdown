@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f0caa48bd2a7efc3af2972692195d9722c6029f1"
+title: "On Learning Disentangled Representation For Acoustic Event Detection"
+publication: "ACM Multimedia"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/f0caa48bd2a7efc3af2972692195d9722c6029f1
+authors: "L. Gao, Qirong Mao, M. Dong, Y. Jing, R. Chinnam"
+---

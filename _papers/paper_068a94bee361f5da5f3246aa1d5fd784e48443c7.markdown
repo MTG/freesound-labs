@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "068a94bee361f5da5f3246aa1d5fd784e48443c7"
+title: "Meta Learning Based Audio Tagging"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/068a94bee361f5da5f3246aa1d5fd784e48443c7
+authors: "Kele Xu, B. Zhu, D. Wang, Yu-xing Peng, H. Wang, Lilun Zhang, B. Li"
+---

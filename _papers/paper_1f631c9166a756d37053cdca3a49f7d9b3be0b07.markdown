@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1f631c9166a756d37053cdca3a49f7d9b3be0b07"
+title: "Caractérisation Et Reconnaissance De Sons D'Eau Pour Le Suivi Des Activités De La Vie Quotidienne : Une Approche Fondée Sur Le Signal, L'Acoustique Et La Perception"
+publication: ""
+year: 2014
+external_url: https://www.semanticscholar.org/paper/1f631c9166a756d37053cdca3a49f7d9b3be0b07
+authors: "Patrice Guyot"
+---

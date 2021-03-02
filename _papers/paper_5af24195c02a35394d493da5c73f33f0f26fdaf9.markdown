@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5af24195c02a35394d493da5c73f33f0f26fdaf9"
+title: "Audio Metaphor: Audio Information Retrieval For Soundscape Composition"
+publication: ""
+year: 2012
+external_url: https://www.semanticscholar.org/paper/5af24195c02a35394d493da5c73f33f0f26fdaf9
+authors: "Miles Thorogood, P. Pasquier, Arne Eigenfeldt"
+---

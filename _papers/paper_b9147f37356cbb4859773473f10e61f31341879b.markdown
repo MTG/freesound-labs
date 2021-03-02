@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b9147f37356cbb4859773473f10e61f31341879b"
+title: "Class-Based Tag Recommendation And User-Based Evaluation In Online Audio Clip Sharing"
+publication: "Knowl. Based Syst."
+year: 2014
+external_url: https://www.semanticscholar.org/paper/b9147f37356cbb4859773473f10e61f31341879b
+authors: "F. Font, J. Serrà, X. Serra"
+---

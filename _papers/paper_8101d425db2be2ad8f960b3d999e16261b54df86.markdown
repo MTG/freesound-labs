@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8101d425db2be2ad8f960b3d999e16261b54df86"
+title: "Inferring Human Activity Recognition With Ambient Sound On Wireless Sensor Nodes"
+publication: "Sensors"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/8101d425db2be2ad8f960b3d999e16261b54df86
+authors: "Etto L. Salomons, P. Havinga, H. V. Leeuwen"
+---

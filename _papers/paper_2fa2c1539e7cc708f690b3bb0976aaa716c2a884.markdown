@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2fa2c1539e7cc708f690b3bb0976aaa716c2a884"
+title: "Tiv.Lib: An Open-Source Library For The Tonal Description Of Musical Audio"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/2fa2c1539e7cc708f690b3bb0976aaa716c2a884
+authors: "Ant'onio Ramires, Gilberto Bernardes, M. Davies, X. Serra"
+---

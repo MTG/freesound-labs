@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2809ef6c19733d2984bbc7b7642a0fef0be49a98"
+title: "Folksonomy-Based Tag Recommendation For Online Audio Clip Sharing"
+publication: "ISMIR"
+year: 2012
+external_url: https://www.semanticscholar.org/paper/2809ef6c19733d2984bbc7b7642a0fef0be49a98
+authors: "F. Font, J. Serrà, X. Serra"
+---

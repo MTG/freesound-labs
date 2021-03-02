@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5b9904b79224a9a8943a16b7292bc7897f62eb77"
+title: "Facilitating The Manual Annotation Of Sounds When Using Large Taxonomies"
+publication: "ArXiv"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/5b9904b79224a9a8943a16b7292bc7897f62eb77
+authors: "Xavier Favory, E. Fonseca, F. Font, X. Serra"
+---

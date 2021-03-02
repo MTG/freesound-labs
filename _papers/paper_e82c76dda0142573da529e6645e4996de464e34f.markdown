@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e82c76dda0142573da529e6645e4996de464e34f"
+title: "I'M Sorry For Your Loss: Spectrally-Based Audio Distances Are Bad At Pitch"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/e82c76dda0142573da529e6645e4996de464e34f
+authors: "Joseph P. Turian, M. Henry"
+---

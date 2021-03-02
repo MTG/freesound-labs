@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f9199bf350d07905892d9634811796da1be2c3a2"
+title: "General Audio Tagging With Ensembling Convolutional Neural Network And Statistical Features"
+publication: "The Journal of the Acoustical Society of America"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/f9199bf350d07905892d9634811796da1be2c3a2
+authors: "Kele Xu, B. Zhu, Qiuqiang Kong, Haibo Mi, B. Ding, D. Wang, H. Wang"
+---

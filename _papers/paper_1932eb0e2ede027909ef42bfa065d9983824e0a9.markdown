@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1932eb0e2ede027909ef42bfa065d9983824e0a9"
+title: "What'S All The Fuss About Free Universal Sound Separation Data?"
+publication: "ArXiv"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/1932eb0e2ede027909ef42bfa065d9983824e0a9
+authors: "Scott T. Wisdom, H. Erdogan, D. Ellis, Romain Serizel, Nicolas Turpault, E. Fonseca, Justin Salamon, P. Seetharaman, J. Hershey"
+---

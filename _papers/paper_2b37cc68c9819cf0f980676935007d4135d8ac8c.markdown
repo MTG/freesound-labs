@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2b37cc68c9819cf0f980676935007d4135d8ac8c"
+title: "Clotho: An Audio Captioning Dataset"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/2b37cc68c9819cf0f980676935007d4135d8ac8c
+authors: "Konstantinos Drossos, Samuel Lipping, T. Virtanen"
+---

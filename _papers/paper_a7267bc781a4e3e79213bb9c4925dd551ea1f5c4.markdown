@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a7267bc781a4e3e79213bb9c4925dd551ea1f5c4"
+title: "Proceedings Of Enterface 2015 Workshop On Intelligent Interfaces"
+publication: "ArXiv"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/a7267bc781a4e3e79213bb9c4925dd551ea1f5c4
+authors: "M. Mancas, Christian Frisson, E. al., Noé Tits"
+---

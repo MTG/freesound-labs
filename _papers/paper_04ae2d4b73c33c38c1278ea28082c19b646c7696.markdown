@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "04ae2d4b73c33c38c1278ea28082c19b646c7696"
+title: "Matchboxnet: 1D Time-Channel Separable Convolutional Neural Network Architecture For Speech Commands Recognition"
+publication: "INTERSPEECH"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/04ae2d4b73c33c38c1278ea28082c19b646c7696
+authors: "Somshubra Majumdar, B. Ginsburg"
+---

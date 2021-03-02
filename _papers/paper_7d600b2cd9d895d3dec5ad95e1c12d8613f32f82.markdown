@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7d600b2cd9d895d3dec5ad95e1c12d8613f32f82"
+title: "Extended Convolution Techniques For Cross-Synthesis"
+publication: "ICMC"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/7d600b2cd9d895d3dec5ad95e1c12d8613f32f82
+authors: "Chris Donahue, T. Erbe, M. Puckette"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "068423c8c0b1235426157a26ecb39ba894ae06c7"
+title: "A Real-Time System For Measuring Sound Goodness In Instrumental Sounds"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/068423c8c0b1235426157a26ecb39ba894ae06c7
+authors: "O. Picas, H. P. Rodriguez, Dara Dabiri, Hiroshi Tokuda, Wataru Hariya, K. Oishi, X. Serra"
+---

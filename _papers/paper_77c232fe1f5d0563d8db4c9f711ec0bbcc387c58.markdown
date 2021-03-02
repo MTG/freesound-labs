@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "77c232fe1f5d0563d8db4c9f711ec0bbcc387c58"
+title: "A Musically Aware System For Browsing And Interacting With Audio Music Collections"
+publication: ""
+year: 2012
+external_url: https://www.semanticscholar.org/paper/77c232fe1f5d0563d8db4c9f711ec0bbcc387c58
+authors: "M. Sordo, Gopala K. Koduri, Sankalp Gulati, X. Serra"
+---

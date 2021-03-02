@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "042a55596a31cf4339e09a9c4cfafa43a7e65c73"
+title: "Audio Clip Classification Using Social Tags And The Effect Of Tag Expansion"
+publication: "Semantic Audio"
+year: 2014
+external_url: https://www.semanticscholar.org/paper/042a55596a31cf4339e09a9c4cfafa43a7e65c73
+authors: "F. Font, J. Serrà, X. Serra"
+---

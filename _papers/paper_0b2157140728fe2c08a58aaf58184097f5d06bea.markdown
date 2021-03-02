@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0b2157140728fe2c08a58aaf58184097f5d06bea"
+title: "Analysis Of The Impact Of A Tag Recommendation System In A Real-World Folksonomy"
+publication: "TIST"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/0b2157140728fe2c08a58aaf58184097f5d06bea
+authors: "F. Font, J. Serrà, X. Serra"
+---

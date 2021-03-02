@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "494e946e9eb9c640a75f36fa731cb1c6bc505c5b"
+title: "Tabletop Tangible Interfaces For Music Performance : Design And Evaluation"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/494e946e9eb9c640a75f36fa731cb1c6bc505c5b
+authors: "Anna Xambó"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f95cfbf96b325d0a505d3e634b8d90c42308cd09"
+title: "Automatic Urban Sound Classification Using Feature Learning Techniques"
+publication: ""
+year: 2014
+external_url: https://www.semanticscholar.org/paper/f95cfbf96b325d0a505d3e634b8d90c42308cd09
+authors: "C. Jacoby"
+---

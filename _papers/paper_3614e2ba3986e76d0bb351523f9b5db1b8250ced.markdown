@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3614e2ba3986e76d0bb351523f9b5db1b8250ced"
+title: "A Location-Tracking Interface For Ethnomusicological Collections"
+publication: ""
+year: 2009
+external_url: https://www.semanticscholar.org/paper/3614e2ba3986e76d0bb351523f9b5db1b8250ced
+authors: "M. Magas, Polina Proutskova"
+---

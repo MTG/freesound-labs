@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0ee6dd2a111b5491f9ae06165fb7efde00d76502"
+title: "Wearable Activity Recognition With Crowdsourced Annotation"
+publication: ""
+year: 2016
+external_url: https://www.semanticscholar.org/paper/0ee6dd2a111b5491f9ae06165fb7efde00d76502
+authors: "Long-Van Nguyen-Dinh"
+---

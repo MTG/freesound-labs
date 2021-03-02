@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "93b4fae2f9251ed5a2defd97d6c1368ec2876763"
+title: "Exploring The Distribution Of Statistical Feature Parameters For Natural Sound Textures"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/93b4fae2f9251ed5a2defd97d6c1368ec2876763
+authors: "Ambika P. Mishra, N. S. Harper, Jan W. H. Schnupp"
+---

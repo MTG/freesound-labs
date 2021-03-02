@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4e3b6c160c9284d842c58065507546676128d769"
+title: "Challenges And Issues Of Sound Archives For Environmental Sound Classification"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/4e3b6c160c9284d842c58065507546676128d769
+authors: "S. Veena, M. Nerisai, J. Remya, S. SaiTejah."
+---

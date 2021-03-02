@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4f3ce44abc2b1d20c1e266843fd1385f9023e102"
+title: "Learning Music Similarity From Relative User Ratings"
+publication: "Information Retrieval"
+year: 2013
+external_url: https://www.semanticscholar.org/paper/4f3ce44abc2b1d20c1e266843fd1385f9023e102
+authors: "D. Wolff, Tillman Weyde"
+---

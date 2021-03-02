@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3af2d43232b84073b9a18eaa9f38e4ad67052e69"
+title: "Learning To Match Transient Sound Events Using Attentional Similarity For Few-Shot Sound Recognition"
+publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/3af2d43232b84073b9a18eaa9f38e4ad67052e69
+authors: "Szu-Yu Chou, Kai-Hsiang Cheng, J. Jang, Y. Yang"
+---

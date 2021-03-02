@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "24b57913c0985eb674f9185b908163a658b1aec4"
+title: "Hodge And Podge: Hybrid Supervised Sound Event Detection With Multi-Hot Mixmatch And Composition Consistence Training"
+publication: "2020 28th European Signal Processing Conference (EUSIPCO)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/24b57913c0985eb674f9185b908163a658b1aec4
+authors: "Ziqiang Shi, Liu Liu, Huibin Lin, R. Liu"
+---

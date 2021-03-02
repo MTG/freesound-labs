@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "60ea95cfcf6607d6705352a4ad86a3d5069c1004"
+title: "The Vu Sound Corpus: Adding More Fine-Grained Annotations To The Freesound Database"
+publication: "LREC"
+year: 2016
+external_url: https://www.semanticscholar.org/paper/60ea95cfcf6607d6705352a4ad86a3d5069c1004
+authors: "Emiel van Miltenburg, Benjamin Timmermans, Lora Aroyo"
+---

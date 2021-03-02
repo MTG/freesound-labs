@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d37e33bcba57c90dd3d60f2783d866776995e754"
+title: "Music Programming In Gibber"
+publication: "ICMC"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/d37e33bcba57c90dd3d60f2783d866776995e754
+authors: "C. Roberts, Matthew Wright, J. Kuchera-Morin"
+---

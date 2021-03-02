@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "799c635f3e0dd49e59adf97cd942a11bd7b7291e"
+title: "Robustness To Noise For Speech Emotion Classification Using Cnns And Attention Mechanisms"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/799c635f3e0dd49e59adf97cd942a11bd7b7291e
+authors: "L. Wijayasingha, J. Stankovic"
+---

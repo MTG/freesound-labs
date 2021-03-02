@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "560a60cc0ab6fd3b26324b069b0d846b2934d10a"
+title: "Acoustic Event Search With An Onomatopoeic Query: Measuring Distance Between Onomatopoeic Words And Sounds"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/560a60cc0ab6fd3b26324b069b0d846b2934d10a
+authors: "Shota Ikawa, Kunio Kashino"
+---

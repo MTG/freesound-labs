@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "99e6f700d374e34c8376f1f43af994b278924f28"
+title: "Esc: Dataset For Environmental Sound Classification"
+publication: "ACM Multimedia"
+year: 2015
+external_url: https://www.semanticscholar.org/paper/99e6f700d374e34c8376f1f43af994b278924f28
+authors: "Karol J. Piczak"
+---

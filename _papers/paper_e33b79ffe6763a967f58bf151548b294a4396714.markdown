@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e33b79ffe6763a967f58bf151548b294a4396714"
+title: "Audio Commons: Bringing Creative Commons Audio Content To The Creative Industries"
+publication: ""
+year: 2016
+external_url: https://www.semanticscholar.org/paper/e33b79ffe6763a967f58bf151548b294a4396714
+authors: "F. Font, T. Brookes, G. Fazekas, M. Guerber, Amaury La Burthe, David Plans, Mark D. Plumbley, Meir Shaashua, W. Wang, X. Serra"
+---
