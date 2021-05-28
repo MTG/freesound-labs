@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SOURCE, a Freesound Community Sampler"
-date:   2021-05-28 06:00:00
-release_date: 2021-05-28 06:00:00
+title:  "SOURCE: a Freesound Community Sampler"
+date:   2021-05-27 12:00:00
+release_date: 2021-05-27 12:00:00
 categories: 
 - Apps
 tags:
@@ -23,9 +23,9 @@ SOURCE is designed to run as a stand-alone device on a hardware solution based o
 
 Here is a video demonstrating some features of SOURCE in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7EXMY0AvBxo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7EXMY0AvBxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SOURCE implements audio playback functionality which is common in many existing music samplers. Perhaps more interesting and unique are the capabilities of SOURCE for interacting with Freesound, searching and retrieving sounds. The SOURCE demonstration video above showcases some of this possibilities. Here is a (potentially incomplete) list of features:
+SOURCE implements audio playback functionality which is common in many existing music samplers. Perhaps more interesting and unique are the capabilities of SOURCE for interacting with Freesound, searching and retrieving sounds. The SOURCE demonstration video above showcases some of these possibilities. Here is a (potentially incomplete) list of features:
 
 * Search sounds in Freesound in real-time and download them to the sampler
 * Filter sounds by:
@@ -49,4 +49,4 @@ SOURCE implements audio playback functionality which is common in many existing 
  * Control some of the above parameters with MIDI Control Change
 * Get a *sound usage log* which lists the historic of sounds that have been used and can help in the Creative Commons attribution process
 
-More information in the source code page!
+More information in the [source code page](https://github.com/ffont/source)!
