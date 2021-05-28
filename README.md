@@ -107,6 +107,8 @@ NOTE: all commands above should be run from the root of the repository
 
 ## Deployment
 
+**UPDATE**: Currently Freesound Labs is re-bjuilt automatically using Github webhooks so there's no need to run the deploy scripts.
+
 Deploy commands use Python's Fabric (v1.x) and can be found in `fabfile.py`. Use `fab deploy` to deploy. 
 Currently, Jekyll site is built remotely in the server.
 
