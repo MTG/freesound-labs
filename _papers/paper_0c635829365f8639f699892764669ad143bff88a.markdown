@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0c635829365f8639f699892764669ad143bff88a"
+title: "Byol For Audio: Self-Supervised Learning For General-Purpose Audio Representation"
+publication: "2021 International Joint Conference on Neural Networks (IJCNN)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/0c635829365f8639f699892764669ad143bff88a
+authors: "Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, N. Harada, K. Kashino"
+---

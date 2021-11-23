@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "19299b26dec4fcd2331d1709bdc21ac51b692eed"
+title: "Exploring The Distribution Of Statistical Feature Parameters For Natural Sound Textures"
+publication: "PloS one"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/19299b26dec4fcd2331d1709bdc21ac51b692eed
+authors: "A. P. Mishra, N. S. Harper, J. Schnupp"
+---

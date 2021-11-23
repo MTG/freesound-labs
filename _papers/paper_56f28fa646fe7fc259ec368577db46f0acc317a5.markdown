@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "56f28fa646fe7fc259ec368577db46f0acc317a5"
+title: "Toward User-Driven Sound Recognizer Personalization With People Who Are D/Deaf Or Hard Of Hearing"
+publication: "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+year: 2021
+external_url: https://www.semanticscholar.org/paper/56f28fa646fe7fc259ec368577db46f0acc317a5
+authors: "Steven M. Goodman, Ping Liu, Emma J. McDonnell, Jon Froehlich, Steven M. Goodman, Ping Liu, Dhruv Jain, Emma J. McDonnell, Jon Froehlich"
+---

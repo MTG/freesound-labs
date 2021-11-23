@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b3ff34188236d7c47c844a9bcc6155ac1b743a71"
+title: "Zero-Shot Audio Classification Via Semantic Embeddings"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/b3ff34188236d7c47c844a9bcc6155ac1b743a71
+authors: "Huang Xie, Tuomas Virtanen"
+---

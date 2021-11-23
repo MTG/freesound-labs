@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b9cf755420bac047111617e6680ef5502312819e"
+title: "J Ul 2 02 1 Improving Sound Event Classification By Increasing Shift Invariance In Convolutional Neural Networks"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/b9cf755420bac047111617e6680ef5502312819e
+authors: "Eduardo Fonseca, Andrés Ferraro, Xavier Serra"
+---

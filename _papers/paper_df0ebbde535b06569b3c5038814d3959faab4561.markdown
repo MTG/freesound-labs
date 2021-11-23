@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "df0ebbde535b06569b3c5038814d3959faab4561"
+title: "Reproducibility Companion Paper: On Learning Disentangled Representation For Acoustic Event Detection"
+publication: "ACM Multimedia"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/df0ebbde535b06569b3c5038814d3959faab4561
+authors: "Lijian Gao, Qirong Mao, Jingjing Chen, Ming Dong, R. Chinnam, L. Sassatelli, Miguel Fabian Romero-Rondón, Ujjwal Sharma"
+---

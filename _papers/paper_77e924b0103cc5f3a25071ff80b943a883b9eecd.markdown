@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "77e924b0103cc5f3a25071ff80b943a883b9eecd"
+title: "Personalized Speech Enhancement Through Self-Supervised Data Augmentation And Purification"
+publication: "Interspeech 2021"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/77e924b0103cc5f3a25071ff80b943a883b9eecd
+authors: "Aswin Sivaraman, Sunwoo Kim, Minje Kim"
+---

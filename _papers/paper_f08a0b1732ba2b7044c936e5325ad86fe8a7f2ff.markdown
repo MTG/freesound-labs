@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f08a0b1732ba2b7044c936e5325ad86fe8a7f2ff"
+title: "Ubicoustics"
+publication: "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology"
+year: 2018
+external_url: https://www.semanticscholar.org/paper/f08a0b1732ba2b7044c936e5325ad86fe8a7f2ff
+authors: "Gierad Laput, Karan Ahuja, Mayank Goel, Chris Harrison"
+---

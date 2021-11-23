@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "37ef86376ba2ef27710329364da9ec4a71aa712b"
+title: "Noresqa - A Framework For Speech Quality Assessment Using Non-Matching References"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/37ef86376ba2ef27710329364da9ec4a71aa712b
+authors: "Pranay Manocha, Buye Xu, Anurag Kumar"
+---

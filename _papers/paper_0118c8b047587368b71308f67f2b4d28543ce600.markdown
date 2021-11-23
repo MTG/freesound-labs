@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0118c8b047587368b71308f67f2b4d28543ce600"
+title: "A Transformer-Based Audio Captioning Model With Keyword Estimation"
+publication: "INTERSPEECH"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/0118c8b047587368b71308f67f2b4d28543ce600
+authors: "Yuma Koizumi, Ryo Masumura, Kyosuke Nishida, Masahiro Yasuda, S. Saito"
+---

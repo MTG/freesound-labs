@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "58ad7dd2bba99329bc41363f9741aa01c18e2546"
+title: "Evaluating Off-The-Shelf Machine Listening And Natural Language Models For Automated Audio Captioning"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/58ad7dd2bba99329bc41363f9741aa01c18e2546
+authors: "B. Weck, Xavier Favory, Konstantinos Drossos, X. Serra"
+---

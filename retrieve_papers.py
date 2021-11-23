@@ -35,11 +35,23 @@ def paper_filename_from_id(paper_id):
     return os.path.join(PAPERS_DIR, 'paper_{0}.markdown'.format(paper_id))
 
 def write_markdown_file(paper_data, filename):
+
+
+    authors = ', '.join([author['name']  for author in paper_data['authors']])
+    if authors == '':
+        # If authors are empty, try loading data directly from paper id and not list of citations
+        try:
+            semantic_scholar_url = 'https://api.semanticscholar.org/v1/paper/{}'.format(paper_data['paperId'])
+            resp = requests.get(semantic_scholar_url).json()
+            authors = ', '.join([author['name']  for author in resp['authors']])
+        except Exception as e:
+            print('ERROR getting authors info for paper {}: {}'.format(paper_data['paperId'], str(e)))
+
     contents = TEMPLATE.format(
         title=paper_data['title'].title().replace('"', "'"),
         url=paper_data['url'],
         year=paper_data['year'],
-        authors=', '.join([author['name']  for author in paper_data['authors']]),
+        authors=authors,
         id=paper_data['paperId'],
         publication=paper_data['venue'] or '',
     )

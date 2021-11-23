@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "519862e91860d0a111d4058e2d1a3799ca96e056"
+title: "Structure From Silence: Learning Scene Structure From Ambient Sound"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/519862e91860d0a111d4058e2d1a3799ca96e056
+authors: "Ziyang Chen, Xixi Hu, Andrew Owens"
+---

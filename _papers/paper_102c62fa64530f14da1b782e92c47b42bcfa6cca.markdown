@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "102c62fa64530f14da1b782e92c47b42bcfa6cca"
+title: "An Interpretable Deep Learning Model For Automatic Sound Classification"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/102c62fa64530f14da1b782e92c47b42bcfa6cca
+authors: "Pablo Zinemanas, Martín Rocamora, M. Miron, F. Font, X. Serra"
+---

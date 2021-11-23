@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4a903fd891d1981a14387a6dacc36ac502a49d7c"
+title: "The Cocktail Fork Problem: Three-Stem Audio Separation For Real-World Soundtracks"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/4a903fd891d1981a14387a6dacc36ac502a49d7c
+authors: "Darius Petermann, G. Wichern, Zhong-Qiu Wang, Jonathan Le Roux"
+---

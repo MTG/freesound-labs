@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3a797193ac8131476c60a4783e78d328eccd6e3d"
+title: "The Freesound Loop Dataset And Annotation Tool"
+publication: "ISMIR"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/3a797193ac8131476c60a4783e78d328eccd6e3d
+authors: "António Ramires, F. Font, D. Bogdanov, Jordan B. L. Smith, Yi-Hsuan Yang, Joann Ching, Bo-Yu Chen, Yueh-Kao Wu, Hsu Wei-Han, X. Serra"
+---

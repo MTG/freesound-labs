@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4a5356e1935b908371aea251b123057430aafa13"
+title: "One-Shot Conditional Audio Filtering Of Arbitrary Sounds"
+publication: "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/4a5356e1935b908371aea251b123057430aafa13
+authors: "Beat Gfeller, Dominik Roblek, M. Tagliasacchi"
+---

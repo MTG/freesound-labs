@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c461d13f13b05ebc557ec93f40165bb5caed4078"
+title: "Retrieval And Management System For Layer Sound Effect Library"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/c461d13f13b05ebc557ec93f40165bb5caed4078
+authors: "Jiale Yang, Ying Zhang, Yang Hai"
+---

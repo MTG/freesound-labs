@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b33fb6ade0b4ba46f0132c50087404e926888e4b"
+title: "Idmt-Traffic: An Open Benchmark Dataset For Acoustic Traffic Monitoring Research"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/b33fb6ade0b4ba46f0132c50087404e926888e4b
+authors: "J. Abeßer, Saichand Gourishetti, Andr'as K'atai, Tobias Clauss, Prachi Sharma, Judith Liebetrau"
+---

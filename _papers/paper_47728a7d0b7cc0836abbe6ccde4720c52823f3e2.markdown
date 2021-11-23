@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "47728a7d0b7cc0836abbe6ccde4720c52823f3e2"
+title: "Privacymic: Utilizing Inaudible Frequencies For Privacy Preserving Daily Activity Recognition"
+publication: "CHI"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/47728a7d0b7cc0836abbe6ccde4720c52823f3e2
+authors: "Yasha Iravantchi, Karan Ahuja, Mayank Goel, Chris Harrison, A. Sample"
+---

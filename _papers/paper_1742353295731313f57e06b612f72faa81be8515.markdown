@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1742353295731313f57e06b612f72faa81be8515"
+title: "A Multi-Resolution Crnn-Based Approach For Semi-Supervised Sound Event Detection In Dcase 2020 Challenge"
+publication: "IEEE Access"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/1742353295731313f57e06b612f72faa81be8515
+authors: "Diego De Benito-Gorrón, Daniel Ramos, D. Toledano"
+---

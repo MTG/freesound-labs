@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f05815eec5314b2f6d2d9f4af58531cd96a962a7"
+title: "Wav2Clip: Learning Robust Audio Representations From Clip"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/f05815eec5314b2f6d2d9f4af58531cd96a962a7
+authors: "Ho-Hsiang Wu, Prem Seetharaman, Kundan Kumar, J. Bello"
+---

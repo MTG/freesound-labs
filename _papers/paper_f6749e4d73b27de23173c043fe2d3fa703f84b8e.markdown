@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f6749e4d73b27de23173c043fe2d3fa703f84b8e"
+title: "The Sound Sketchpad: Expressively Combining Large And Diverse Audio Collections"
+publication: "IUI"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/f6749e4d73b27de23173c043fe2d3fa703f84b8e
+authors: "N. Singh"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2ebed04f00a44aa87e132949bfbb7cf0f4830b47"
+title: "Live Coding With The Cloud And A Virtual Agent"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/2ebed04f00a44aa87e132949bfbb7cf0f4830b47
+authors: "Anna Xambó, Gerard Roma, Sam Roig, Eduard Solaz"
+---

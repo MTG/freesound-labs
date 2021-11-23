@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6323d5a0748e2bc6e85e56b521450c4e03fa9082"
+title: "Audio Recognition Using Mel Spectrograms And Convolution Neural Networks"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/6323d5a0748e2bc6e85e56b521450c4e03fa9082
+authors: "Boyang Zhang Jared Leitner, Samuel Thornton"
+---

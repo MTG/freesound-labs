@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "178b8f6c4ed2fe1f9bfc6523a0c76fb3975f1307"
+title: "Musicnet: Compact Convolutional Neural Network For Real-Time Background Music Detection"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/178b8f6c4ed2fe1f9bfc6523a0c76fb3975f1307
+authors: "Chandan K.A. Reddy, Vishak Gopa, Harishchandra Dubey, Sergiy Matusevych, Ross Cutler, R. Aichner"
+---

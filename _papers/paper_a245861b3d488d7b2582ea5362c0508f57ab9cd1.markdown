@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a245861b3d488d7b2582ea5362c0508f57ab9cd1"
+title: "Caesynth: Real-Time Timbre Interpolation And Pitch Control With Conditional Autoencoders"
+publication: "2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/a245861b3d488d7b2582ea5362c0508f57ab9cd1
+authors: "Aaron Valero Puche, Sukhan Lee"
+---

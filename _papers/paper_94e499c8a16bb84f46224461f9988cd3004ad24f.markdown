@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "94e499c8a16bb84f46224461f9988cd3004ad24f"
+title: "Emergency Siren Recognition In Urban Scenarios: Synthetic Dataset And Deep Learning Models"
+publication: "ICIC"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/94e499c8a16bb84f46224461f9988cd3004ad24f
+authors: "Michela Cantarini, L. Serafini, L. Gabrielli, E. Principi, S. Squartini"
+---

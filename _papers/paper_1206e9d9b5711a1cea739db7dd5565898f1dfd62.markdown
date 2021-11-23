@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1206e9d9b5711a1cea739db7dd5565898f1dfd62"
+title: "Addressing Missing Labels In Large-Scale Sound Event Recognition Using A Teacher-Student Framework With Loss Masking"
+publication: "IEEE Signal Processing Letters"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/1206e9d9b5711a1cea739db7dd5565898f1dfd62
+authors: "Eduardo Fonseca, Shawn Hershey, M. Plakal, D. Ellis, A. Jansen, R. C. Moore"
+---

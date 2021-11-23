@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "959d24d21efe31eae401be73c1f7d8e636805655"
+title: "Essentia.Js: A Javascript Library For Music And Audio Analysis On The Web"
+publication: "ISMIR"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/959d24d21efe31eae401be73c1f7d8e636805655
+authors: "A. Correya, D. Bogdanov, Luis Joglar-Ongay, X. Serra"
+---

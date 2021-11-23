@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "29ade2640a2846916a1d6d53a1c97a7e5819516b"
+title: "Digital Assistant For Sound Classification Using Spectral Fingerprinting"
+publication: "International Journal for Research in Applied Science and Engineering Technology"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/29ade2640a2846916a1d6d53a1c97a7e5819516b
+authors: "Ria Sinha"
+---

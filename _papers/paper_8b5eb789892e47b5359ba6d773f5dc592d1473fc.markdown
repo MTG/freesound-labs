@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8b5eb789892e47b5359ba6d773f5dc592d1473fc"
+title: "Source: A Freesound Community Music Sampler"
+publication: "Audio Mostly Conference"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/8b5eb789892e47b5359ba6d773f5dc592d1473fc
+authors: "F. Font"
+---

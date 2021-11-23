@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "da298ff48604e1f82821da3f42c3a13aee28a37a"
+title: "One Billion Audio Sounds From Gpu-Enabled Modular Synthesis"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/da298ff48604e1f82821da3f42c3a13aee28a37a
+authors: "Joseph P. Turian, Jordie Shier, G. Tzanetakis, K. McNally, Max Henry"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2255b70650076702a0df96a10610bef74c5aee42"
+title: "Investigations On Audiovisual Emotion Recognition In Noisy Conditions"
+publication: "2021 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/2255b70650076702a0df96a10610bef74c5aee42
+authors: "M. Neumann, Ngoc Thang Vu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0bc284e6a9888e7c31bc2102542660cf1248c9a7"
+title: "Master'S Thesis: Self-Organizing Maps For Sound Corpus Organization"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/0bc284e6a9888e7c31bc2102542660cf1248c9a7
+authors: "Jonas Margraf"
+---

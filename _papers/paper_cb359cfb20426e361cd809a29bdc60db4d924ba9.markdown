@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cb359cfb20426e361cd809a29bdc60db4d924ba9"
+title: "A Strongly-Labelled Polyphonic Dataset Of Urban Sounds With Spatiotemporal Context"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/cb359cfb20426e361cd809a29bdc60db4d924ba9
+authors: "Kenneth Ooi, Karn N. Watcharasupat, Santi Peksi, Furi Andi Karnapi, Zhen-Ting Ong, Danny Chua, Hui-Wen Leow, Li-Long Kwok, Xin-Lei Ng, Zhen-Ann Loh, W. Gan"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "76aac8dea1a602491d1006530e6bdc1987df482f"
+title: "Diversity-Robust Acoustic Feature Signatures Based On Multiscale Fractal Dimension For Similarity Search Of Environmental Sounds"
+publication: "IEICE Transactions on Information and Systems"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/76aac8dea1a602491d1006530e6bdc1987df482f
+authors: "Motohiro Sunouchi, Masaharu Yoshioka"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1e2227a1475cc2bbb29514c21b085c72318e9e13"
+title: "Polyphonic Training Set Synthesis Improves Self-Supervised Urban Sound Classification."
+publication: "The Journal of the Acoustical Society of America"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/1e2227a1475cc2bbb29514c21b085c72318e9e13
+authors: "Félix Gontier, Vincent Lostanlen, M. Lagrange, N. Fortin, C. Lavandier, J. Petiot"
+---

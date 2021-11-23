@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f75c1b36b80b1aa9a4db59ab77617445b31f1aae"
+title: "Proposal Of The Aesthetic Experience-Oriented Evaluation Framework For Field-Recording Sound Retrieval System: Experiments Using Acoustic Feature Signatures Based On Multiscale Fractal Dimension"
+publication: "IVSP"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/f75c1b36b80b1aa9a4db59ab77617445b31f1aae
+authors: "Motohiro Sunouchi, Masaharu Yoshioka"
+---

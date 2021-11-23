@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2b8cbcfd947ad61e9e2df01c628ba47b76c01697"
+title: "Audio Transformers: Transformer Architectures For Large Scale Audio Understanding. Adieu Convolutions"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/2b8cbcfd947ad61e9e2df01c628ba47b76c01697
+authors: "Prateek Verma, J. Berger"
+---

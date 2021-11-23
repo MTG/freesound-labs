@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ccdb9f30498045c295905256777b77e7a87393c2"
+title: "Leveraging Low-Distortion Target Estimates For Improved Speech Enhancement"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/ccdb9f30498045c295905256777b77e7a87393c2
+authors: "Zhong-Qiu Wang, G. Wichern, Jonathan Le Roux"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dd4c34df951a68f751ae0e8c0d2195d692c74945"
+title: "Human Listening And Live Captioning: Multi-Task Training For Speech Enhancement"
+publication: "Interspeech 2021"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/dd4c34df951a68f751ae0e8c0d2195d692c74945
+authors: "S. Eskimez, Xiaofei Wang, Min Tang, Hemin Yang, Zirun Zhu, Zhuo Chen, Huaming Wang, T. Yoshioka"
+---

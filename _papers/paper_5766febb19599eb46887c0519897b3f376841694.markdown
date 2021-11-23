@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5766febb19599eb46887c0519897b3f376841694"
+title: "Improvisation In Isolation: Quarentena Liv(R)E And Noise Symphony With The Playsound Online Music Making Tool"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/5766febb19599eb46887c0519897b3f376841694
+authors: "Ariane Stolfi, D. P. S. D. Novais"
+---

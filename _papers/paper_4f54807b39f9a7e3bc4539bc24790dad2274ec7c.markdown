@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4f54807b39f9a7e3bc4539bc24790dad2274ec7c"
+title: "Gise-51: A Scalable Isolated Sound Events Dataset"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/4f54807b39f9a7e3bc4539bc24790dad2274ec7c
+authors: "Sarthak Yadav, M. Foster"
+---

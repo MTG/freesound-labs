@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "208d028f0af3c6f63fbe2ffc0f86a376c4451e34"
+title: "Dasee A Synthetic Database Of Domestic Acoustic Scenes And Events In Dementia Patients Environment"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/208d028f0af3c6f63fbe2ffc0f86a376c4451e34
+authors: "A. Copiaco, C. Ritz, S. Fasciani, N. Abdulaziz"
+---

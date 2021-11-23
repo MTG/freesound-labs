@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "379d090ba62669ecabd1857f8599b9d46830e8e6"
+title: "Geometry-Aware Multi-Task Learning For Binaural Audio Generation From Video"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/379d090ba62669ecabd1857f8599b9d46830e8e6
+authors: "Rishabh Garg, Ruohan Gao, Kristen Grauman"
+---

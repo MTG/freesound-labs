@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "37d6b4b0310be37121b5e3e64117f4a04d8b559e"
+title: "Semantic Feature Extraction Based On Subspace Learning With Temporal Constraints For Acoustic Event Recognition"
+publication: "Digit. Signal Process."
+year: 2021
+external_url: https://www.semanticscholar.org/paper/37d6b4b0310be37121b5e3e64117f4a04d8b559e
+authors: "Qiuying Shi, Jiqing Han"
+---

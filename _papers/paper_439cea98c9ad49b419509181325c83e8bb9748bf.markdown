@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "439cea98c9ad49b419509181325c83e8bb9748bf"
+title: "Audio Retrieval With Natural Language Queries"
+publication: "Interspeech 2021"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/439cea98c9ad49b419509181325c83e8bb9748bf
+authors: "Andreea-Maria Oncescu, A. S. Koepke, João F. Henriques, Zeynep Akata, Samuel Albanie"
+---

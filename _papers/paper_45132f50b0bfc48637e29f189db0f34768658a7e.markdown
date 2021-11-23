@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "45132f50b0bfc48637e29f189db0f34768658a7e"
+title: "Stacked Convolutional Neural Networks For General-Purpose Audio Tagging Technical Report"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/45132f50b0bfc48637e29f189db0f34768658a7e
+authors: "Turab Iqbal, Qiuqiang Kong, D. Plumbley, Mark D. Plumbley"
+---

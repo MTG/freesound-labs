@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7ea5d6a6456d8425ebb190b039378036b7cf622a"
+title: "Who Calls The Shots? Rethinking Few-Shot Learning For Audio"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/7ea5d6a6456d8425ebb190b039378036b7cf622a
+authors: "Yu Wang, Nicholas J. Bryan, J. Salamon, M. Cartwright, J. Bello"
+---

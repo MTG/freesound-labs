@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "033defa299799c2bf49d2cc816702bc6e926afac"
+title: "Deep Transfer Learning Based Covid-19 Detection In Cough, Breath And Speech Using Bottleneck Features"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/033defa299799c2bf49d2cc816702bc6e926afac
+authors: "Madhurananda Pahar, T. Niesler"
+---

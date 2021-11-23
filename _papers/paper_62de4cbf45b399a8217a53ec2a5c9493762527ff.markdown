@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "62de4cbf45b399a8217a53ec2a5c9493762527ff"
+title: "Attention-Based Distributed Speech Enhancement For Unconstrained Microphone Arrays With Varying Number Of Nodes"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/62de4cbf45b399a8217a53ec2a5c9493762527ff
+authors: "Nicolas Furnon, R. Serizel, S. Essid, I. Illina"
+---

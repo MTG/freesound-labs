@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9edd88c0b7426a94512aad9e6f7b3196242f6e35"
+title: "Federated Self-Training For Semi-Supervised Audio Recognition"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/9edd88c0b7426a94512aad9e6f7b3196242f6e35
+authors: "Vasileios Tsouvalas, Aaqib Saeed, T. Ozcelebi"
+---

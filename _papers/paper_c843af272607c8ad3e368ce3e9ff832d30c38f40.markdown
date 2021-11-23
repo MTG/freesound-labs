@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c843af272607c8ad3e368ce3e9ff832d30c38f40"
+title: "Envgan: Adversarial Synthesis Of Environmental Sounds For Data Augmentation"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/c843af272607c8ad3e368ce3e9ff832d30c38f40
+authors: "A. Madhu, S. Kumaraswamy"
+---

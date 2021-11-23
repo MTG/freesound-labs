@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dcd58c352561634afc3573a4ddcb05e993b736fd"
+title: "Clarity-2021 Challenges: Machine Learning Challenges For Advancing Hearing Aid Processing"
+publication: "Interspeech 2021"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/dcd58c352561634afc3573a4ddcb05e993b736fd
+authors: "S. Graetzer, Jon Barker, T. Cox, M. Akeroyd, J. Culling, G. Naylor, Eszter Porter, Rhoddy Viveros Muñoz"
+---

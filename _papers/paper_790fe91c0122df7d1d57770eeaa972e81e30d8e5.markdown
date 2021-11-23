@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "790fe91c0122df7d1d57770eeaa972e81e30d8e5"
+title: "Noisy-To-Noisy Voice Conversion Framework With Denoising Model"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/790fe91c0122df7d1d57770eeaa972e81e30d8e5
+authors: "Chao Xie, Yi-Chiao Wu, Patrick Lumban Tobing, Wen-Chin Huang, Tomoki Toda"
+---

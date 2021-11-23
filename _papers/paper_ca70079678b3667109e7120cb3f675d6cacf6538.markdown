@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ca70079678b3667109e7120cb3f675d6cacf6538"
+title: "Compensate Multiple Distortions For Speaker Recognition Systems"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/ca70079678b3667109e7120cb3f675d6cacf6538
+authors: "Mohammad Mohammadamini, D. Matrouf, J. Bonastre, R. Serizel, Sandipana Dowerah, Denis, Jouvet"
+---

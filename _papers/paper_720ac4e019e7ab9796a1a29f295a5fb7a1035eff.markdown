@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "720ac4e019e7ab9796a1a29f295a5fb7a1035eff"
+title: "A Live Coding Session With The Cloud And A Virtual Agent"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/720ac4e019e7ab9796a1a29f295a5fb7a1035eff
+authors: "Anna Xambó"
+---

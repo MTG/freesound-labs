@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7726349b6f2d5104a14964bbb1a444b42ca554c0"
+title: "Seanet: A Multi-Modal Speech Enhancement Network"
+publication: "INTERSPEECH"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/7726349b6f2d5104a14964bbb1a444b42ca554c0
+authors: "M. Tagliasacchi, Yunpeng Li, Karolis Misiunas, Dominik Roblek"
+---

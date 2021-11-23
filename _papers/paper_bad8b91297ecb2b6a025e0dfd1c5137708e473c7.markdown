@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bad8b91297ecb2b6a025e0dfd1c5137708e473c7"
+title: "Usm-Sed - A Dataset For Polyphonic Sound Event Detection In Urban Sound Monitoring Scenarios"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/bad8b91297ecb2b6a025e0dfd1c5137708e473c7
+authors: "J. Abeßer"
+---

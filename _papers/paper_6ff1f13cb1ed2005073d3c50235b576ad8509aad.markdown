@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6ff1f13cb1ed2005073d3c50235b576ad8509aad"
+title: "Attention Is All You Need? Good Embeddings With Statistics Are Enough Audio Understanding Without Convolutions/Transformers/Berts/Mixers/Attention/Rnns"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/6ff1f13cb1ed2005073d3c50235b576ad8509aad
+authors: "Prateek Verma"
+---
