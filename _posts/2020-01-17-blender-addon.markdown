@@ -9,8 +9,8 @@ tags:
 - freesound-api
 - blender
 - 3d
-project_url: https://github.com/tin2tin/freesound
-code: https://github.com/tin2tin/freesound
+project_url: https://github.com/iwkse/freesound
+code: https://github.com/iwkse/freesound
 image: /blender.png
 by: 
 - tin2tin
