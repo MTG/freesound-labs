@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b9e69c83de1ddeb2434026573c7a2b3d0c964d6a"
+title: "Threshold Independent Evaluation Of Sound Event Detection Scores"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/b9e69c83de1ddeb2434026573c7a2b3d0c964d6a
+authors: "Janek Ebbers, R. Serizel, Reinhold Haeb-Umbach"
+---

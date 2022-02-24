@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2c86746ed618d3b0f3d2820bfb96cf5c5d047a35"
+title: "Audio And Music Analysis On The Web Using Essentia.Js"
+publication: "Trans. Int. Soc. Music. Inf. Retr."
+year: 2021
+external_url: https://www.semanticscholar.org/paper/2c86746ed618d3b0f3d2820bfb96cf5c5d047a35
+authors: "A. Correya, Jorge Marcos-Fernández, Luis Joglar-Ongay, Pablo Alonso-Jiménez, X. Serra, D. Bogdanov"
+---

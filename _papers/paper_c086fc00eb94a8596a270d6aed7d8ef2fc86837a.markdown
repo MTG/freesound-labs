@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c086fc00eb94a8596a270d6aed7d8ef2fc86837a"
+title: "L3Das22 Challenge: Learning 3D Audio Sources In A Real Office Environment"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c086fc00eb94a8596a270d6aed7d8ef2fc86837a
+authors: "E. Guizzo, C. Marinoni, Marco Pennese, Xinlei Ren, Xiguang Zheng, Chen Zhang, B. Masiero, A. Uncini, D. Comminiello"
+---

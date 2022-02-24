@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ec596110e97f336a01feafe596d033b05c08a39d"
+title: "Project Achoo: A Practical Model And Application For Covid-19 Detection From Recordings Of Breath, Voice, And Cough"
+publication: "IEEE Journal of Selected Topics in Signal Processing"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/ec596110e97f336a01feafe596d033b05c08a39d
+authors: "Alexander Ponomarchuk, I. Burenko, Elian Malkin, I. Nazarov, V. Kokh, Manvel Avetisian, L. Zhukov"
+---

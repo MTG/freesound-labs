@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "87768348ba32db60b725d50c661f4cd4ac5b2e27"
+title: "Best Versus Good Enough Practices For Open Music Research"
+publication: "Empirical Musicology Review"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/87768348ba32db60b725d50c661f4cd4ac5b2e27
+authors: "A. Jensenius"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e16fe797d4c1242d15faf8024bd78525d47c2d6b"
+title: "A Noise-Robust Self-Supervised Pre-Training Model Based Speech Representation Learning For Automatic Speech Recognition"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e16fe797d4c1242d15faf8024bd78525d47c2d6b
+authors: "Qiu-shi Zhu, Jie Zhang, Zi-qiang Zhang, Ming Wu, Xin Fang, Lirong Dai"
+---

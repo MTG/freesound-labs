@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4536d49c1c2fd1982f52c84214b50ea7f1a6f39c"
+title: "Embedded Acoustic Scene Classification For Low Power Microcontroller Devices"
+publication: "DCASE"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/4536d49c1c2fd1982f52c84214b50ea7f1a6f39c
+authors: "F. Naccari, I. Guarneri, S. Curti, A. Savi"
+---

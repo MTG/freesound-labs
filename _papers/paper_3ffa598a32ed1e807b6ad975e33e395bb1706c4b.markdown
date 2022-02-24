@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3ffa598a32ed1e807b6ad975e33e395bb1706c4b"
+title: "Automated Audio Captioning With Weakly Supervised Pre-Training And Word Selection Methods"
+publication: "DCASE"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/3ffa598a32ed1e807b6ad975e33e395bb1706c4b
+authors: "Qichen Han, Weiqiang Yuan, Dong Liu, X. Li, Zhen Yang"
+---

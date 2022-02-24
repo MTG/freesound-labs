@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "700cb13f0fd989989bb47c729c002d1dbaea83ad"
+title: "Algorithmic Identification Of Tone Color: A Comparison Of Algorithmic Identification And Identification By Survey Respondents"
+publication: "10th International Conference on Digital and Interactive Arts"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/700cb13f0fd989989bb47c729c002d1dbaea83ad
+authors: "Haron Anis, Chee Onn Wong, Soon Hin Hew"
+---

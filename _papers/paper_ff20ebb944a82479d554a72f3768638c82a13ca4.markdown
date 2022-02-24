@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ff20ebb944a82479d554a72f3768638c82a13ca4"
+title: "On Loss Functions And Evaluation Metrics For Music Source Separation"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/ff20ebb944a82479d554a72f3768638c82a13ca4
+authors: "Enric Gus'o, Jordi Pons, Santiago Pascual, J. Serrà"
+---

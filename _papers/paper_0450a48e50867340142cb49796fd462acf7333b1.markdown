@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0450a48e50867340142cb49796fd462acf7333b1"
+title: "Extraction Of Weighted Saliency Maps In Modelling Bottom-Up Auditory Attention"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/0450a48e50867340142cb49796fd462acf7333b1
+authors: "M. Geravanchizadeh, Sepideh Akhtari Khosroshahi, S. Zakeri"
+---

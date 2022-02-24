@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b5ab848abcaef1681c8386af6429a8714689cac3"
+title: "Locate Your Soundscape: Interacting With The Acoustic Environment"
+publication: "Multim. Tools Appl."
+year: 2021
+external_url: https://www.semanticscholar.org/paper/b5ab848abcaef1681c8386af6429a8714689cac3
+authors: "N. Orio, B. D. Carolis, Francesco Liotard"
+---

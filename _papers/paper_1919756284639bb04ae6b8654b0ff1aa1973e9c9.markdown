@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1919756284639bb04ae6b8654b0ff1aa1973e9c9"
+title: "Multichannel-Based Learning For Audio Object Extraction"
+publication: "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/1919756284639bb04ae6b8654b0ff1aa1973e9c9
+authors: "D. Arteaga, Jordi Pons"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "180a3f6a7e00d99da8006958e7a746c535b1c4f0"
+title: "A Benchmark Of State-Of-The-Art Sound Event Detection Systems Evaluated On Synthetic Soundscapes"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/180a3f6a7e00d99da8006958e7a746c535b1c4f0
+authors: "Francesca Ronchini, R. Serizel"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "589e379e291b37f311f21e09ceeb6ccf8c52847d"
+title: "Automatic Audio Captioning Using Attention Weighted Event Based Embeddings"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/589e379e291b37f311f21e09ceeb6ccf8c52847d
+authors: "Swapnil Bhosale, Rupayan Chakraborty, S. Kopparapu"
+---

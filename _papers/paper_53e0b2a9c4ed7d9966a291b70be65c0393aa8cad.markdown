@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "53e0b2a9c4ed7d9966a291b70be65c0393aa8cad"
+title: "Audio Retrieval With Natural Language Queries: A Benchmark Study"
+publication: "IEEE Transactions on Multimedia"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/53e0b2a9c4ed7d9966a291b70be65c0393aa8cad
+authors: "A. S. Koepke, Andreea-Maria Oncescu, João F. Henriques, Zeynep Akata, Samuel Albanie"
+---

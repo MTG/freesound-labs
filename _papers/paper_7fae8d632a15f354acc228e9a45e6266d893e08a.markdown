@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7fae8d632a15f354acc228e9a45e6266d893e08a"
+title: "Deep Learning And Mel-Spectrograms For Physica Violence Detection In Audio"
+publication: "Anais do XVIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2021)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/7fae8d632a15f354acc228e9a45e6266d893e08a
+authors: "Tiago B. Lacerda, Péricles B. C. Miranda, André Câmara, Ana Paula C. Furtado"
+---

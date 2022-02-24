@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "17ab121b635e10d2333bda34c2b389a10ec599c1"
+title: "Protosound: A Personalized And Scalable Sound Recognition System For Deaf And Hard-Of-Hearing Users"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/17ab121b635e10d2333bda34c2b389a10ec599c1
+authors: "D. Jain"
+---

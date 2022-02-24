@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6e97393f29af164f56a5d6b86c2d671d109289b6"
+title: "The Pcg-Aiid System For L3Das22 Challenge: Mimo And Miso Convolutional Recurrent Network For Multi Channel Speech Enhancement And Speech Recognition"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/6e97393f29af164f56a5d6b86c2d671d109289b6
+authors: "Jingdong Li, Yuanyuan Zhu, Dawei Luo, Yun Liu, Guohui Cui, Zhaoxia Li"
+---

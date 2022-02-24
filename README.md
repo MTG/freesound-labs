@@ -107,11 +107,12 @@ NOTE: all commands above should be run from the root of the repository
 
 ## Deployment
 
-**UPDATE**: Currently Freesound Labs is re-bjuilt automatically using Github webhooks so there's no need to run the deploy scripts.
+Freesound Labs is re-built automatically using Github webhooks so there's no need to run the deploy scripts.
 
-Deploy commands use Python's Fabric (v1.x) and can be found in `fabfile.py`. Use `fab deploy` to deploy. 
-Currently, Jekyll site is built remotely in the server.
+However, the list of papers in the "papers" section is not updated automatically, and the `retreive_papers.py` script should be run from time to time (and the new files created should be added and committed).
+To do that, run the `retreive_papers.py` script locally using:
 
-When new commits are made to the repository, an action will be triggered in the remote server to rebuild the site.
+    docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
 
-Also, the `retreive_papers.py` script is automatically run (and the site rebuilt) once a month.
+
+Then commit the newly generated files to the repository and push so that Github rebuilds the site and new papers appear.
