@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "00ff0e85e6563c622b86955c597e2e5503c19f0a"
+title: "A Review Of Neural Network-Based Emulation Of Guitar Amplifiers"
+publication: "Applied Sciences"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/00ff0e85e6563c622b86955c597e2e5503c19f0a
+authors: "Tara Vanhatalo, P. Legrand, M. Desainte-Catherine, P. Hanna, Antoine Brusco, Guillaume Pille, Yann Bayle"
+---

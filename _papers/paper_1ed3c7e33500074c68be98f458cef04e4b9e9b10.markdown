@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1ed3c7e33500074c68be98f458cef04e4b9e9b10"
+title: "Federated Self-Training For Semi-Supervised Audio Recognition"
+publication: "ACM Transactions on Embedded Computing Systems"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/1ed3c7e33500074c68be98f458cef04e4b9e9b10
+authors: "Vasileios Tsouvalas, Aaqib Saeed, T. Ozcelebi"
+---

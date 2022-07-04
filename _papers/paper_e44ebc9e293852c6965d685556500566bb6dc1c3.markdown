@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e44ebc9e293852c6965d685556500566bb6dc1c3"
+title: "Improving Target Sound Extraction With Timestamp Information"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e44ebc9e293852c6965d685556500566bb6dc1c3
+authors: "Helin Wang, Dongchao Yang, Chao Weng, Jia-yi Yu, Yuexian Zou"
+---

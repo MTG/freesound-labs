@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "44376668bc8f21fb7252e1f6d6b500ecec3d9a72"
+title: "Sonic Stories, Sensory Ethnography, And Listening With An Injured Mind"
+publication: "Multimodality &amp; Society"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/44376668bc8f21fb7252e1f6d6b500ecec3d9a72
+authors: "Michelle Charette, Elizabeth Lima, Denielle Elliott"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0b477591a86bc20a096a5e780ac4e849e6344747"
+title: "Disentangling Speech From Surroundings In A Neural Audio Codec"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0b477591a86bc20a096a5e780ac4e849e6344747
+authors: "Ahmed Omran, Neil Zeghidour, Zalán Borsos, F. D. C. Quitry, M. Slaney, M. Tagliasacchi"
+---

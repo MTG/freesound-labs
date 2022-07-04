@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1e8ce7308f784d7e84b9c0dba1789ad526d35552"
+title: "A Selective Summary Of Where To Hide A Stolen Elephant: Leaps In Creative Writing With Multimodal Machine Intelligence"
+publication: "IN2WRITING"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/1e8ce7308f784d7e84b9c0dba1789ad526d35552
+authors: "Nikhil Singh, Guillermo Bernal, D. Savchenko, Elena L. Glassman"
+---

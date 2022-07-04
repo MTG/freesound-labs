@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f68335084f0de25a92181fcb8101fa3c1e15193b"
+title: "Generating Sound Palettes For A Freesound Concatenative Synthesizer To Support Creativity"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/f68335084f0de25a92181fcb8101fa3c1e15193b
+authors: "Gonzalo Montero, F. Corbera"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "aa1b722485106c84e52c5e35b2d4b2f8c7fb3135"
+title: "Learning Audio-Video Modalities From Image Captions"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/aa1b722485106c84e52c5e35b2d4b2f8c7fb3135
+authors: "Arsha Nagrani, P. H. Seo, Bryan Seybold, Anja Hauth, Santiago Manén, Chen Sun, C. Schmid"
+---

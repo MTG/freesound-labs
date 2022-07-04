@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c4798919e74411d87f7745840e45b8bcf61128ff"
+title: "Audiocaps: Generating Captions For Audios In The Wild"
+publication: "NAACL"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/c4798919e74411d87f7745840e45b8bcf61128ff
+authors: "C. Kim, Byeongchang Kim, Hyunmin Lee, Gunhee Kim"
+---

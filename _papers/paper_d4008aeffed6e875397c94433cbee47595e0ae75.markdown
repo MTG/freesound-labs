@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d4008aeffed6e875397c94433cbee47595e0ae75"
+title: "A Deep And Recurrent Architecture For Primate Vocalization Classification"
+publication: "Interspeech"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/d4008aeffed6e875397c94433cbee47595e0ae75
+authors: "Robert Müller, Steffen Illium, C. Linnhoff-Popien"
+---

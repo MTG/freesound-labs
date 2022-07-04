@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7814ccf5d2a74340f8a4e8a093b71bc736fa5c9d"
+title: "Arca23K: An Audio Dataset For Investigating Open-Set Label Noise"
+publication: "DCASE"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/7814ccf5d2a74340f8a4e8a093b71bc736fa5c9d
+authors: "Turab Iqbal, Yin Cao, A. Bailey, MarkD . Plumbley, Wenwu Wang"
+---

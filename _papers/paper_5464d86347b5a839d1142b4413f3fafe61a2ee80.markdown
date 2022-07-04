@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5464d86347b5a839d1142b4413f3fafe61a2ee80"
+title: "Real Time Spectrogram Inversion On Mobile Phone"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/5464d86347b5a839d1142b4413f3fafe61a2ee80
+authors: "Oleg Rybakov, M. Tagliasacchi, Yunpeng Li, Liyang Jiang, Xia Zhang, Fadi Biadsy"
+---

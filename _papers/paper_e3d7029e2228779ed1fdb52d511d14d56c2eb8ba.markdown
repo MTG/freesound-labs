@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e3d7029e2228779ed1fdb52d511d14d56c2eb8ba"
+title: "Speak Like A Dog: Human To Non-Human Creature Voice Conversion"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e3d7029e2228779ed1fdb52d511d14d56c2eb8ba
+authors: "Kohei Suzuki, Shoki Sakamoto, T. Taniguchi, H. Kameoka"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e606725d8947b49667857900418e9cc316702372"
+title: "Masked Spectrogram Modeling Using Masked Autoencoders For Learning General-Purpose Audio Representation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e606725d8947b49667857900418e9cc316702372
+authors: "Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, N. Harada, K. Kashino"
+---

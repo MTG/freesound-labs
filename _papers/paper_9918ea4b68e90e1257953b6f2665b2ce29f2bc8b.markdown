@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9918ea4b68e90e1257953b6f2665b2ce29f2bc8b"
+title: "Towards Low-Distortion Multi-Channel Speech Enhancement: The Espnet-Se Submission To The L3Das22 Challenge"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/9918ea4b68e90e1257953b6f2665b2ce29f2bc8b
+authors: "Yen-Ju Lu, Samuele Cornell, Xuankai Chang, Wangyou Zhang, Chenda Li, Zhaoheng Ni, Zhong-Qiu Wang, Shinji Watanabe"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "79776774daadc1df98e206bdb242fe72aa064b66"
+title: "Contrastive Feature Learning For Audio Classification"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/79776774daadc1df98e206bdb242fe72aa064b66
+authors: "Daniel Lin"
+---

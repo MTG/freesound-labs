@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "67fc3372158b129e5e1ef87062f0c337879e3cfa"
+title: "Pseudo Strong Labels For Large Scale Weakly Supervised Audio Tagging"
+publication: "ICASSP"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/67fc3372158b129e5e1ef87062f0c337879e3cfa
+authors: "Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang"
+---

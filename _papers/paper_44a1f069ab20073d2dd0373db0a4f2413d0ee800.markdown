@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "44a1f069ab20073d2dd0373db0a4f2413d0ee800"
+title: "Joint Training Of Speech Enhancement And Self-Supervised Model For Noise-Robust Asr"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/44a1f069ab20073d2dd0373db0a4f2413d0ee800
+authors: "Qiu-shi Zhu, J. Zhang, Zitian Zhang, Lirong Dai"
+---

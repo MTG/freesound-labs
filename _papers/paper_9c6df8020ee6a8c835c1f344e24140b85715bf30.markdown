@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9c6df8020ee6a8c835c1f344e24140b85715bf30"
+title: "Cmkd: Cnn/Transformer-Based Cross-Model Knowledge Distillation For Audio Classification"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/9c6df8020ee6a8c835c1f344e24140b85715bf30
+authors: "Yuan Gong, Sameer Khurana, Andrew Rouditchenko, James R. Glass"
+---

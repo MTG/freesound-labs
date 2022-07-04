@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "74f708a3249df9a4339c52abfcf189351c3d5882"
+title: "Imobilakou: The Role Of Machine Listening To Detect Vehicle Using Sound Acoustics"
+publication: "ICAAI"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/74f708a3249df9a4339c52abfcf189351c3d5882
+authors: "Muddsair Sharif, Mayur Hotwani, Huseyin Seker, Gero Lückemeyer"
+---

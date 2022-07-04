@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6d17b000b26cf2f80edb7aa0f74597ef4a2f0c43"
+title: "Animal Sounds Classification Scheme Based On Multi-Feature Network With Mixed Datasets"
+publication: "KSII Transactions on Internet and Information Systems"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/6d17b000b26cf2f80edb7aa0f74597ef4a2f0c43
+authors: "Chung-il Kim, Yongjang Cho, Seung-Won Jung, Jehyeok Rew, Eenjun Hwang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8ee039374fce1ad980b08e8d84c3159075987387"
+title: "Learning Audio Representations With Mlps"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/8ee039374fce1ad980b08e8d84c3159075987387
+authors: "Mashrur M. Morshed, Ahmad Omar Ahsan, Hasan Mahmud, Md. Kamrul Hasan"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c4b7f2a22dd3fae1f5e1a0ead5621e700695309f"
+title: "Deep Convolutional Neural Network For Roadway Incident Surveillance Using Audio Data"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c4b7f2a22dd3fae1f5e1a0ead5621e700695309f
+authors: "Zubayer Islam, M. Abdel-Aty"
+---

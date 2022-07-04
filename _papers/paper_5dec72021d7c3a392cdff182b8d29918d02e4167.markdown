@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5dec72021d7c3a392cdff182b8d29918d02e4167"
+title: "Fast Real-Time Personalized Speech Enhancement: End-To-End Enhancement Network (E3Net) And Knowledge Distillation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/5dec72021d7c3a392cdff182b8d29918d02e4167
+authors: "Manthan Thakker, S. Eskimez, T. Yoshioka, Huaming Wang"
+---

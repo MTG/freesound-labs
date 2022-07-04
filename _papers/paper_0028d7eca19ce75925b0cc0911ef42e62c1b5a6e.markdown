@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0028d7eca19ce75925b0cc0911ef42e62c1b5a6e"
+title: "Specsingan: Sound Effect Variation Synthesis Using Single-Image Gans"
+publication: "ArXiv"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/0028d7eca19ce75925b0cc0911ef42e62c1b5a6e
+authors: "Adri'an Barahona-R'ios, Tom Collins"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dca50458916d66c7063b297ccda1e67d9874f16b"
+title: "Starss22: A Dataset Of Spatial Recordings Of Real Scenes With Spatiotemporal Annotations Of Sound Events"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/dca50458916d66c7063b297ccda1e67d9874f16b
+authors: "A. Politis, Kazuki Shimada, Parthasaarathy Sudarsanam, Sharath Adavanne, Daniel Krause, Yuichiro Koyama, Naoya Takahashi, Shusuke Takahashi, Yuki Mitsufuji, T. Virtanen"
+---

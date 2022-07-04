@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "da14a67089fe482741f42a8dcbadc4702d6ac122"
+title: "Vocalsound: A Dataset For Improving Human Vocal Sounds Recognition"
+publication: "ICASSP"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/da14a67089fe482741f42a8dcbadc4702d6ac122
+authors: "Yuan Gong, Jingbo Yu, James R. Glass"
+---

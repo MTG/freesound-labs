@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "280497253f000ca122310d26891e0977fceb1cda"
+title: "Eliciting Confidence For Improving Crowdsourced Audio Annotations"
+publication: "Proceedings of the ACM on Human-Computer Interaction"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/280497253f000ca122310d26891e0977fceb1cda
+authors: "Ana Elisa Méndez Méndez, M. Cartwright, J. Bello, O. Nov"
+---

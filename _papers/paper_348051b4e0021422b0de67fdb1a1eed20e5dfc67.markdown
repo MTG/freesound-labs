@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "348051b4e0021422b0de67fdb1a1eed20e5dfc67"
+title: "A Comprehensive Survey Of Automated Audio Captioning"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/348051b4e0021422b0de67fdb1a1eed20e5dfc67
+authors: "Xuenan Xu, Mengyue Wu, K. Yu"
+---

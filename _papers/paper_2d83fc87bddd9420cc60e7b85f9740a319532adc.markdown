@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2d83fc87bddd9420cc60e7b85f9740a319532adc"
+title: "Enabling Programmatic Data Mining As Musicking: The Fluid Corpus Manipulation Toolkit"
+publication: "Computer Music Journal"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/2d83fc87bddd9420cc60e7b85f9740a319532adc
+authors: "P. Tremblay, Gerard Roma, Owen Green"
+---

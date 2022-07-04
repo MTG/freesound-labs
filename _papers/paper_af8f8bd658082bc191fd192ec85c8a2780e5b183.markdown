@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "af8f8bd658082bc191fd192ec85c8a2780e5b183"
+title: "Automatic Tuberculosis And Covid-19 Cough Classification Using Deep Learning"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/af8f8bd658082bc191fd192ec85c8a2780e5b183
+authors: "Madhurananda Pahar, M. Klopper, Byron Reeve, R. Warren, G. Theron, A. Diacon, T. Niesler"
+---

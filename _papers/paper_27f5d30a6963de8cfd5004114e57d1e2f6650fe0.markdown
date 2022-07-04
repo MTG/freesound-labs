@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "27f5d30a6963de8cfd5004114e57d1e2f6650fe0"
+title: "Byol For Audio: Exploring Pre-Trained General-Purpose Audio Representations"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/27f5d30a6963de8cfd5004114e57d1e2f6650fe0
+authors: "Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, N. Harada, K. Kashino"
+---

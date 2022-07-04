@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "547cf182025e3bcc8b2e751a16edc37fc19d41d8"
+title: "Multi-View Temporal Ensemble For Classification Of Non-Stationary Signals"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/547cf182025e3bcc8b2e751a16edc37fc19d41d8
+authors: "H. Koh, W. L. Woo"
+---

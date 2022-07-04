@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e943b8902f7079baae1e1f4ef8f4164a59867ca8"
+title: "L3Das22 Challenge: Machine Learning For 3D Audio Signal Processing"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/e943b8902f7079baae1e1f4ef8f4164a59867ca8
+authors: "E. Guizzo, C. Marinoni, Marco Pennese, Xinlei Ren, Xiguang Zheng, Chen Zhang, B. Masiero, D. Comminiello"
+---

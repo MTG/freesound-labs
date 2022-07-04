@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "22acee740f42e38e4a3e902844cb5b58a12c0dd0"
+title: "Learning Sound Representations Using Triplet-Loss"
+publication: ""
+year: 2020
+external_url: https://www.semanticscholar.org/paper/22acee740f42e38e4a3e902844cb5b58a12c0dd0
+authors: "Kohki Mametani, Xavier Favory, Co-Supervisor Frederic Font"
+---

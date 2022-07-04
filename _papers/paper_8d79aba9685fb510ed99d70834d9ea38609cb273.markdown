@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8d79aba9685fb510ed99d70834d9ea38609cb273"
+title: "Dual Quaternion Ambisonics Array For Six-Degree-Of-Freedom Acoustic Representation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/8d79aba9685fb510ed99d70834d9ea38609cb273
+authors: "Eleonora Grassucci, Gioia Mancini, Christian Brignone, A. Uncini, D. Comminiello"
+---

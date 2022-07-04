@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3f18a2c0e93d644ea05938085657ac8f852a2e87"
+title: "Sqapp: No-Reference Speech Quality Assessment Via Pairwise Preference"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/3f18a2c0e93d644ea05938085657ac8f852a2e87
+authors: "Pranay Manocha, Zeyu Jin, A. Finkelstein"
+---

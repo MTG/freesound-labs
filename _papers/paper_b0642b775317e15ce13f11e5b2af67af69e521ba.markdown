@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b0642b775317e15ce13f11e5b2af67af69e521ba"
+title: "Automated Audio Captioning: An Overview Of Recent Progress And New Challenges"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/b0642b775317e15ce13f11e5b2af67af69e521ba
+authors: "Xinhao Mei, Xubo Liu, MarkD . Plumbley, Wenwu Wang"
+---

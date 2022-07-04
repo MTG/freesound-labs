@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ecc4d9a70e2495eb01cb7990651dd3c88c325b15"
+title: "Few-Shot Emergency Siren Detection"
+publication: "Sensors"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/ecc4d9a70e2495eb01cb7990651dd3c88c325b15
+authors: "Michela Cantarini, L. Gabrielli, S. Squartini"
+---

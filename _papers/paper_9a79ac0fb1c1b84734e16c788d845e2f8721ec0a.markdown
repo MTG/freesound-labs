@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9a79ac0fb1c1b84734e16c788d845e2f8721ec0a"
+title: "Rapid Prototyping: Using Wizard Of Oz To Emulate Machine Learning Features For Interactive Artistic Applications"
+publication: "Anais do XVIII Simpósio Brasileiro de Computação Musical (SBCM 2021)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/9a79ac0fb1c1b84734e16c788d845e2f8721ec0a
+authors: "A. Aleluia, G. Cabral"
+---

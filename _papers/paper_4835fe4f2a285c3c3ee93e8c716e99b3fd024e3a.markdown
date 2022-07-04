@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4835fe4f2a285c3c3ee93e8c716e99b3fd024e3a"
+title: "Neural Percussive Synthesis Parameterised By High-Level Timbral Features"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/4835fe4f2a285c3c3ee93e8c716e99b3fd024e3a
+authors: "António Ramires, Pritish Chandna, Xavier Favory, Emilia G'omez, X. Serra"
+---

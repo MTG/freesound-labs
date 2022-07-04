@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1387a17e036d2d094af5a0862edee59f642d90cc"
+title: "Text-Driven Separation Of Arbitrary Sounds"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/1387a17e036d2d094af5a0862edee59f642d90cc
+authors: "Kevin Kilgour, Beat Gfeller, Qingqing Huang, A. Jansen, Scott Wisdom, M. Tagliasacchi"
+---

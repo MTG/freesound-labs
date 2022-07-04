@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "97db55b196cf0c768644a392a7e6c79d1c65207e"
+title: "Improving Frame-Online Neural Speech Enhancement With Overlapped-Frame Prediction"
+publication: "IEEE Signal Processing Letters"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/97db55b196cf0c768644a392a7e6c79d1c65207e
+authors: "Zhongqiu Wang, Shinji Watanabe"
+---

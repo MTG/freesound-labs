@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "30b5da5cd6cd89a2a2ff38b9c244f58d617f850a"
+title: "Data Augmentation And Squeeze-And-Excitation Network On Multiple Dimension For Sound Event Localization And Detection In Real Scenes"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/30b5da5cd6cd89a2a2ff38b9c244f58d617f850a
+authors: "Byeongil Ko, Hyeonuk Nam, Seong-Hu Kim, Deokki Min, Seung-Deok Choi, Yong-Hwa Park"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "db1ac77acf52b230459b68e5c5db793c2dd19329"
+title: "Improving Distortion Robustness Of Self-Supervised Speech Processing Tasks With Domain Adaptation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/db1ac77acf52b230459b68e5c5db793c2dd19329
+authors: "Kuan-Po Huang, Yuanbin Fu, Yu Zhang, Hung-yi Lee"
+---

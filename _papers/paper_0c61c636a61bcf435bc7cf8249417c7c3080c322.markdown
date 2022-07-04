@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0c61c636a61bcf435bc7cf8249417c7c3080c322"
+title: "Autonomous In-Situ Soundscape Augmentation Via Joint Selection Of Masker And Gain"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0c61c636a61bcf435bc7cf8249417c7c3080c322
+authors: "Karn Nichakarn Watcharasupat, Kenneth Ooi, Bhan Lam, Trevor Wong, Zhen-Ting Ong, W. Gan"
+---
