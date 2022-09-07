@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b3b392955bb283ddca4dff04668113332c26fe25"
+title: "Byol-S: Learning Self-Supervised Speech Representations By Bootstrapping"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/b3b392955bb283ddca4dff04668113332c26fe25
+authors: "Gasser Elbanna, Neil Scheidwasser-Clow, M. Kegler, P. Beckmann, Karl El Hajal, M. Cernak"
+---

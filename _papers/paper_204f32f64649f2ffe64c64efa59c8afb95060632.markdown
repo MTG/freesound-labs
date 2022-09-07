@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "204f32f64649f2ffe64c64efa59c8afb95060632"
+title: "Codex: Stochastic Encoding Method To Relax Resistive Crossbar Accelerator Design Requirements"
+publication: "IEEE Transactions on Circuits and Systems II: Express Briefs"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/204f32f64649f2ffe64c64efa59c8afb95060632
+authors: "Tony Liu, A. Amirsoleimani, Jianxiong Xu, F. Alibart, Y. Beilliard, S. Ecoffey, Dominique Drouin, R. Genov"
+---

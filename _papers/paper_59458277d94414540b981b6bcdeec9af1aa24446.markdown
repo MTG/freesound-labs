@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "59458277d94414540b981b6bcdeec9af1aa24446"
+title: "Automatic Discrimination Of Domestic Cat Sounds And Imitations"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/59458277d94414540b981b6bcdeec9af1aa24446
+authors: "Ceren Can"
+---

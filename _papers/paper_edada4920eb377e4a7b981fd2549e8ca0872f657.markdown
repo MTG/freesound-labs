@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "edada4920eb377e4a7b981fd2549e8ca0872f657"
+title: "Event Recognition Of Domestic Sounds Using Semi-Supervised Learning"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/edada4920eb377e4a7b981fd2549e8ca0872f657
+authors: "Aniel Rossi"
+---

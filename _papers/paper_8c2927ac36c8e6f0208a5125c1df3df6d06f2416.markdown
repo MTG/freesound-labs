@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8c2927ac36c8e6f0208a5125c1df3df6d06f2416"
+title: "A S ] 2 8 Ju L 2 02 2 Real Time Spectrogram Inversion Onmobile Phone"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/8c2927ac36c8e6f0208a5125c1df3df6d06f2416
+authors: "Oleg Rybakov, M. Tagliasacchi, Yunpeng Li, Liyang Jiang, Xia Zhang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c1dda58fae6e045656618aa4f6590af6a1602bb0"
+title: "Clustering Of Multiple-Event Online Sound Collections With The Codebook Approach"
+publication: ""
+year: 2019
+external_url: https://www.semanticscholar.org/paper/c1dda58fae6e045656618aa4f6590af6a1602bb0
+authors: "Lluis Suros"
+---

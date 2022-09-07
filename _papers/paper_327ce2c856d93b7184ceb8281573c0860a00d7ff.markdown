@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "327ce2c856d93b7184ceb8281573c0860a00d7ff"
+title: "Compensating Noise And Reverberation In Far-Field Multichannel Speaker Verification"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/327ce2c856d93b7184ceb8281573c0860a00d7ff
+authors: "Sandipana Dowerah, R. Serizel, D. Jouvet, Mohammad, Mohammadamini, D. Matrouf"
+---

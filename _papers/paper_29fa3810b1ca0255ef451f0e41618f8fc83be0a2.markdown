@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "29fa3810b1ca0255ef451f0e41618f8fc83be0a2"
+title: "Similarity Search Of Freesound Environmental Sound Based On Their Enhanced Multiscale Fractal Dimension"
+publication: ""
+year: 2013
+external_url: https://www.semanticscholar.org/paper/29fa3810b1ca0255ef451f0e41618f8fc83be0a2
+authors: "Motohiro Sunouchi, Yuzuru Tanaka"
+---

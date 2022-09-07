@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "67b684626ba5ff1d54003dad7e0871be8275ed67"
+title: "Beyond Word Embeddings: A Survey"
+publication: "Information Fusion"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/67b684626ba5ff1d54003dad7e0871be8275ed67
+authors: "Francesca Incitti, Federico Urli, L. Snidaro"
+---

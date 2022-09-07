@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "714a7e6548f08bd9050e830f6c8faf840406b40d"
+title: "Podcastmix: A Dataset For Separating Music And Speech In Podcasts"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/714a7e6548f08bd9050e830f6c8faf840406b40d
+authors: "Nico M. Schmidt, Jordi Pons, M. Miron"
+---

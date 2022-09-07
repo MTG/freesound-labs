@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "311fc92e34536513f26e6ecf658c5e0e081e8d92"
+title: "A Comprehensive Exploration Of Noise Robustness And Noise Compensation In Resnet And Tdnn-Based Speaker Recognition Systems"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/311fc92e34536513f26e6ecf658c5e0e081e8d92
+authors: "Mohammad MohammadAmini, D. Matrouf, J. Bonastre, Sandipana Dowerah, R. Serizel, D. Jouvet"
+---

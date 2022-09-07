@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c9822840c712d21846407ab501d1787e09a0a0ed"
+title: "Analysis Of Acoustic And Voice Quality Features For The Classification Of Infant And Mother Vocalizations"
+publication: "Speech Commun."
+year: 2021
+external_url: https://www.semanticscholar.org/paper/c9822840c712d21846407ab501d1787e09a0a0ed
+authors: "Jialu Li, M. Hasegawa-Johnson, Nancy L. McElwain"
+---

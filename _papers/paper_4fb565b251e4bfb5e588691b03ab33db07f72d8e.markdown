@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4fb565b251e4bfb5e588691b03ab33db07f72d8e"
+title: "Memad Deliverable D 2 . 1 Libraries And Tools For Multimodal Content Analysis"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/4fb565b251e4bfb5e588691b03ab33db07f72d8e
+authors: "MeMAD Deliverable"
+---

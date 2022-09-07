@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "05890650436effd6f51f8821ac5d226545f23d08"
+title: "Data-Dependent Feature Extraction Method Based On Non-Negative Matrix Factorization For Weakly Supervised Domestic Sound Event Detection"
+publication: "Applied Sciences"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/05890650436effd6f51f8821ac5d226545f23d08
+authors: "Seokjin Lee, Minhan Kim, S. Shin, Sooyoung Park, Youngho Jeong"
+---

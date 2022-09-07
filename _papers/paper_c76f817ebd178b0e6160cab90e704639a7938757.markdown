@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c76f817ebd178b0e6160cab90e704639a7938757"
+title: "Espnet-Se++: Speech Enhancement For Robust Speech Recognition, Translation, And Understanding"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c76f817ebd178b0e6160cab90e704639a7938757
+authors: "Yen-Ju Lu, Xuankai Chang, Chenda Li, Wangyou Zhang, Samuele Cornell, Zhaoheng Ni, Yoshiki Masuyama, Brian Yan, Robin Scheibler, Zhongqiu Wang, Yu Tsao, Y. Qian, Shinji Watanabe"
+---

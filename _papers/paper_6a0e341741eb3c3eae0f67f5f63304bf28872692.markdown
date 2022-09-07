@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6a0e341741eb3c3eae0f67f5f63304bf28872692"
+title: "Accesscomics2: Understanding The User Experience Of An Accessible Comic Book Reader For Blind People With Textual Sound Effects"
+publication: "ACM Transactions on Accessible Computing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/6a0e341741eb3c3eae0f67f5f63304bf28872692
+authors: "Yunjung Lee, Hwayeon Joh, Suhyeon Yoo, U. Oh"
+---

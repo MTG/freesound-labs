@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "01402158bf7ef2b6ce631a0d82d6cbf05cda66f2"
+title: "An Exhaustive Variable Selection Study For Linear Models Of Soundscape Emotions: Rankings And Gibbs Analysis"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/01402158bf7ef2b6ce631a0d82d6cbf05cda66f2
+authors: "Roberto San Millán-Castillo, L. Martino, E. Morgado, F. Llorente"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "72f0063d56bd71fdbfa439f47aaf571d69736b2d"
+title: "Musical Instrument Recognition In Multi-Instrument Audio Contexts"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/72f0063d56bd71fdbfa439f47aaf571d69736b2d
+authors: "Venkatesh S. Kadandale"
+---

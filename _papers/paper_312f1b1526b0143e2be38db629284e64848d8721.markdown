@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "312f1b1526b0143e2be38db629284e64848d8721"
+title: "Representation Learning For The Automatic Indexing Of Sound Effects Libraries"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/312f1b1526b0143e2be38db629284e64848d8721
+authors: "Alison B. Ma, Alexander Lerch"
+---

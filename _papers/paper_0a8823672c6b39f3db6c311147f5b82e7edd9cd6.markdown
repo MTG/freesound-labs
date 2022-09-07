@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0a8823672c6b39f3db6c311147f5b82e7edd9cd6"
+title: "Retrieving Ambiguous Sounds Using Perceptual Timbral Attributes In Audio Production Environments"
+publication: ""
+year: 2017
+external_url: https://www.semanticscholar.org/paper/0a8823672c6b39f3db6c311147f5b82e7edd9cd6
+authors: "A. Correya"
+---
