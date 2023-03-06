@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "df3b387695b412726111281ce6a71eff78a10b5c"
+title: "Telehealthcare And Telepathology In Pandemic: A Noninvasive, Low-Cost Micro-Invasive And Multimodal Real-Time Online Application For Early Diagnosis Of Covid-19 Infection (Preprint)"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/df3b387695b412726111281ce6a71eff78a10b5c
+authors: "A. Shams, M. Raihan, Md. Mohi Uddin Khan, Ocean Monjur, Rahat Bin Preo"
+---

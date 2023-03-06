@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d8d3f73f92818303f45b92f676799887525dac49"
+title: "On The Detection Of Acoustic Events For Public Security: The Challenges Of The Counter-Terrorism Domain"
+publication: "IberSPEECH 2022"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/d8d3f73f92818303f45b92f676799887525dac49
+authors: "A. Pompili, Tiago Luís, Nuno Monteiro, João Miranda, Carlos Mendes, S. Paulo"
+---

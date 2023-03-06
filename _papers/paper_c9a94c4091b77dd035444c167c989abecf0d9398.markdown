@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c9a94c4091b77dd035444c167c989abecf0d9398"
+title: "Automated Audio Captioning: An Overview Of Recent Progress And New Challenges"
+publication: "EURASIP Journal on Audio, Speech, and Music Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c9a94c4091b77dd035444c167c989abecf0d9398
+authors: "Xinhao Mei, Xubo Liu, MarkD . Plumbley, Wenwu Wang"
+---

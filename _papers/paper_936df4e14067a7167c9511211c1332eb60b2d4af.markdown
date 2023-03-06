@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "936df4e14067a7167c9511211c1332eb60b2d4af"
+title: "Source Separation For Sound Event Detection In Domestic Environments Using Jointly Trained Models"
+publication: "2022 International Workshop on Acoustic Signal Enhancement (IWAENC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/936df4e14067a7167c9511211c1332eb60b2d4af
+authors: "Diego de Benito-Gorrón, Kateřina Žmolíková, D. Toledano"
+---

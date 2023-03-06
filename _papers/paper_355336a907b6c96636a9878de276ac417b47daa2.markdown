@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "355336a907b6c96636a9878de276ac417b47daa2"
+title: "Active Few-Shot Learning For Sound Event Detection"
+publication: "INTERSPEECH"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/355336a907b6c96636a9878de276ac417b47daa2
+authors: "Yu Wang, M. Cartwright, J. Bello"
+---

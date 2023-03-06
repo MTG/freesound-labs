@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "143a085ccaca38eac23cf5c46f3a862615d4f762"
+title: "Coloc: Conditioned Localizer And Classifier For Sound Event Localization And Detection"
+publication: "DCASE"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/143a085ccaca38eac23cf5c46f3a862615d4f762
+authors: "Slawomir Kapka, J. Tkaczuk"
+---

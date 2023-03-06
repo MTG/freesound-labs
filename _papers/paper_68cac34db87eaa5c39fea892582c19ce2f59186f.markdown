@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "68cac34db87eaa5c39fea892582c19ce2f59186f"
+title: "Improving Generalizability Of Distilled Self-Supervised Speech Processing Models Under Distorted Settings"
+publication: "2022 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/68cac34db87eaa5c39fea892582c19ce2f59186f
+authors: "Kuan-Po Huang, Yu-Kuan Fu, Tsung-Yuan Hsu, Fabian Ritter Gutierrez, Fan Wang, Liang-Hsuan Tseng, Yu Zhang, Hung-yi Lee"
+---

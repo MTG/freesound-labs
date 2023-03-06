@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "460005c6d75824b07350e50cc008528ae82c29d9"
+title: "A Comprehensive Environmental Sound Categorization Scheme Of An Urban City"
+publication: "Applied Acoustics"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/460005c6d75824b07350e50cc008528ae82c29d9
+authors: "Johann Kay Ann Tan, Y. Hasegawa, S. Lau"
+---

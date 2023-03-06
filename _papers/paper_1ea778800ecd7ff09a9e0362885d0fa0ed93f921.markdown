@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1ea778800ecd7ff09a9e0362885d0fa0ed93f921"
+title: "Learning Noise Robust Resnet-Based Speaker Embedding For Speaker Recognition"
+publication: "Odyssey"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/1ea778800ecd7ff09a9e0362885d0fa0ed93f921
+authors: "Mohammad MohammadAmini, D. Matrouf, J. Bonastre, Sandipana Dowerah, R. Serizel, D. Jouvet"
+---

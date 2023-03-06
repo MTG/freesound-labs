@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "075c616dac39d2868f4064d9014d575eed10c557"
+title: "Joint Optimization Of Diffusion Probabilistic-Based Multichannel Speech Enhancement With Far-Field Speaker Verification"
+publication: "2022 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/075c616dac39d2868f4064d9014d575eed10c557
+authors: "Sandipana Dowerah, R. Serizel, D. Jouvet, Mohammad MohammadAmini, D. Matrouf"
+---

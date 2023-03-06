@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0491eff16930872cf6e97b92e8e0b274c8c0c9cf"
+title: "Environmental Sound Classification Using Hybrid Ensemble Model"
+publication: "Procedia Computer Science"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/0491eff16930872cf6e97b92e8e0b274c8c0c9cf
+authors: "Anam Bansal, N. Garg"
+---

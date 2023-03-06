@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c545b70f65fb8a6e47d5b67774a8571b6cf9c818"
+title: "Sg-Vad: Stochastic Gates Based Speech Activity Detection"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c545b70f65fb8a6e47d5b67774a8571b6cf9c818
+authors: "Jonathan Svirsky, O. Lindenbaum"
+---

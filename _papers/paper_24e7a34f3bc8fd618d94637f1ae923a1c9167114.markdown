@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "24e7a34f3bc8fd618d94637f1ae923a1c9167114"
+title: "Spatial-Dccrn: Dccrn Equipped With Frame-Level Angle Feature And Hybrid Filtering For Multi-Channel Speech Enhancement"
+publication: "2022 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/24e7a34f3bc8fd618d94637f1ae923a1c9167114
+authors: "Shubo Lv, Yihui Fu, Yukai Jv, Linfu Xie, Weixin Zhu, Wei Rao, Yannan Wang"
+---

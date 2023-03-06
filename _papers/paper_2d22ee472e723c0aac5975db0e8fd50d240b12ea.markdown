@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2d22ee472e723c0aac5975db0e8fd50d240b12ea"
+title: "I2Cr: Improving Noise Robustness On Keyword Spotting Using Inter-Intra Contrastive Regularization"
+publication: "2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/2d22ee472e723c0aac5975db0e8fd50d240b12ea
+authors: "Dianwen Ng, Jia Qi Yip, Tanmay Surana, Zhao Yang, Chong Zhang, Yukun Ma, Chongjia Ni, Chng Eng Siong, B. Ma"
+---

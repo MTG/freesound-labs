@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "08e7d7d63fa9e1ab4f99883142aa8e48f3582be1"
+title: "How Much Attention Should We Pay To Mosquitoes?"
+publication: "ACM Multimedia"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/08e7d7d63fa9e1ab4f99883142aa8e48f3582be1
+authors: "Moreno La Quatra, L. Vaiani, Alkis Koudounas, Luca Cagliero, P. Garza, Elena Baralis"
+---

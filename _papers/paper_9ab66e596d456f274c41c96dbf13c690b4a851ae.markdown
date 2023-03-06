@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9ab66e596d456f274c41c96dbf13c690b4a851ae"
+title: "Empirical Mode Decomposition-Based Feature Extraction For Environmental Sound Classification"
+publication: "Sensors"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/9ab66e596d456f274c41c96dbf13c690b4a851ae
+authors: "Ammar Ahmed, Y. Serrestou, K. Raoof, J. Diouris"
+---

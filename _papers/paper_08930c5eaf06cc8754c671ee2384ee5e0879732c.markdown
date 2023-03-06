@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "08930c5eaf06cc8754c671ee2384ee5e0879732c"
+title: "Graph Node Embeddings For Ontology-Aware Sound Event Classification: An Evaluation Study"
+publication: "2022 30th European Signal Processing Conference (EUSIPCO)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/08930c5eaf06cc8754c671ee2384ee5e0879732c
+authors: "Carlo Aironi, Samuele Cornell, E. Principi, S. Squartini"
+---

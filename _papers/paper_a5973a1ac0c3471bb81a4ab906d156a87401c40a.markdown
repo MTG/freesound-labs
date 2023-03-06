@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a5973a1ac0c3471bb81a4ab906d156a87401c40a"
+title: "Dehubert: Disentangling Noise In A Self-Supervised Model For Robust Speech Recognition"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a5973a1ac0c3471bb81a4ab906d156a87401c40a
+authors: "Dianwen Ng, Ruixiong Zhang, Jia Qi Yip, Zhao Yang, Jinjie Ni, Chong Zhang, Yukun Ma, Chongjia Ni, E. Chng, B. Ma"
+---

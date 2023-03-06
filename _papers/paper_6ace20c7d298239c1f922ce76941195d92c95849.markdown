@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6ace20c7d298239c1f922ce76941195d92c95849"
+title: "Adaptive Generalized Cross-Entropy Loss For Sound Event Classification With Noisy Labels"
+publication: "2021 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/6ace20c7d298239c1f922ce76941195d92c95849
+authors: "Jun Deng, Chunhui Gao, Qian Feng, Xinzhou Xu, Zhaopeng Chen"
+---

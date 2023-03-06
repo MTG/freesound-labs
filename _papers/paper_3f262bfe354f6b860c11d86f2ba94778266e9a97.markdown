@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3f262bfe354f6b860c11d86f2ba94778266e9a97"
+title: "“Give Me Happy Pop Songs In C Major And With A Fast Tempo”: A Vocal Assistant For Content-Based Queries To Online Music Repositories"
+publication: "International Journal of Human-Computer Studies"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/3f262bfe354f6b860c11d86f2ba94778266e9a97
+authors: "L. Turchet, Carlo Zanotto, J. Pauwels"
+---

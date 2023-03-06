@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8ddac11c2359f4499e397dd47e66f84a39cd3025"
+title: "Cross-Modal Fine-Tuning: Align Then Refine"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/8ddac11c2359f4499e397dd47e66f84a39cd3025
+authors: "Junhong Shen, Liam Li, L. Dery, Corey Staten, M. Khodak, Graham Neubig, Ameet S. Talwalkar"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "260699e15cb4c37cce59e500691d893626573723"
+title: "Deep Audio Prior"
+publication: "ArXiv"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/260699e15cb4c37cce59e500691d893626573723
+authors: "Yapeng Tian, Chenliang Xu, Dingzeyu Li"
+---

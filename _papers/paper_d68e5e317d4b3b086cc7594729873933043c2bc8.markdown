@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d68e5e317d4b3b086cc7594729873933043c2bc8"
+title: "Real-Time Detection Of Sleep Apnea Based On Breathing Sounds And Prediction Reinforcement Using Home Noises: Algorithm Development And Validation."
+publication: "Journal of medical Internet research"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d68e5e317d4b3b086cc7594729873933043c2bc8
+authors: "Vu Linh Le, Daewoo Kim, Eunsung Cho, Hyeryung Jang, Roben Delos Reyes, Hyunggug Kim, Dongheon Lee, I. Yoon, Joonki Hong, J. Kim"
+---

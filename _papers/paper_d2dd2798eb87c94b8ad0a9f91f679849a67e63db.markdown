@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d2dd2798eb87c94b8ad0a9f91f679849a67e63db"
+title: "How To Leverage Dnn-Based Speech Enhancement For Multi-Channel Speaker Verification?"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/d2dd2798eb87c94b8ad0a9f91f679849a67e63db
+authors: "Sandipana Dowerah, R. Serizel, D. Jouvet, Mohammad MohammadAmini, D. Matrouf"
+---

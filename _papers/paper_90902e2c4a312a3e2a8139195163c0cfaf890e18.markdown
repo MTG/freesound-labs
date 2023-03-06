@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "90902e2c4a312a3e2a8139195163c0cfaf890e18"
+title: "Urban Rhapsody: Large‐Scale Exploration Of Urban Soundscapes"
+publication: "Comput. Graph. Forum"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/90902e2c4a312a3e2a8139195163c0cfaf890e18
+authors: "J. Rulff, Fábio Miranda, Maryam Hosseini, Marcos Lage, M. Cartwright, Graham Dove, J. Bello, Cláudio T. Silva"
+---

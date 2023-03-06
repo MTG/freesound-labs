@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c153d87be2a330cf2c33e9539edd306d5961266b"
+title: "Towards Naturalistic Speech Decoding From Intracranial Brain Data"
+publication: "2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c153d87be2a330cf2c33e9539edd306d5961266b
+authors: "Julia Berezutskaya, L. Ambrogioni, N. Ramsey, M. Gerven"
+---

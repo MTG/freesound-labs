@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8653b541a1d94c13b57dc9d584249d88275461e2"
+title: "Sound Event Localization And Detection For Real Spatial Sound Scenes: Event-Independent Network And Data Augmentation Chains"
+publication: "DCASE"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/8653b541a1d94c13b57dc9d584249d88275461e2
+authors: "Jinbo Hu, Yin Cao, Ming Wu, Qiuqiang Kong, Feiran Yang, MarkD . Plumbley, J. Yang"
+---

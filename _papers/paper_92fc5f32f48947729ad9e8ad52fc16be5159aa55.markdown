@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "92fc5f32f48947729ad9e8ad52fc16be5159aa55"
+title: "Ontology-Aware Learning And Evaluation For Audio Tagging"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/92fc5f32f48947729ad9e8ad52fc16be5159aa55
+authors: "Haohe Liu, Qiuqiang Kong, Xubo Liu, Xinhao Mei, Wenwu Wang, MarkD . Plumbley"
+---

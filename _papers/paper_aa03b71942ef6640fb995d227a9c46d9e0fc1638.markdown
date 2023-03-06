@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "aa03b71942ef6640fb995d227a9c46d9e0fc1638"
+title: "Marblenet: A Deep Neural Network Solution For Vietnamese Voice Activity Detection"
+publication: "2022 9th NAFOSTED Conference on Information and Computer Science (NICS)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/aa03b71942ef6640fb995d227a9c46d9e0fc1638
+authors: "Hoang-Thi Nguyen-Vo, Huy Nguycn-Gia, Hoan-Duy Nguyen-Tran, Hoang Pham-Minh, Hung Vo-Thanh, Hao Do-Due"
+---

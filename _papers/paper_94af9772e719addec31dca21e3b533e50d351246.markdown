@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "94af9772e719addec31dca21e3b533e50d351246"
+title: "Distributed Active Noise Control Based On Inverse Tangent Robust Least Mean Logarithmic Square"
+publication: "2022 IEEE International Symposium on Smart Electronic Systems (iSES)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/94af9772e719addec31dca21e3b533e50d351246
+authors: "Rajapantula Kranthi, Vasundhara"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "732db04372de1ee796d86448927339158d662942"
+title: "Large-Scale Contrastive Language-Audio Pretraining With Feature Fusion And Keyword-To-Caption Augmentation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/732db04372de1ee796d86448927339158d662942
+authors: "Yusong Wu, K. Chen, Tianyu Zhang, Yuchen Hui, Taylor Berg-Kirkpatrick, S. Dubnov"
+---

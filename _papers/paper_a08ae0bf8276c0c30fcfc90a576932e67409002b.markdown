@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a08ae0bf8276c0c30fcfc90a576932e67409002b"
+title: "A Proposal And Evaluation Of New Timbre Visualization Methods For Audio Sample Browsers"
+publication: "Personal and Ubiquitous Computing"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/a08ae0bf8276c0c30fcfc90a576932e67409002b
+authors: "Etienne Richan, J. Rouat"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0464a3b17e9f63d7e874ad5aeac18190b881531a"
+title: "Incremental Multiclass Open-Set Audio Recognition"
+publication: "International Journal of Advances in Intelligent Informatics"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0464a3b17e9f63d7e874ad5aeac18190b881531a
+authors: "H. Jleed, M. Bouchard"
+---

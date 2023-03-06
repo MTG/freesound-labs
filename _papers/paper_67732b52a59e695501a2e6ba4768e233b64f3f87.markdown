@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "67732b52a59e695501a2e6ba4768e233b64f3f87"
+title: "Breaking The Trade-Off In Personalized Speech Enhancement With Cross-Task Knowledge Distillation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/67732b52a59e695501a2e6ba4768e233b64f3f87
+authors: "H. Taherian, S. Eskimez, Takuya Yoshioka"
+---

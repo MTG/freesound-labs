@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "41b870727866f32d687b425552fc4a82ddeb2bec"
+title: "Amortised Invariance Learning For Contrastive Self-Supervision"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/41b870727866f32d687b425552fc4a82ddeb2bec
+authors: "Ruchika Chavhan, Henry G. R. Gouk, Jan Stuehmer, Calum Heggan, Mehrdad Yaghoobi, Timothy M. Hospedales"
+---

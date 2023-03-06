@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0863dc3e2745da33c0bf45da838492ec7da79766"
+title: "Fast Entropy-Based Methods Of Word-Level Confidence Estimation For End-To-End Automatic Speech Recognition"
+publication: "2022 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0863dc3e2745da33c0bf45da838492ec7da79766
+authors: "A. Laptev, Boris Ginsburg"
+---

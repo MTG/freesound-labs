@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5888305da24386a1360c4330fe82b38611be8f13"
+title: "Automatic Behavior Assessment From Uncontrolled Everyday Audio Recordings By Deep Learning"
+publication: "Sensors"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/5888305da24386a1360c4330fe82b38611be8f13
+authors: "David Schindler, S. Spors, Burcu Demiray, Frank Krüger"
+---

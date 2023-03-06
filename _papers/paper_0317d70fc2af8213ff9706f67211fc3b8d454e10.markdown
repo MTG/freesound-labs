@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0317d70fc2af8213ff9706f67211fc3b8d454e10"
+title: "Text-To-Audio Grounding Based Novel Metric For Evaluating Audio Caption Similarity"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0317d70fc2af8213ff9706f67211fc3b8d454e10
+authors: "Swapnil Bhosale, Rupayan Chakraborty, S. Kopparapu"
+---

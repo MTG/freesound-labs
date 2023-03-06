@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ae224942e32b5231c13a22d8738a27495bc889cc"
+title: "An Empirical Study Of Weakly Supervised Audio Tagging Embeddings For General Audio Representations"
+publication: "Odyssey"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/ae224942e32b5231c13a22d8738a27495bc889cc
+authors: "Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang"
+---

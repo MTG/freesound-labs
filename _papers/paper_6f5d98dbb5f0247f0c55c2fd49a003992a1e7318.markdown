@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6f5d98dbb5f0247f0c55c2fd49a003992a1e7318"
+title: "L3Das21 Challenge: Machine Learning For 3D Audio Signal Processing"
+publication: "2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/6f5d98dbb5f0247f0c55c2fd49a003992a1e7318
+authors: "E. Guizzo, Riccardo F. Gramaccioni, Saeid Jamili, C. Marinoni, Edoardo Massaro, Claudia Medaglia, Giuseppe Nachira, Leonardo Nucciarelli, Ludovica Paglialunga, Marco Pennese, Sveva Pepe, Enrico Rocchi, A. Uncini, D. Comminiello"
+---

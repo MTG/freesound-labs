@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "afe6957186142f8c5c3d78483a59143100e66da4"
+title: "Nas-Bench-360: Benchmarking Neural Architecture Search On Diverse Tasks"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/afe6957186142f8c5c3d78483a59143100e66da4
+authors: "Renbo Tu, Nicholas Roberts, M. Khodak, Jun Shen, Frederic Sala, Ameet S. Talwalkar"
+---

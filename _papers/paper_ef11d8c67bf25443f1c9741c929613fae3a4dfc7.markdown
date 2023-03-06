@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ef11d8c67bf25443f1c9741c929613fae3a4dfc7"
+title: "Pyrenote: A Web-Based, Manual Annotation Tool For Passive Acoustic Monitoring"
+publication: "2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems (MASS)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/ef11d8c67bf25443f1c9741c929613fae3a4dfc7
+authors: "Sean Perry, Vaibhav Tiwari, Nishant Balaji, Erika Joun, Jacob Ayers, M. Tobler, Ian Ingram, Ryan Kastner, C. Schurgers"
+---

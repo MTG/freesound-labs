@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0bfd088fd8a43820aa1501f805d96d64cb8683e0"
+title: "Language-Based Audio Retrieval Task In Dcase 2022 Challenge"
+publication: "DCASE"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0bfd088fd8a43820aa1501f805d96d64cb8683e0
+authors: "Huang Xie, Samuel Lipping, T. Virtanen"
+---

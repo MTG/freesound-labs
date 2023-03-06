@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c6812a0a0cc83cea5b4dd919490b382e592f8f8c"
+title: "Soundbeam: Target Sound Extraction Conditioned On Sound-Class Labels And Enrollment Clues For Increased Performance And Continuous Learning"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c6812a0a0cc83cea5b4dd919490b382e592f8f8c
+authors: "Marc Delcroix, Jorge Bennasar V'azquez, Tsubasa Ochiai, K. Kinoshita, Yasunori Ohishi, S. Araki"
+---

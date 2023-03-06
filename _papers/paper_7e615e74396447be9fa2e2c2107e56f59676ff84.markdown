@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7e615e74396447be9fa2e2c2107e56f59676ff84"
+title: "Continual Self-Training With Bootstrapped Remixing For Speech Enhancement"
+publication: "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/7e615e74396447be9fa2e2c2107e56f59676ff84
+authors: "Efthymios Tzinis, Yossi Adi, V. Ithapu, Buye Xu, Anurag Kumar"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d72cce2e556c642ebf10fa53c84f08ba971e16f8"
+title: "Measurements, Analysis, Classification, And Detection Of Gunshot And Gunshot-Like Sounds"
+publication: "Sensors"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/d72cce2e556c642ebf10fa53c84f08ba971e16f8
+authors: "R. B. Singh, H. Zhuang"
+---

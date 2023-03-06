@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2a9e62488214b8faa671caeb22c94ebe2894bbc4"
+title: "Frequency Bin-Wise Single Channel Speech Presence Probability Estimation Using Multiple Dnns"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/2a9e62488214b8faa671caeb22c94ebe2894bbc4
+authors: "Shuai Tao, Himavanth Reddy, J. Jensen, M. G. Christensen"
+---

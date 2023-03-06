@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "65f1595bad9c04a01c2ec3da87467970ab363ded"
+title: "Learning General Audio Representations With Large-Scale Training Of Patchout Audio Transformers"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/65f1595bad9c04a01c2ec3da87467970ab363ded
+authors: "Khaled Koutini, Shahed Masoudian, Florian Schmid, Hamid Eghbal-zadeh, Jan Schluter, G. Widmer"
+---

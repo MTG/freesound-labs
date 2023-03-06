@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a28c1f20974de555b22363e77d1274448c90730f"
+title: "Adversarial Permutation Invariant Training For Universal Sound Separation"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/a28c1f20974de555b22363e77d1274448c90730f
+authors: "Emilian Postolache, Jordi Pons, Santiago Pascual, Joan Serra"
+---

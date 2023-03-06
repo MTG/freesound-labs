@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d43677ae3f96f1b0963fcc5c93499c47c1fe3383"
+title: "Sound Event Detection For Human Safety And Security In Noisy Environments"
+publication: "IEEE Access"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/d43677ae3f96f1b0963fcc5c93499c47c1fe3383
+authors: "M. Neri, F. Battisti, A. Neri, M. Carli"
+---

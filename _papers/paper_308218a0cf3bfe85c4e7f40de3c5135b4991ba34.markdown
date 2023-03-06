@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "308218a0cf3bfe85c4e7f40de3c5135b4991ba34"
+title: "Albayzín-2014 Evaluation: Audio Segmentation And Classification In Broadcast News Domains"
+publication: "EURASIP J. Audio Speech Music. Process."
+year: 2015
+external_url: https://www.semanticscholar.org/paper/308218a0cf3bfe85c4e7f40de3c5135b4991ba34
+authors: "Diego Castán, David Tavarez, Paula Lopez-Otero, J. Franco-Pedroso, H. Delgado, E. Navas, Laura Docío Fernández, Daniel Ramos, J. Serrano, A. Ortega, EDUARDO LLEIDA SOLANO"
+---

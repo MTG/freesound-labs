@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c9e92a746e563acff56dcf88c2939cac715a8501"
+title: "On Sorting And Padding Multiple Targets For Sound Event Localization And Detection With Permutation Invariant And Location-Based Training"
+publication: "2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c9e92a746e563acff56dcf88c2939cac715a8501
+authors: "Robin Scheibler, Tatsuya Komatsu, Yusuke Fujita, Michael Hentschel"
+---

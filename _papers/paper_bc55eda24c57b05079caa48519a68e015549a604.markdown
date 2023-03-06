@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bc55eda24c57b05079caa48519a68e015549a604"
+title: "Description And Analysis Of Novelties Introduced In Dcase Task 4 2022 On The Baseline System"
+publication: "DCASE"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/bc55eda24c57b05079caa48519a68e015549a604
+authors: "Francesca Ronchini, Samuele Cornell, R. Serizel, Nicolas Turpault, Eduardo Fonseca, D. Ellis"
+---

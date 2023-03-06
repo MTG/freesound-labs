@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3f54446d9d4250eca169e4ce38d7568b5422eec5"
+title: "Multichannel Environmental Sound Segmentation"
+publication: "Applied Intelligence"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/3f54446d9d4250eca169e4ce38d7568b5422eec5
+authors: "Yui Sudo, Katsutoshi Itoyama, Kenji Nishida, K. Nakadai"
+---

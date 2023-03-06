@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "19051b9b7b1541b7094a14e49b3c933d6a144833"
+title: "Freesoundvr: Soundscape Composition In Virtual Reality Using Online Sound Repositories"
+publication: "Virtual Reality"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/19051b9b7b1541b7094a14e49b3c933d6a144833
+authors: "L. Turchet, Marco Carraro, Matteo Tomasetti"
+---

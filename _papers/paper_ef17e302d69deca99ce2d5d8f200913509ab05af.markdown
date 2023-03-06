@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ef17e302d69deca99ce2d5d8f200913509ab05af"
+title: "A Data-Driven Approach To Audio Decorrelation"
+publication: "IEEE Signal Processing Letters"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/ef17e302d69deca99ce2d5d8f200913509ab05af
+authors: "Carlotta Anemuller, O. Thiergart, Emanuël Habets"
+---

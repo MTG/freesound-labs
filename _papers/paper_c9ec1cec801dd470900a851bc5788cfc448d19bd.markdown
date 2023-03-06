@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c9ec1cec801dd470900a851bc5788cfc448d19bd"
+title: "Speak Like A Dog: Human To Non-Human Creature Voice Conversion"
+publication: "2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c9ec1cec801dd470900a851bc5788cfc448d19bd
+authors: "Kohei Suzuki, Shoki Sakamoto, T. Taniguchi, H. Kameoka"
+---

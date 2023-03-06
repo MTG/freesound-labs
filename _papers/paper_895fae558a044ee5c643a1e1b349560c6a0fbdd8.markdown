@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "895fae558a044ee5c643a1e1b349560c6a0fbdd8"
+title: "Strong Labeling Of Sound Events Using Crowdsourced Weak Labels And Annotator Competence Estimation"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/895fae558a044ee5c643a1e1b349560c6a0fbdd8
+authors: "Irene Martín-Morató, A. Mesaros"
+---

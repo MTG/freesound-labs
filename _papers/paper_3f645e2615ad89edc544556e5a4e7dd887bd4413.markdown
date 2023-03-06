@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3f645e2615ad89edc544556e5a4e7dd887bd4413"
+title: "Sound Classification And Processing Of Urban Environments: A Systematic Literature Review"
+publication: "Sensors"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/3f645e2615ad89edc544556e5a4e7dd887bd4413
+authors: "Ana Filipa Rodrigues Nogueira, Hugo S. Oliveira, J. Machado, J. M. R. Tavares"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8b7d0e17964ae5b8d291972e8e470a71bf4b2821"
+title: "Comparison Of Semi-Supervised Deep Learning Algorithms For Audio Classification"
+publication: "EURASIP Journal on Audio, Speech, and Music Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/8b7d0e17964ae5b8d291972e8e470a71bf4b2821
+authors: "Léo Cances, E. Labbé, Thomas Pellegrini"
+---

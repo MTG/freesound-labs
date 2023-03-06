@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7526713740a77d2895f5431476e00f0106e44272"
+title: "Tackling The Cocktail Fork Problem For Separation And Transcription Of Real-World Soundtracks"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/7526713740a77d2895f5431476e00f0106e44272
+authors: "Darius Petermann, G. Wichern, A. Subramanian, Zhong-Qiu Wang, Jonathan Le Roux"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "83ae44d08ee5c1348b0fd5fa3ed9b4236f98ca95"
+title: "Learning From Taxonomy: Multi-Label Few-Shot Classification For Everyday Sound Recognition"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/83ae44d08ee5c1348b0fd5fa3ed9b4236f98ca95
+authors: "Jinhua Liang, Huy Phan, Emmanouil Benetos"
+---

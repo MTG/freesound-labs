@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "553aca442e26eed6d13adc01162747ee8a9f9c06"
+title: "Multi-Scale Convolution For Sound Event Detection Technology"
+publication: "2022 IEEE 2nd International Conference on Mobile Networks and Wireless Communications (ICMNWC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/553aca442e26eed6d13adc01162747ee8a9f9c06
+authors: "Shuozhen Yang, Long Zhang, Yuhua Wei, Hengyuan Zhang"
+---

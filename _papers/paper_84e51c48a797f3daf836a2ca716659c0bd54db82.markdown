@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "84e51c48a797f3daf836a2ca716659c0bd54db82"
+title: "On Negative Sampling For Contrastive Audio-Text Retrieval"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/84e51c48a797f3daf836a2ca716659c0bd54db82
+authors: "Huang Xie, O. Räsänen, T. Virtanen"
+---

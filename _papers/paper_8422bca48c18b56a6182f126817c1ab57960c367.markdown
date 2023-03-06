@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8422bca48c18b56a6182f126817c1ab57960c367"
+title: "Fight Fire With Fire: Detecting Forest Fires With Embedded Machine Learning Models Dealing With Audio And Images On Low Power Iot Devices"
+publication: "Sensors"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/8422bca48c18b56a6182f126817c1ab57960c367
+authors: "G. Peruzzi, A. Pozzebon, Mattia Van Der Meer"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ed85217a33b50c642977d081b1a34b34036c4b55"
+title: "A Dataset For Audio-Visual Sound Event Detection In Movies"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ed85217a33b50c642977d081b1a34b34036c4b55
+authors: "Rajat Hebbar, Digbalay Bose, Krishna Somandepalli, Veena Vijai, Shrikanth S. Narayanan"
+---

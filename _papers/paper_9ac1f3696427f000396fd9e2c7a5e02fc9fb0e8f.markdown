@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9ac1f3696427f000396fd9e2c7a5e02fc9fb0e8f"
+title: "Integrated Parameter-Efficient Tuning For General-Purpose Audio Models"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/9ac1f3696427f000396fd9e2c7a5e02fc9fb0e8f
+authors: "Ju-ho Kim, Ju-Sung Heo, Hyun-seo Shin, Chanmann Lim, Ha-jin Yu"
+---

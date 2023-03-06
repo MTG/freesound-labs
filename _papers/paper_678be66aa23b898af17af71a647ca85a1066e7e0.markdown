@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "678be66aa23b898af17af71a647ca85a1066e7e0"
+title: "Describing Emotions With Acoustic Property Prompts For Speech Emotion Recognition"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/678be66aa23b898af17af71a647ca85a1066e7e0
+authors: "Hira Dhamyal, Benjamin Elizalde, Soham Deshmukh, Huaming Wang, B. Raj, Rita Singh"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "43e94dc3f2faf1ab99c3a07017e735329c93a6dc"
+title: "L3Das22 Challenge: Learning 3D Audio Sources In A Real Office Environment"
+publication: "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/43e94dc3f2faf1ab99c3a07017e735329c93a6dc
+authors: "E. Guizzo, C. Marinoni, Marco Pennese, Xinlei Ren, Xiguang Zheng, Chen Zhang, B. Masiero, A. Uncini, D. Comminiello"
+---

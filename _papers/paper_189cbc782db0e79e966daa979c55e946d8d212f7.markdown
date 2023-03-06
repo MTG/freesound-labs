@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "189cbc782db0e79e966daa979c55e946d8d212f7"
+title: "Integrating Isolated Examples With Weakly-Supervised Sound Event Detection: A Direct Approach"
+publication: "DCASE"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/189cbc782db0e79e966daa979c55e946d8d212f7
+authors: "M. Abdollahi, R. Serizel, A. Rakotomamonjy, G. Gasso"
+---

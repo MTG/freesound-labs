@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bccf87b61a9549fff4c79e17c43c6b9051e7186a"
+title: "Aves: Animal Vocalization Encoder Based On Self-Supervision"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/bccf87b61a9549fff4c79e17c43c6b9051e7186a
+authors: "Masato Hagiwara"
+---

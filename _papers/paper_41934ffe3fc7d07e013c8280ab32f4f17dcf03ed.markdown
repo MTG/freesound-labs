@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "41934ffe3fc7d07e013c8280ab32f4f17dcf03ed"
+title: "Towards An Eﬀicient Computation Of Masks For Multichannel Speech Enhancement"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/41934ffe3fc7d07e013c8280ab32f4f17dcf03ed
+authors: "L. Delebecque, R. Serizel, Nicolas Furnon"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c49f663931171f80bf409ac27dd704943c224a68"
+title: "Efficient Architecture Search For Diverse Tasks"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c49f663931171f80bf409ac27dd704943c224a68
+authors: "Jun Shen, M. Khodak, Ameet S. Talwalkar"
+---

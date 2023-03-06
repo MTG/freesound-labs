@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "152e4fd90b0f91200ba3b3316d83a9a50d374cd6"
+title: "Decorrelating Feature Spaces For Learning General-Purpose Audio Representations"
+publication: "IEEE Journal of Selected Topics in Signal Processing"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/152e4fd90b0f91200ba3b3316d83a9a50d374cd6
+authors: "Sreyan Ghosh, Ashish Seth, S. Umesh"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8e4e1f621dc8b605a8b6eb621ef4c4c30405da64"
+title: "Speech Enhancement Using Self-Supervised Pre-Trained Model And Vector Quantization"
+publication: "2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/8e4e1f621dc8b605a8b6eb621ef4c4c30405da64
+authors: "Xiaokang Zhao, Qiu-shi Zhu, J. Zhang"
+---

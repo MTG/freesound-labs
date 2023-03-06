@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b50c27607d7a858297232310bbec9819ade875a8"
+title: "Speechprompt V2: Prompt Tuning For Speech Classification Tasks"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/b50c27607d7a858297232310bbec9819ade875a8
+authors: "Kai-Wei Chang, Yu-Kai Wang, Hua Shen, Iu-thing Kang, W. Tseng, Shang-Wen Li, Hung-yi Lee"
+---

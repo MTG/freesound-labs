@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c822a21284f6fdb795fe80bfd4ce4c0b0647e8b1"
+title: "When Evil Calls: Targeted Adversarial Voice Over Ip Network"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c822a21284f6fdb795fe80bfd4ce4c0b0647e8b1
+authors: "Han Liu, H. Liu"
+---

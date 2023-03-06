@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bb4064e28d88f62a2d0a65df2de0814a29667bbf"
+title: "The Efficacy Of Self-Supervised Speech Models For Audio Representations"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/bb4064e28d88f62a2d0a65df2de0814a29667bbf
+authors: "Tung-Yu Wu, Chen-An Li, Tzu-Han Lin, Tsung-Yuan Hsu, Hung-yi Lee"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b43f302b5e5d7f9136524ea7a8b94981f94d981f"
+title: "Lean: Light And Efficient Audio Classification Network"
+publication: "2022 IEEE 19th India Council International Conference (INDICON)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/b43f302b5e5d7f9136524ea7a8b94981f94d981f
+authors: "Shwetank Choudhary, C. Karthik, Punuru Sri Lakshmi, Sumit Kumar"
+---

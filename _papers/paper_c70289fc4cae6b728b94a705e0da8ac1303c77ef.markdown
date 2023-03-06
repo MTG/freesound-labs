@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c70289fc4cae6b728b94a705e0da8ac1303c77ef"
+title: "Slicer: Learning Universal Audio Representations Using Low-Resource Self-Supervised Pre-Training"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/c70289fc4cae6b728b94a705e0da8ac1303c77ef
+authors: "Ashish Seth, Sreyan Ghosh, S. Umesh, Dinesh Manocha"
+---

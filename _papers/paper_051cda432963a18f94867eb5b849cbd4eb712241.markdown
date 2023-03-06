@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "051cda432963a18f94867eb5b849cbd4eb712241"
+title: "Large-Scale Audio Dataset For Emergency Vehicle Sirens And Road Noises"
+publication: "Scientific Data"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/051cda432963a18f94867eb5b849cbd4eb712241
+authors: "Muhammad Asif, Muhammad Usaid, Munaf Rashid, Tabarka Rajab, S. Hussain, Sarwar Wasi"
+---

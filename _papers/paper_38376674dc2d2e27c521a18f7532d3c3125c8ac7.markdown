@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "38376674dc2d2e27c521a18f7532d3c3125c8ac7"
+title: "Xkd: Cross-Modal Knowledge Distillation With Domain Alignment For Video Representation Learning"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/38376674dc2d2e27c521a18f7532d3c3125c8ac7
+authors: "Pritam Sarkar, A. Etemad"
+---
