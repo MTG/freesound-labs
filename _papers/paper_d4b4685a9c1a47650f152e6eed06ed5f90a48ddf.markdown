@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d4b4685a9c1a47650f152e6eed06ed5f90a48ddf"
+title: "Performance Above All ? Energy Consumption Vs. Performance For Machine Listening, A Study On Dcase Task 4 Baseline"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d4b4685a9c1a47650f152e6eed06ed5f90a48ddf
+authors: "R. Serizel, Samuele Cornell, Nicolas Turpault"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ab7631cd1526297ad41e8429136e757b3a5612d5"
+title: "Soundsynp: Sound Source Detection From Raw Waveforms With Multi-Scale Synperiodic Filterbanks"
+publication: "AISTATS"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ab7631cd1526297ad41e8429136e757b3a5612d5
+authors: "Yuhang He, A. Markham"
+---

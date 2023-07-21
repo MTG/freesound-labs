@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "187703129bb0da27e0d3bda51320bb85efd34821"
+title: "Audit: Audio Editing By Following Instructions With Latent Diffusion Models"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/187703129bb0da27e0d3bda51320bb85efd34821
+authors: "Yuancheng Wang, Zeqian Ju, Xuejiao Tan, Lei He, Zhizheng Wu, Jiang Bian, Sheng Zhao"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ad22af138fa1d1490cda0301abf8159a7c30c5a2"
+title: "Pengi: An Audio Language Model For Audio Tasks"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ad22af138fa1d1490cda0301abf8159a7c30c5a2
+authors: "Soham Deshmukh, Benjamin Elizalde, Rita Singh, Huaming Wang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5fd92e1694900cac37f4d73331020e457bba1a7d"
+title: "Self-Supervised Audio Teacher-Student Transformer For Both Clip-Level And Frame-Level Tasks"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/5fd92e1694900cac37f4d73331020e457bba1a7d
+authors: "Xian Li, Nian Shao, Xiaofei Li"
+---

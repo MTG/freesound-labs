@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e4bae6b0ae0bdb348ca0588a786e4c43b3a95125"
+title: "The Internet Of Sounds: Convergent Trends, Insights, And Future Directions"
+publication: "IEEE Internet of Things Journal"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/e4bae6b0ae0bdb348ca0588a786e4c43b3a95125
+authors: "L. Turchet, M. Lagrange, C. Rottondi, György Fazekas, Nils Peters, J. Ostergaard, F. Font, T. Backstrom, C. Fischione"
+---

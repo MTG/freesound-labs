@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6f54e610f7470108cfd3c5dbcf989bb64dad2090"
+title: "Adversarial Representation Learning For Robust Privacy Preservation In Audio"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/6f54e610f7470108cfd3c5dbcf989bb64dad2090
+authors: "Shayan Gharib, Minh Tran, Diep Luong, K. Drossos, T. Virtanen"
+---

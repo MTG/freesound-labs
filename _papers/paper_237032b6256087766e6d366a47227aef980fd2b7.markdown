@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "237032b6256087766e6d366a47227aef980fd2b7"
+title: "Adapting Language-Audio Models As Few-Shot Audio Learners"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/237032b6256087766e6d366a47227aef980fd2b7
+authors: "Jinhua Liang, Xubo Liu, Haohe Liu, Huy Phan, Emmanouil Benetos, MarkD . Plumbley, Wenwu Wang"
+---

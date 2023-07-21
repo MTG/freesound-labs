@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1b79aa7050389c9cf2d826e452d3d94fa2bf54f9"
+title: "Human-Like Modulation Sensitivity Emerging Through Optimization To Natural Sound Recognition"
+publication: "The Journal of Neuroscience"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/1b79aa7050389c9cf2d826e452d3d94fa2bf54f9
+authors: "Takuya Koumura, Hiroki Terashima, S. Furukawa"
+---

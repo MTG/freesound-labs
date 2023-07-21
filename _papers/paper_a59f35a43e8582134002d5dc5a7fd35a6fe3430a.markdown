@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a59f35a43e8582134002d5dc5a7fd35a6fe3430a"
+title: "Vifs: An End-To-End Variational Inference For Foley Sound Synthesis"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a59f35a43e8582134002d5dc5a7fd35a6fe3430a
+authors: "Junhyeok Lee, Hyeonuk Nam, Yong-Hwa Park"
+---

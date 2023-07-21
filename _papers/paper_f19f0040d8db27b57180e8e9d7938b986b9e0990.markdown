@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f19f0040d8db27b57180e8e9d7938b986b9e0990"
+title: "Two-Stage Autoencoder Neural Network For 3D Speech Enhancement"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/f19f0040d8db27b57180e8e9d7938b986b9e0990
+authors: "Han Yin, Jisheng Bai, S. Huang, Mou Wang, Yafei Jia, Jianfeng Chen"
+---

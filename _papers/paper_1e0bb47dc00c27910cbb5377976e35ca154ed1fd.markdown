@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1e0bb47dc00c27910cbb5377976e35ca154ed1fd"
+title: "A Whisper Transformer For Audio Captioning Trained With Synthetic Captions And Transfer Learning"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/1e0bb47dc00c27910cbb5377976e35ca154ed1fd
+authors: "Marek Kadlcík, Adam H'ajek, Jürgen Kieslich, Radoslaw Winiecki"
+---

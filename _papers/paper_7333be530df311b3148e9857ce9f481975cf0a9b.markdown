@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7333be530df311b3148e9857ce9f481975cf0a9b"
+title: "Improving Perceptual Quality, Intelligibility, And Acoustics On Voip Platforms"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/7333be530df311b3148e9857ce9f481975cf0a9b
+authors: "Joseph Konan, Ojas Bhargave, Shikhar Agnihotri, Hojeong Lee, Ankit Shah, Shuo Han, YUNYANG ZENG, Amanda Shu, Haohui Liu, Xuankai Chang, Hamza Khalid, Minseon Gwak, Kawon Lee, Minjeong Kim, B. Raj"
+---

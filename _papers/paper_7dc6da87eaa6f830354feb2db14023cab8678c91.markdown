@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7dc6da87eaa6f830354feb2db14023cab8678c91"
+title: "Imagebind: One Embedding Space To Bind Them All"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/7dc6da87eaa6f830354feb2db14023cab8678c91
+authors: "Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra"
+---

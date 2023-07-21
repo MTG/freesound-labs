@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e72e406b9636fed3cd32f1839e85908e1d6a0b17"
+title: "Investigations In Audio Captioning: Addressing Vocabulary Imbalance And Evaluating Suitability Of Language-Centric Performance Metrics"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e72e406b9636fed3cd32f1839e85908e1d6a0b17
+authors: "Sandeep Reddy Kothinti, Dimitra Emmanouilidou"
+---

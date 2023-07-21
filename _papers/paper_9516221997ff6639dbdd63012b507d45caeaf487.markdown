@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9516221997ff6639dbdd63012b507d45caeaf487"
+title: "Sardbscene: Dataset And Resnet Baseline For Audio Scene Source Counting And Analysis"
+publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/9516221997ff6639dbdd63012b507d45caeaf487
+authors: "Michael Nigro, S. Krishnan"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d893920196c5679bb6cbd5e493a178b828abdc9e"
+title: "Looking Similar, Sounding Different: Leveraging Counterfactual Cross-Modal Pairs For Audiovisual Representation Learning"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d893920196c5679bb6cbd5e493a178b828abdc9e
+authors: "Nikhil Singh, Chih-Wei Wu, Iroro Orife, M. Kalayeh"
+---

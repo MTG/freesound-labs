@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2da2f8284c03a0c0df0e8b13e90bf215dd5ac786"
+title: "Listen, Think, And Understand"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/2da2f8284c03a0c0df0e8b13e90bf215dd5ac786
+authors: "Yuan Gong, Hongyin Luo, Alexander H. Liu, Leonid Karlinsky, James Glass"
+---

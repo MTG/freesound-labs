@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fc87d11b223201320020988ff3db298ff8303799"
+title: "Earcough: Enabling Continuous Subject Cough Event Detection On Hearables"
+publication: "CHI Extended Abstracts"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/fc87d11b223201320020988ff3db298ff8303799
+authors: "Xiyuxing Zhang, Yuntao Wang, Jingru Zhang, Yaqing Yang, Shwetak N. Patel, Yuanchun Shi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c09d350307e1746944ba713628fc0c1ad5c4018c"
+title: "Nonspeech7K Dataset: Classification And Analysis Of Human Non‐Speech Sound"
+publication: "IET Signal Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/c09d350307e1746944ba713628fc0c1ad5c4018c
+authors: "Muhammad Mamunur Rashid, Guiqing Li, Chengrui Du"
+---

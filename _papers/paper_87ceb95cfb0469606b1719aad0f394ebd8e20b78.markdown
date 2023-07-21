@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "87ceb95cfb0469606b1719aad0f394ebd8e20b78"
+title: "Hissnet: Sound Event Detection And Speaker Identification Via Hierarchical Prototypical Networks For Low-Resource Headphones"
+publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/87ceb95cfb0469606b1719aad0f394ebd8e20b78
+authors: "N. Shashaank, Berker Banar, M. Izadi, J. Kemmerer, Shuo Zhang, Chuanzeng Huang"
+---

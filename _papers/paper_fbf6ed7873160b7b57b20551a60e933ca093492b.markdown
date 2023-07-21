@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fbf6ed7873160b7b57b20551a60e933ca093492b"
+title: "A Cascaded Speech Enhancement For Hearing Aids In Noisy-Reverberant Conditions"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/fbf6ed7873160b7b57b20551a60e933ca093492b
+authors: "Clarity, Xi Chen, Yupeng Shi, Wei Xiao, Tingzhao Wu, Meng Wang, Shidong Shang, N. Zheng, Q. Meng"
+---

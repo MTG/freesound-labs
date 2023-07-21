@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "beea0632fa73ce4a196334d89b8c2574f8d1ce25"
+title: "A Joint Speech Enhancement And Self-Supervised Representation Learning Framework For Noise-Robust Speech Recognition"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/beea0632fa73ce4a196334d89b8c2574f8d1ce25
+authors: "Qiu-shi Zhu, J. Zhang, Zitian Zhang, Lirong Dai"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4e38fe3200544eebe57f012f91c31a0dbbc7947b"
+title: "A Noise-Robust Acoustic Method For Recognition Of Foraging Activities Of Grazing Cattle"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/4e38fe3200544eebe57f012f91c31a0dbbc7947b
+authors: "Luciano S. Martínez Rau, José O. Chelotti, M. Ferrero, J. Galli, S. Utsumi, A. Planisich, H. Rufiner, L. Giovanini"
+---

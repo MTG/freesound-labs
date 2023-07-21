@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8e05d143c1ccee946f98d4c8e67bcb55e2c1017f"
+title: "Few-Shot Class-Incremental Audio Classification Via Discriminative Prototype Learning"
+publication: "Expert Systems with Applications"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/8e05d143c1ccee946f98d4c8e67bcb55e2c1017f
+authors: "Wei-xin Xie, Yanxiong Li, Qianhua He, Wenchang Cao"
+---

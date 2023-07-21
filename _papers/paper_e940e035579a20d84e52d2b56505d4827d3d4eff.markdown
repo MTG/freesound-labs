@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e940e035579a20d84e52d2b56505d4827d3d4eff"
+title: "Human Detection Of Political Speech Deepfakes Across Transcripts, Audio, And Video"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e940e035579a20d84e52d2b56505d4827d3d4eff
+authors: "Matthew Groh, Aruna Sankaranarayanan, Nikhil Singh, Dong Young Kim, A. Lippman, Rosalind W. Picard"
+---

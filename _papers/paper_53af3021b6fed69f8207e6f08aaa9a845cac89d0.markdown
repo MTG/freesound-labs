@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "53af3021b6fed69f8207e6f08aaa9a845cac89d0"
+title: "Convolutional Recurrent Neural Network With Attention For 3D Speech Enhancement"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/53af3021b6fed69f8207e6f08aaa9a845cac89d0
+authors: "Han Yin, Jisheng Bai, Mou Wang, S. Huang, Yafei Jia, Jianfeng Chen"
+---

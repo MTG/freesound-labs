@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "760476f1762a9cfc29bb978c0334ee09ee7c29cc"
+title: "Evaluating The Performance Of Pre-Trained Convolutional Neural Network For Audio Classification On Embedded Systems For Anomaly Detection In Smart Cities"
+publication: "Sensors"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/760476f1762a9cfc29bb978c0334ee09ee7c29cc
+authors: "Mimoun Lamrini, M. Chkouri, A. Touhafi"
+---

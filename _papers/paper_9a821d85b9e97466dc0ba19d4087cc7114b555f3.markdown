@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9a821d85b9e97466dc0ba19d4087cc7114b555f3"
+title: "Learning-Based Robotic Grasping: A Review"
+publication: "Frontiers in Robotics and AI"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/9a821d85b9e97466dc0ba19d4087cc7114b555f3
+authors: "Zhenze Xie, Xinquan Liang, Canale Roberto"
+---

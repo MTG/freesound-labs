@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "60b6deb6d77f6c8d19e6398d3b06104cf30105d6"
+title: "Data Augmentation For Environmental Sound Classification Using Diffusion Probabilistic Model With Top-K Selection Discriminator"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/60b6deb6d77f6c8d19e6398d3b06104cf30105d6
+authors: "Yunhao Chen, Yunjie Zhu, Zihui Yan, Jian Shen, Zhen Ren, Yifan Huang"
+---

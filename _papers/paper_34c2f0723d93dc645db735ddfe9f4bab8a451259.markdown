@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "34c2f0723d93dc645db735ddfe9f4bab8a451259"
+title: "Sound Events Localization And Detection Using Bio-Inspired Gammatone Filters And Temporal Convolutional Neural Networks"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/34c2f0723d93dc645db735ddfe9f4bab8a451259
+authors: "Karen Gissell Rosero Jacome, Felipe Grijalva, B. Masiero"
+---

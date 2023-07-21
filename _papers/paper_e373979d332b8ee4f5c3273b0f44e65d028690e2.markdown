@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e373979d332b8ee4f5c3273b0f44e65d028690e2"
+title: "Voice Activity Detection In The Presence Of Transient Based On Graph"
+publication: "EURASIP Journal on Audio, Speech, and Music Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/e373979d332b8ee4f5c3273b0f44e65d028690e2
+authors: "Xiao-Yuan Guo, Chun-Xian Gao, Hui Liu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ebb85974e06c4879b451fdfcb4f472a09471935b"
+title: "Audiogen: Textually Guided Audio Generation"
+publication: "ICLR"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/ebb85974e06c4879b451fdfcb4f472a09471935b
+authors: "Felix Kreuk, Gabriel Synnaeve, A. Polyak, Uriel Singer, Alexandre D'efossez, Jade Copet, Devi Parikh, Yaniv Taigman, Yossi Adi"
+---

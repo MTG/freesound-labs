@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "014d7d5bba98dc6f63e417d2bcc07775b8213aa8"
+title: "Dynamic Kernel Convolution Network With Scene-Dedicate Training For Sound Event Localization And Detection"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/014d7d5bba98dc6f63e417d2bcc07775b8213aa8
+authors: "S. Huang, Jianfeng Chen, Jisheng Bai, Yafei Jia, Dongzhe Zhang"
+---

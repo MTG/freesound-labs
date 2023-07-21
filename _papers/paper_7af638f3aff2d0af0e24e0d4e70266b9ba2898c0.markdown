@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7af638f3aff2d0af0e24e0d4e70266b9ba2898c0"
+title: "Hearing As Adaptive Cascaded Envelope Interpolation"
+publication: "Communications biology"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/7af638f3aff2d0af0e24e0d4e70266b9ba2898c0
+authors: "E. Thoret, S. Ystad, R. Kronland-Martinet"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "de025df9d534593f3d6df197b021c42ca73c77c4"
+title: "Disentangling Speech From Surroundings With Neural Embeddings"
+publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/de025df9d534593f3d6df197b021c42ca73c77c4
+authors: "Ahmed Omran, Neil Zeghidour, Zalán Borsos, Félix de Chaumont Quitry, M. Slaney, M. Tagliasacchi"
+---

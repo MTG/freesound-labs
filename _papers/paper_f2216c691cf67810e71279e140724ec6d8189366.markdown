@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f2216c691cf67810e71279e140724ec6d8189366"
+title: "Unsupervised Improvement Of Audio-Text Cross-Modal Representations"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/f2216c691cf67810e71279e140724ec6d8189366
+authors: "Zhepei Wang, Cem Subakan, K. Subramani, Junkai Wu, T. Tavares, Fabio Ayres, P. Smaragdis"
+---

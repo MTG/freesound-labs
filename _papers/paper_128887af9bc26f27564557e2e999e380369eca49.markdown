@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "128887af9bc26f27564557e2e999e380369eca49"
+title: "Neural Architecture Search Benchmarks: Insights And Survey"
+publication: "IEEE Access"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/128887af9bc26f27564557e2e999e380369eca49
+authors: "Krishna Teja Chitty-Venkata, M. Emani, V. Vishwanath, Arun Somani"
+---

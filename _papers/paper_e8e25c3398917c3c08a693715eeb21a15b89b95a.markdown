@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e8e25c3398917c3c08a693715eeb21a15b89b95a"
+title: "Environmental Sound Conversion From Vocal Imitations And Sound Event Labels"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/e8e25c3398917c3c08a693715eeb21a15b89b95a
+authors: "Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryotaro Nagase, Takahiro Fukumori, Y. Yamashita"
+---

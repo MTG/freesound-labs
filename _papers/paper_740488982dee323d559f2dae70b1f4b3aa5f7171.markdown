@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "740488982dee323d559f2dae70b1f4b3aa5f7171"
+title: "Approach To Learning Generalized Audio Representation Through Batch Embedding Covariance Regularization And Constant-Q Transforms"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/740488982dee323d559f2dae70b1f4b3aa5f7171
+authors: "Ankit Shah, Shuyi Chen, Kejun Zhou, Yue Chen, B. Raj"
+---

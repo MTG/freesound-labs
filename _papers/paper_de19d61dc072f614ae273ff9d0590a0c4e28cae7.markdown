@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "de19d61dc072f614ae273ff9d0590a0c4e28cae7"
+title: "A Robust Adaptive Filter For Diffusion Strategy-Based Distributed Active Noise Control"
+publication: "IETE Journal of Research"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/de19d61dc072f614ae273ff9d0590a0c4e28cae7
+authors: "Rajapantula Kranthi, Vasundhara"
+---

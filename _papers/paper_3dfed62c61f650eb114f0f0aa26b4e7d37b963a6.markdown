@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3dfed62c61f650eb114f0f0aa26b4e7d37b963a6"
+title: "Wavcaps: A Chatgpt-Assisted Weakly-Labelled Audio Captioning Dataset For Audio-Language Multimodal Research"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/3dfed62c61f650eb114f0f0aa26b4e7d37b963a6
+authors: "Xinhao Mei, Chutong Meng, Haohe Liu, Qiuqiang Kong, Tom Ko, Chengqi Zhao, MarkD . Plumbley, Yuexian Zou, Wenwu Wang"
+---

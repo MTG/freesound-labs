@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "395d5e885d174587c4d080c68a14a0a2c230f428"
+title: "Divided Spectro-Temporal Attention For Sound Event Localization And Detection In Real Scenes For Dcase2023 Challenge"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/395d5e885d174587c4d080c68a14a0a2c230f428
+authors: "Yusun Shul, Byeongil Ko, Jung-Woo Choi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bcb740386b0b2d3756ec5d948c2f91ae966eff17"
+title: "Computation And Memory Efficient Noise Adaptation Of Wav2Vec2.0 For Noisy Speech Emotion Recognition With Skip Connection Adapters"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/bcb740386b0b2d3756ec5d948c2f91ae966eff17
+authors: "Seong-Gyun Leem, D. Fulford, J. Onnela, David E Gard, C. Busso"
+---

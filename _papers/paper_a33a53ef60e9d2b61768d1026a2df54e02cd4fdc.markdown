@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a33a53ef60e9d2b61768d1026a2df54e02cd4fdc"
+title: "Araspot: Arabic Spoken Command Spotting"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a33a53ef60e9d2b61768d1026a2df54e02cd4fdc
+authors: "Mahmoud Salhab, H. Harmanani"
+---

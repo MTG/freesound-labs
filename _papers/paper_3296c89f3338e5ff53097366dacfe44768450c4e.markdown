@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3296c89f3338e5ff53097366dacfe44768450c4e"
+title: "A Multi-Task Learning Framework For Sound Event Detection Using High-Level Acoustic Characteristics Of Sounds"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/3296c89f3338e5ff53097366dacfe44768450c4e
+authors: "Tanmay Khandelwal, Rohan Kumar Das"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ff3e5382b50295ca22136fa2a53b2b636cb0562a"
+title: "Masked Autoencoders With Multi-Window Attention Are Better Audio Learners"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ff3e5382b50295ca22136fa2a53b2b636cb0562a
+authors: "Sarthak Yadav, S. Theodoridis, Lars Kai Hansen, Z. Tan"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a18c2e0ae499bd15950f51a8e32a4200051523b7"
+title: "Content Adaptive Front End For Audio Signal Processing"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a18c2e0ae499bd15950f51a8e32a4200051523b7
+authors: "Prateek Verma, C. Chafe"
+---

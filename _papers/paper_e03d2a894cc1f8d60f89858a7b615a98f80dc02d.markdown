@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e03d2a894cc1f8d60f89858a7b615a98f80dc02d"
+title: "Learning To Detect Novel And Fine-Grained Acoustic Sequences Using Pretrained Audio Representations"
+publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/e03d2a894cc1f8d60f89858a7b615a98f80dc02d
+authors: "Vasudha Kowtha, Miquel Espi Marques, Jonathan Huang, Yichi Zhang, C. Avendaño"
+---

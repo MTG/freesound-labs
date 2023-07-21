@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cd1e768a937aa7cc620d2e1a45f491a060247c91"
+title: "A Multimodal Prototypical Approach For Unsupervised Sound Classification"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/cd1e768a937aa7cc620d2e1a45f491a060247c91
+authors: "Saksham Singh Kushwaha, Magdalena Fuentes"
+---

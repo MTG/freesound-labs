@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "962ccf1fc49c83817fb031e5b24b81b19cdfb89d"
+title: "Bubogpt: Enabling Visual Grounding In Multi-Modal Llms"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/962ccf1fc49c83817fb031e5b24b81b19cdfb89d
+authors: "Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang"
+---

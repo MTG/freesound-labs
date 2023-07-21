@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4ec06338eb0e58f29184d22a4dfb45cfe780cc27"
+title: "Araus: A Large-Scale Dataset And Baseline Models Of Affective Responses To Augmented Urban Soundscapes"
+publication: "IEEE Transactions on Affective Computing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/4ec06338eb0e58f29184d22a4dfb45cfe780cc27
+authors: "Kenneth Ooi, Zhen-Ting Ong, Karn Nichakarn Watcharasupat, Bhan Lam, J. Hong, Woon-Seng Gan Nanyang Technological University, Singapore, Chungnam National University, Daejeon, R. Korea"
+---

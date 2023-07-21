@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "84d53e36598d501e7f8942ce2ac8c43fd7623508"
+title: "The Chime-7 Dasr Challenge: Distant Meeting Transcription With Multiple Devices In Diverse Scenarios"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/84d53e36598d501e7f8942ce2ac8c43fd7623508
+authors: "Samuele Cornell, Matthew Wiesner, Shinji Watanabe, Desh Raj, Xuankai Chang, Paola García, Yoshiki Masuyama, Zhongqiu Wang, S. Squartini, S. Khudanpur"
+---

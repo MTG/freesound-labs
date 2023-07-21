@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c1f3dddf4915e2076f641660c8ce20ea7f3a9b9e"
+title: "On Frequency-Wise Normalizations For Better Recording Device Generalization In Audio Spectrogram Transformers"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/c1f3dddf4915e2076f641660c8ce20ea7f3a9b9e
+authors: "Paul Primus, G. Widmer"
+---
