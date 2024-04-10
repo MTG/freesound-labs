@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "def36525e4ff24ff459a3cc889195050cd81cd8d"
+title: "Unsupervised Improvement Of Audio-Text Cross-Modal Representations"
+publication: "2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/def36525e4ff24ff459a3cc889195050cd81cd8d
+authors: "Zhepei Wang, Cem Subakan, K. Subramani, Junkai Wu, T. Tavares, Fabio Ayres, Paris Smaragdis"
+---

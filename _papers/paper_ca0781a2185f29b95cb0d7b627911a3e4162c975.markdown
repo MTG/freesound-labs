@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ca0781a2185f29b95cb0d7b627911a3e4162c975"
+title: "Small Footprint Multi-Channel Network For Keyword Spotting With Centroid Based Awareness"
+publication: "INTERSPEECH 2023"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ca0781a2185f29b95cb0d7b627911a3e4162c975
+authors: "Dianwen Ng, Yanghua Xiao, J. Yip, Zhao Yang, Biao Tian, Qiang Fu, E. Chng, Bin Ma"
+---

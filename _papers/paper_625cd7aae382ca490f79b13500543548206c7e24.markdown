@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "625cd7aae382ca490f79b13500543548206c7e24"
+title: "Analysis Of Weak Labels For Sound Event Tagging"
+publication: ""
+year: 2021
+external_url: https://www.semanticscholar.org/paper/625cd7aae382ca490f79b13500543548206c7e24
+authors: "Nicolas Turpault, R. Serizel, E. Vincent"
+---

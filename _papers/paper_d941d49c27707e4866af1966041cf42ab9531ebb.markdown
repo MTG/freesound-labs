@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d941d49c27707e4866af1966041cf42ab9531ebb"
+title: "Selective-Memory Meta-Learning With Environment Representations For Sound Event Localization And Detection"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d941d49c27707e4866af1966041cf42ab9531ebb
+authors: "Jinbo Hu, Yin Cao, Ming Wu, Qiuqiang Kong, Feiran Yang, M. Plumbley, Jun Yang"
+---

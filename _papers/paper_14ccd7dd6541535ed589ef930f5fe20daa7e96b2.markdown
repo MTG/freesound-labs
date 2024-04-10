@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "14ccd7dd6541535ed589ef930f5fe20daa7e96b2"
+title: "Tinyclap: Distilling Constrastive Language-Audio Pretrained Models"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/14ccd7dd6541535ed589ef930f5fe20daa7e96b2
+authors: "F. Paissan, Elisabetta Farella"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0aac85fbb6be993f271c92305254ff4334ee4fad"
+title: "Attention-Based Sound Classification Pipeline With Sound Spectrum"
+publication: "2023 IEEE Sensors Applications Symposium (SAS)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/0aac85fbb6be993f271c92305254ff4334ee4fad
+authors: "Ki In Tan, Seanglidet Yean, B. Lee"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b7fc130764dc684f9376bff339c423a73b2e55b5"
+title: "Compa: Addressing The Gap In Compositional Reasoning In Audio-Language Models"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/b7fc130764dc684f9376bff339c423a73b2e55b5
+authors: "Sreyan Ghosh, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Reddy Evuru, S. Ramaneswaran, S. Sakshi, Oriol Nieto, R. Duraiswami, Dinesh Manocha"
+---

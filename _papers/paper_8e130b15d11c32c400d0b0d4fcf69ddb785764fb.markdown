@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8e130b15d11c32c400d0b0d4fcf69ddb785764fb"
+title: "Parameter Estimation Procedures For Deep Multi-Frame Mvdr Filtering For Single-Microphone Speech Enhancement"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/8e130b15d11c32c400d0b0d4fcf69ddb785764fb
+authors: "Marvin Tammen, S. Doclo"
+---

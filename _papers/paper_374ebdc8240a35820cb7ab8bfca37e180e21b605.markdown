@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "374ebdc8240a35820cb7ab8bfca37e180e21b605"
+title: "Sparks Of Large Audio Models: A Survey And Outlook"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/374ebdc8240a35820cb7ab8bfca37e180e21b605
+authors: "S. Latif, Moazzam Shoukat, Fahad Shamshad, M. Usama, Heriberto Cuay'ahuitl, Björn Schuller"
+---

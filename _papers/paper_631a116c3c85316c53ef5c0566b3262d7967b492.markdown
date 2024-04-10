@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "631a116c3c85316c53ef5c0566b3262d7967b492"
+title: "Meta-Seld: Meta-Learning For Fast Adaptation To The New Environment In Sound Event Localization And Detection"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/631a116c3c85316c53ef5c0566b3262d7967b492
+authors: "Jinbo Hu, Yin Cao, Ming Wu, Feiran Yang, Ziying Yu, Wenwu Wang, M. Plumbley, J. Yang"
+---

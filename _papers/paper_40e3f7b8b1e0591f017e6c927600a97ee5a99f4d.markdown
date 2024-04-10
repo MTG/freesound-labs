@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "40e3f7b8b1e0591f017e6c927600a97ee5a99f4d"
+title: "Psla: Improving Audio Tagging With Pretraining, Sampling, Labeling, And Aggregation"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/40e3f7b8b1e0591f017e6c927600a97ee5a99f4d
+authors: "Yuan Gong, Yu-An Chung, James R. Glass"
+---

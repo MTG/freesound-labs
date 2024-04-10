@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a6365b8935c03f3299a5d760869876f05e70b547"
+title: "Neural Audio Decorrelation Using Generative Adversarial Networks"
+publication: "2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a6365b8935c03f3299a5d760869876f05e70b547
+authors: "Carlotta Anemüller, O. Thiergart, Emanuël Habets"
+---

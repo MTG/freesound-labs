@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b1a4342950e0081fb86220105d660e36eb59a6fa"
+title: "Biophysically-Inspired Single-Channel Speech Enhancement In The Time Domain"
+publication: "INTERSPEECH 2023"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/b1a4342950e0081fb86220105d660e36eb59a6fa
+authors: "Chuan Wen, S. Verhulst"
+---

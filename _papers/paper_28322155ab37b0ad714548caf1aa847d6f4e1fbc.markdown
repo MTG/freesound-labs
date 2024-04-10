@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "28322155ab37b0ad714548caf1aa847d6f4e1fbc"
+title: "Single Channel Speech Presence Probability Estimation Based On Hybrid Global-Local Information"
+publication: "2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/28322155ab37b0ad714548caf1aa847d6f4e1fbc
+authors: "Shuai Tao, Yang Xiang, Himavanth Reddy, Jesper Rindom Jensen, M. G. Christensen"
+---

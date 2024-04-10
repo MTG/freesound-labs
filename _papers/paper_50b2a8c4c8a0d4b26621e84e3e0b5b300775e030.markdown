@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "50b2a8c4c8a0d4b26621e84e3e0b5b300775e030"
+title: "Streaming Sequence Transduction Through Dynamic Compression"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/50b2a8c4c8a0d4b26621e84e3e0b5b300775e030
+authors: "Weiting Tan, Yunmo Chen, Tongfei Chen, Guanghui Qin, Haoran Xu, Heidi C. Zhang, Benjamin Van Durme, Philipp Koehn"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "aa7bcd1f9453c9096ec78900a7b94e816ed0e1c5"
+title: "Wavjourney: Compositional Audio Creation With Large Language Models"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/aa7bcd1f9453c9096ec78900a7b94e816ed0e1c5
+authors: "Xubo Liu, Zhongkai Zhu, Haohe Liu, Yiitan Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Qiuqiang Kong, M. Plumbley, Wenwu Wang"
+---

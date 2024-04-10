@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "67a5311c2f2e54e787111c3e4f8163b6891a57ef"
+title: "Adaptivesound: An Interactive Feedback-Loop System To Improve Sound Recognition For Deaf And Hard Of Hearing Users"
+publication: "ASSETS"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/67a5311c2f2e54e787111c3e4f8163b6891a57ef
+authors: "Hang Do, Quan Dang, Jeremy Zhengqi Huang, Dhruv Jain"
+---

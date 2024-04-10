@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d2765f03d8e9a2d6f8b5730417e249bcf8c560ab"
+title: "Doa-Aware Audio-Visual Self-Supervised Learning For Sound Event Localization And Detection"
+publication: "2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d2765f03d8e9a2d6f8b5730417e249bcf8c560ab
+authors: "Yoto Fujita, Yoshiaki Bando, Keisuke Imoto, Masaki Onishi, Kazuyoshi Yoshii"
+---

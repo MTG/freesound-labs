@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fd96ef97da61f4484313a44226315f25c82653b3"
+title: "Leveraging Compatibility And Diversity In Computer-Aided Music Mashup Creation"
+publication: "Personal and Ubiquitous Computing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/fd96ef97da61f4484313a44226315f25c82653b3
+authors: "Gonçalo Bernardo, Gilberto Bernardes"
+---

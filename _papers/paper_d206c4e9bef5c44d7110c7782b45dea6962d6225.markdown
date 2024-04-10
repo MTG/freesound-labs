@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d206c4e9bef5c44d7110c7782b45dea6962d6225"
+title: "Heitor Rodrigues Guimarães On Self-Supervised Representations For 3 D Speech Enhancement"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d206c4e9bef5c44d7110c7782b45dea6962d6225
+authors: "Versão Corrigida"
+---

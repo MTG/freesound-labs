@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ffa05cb5504ba08254f498223f613b3ebcf87692"
+title: "Lauragpt: Listen, Attend, Understand, And Regenerate Audio With Gpt"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ffa05cb5504ba08254f498223f613b3ebcf87692
+authors: "Jiaming Wang, Zhihao Du, Qian Chen, Yunfei Chu, Zhifu Gao, Zerui Li, Kai Hu, Xiaohuan Zhou, Jin Xu, Ziyang Ma, Wen Wang, Siqi Zheng, Chang Zhou, Zhijie Yan, Shiliang Zhang"
+---

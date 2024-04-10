@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8eb99f1ed884356871ddbcf1377b82359071906a"
+title: "Languagebind: Extending Video-Language Pretraining To N-Modality By Language-Based Semantic Alignment"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/8eb99f1ed884356871ddbcf1377b82359071906a
+authors: "Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, Hongfa Wang, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li, Wancai Zhang, Zhifeng Li, Wei Liu, Liejie Yuan"
+---

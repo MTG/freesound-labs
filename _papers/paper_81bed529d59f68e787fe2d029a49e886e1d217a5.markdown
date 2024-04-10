@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "81bed529d59f68e787fe2d029a49e886e1d217a5"
+title: "Metaaudio: A Few-Shot Audio Classification Benchmark"
+publication: "ICANN"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/81bed529d59f68e787fe2d029a49e886e1d217a5
+authors: "Calum Heggan, S. Budgett, Timothy M. Hospedales, Mehrdad Yaghoobi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4dd2d35324478979b898a770d77d51a8401f3499"
+title: "Temporal Convolutional Networks For Cough Detection Using Raw Waveforms: Reducing False Positive Rates With Noise Augmentation"
+publication: "2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/4dd2d35324478979b898a770d77d51a8401f3499
+authors: "Dagis Daniels Vidulejs, J. Teličko, A. Jakovičs"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7a53ae6e25f40703ed34262ff1509b122d36eccb"
+title: "Exploring Self-Supervised Contrastive Learning Of Spatial Sound Event Representation"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/7a53ae6e25f40703ed34262ff1509b122d36eccb
+authors: "Xilin Jiang, Cong Han, Y. Li, N. Mesgarani"
+---

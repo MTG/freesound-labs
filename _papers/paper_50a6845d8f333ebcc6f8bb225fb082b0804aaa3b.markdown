@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "50a6845d8f333ebcc6f8bb225fb082b0804aaa3b"
+title: "Multi-Label Open-Set Audio Classification"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/50a6845d8f333ebcc6f8bb225fb082b0804aaa3b
+authors: "Sripathi Sridhar, Mark Cartwright"
+---

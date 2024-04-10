@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "51545ddc569e2a9438cce66de3c955aad2df4792"
+title: "Foley Sound Synthesis At The Dcase 2023 Challenge"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/51545ddc569e2a9438cce66de3c955aad2df4792
+authors: "Keunwoo Choi, Jae-Yeol Im, L. Heller, Brian McFee, Keisuke Imoto, Yuki Okamoto, M. Lagrange, Shinosuke Takamichi"
+---

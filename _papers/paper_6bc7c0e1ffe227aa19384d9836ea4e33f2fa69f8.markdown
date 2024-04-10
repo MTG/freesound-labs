@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6bc7c0e1ffe227aa19384d9836ea4e33f2fa69f8"
+title: "Mixed-Type Data Augmentations For Environmental Sound Classification"
+publication: "IVUS"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/6bc7c0e1ffe227aa19384d9836ea4e33f2fa69f8
+authors: "Tadas Turskis, Marius Teleisa, Ruta Buckiunaite, Dalia Calneryte"
+---

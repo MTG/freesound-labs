@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9e5c724901e3b5d457fe60939cc8ad3f7a24e002"
+title: "Consolidating Compression And Revisiting Expansion: An Alternative Amplification Rule For Wide Dynamic Range Compression"
+publication: "2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/9e5c724901e3b5d457fe60939cc8ad3f7a24e002
+authors: "Alice Sokolova, Baris Aksanli, F. Harris, H. Garudadri"
+---

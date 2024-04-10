@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ac977973d690a61b4d9db93ce8c7e11fbd8b94f4"
+title: "A High-Rate Extension To Soundstream"
+publication: "2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ac977973d690a61b4d9db93ce8c7e11fbd8b94f4
+authors: "Hong-Goo Kang, J. Skoglund, W. Kleijn, Andrew Storus, Hengchin Yeh"
+---

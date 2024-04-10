@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "476f3b4816de7ce4536146b8de0d32ca6408db6f"
+title: "A Demand-Driven Perspective On Generative Audio Ai"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/476f3b4816de7ce4536146b8de0d32ca6408db6f
+authors: "Sangshin Oh, Minsung Kang, Hyeongi Moon, Keunwoo Choi, Ben Sangbae Chon"
+---

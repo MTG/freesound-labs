@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "413a948860ce939a7f411e9095ac84827fcad68a"
+title: "Dataset For Polyphonic Sound Event Detection Tasks In Urban Soundscapes: The Synthetic Polyphonic Ambient Sound Source (Spass) Dataset"
+publication: "Data in brief"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/413a948860ce939a7f411e9095ac84827fcad68a
+authors: "R. Viveros-Muñoz, P. Huijse, Victor Vargas, Diego Espejo, Víctor Poblete, Jorge P. Arenas, M. Vernier, Diego Vergara, Enrique Suárez"
+---

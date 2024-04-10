@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6e2aee01470516b2a3188f0ef21f0eededdc9082"
+title: "Zero- And Few-Shot Sound Event Localization And Detection"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/6e2aee01470516b2a3188f0ef21f0eededdc9082
+authors: "Kazuki Shimada, Kengo Uchida, Yuichiro Koyama, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, Tatsuya Kawahara"
+---

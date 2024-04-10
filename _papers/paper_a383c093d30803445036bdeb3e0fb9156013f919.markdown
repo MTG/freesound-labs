@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a383c093d30803445036bdeb3e0fb9156013f919"
+title: "Protosound: A Personalized And Scalable Sound Recognition System For Deaf And Hard-Of-Hearing Users"
+publication: "CHI"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/a383c093d30803445036bdeb3e0fb9156013f919
+authors: "D. Jain, Khoa Nguyen, Steven M. Goodman, Rachel Grossman-Kahn, Hung Ngo, Aditya Kusupati, Ruofei Du, A. Olwal, Leah Findlater, Jon E. Froehlich"
+---

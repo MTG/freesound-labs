@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b42f533ba9887740dd89bf4460e10511f6fba682"
+title: "How Robust Are Audio Embeddings For Polyphonic Sound Event Tagging?"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/b42f533ba9887740dd89bf4460e10511f6fba682
+authors: "J. Abeßer, S. Grollmisch, Meinard Müller"
+---

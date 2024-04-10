@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "65ccc1c6f45b8f9054578deb419557df9ec9f1f9"
+title: "Where To Hide A Stolen Elephant: Leaps In Creative Writing With Multimodal Machine Intelligence"
+publication: "ACM Trans. Comput. Hum. Interact."
+year: 2022
+external_url: https://www.semanticscholar.org/paper/65ccc1c6f45b8f9054578deb419557df9ec9f1f9
+authors: "Nikhil Singh, Guillermo Bernal, D. Savchenko, Elena L. Glassman"
+---

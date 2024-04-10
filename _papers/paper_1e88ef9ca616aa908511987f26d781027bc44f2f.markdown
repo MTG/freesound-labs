@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1e88ef9ca616aa908511987f26d781027bc44f2f"
+title: "Apcodec: A Neural Audio Codec With Parallel Amplitude And Phase Spectrum Encoding And Decoding"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/1e88ef9ca616aa908511987f26d781027bc44f2f
+authors: "Yang Ai, Xiao-Hang Jiang, Ye-Xin Lu, Hui-Peng Du, Zhen-Hua Ling"
+---

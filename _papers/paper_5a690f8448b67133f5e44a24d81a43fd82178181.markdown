@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5a690f8448b67133f5e44a24d81a43fd82178181"
+title: "Atgnn: Audio Tagging Graph Neural Network"
+publication: "IEEE Signal Processing Letters"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/5a690f8448b67133f5e44a24d81a43fd82178181
+authors: "Shubhr Singh, Christian J. Steinmetz, Emmanouil Benetos, Huy Phan, Dan Stowell"
+---

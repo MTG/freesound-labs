@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a14a6e5732d7e182653d3674285d31c3a1f011f3"
+title: "Late Audio-Visual Fusion For In-The-Wild Speaker Diarization"
+publication: ""
+year: 2022
+external_url: https://www.semanticscholar.org/paper/a14a6e5732d7e182653d3674285d31c3a1f011f3
+authors: "Zexu Pan, G. Wichern, Franccois G. Germain, A. Subramanian, Jonathan Le Roux"
+---

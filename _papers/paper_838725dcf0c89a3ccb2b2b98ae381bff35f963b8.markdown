@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "838725dcf0c89a3ccb2b2b98ae381bff35f963b8"
+title: "Rep2Wav: Noise Robust Text-To-Speech Using Self-Supervised Representations"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/838725dcf0c89a3ccb2b2b98ae381bff35f963b8
+authors: "Qiu-shi Zhu, Yunting Gu, Chao Weng, Yuchen Hu, Lirong Dai, J. Zhang"
+---

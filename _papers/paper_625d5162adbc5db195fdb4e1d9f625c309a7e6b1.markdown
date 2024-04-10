@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "625d5162adbc5db195fdb4e1d9f625c309a7e6b1"
+title: "Lightweight Convolutional-Iconformer For Sound Event Detection"
+publication: "IEEE Transactions on Artificial Intelligence"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/625d5162adbc5db195fdb4e1d9f625c309a7e6b1
+authors: "T. K. Chan, C. Chin"
+---

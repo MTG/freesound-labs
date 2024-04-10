@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e94f93f09c2f56d2d651938c862da6c8f025d4cd"
+title: "Optimizing Audio Augmentations For Contrastive Learning Of Health-Related Acoustic Signals"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/e94f93f09c2f56d2d651938c862da6c8f025d4cd
+authors: "Louis Blankemeier, Sebastien Baur, Wei-Hung Weng, Jake Garrison, Yossi Matias, Shruthi Prabhakara, Diego Ardila, Zaid Nabulsi"
+---

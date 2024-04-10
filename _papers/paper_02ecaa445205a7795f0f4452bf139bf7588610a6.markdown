@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "02ecaa445205a7795f0f4452bf139bf7588610a6"
+title: "A Weighted Binary Cross-Entropy For Sound Event Representation Learning And Few-Shot Classification"
+publication: "2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/02ecaa445205a7795f0f4452bf139bf7588610a6
+authors: "Zhongxin Bai, Chao Pan, Gong Chen, Jingdong Chen, J. Benesty"
+---

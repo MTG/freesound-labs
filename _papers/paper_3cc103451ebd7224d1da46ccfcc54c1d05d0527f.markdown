@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3cc103451ebd7224d1da46ccfcc54c1d05d0527f"
+title: "Sound Event Detection And Localization With Distance Estimation"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/3cc103451ebd7224d1da46ccfcc54c1d05d0527f
+authors: "D. Krause, A. Politis, A. Mesaros"
+---

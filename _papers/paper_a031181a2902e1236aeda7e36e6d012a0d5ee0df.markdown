@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a031181a2902e1236aeda7e36e6d012a0d5ee0df"
+title: "Dynamic Convolutional Neural Networks As Efficient Pre-Trained Audio Models"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a031181a2902e1236aeda7e36e6d012a0d5ee0df
+authors: "Florian Schmid, Khaled Koutini, Gerhard Widmer"
+---

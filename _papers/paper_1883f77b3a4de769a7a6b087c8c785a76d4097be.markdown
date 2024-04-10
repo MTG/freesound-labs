@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1883f77b3a4de769a7a6b087c8c785a76d4097be"
+title: "Proceedings Of The Detection And Classification Of Acoustic Scenes And Events 2018 Workshop (Dcase2018)"
+publication: ""
+year: 2018
+external_url: https://www.semanticscholar.org/paper/1883f77b3a4de769a7a6b087c8c785a76d4097be
+authors: "M. Plumbley, Christian Kroos, J. Bello, G. Richard, D. Ellis, A. Mesaros"
+---

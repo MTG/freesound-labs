@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2529378e781fa1c5f7884753fc3fab591c61f739"
+title: "Binaurec: A Dataset To Test The Influence Of The Use Of Room Impulse Responses On Binaural Speech Enhancement"
+publication: "2023 31st European Signal Processing Conference (EUSIPCO)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/2529378e781fa1c5f7884753fc3fab591c61f739
+authors: "Louis Delebecque, Romain Serizel"
+---

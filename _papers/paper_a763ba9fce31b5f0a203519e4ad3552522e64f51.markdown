@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a763ba9fce31b5f0a203519e4ad3552522e64f51"
+title: "Robust Doa Estimation Using Deep Acoustic Imaging"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/a763ba9fce31b5f0a203519e4ad3552522e64f51
+authors: "Adrian S. Roman, Irán R. Román, J. P. Bello"
+---

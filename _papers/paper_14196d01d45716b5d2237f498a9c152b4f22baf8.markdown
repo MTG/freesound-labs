@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "14196d01d45716b5d2237f498a9c152b4f22baf8"
+title: "Digital Transformation Of Terrestrial Radio: An Analysis Of Simulcasted Broadcasts In Fm And Dab+ For A Smart And Successful Switchover"
+publication: "Applied Sciences"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/14196d01d45716b5d2237f498a9c152b4f22baf8
+authors: "Przemysław Falkowski-Gilski"
+---

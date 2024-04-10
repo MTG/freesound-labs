@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e541e37c2a28600fcf49da48f3648c9b9fec5d03"
+title: "Self-Supervised Music Source Separation Using Vector-Quantized Source Category Estimates"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/e541e37c2a28600fcf49da48f3648c9b9fec5d03
+authors: "Marco Pasini, Stefan Lattner, George Fazekas"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a7fc48ee6bb4d5e409c6a6d74474d8f385514f04"
+title: "Zero-Shot Transfer For Wildlife Bioacoustics Detection"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a7fc48ee6bb4d5e409c6a6d74474d8f385514f04
+authors: "Zhongqi Miao, Benjamin Elizalde, Soham Deshmukh, Justin Kitzes, Huaming Wang, R. Dodhia, J. Ferres"
+---

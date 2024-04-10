@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3989c527570cc4548277371e7b9d7849c7dc4138"
+title: "Joint Framework Of Curriculum Learning And Knowledge Distillation For Noise-Robust And Small-Footprint Keyword Spotting"
+publication: "IEEE Access"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/3989c527570cc4548277371e7b9d7849c7dc4138
+authors: "Jaebong Lim, Yunju Baek"
+---

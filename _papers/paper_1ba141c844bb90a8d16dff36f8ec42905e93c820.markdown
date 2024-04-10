@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1ba141c844bb90a8d16dff36f8ec42905e93c820"
+title: "Discovering Creative Commons Sounds In Live Coding"
+publication: "Organised Sound"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/1ba141c844bb90a8d16dff36f8ec42905e93c820
+authors: "Anna Xambó Sedó"
+---

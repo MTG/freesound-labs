@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "00dddc29b9c03ed02125aed6d2341f827e10d8ed"
+title: "Robust Technique For Environmental Sound Classification Using Convolutional Recurrent Neural Network"
+publication: "Multimedia Tools and Applications"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/00dddc29b9c03ed02125aed6d2341f827e10d8ed
+authors: "Anam Bansal, N. Garg"
+---

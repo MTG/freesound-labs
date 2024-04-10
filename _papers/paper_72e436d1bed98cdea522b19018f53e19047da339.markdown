@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "72e436d1bed98cdea522b19018f53e19047da339"
+title: "Correlation Of Fr\'Echet Audio Distance With Human Perception Of Environmental Audio Is Embedding Dependant"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/72e436d1bed98cdea522b19018f53e19047da339
+authors: "Modan Tailleur, Junwon Lee, Mathieu Lagrange, Keunwoo Choi, Laurie M. Heller, Keisuke Imoto, Yuki Okamoto"
+---

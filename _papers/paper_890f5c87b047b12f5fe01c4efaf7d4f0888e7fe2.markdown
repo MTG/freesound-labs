@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "890f5c87b047b12f5fe01c4efaf7d4f0888e7fe2"
+title: "Listen, Chat, And Edit: Text-Guided Soundscape Modification For Enhanced Auditory Experience"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/890f5c87b047b12f5fe01c4efaf7d4f0888e7fe2
+authors: "Xilin Jiang, Cong Han, Y. Li, N. Mesgarani"
+---

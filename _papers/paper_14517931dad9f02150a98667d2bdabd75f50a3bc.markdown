@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "14517931dad9f02150a98667d2bdabd75f50a3bc"
+title: "Automl Decathlon: Diverse Tasks, Modern Methods, And Efficiency At Scale"
+publication: "NeurIPS"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/14517931dad9f02150a98667d2bdabd75f50a3bc
+authors: "Nicholas Roberts, Samuel Guo, Cong Xu, Ameet Talwalkar, David Lander, Lvfang Tao, Linhang Cai, Shuaicheng Niu, Jianyu Heng, Hongyang Qin, Minwen Deng, Johannes Hog, Alexander Pfefferle, Sushil Ammanaghatta Shivakumar, Arjun Krishnakumar, Yubo Wang, R. Sukthanker, Frank Hutter, Euxhen Hasanaj, Tien-Dung Le, M. Khodak, Yuriy Nevmyvaka, Kashif Rasul, Frederic Sala, Anderson Schneider, Junhong Shen, Evan R. Sparks"
+---

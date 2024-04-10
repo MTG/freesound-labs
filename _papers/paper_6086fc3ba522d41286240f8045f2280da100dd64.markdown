@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6086fc3ba522d41286240f8045f2280da100dd64"
+title: "Are Soft Prompts Good Zero-Shot Learners For Speech Recognition?"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/6086fc3ba522d41286240f8045f2280da100dd64
+authors: "Dianwen Ng, Chong Zhang, Ruixiu Zhang, Yukun Ma, Fabian Ritter-Gutierrez, Trung Hieu Nguyen, Chongjia Ni, Shengkui Zhao, E. Chng, B. Ma"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "69e6dd39bf13d290fb9d885da90cc037f0dd2975"
+title: "Audio Flamingo: A Novel Audio Language Model With Few-Shot Learning And Dialogue Abilities"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/69e6dd39bf13d290fb9d885da90cc037f0dd2975
+authors: "Zhifeng Kong, Arushi Goel, Rohan Badlani, Wei Ping, Rafael Valle, Bryan Catanzaro"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4a8f4289b018a0049d6d58054cf2efec7c1e67c5"
+title: "An Exploration Of Task-Decoupling On Two-Stage Neural Post Filter For Real-Time Personalized Acoustic Echo Cancellation"
+publication: "2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/4a8f4289b018a0049d6d58054cf2efec7c1e67c5
+authors: "Zihan Zhang, Jiayao Sun, Xianjun Xia, Ziqian Wang, Xiaopeng Yan, Yijian Xiao, Lei Xie"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d75cb17902f5a8e3e2189bc904e8d2fc57330930"
+title: "Tf-Gridnet: Integrating Full- And Sub-Band Modeling For Speech Separation"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/d75cb17902f5a8e3e2189bc904e8d2fc57330930
+authors: "Zhongqiu Wang, Samuele Cornell, Shukjae Choi, Younglo Lee, Byeonghak Kim, Shinji Watanabe"
+---

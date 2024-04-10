@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "083cf10c0cbf75dd5755a6a2cd971f39e7da75c2"
+title: "Universlu: Universal Spoken Language Understanding For Diverse Classification And Sequence Generation Tasks With A Single Network"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/083cf10c0cbf75dd5755a6a2cd971f39e7da75c2
+authors: "Siddhant Arora, Hayato Futami, Jee-weon Jung, Yifan Peng, Roshan S. Sharma, Yosuke Kashiwagi, E. Tsunoo, Shinji Watanabe"
+---

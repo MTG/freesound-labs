@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "83693d7d6b7b2bd9f8838010325a02fc63e43aa9"
+title: "Clapsep: Leveraging Contrastive Pre-Trained Models For Multi-Modal Query-Conditioned Target Sound Extraction"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/83693d7d6b7b2bd9f8838010325a02fc63e43aa9
+authors: "Hao Ma, Zhiyuan Peng, Mingjie Shao, Ju Liu, Xu Li, Xixin Wu"
+---

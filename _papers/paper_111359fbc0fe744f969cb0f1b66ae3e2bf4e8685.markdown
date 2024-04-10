@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "111359fbc0fe744f969cb0f1b66ae3e2bf4e8685"
+title: "Large Language Models Are Efficient Learners Of Noise-Robust Speech Recognition"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/111359fbc0fe744f969cb0f1b66ae3e2bf4e8685
+authors: "Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, Ensiong Chng"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8cb1a3348c7004f0d3c4aa666edd09532da0b4db"
+title: "Tfecn: Time-Frequency Enhanced Convnet For Audio Classification"
+publication: "INTERSPEECH 2023"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/8cb1a3348c7004f0d3c4aa666edd09532da0b4db
+authors: "Mengwei Wang, Zhe Yang"
+---

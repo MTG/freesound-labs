@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "876907f259605976fc4e1d5ba4443614ffd20b76"
+title: "Sound Source Detection, Localization And Classification Using Consecutive Ensemble Of Crnn Models"
+publication: "DCASE"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/876907f259605976fc4e1d5ba4443614ffd20b76
+authors: "Slawomir Kapka, M. Lewandowski"
+---

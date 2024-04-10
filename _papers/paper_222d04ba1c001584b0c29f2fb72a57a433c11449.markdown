@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "222d04ba1c001584b0c29f2fb72a57a433c11449"
+title: "Semi-Supervised Triplet Loss Based Learning Of Ambient Audio Embeddings"
+publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2019
+external_url: https://www.semanticscholar.org/paper/222d04ba1c001584b0c29f2fb72a57a433c11449
+authors: "Nicolas Turpault, R. Serizel, E. Vincent"
+---

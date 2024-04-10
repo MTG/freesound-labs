@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "43f00c63458d4a50d6e4ed7e1f5cc20f5520d945"
+title: "Resnet-Conformer Network Using Multi-Scale Channel Attention For Sound Event Localization And Detection In Real Scenes"
+publication: "2023 International Conference on Wireless Communications and Signal Processing (WCSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/43f00c63458d4a50d6e4ed7e1f5cc20f5520d945
+authors: "Lihua Xue, Hongqing Liu, Yi Zhou, Lu Gan"
+---

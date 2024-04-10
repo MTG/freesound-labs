@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3db46a625b7e58d2e762668791e1ad6c4d614519"
+title: "Beyond The Status Quo: A Contemporary Survey Of Advances And Challenges In Audio Captioning"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/3db46a625b7e58d2e762668791e1ad6c4d614519
+authors: "Xuenan Xu, Mengyue Wu, K. Yu"
+---

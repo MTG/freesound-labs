@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7d7fca9642df216979c03ccca9e83e0c86ec1932"
+title: "Learning Temporal Resolution In Spectrogram For Audio Classification"
+publication: "AAAI"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/7d7fca9642df216979c03ccca9e83e0c86ec1932
+authors: "Haohe Liu, Xubo Liu, Qiuqiang Kong, Wenwu Wang, M. Plumbley"
+---

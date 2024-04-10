@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "294dd148aba2a70ac1b023391a10ef09885e2d27"
+title: "A Detailed Audio-Text Data Simulation Pipeline Using Single-Event Sounds"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/294dd148aba2a70ac1b023391a10ef09885e2d27
+authors: "Xuenan Xu, Xiaohang Xu, Zeyu Xie, Pingyue Zhang, Mengyue Wu, Kai Yu"
+---

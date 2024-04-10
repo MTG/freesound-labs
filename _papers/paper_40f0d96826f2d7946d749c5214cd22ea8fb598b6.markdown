@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "40f0d96826f2d7946d749c5214cd22ea8fb598b6"
+title: "Asped: An Audio Dataset For Detecting Pedestrians"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/40f0d96826f2d7946d749c5214cd22ea8fb598b6
+authors: "Pavan Seshadri, Chaeyeon Han, B. Koo, Noah Posner, S. Guhathakurta, Alexander Lerch"
+---

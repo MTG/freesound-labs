@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cdae9211c76f958b2410e13a8a38f68756fc0645"
+title: "Noisensedb: An Urban Sound Event Database To Develop Neural Classification Systems For Noise-Monitoring Applications"
+publication: "Applied Sciences"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/cdae9211c76f958b2410e13a8a38f68756fc0645
+authors: "Itxasne Díez, I. Saratxaga, Unai Salegi, E. Navas, I. Hernáez"
+---

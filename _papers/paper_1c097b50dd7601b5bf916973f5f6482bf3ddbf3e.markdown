@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1c097b50dd7601b5bf916973f5f6482bf3ddbf3e"
+title: "Coavt: A Cognition-Inspired Unified Audio-Visual-Text Pre-Training Model For Multimodal Processing"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/1c097b50dd7601b5bf916973f5f6482bf3ddbf3e
+authors: "Xianghu Yue, Xiaohai Tian, Malu Zhang, Zhizheng Wu, Haizhou Li"
+---

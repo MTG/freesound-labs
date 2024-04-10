@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5258120b91d91a497ff9409889ccc565c9836086"
+title: "Seld U-Net: Joint Optimization Of Sound Event Localization And Detection With Noise Reduction"
+publication: "IEEE Access"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/5258120b91d91a497ff9409889ccc565c9836086
+authors: "Y. Shin, Yong Guk Kim, Chang-Ho Choi, Dae-Joong Kim, Chanjun Chun"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "90b3d99afa310548d6a2d9c9ab1cacd09097404c"
+title: "Universlu: Universal Spoken Language Understanding For Diverse Tasks With Natural Language Instructions"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/90b3d99afa310548d6a2d9c9ab1cacd09097404c
+authors: "Siddhant Arora, Hayato Futami, Jee-weon Jung, Yifan Peng, Roshan S. Sharma, Yosuke Kashiwagi, E. Tsunoo, Karen Livescu, Shinji Watanabe"
+---

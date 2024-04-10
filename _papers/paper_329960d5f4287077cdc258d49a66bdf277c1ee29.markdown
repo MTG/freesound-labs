@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "329960d5f4287077cdc258d49a66bdf277c1ee29"
+title: "Natural Language Supervision For General-Purpose Audio Representations"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/329960d5f4287077cdc258d49a66bdf277c1ee29
+authors: "Benjamin Elizalde, Soham Deshmukh, Huaming Wang"
+---

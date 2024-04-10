@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6657419c5af5d086cd0f835bea34beb025a57e58"
+title: "Enhanced Sound Event Localization And Detection In Real 360-Degree Audio-Visual Soundscapes"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/6657419c5af5d086cd0f835bea34beb025a57e58
+authors: "Adrian S. Roman, Baladithya Balamurugan, Rithik Pothuganti"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "429bdf10edf38b0a9e829a06546f9c1f6406f6b5"
+title: "Alignment Of Auditory Artificial Networks With Massive Individual Fmri Brain Data Leads To Generalizable Improvements In Brain Encoding And Downstream Tasks"
+publication: "bioRxiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/429bdf10edf38b0a9e829a06546f9c1f6406f6b5
+authors: "Maëlle Freteault, Loïc Tetrel, Maximilien Le Clei, Pierre Bellec, Nicolas Farrugia"
+---

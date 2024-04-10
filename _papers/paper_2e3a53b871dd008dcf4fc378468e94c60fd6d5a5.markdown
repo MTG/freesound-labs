@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2e3a53b871dd008dcf4fc378468e94c60fd6d5a5"
+title: "Audio Difference Captioning Utilizing Similarity-Discrepancy Disentanglement"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/2e3a53b871dd008dcf4fc378468e94c60fd6d5a5
+authors: "Daiki Takeuchi, Yasunori Ohishi, Daisuke Niizumi, Noboru Harada, K. Kashino"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "67ab60e9e87f897fe1b50c9d7305f161f096de94"
+title: "Hear 2021: Holistic Evaluation Of Audio Representations"
+publication: "ArXiv"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/67ab60e9e87f897fe1b50c9d7305f161f096de94
+authors: "Joseph P. Turian, Jordie Shier, H. Khan, B. Raj, Björn Schuller, C. Steinmetz, C. Malloy, G. Tzanetakis, Gissel Velarde, K. McNally, Max Henry, Nicolas Pinto, Camille Noufi, Christian Clough, Dorien Herremans, Eduardo Fonseca, Jesse Engel, J. Salamon, P. Esling, Pranay Manocha, Shinji Watanabe, Zeyu Jin, Yonatan Bisk"
+---

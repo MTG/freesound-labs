@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "78719ab3d380273970b63edcdd8e0e8ee7f9032a"
+title: "Swg-Former: A Sliding-Window Graph Convolutional Network For Simultaneous Spatial-Temporal Information Extraction In Sound Event Localization And Detection"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/78719ab3d380273970b63edcdd8e0e8ee7f9032a
+authors: "Weiming Huang, Qinghua Huang, Liyan Ma, Chuan Wang"
+---

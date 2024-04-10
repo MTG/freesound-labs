@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "789fde857ccdf84fd0a7167c5b51bd8881c0c4d2"
+title: "Scenario-Aware Audio-Visual Tf-Gridnet For Target Speech Extraction"
+publication: "2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/789fde857ccdf84fd0a7167c5b51bd8881c0c4d2
+authors: "Zexu Pan, G. Wichern, Yoshiki Masuyama, François G. Germain, Sameer Khurana, Chiori Hori, Jonathan Le Roux"
+---

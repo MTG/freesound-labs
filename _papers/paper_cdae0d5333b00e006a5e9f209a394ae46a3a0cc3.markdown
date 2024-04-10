@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cdae0d5333b00e006a5e9f209a394ae46a3a0cc3"
+title: "The Power Of Generative Ai: A Review Of Requirements, Models, Input-Output Formats, Evaluation Metrics, And Challenges"
+publication: "Future Internet"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/cdae0d5333b00e006a5e9f209a394ae46a3a0cc3
+authors: "A. Bandi, Pydi Venkata Satya Ramesh Adapa, Yudu Eswar Vinay Pratap Kumar Kuchi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4749c6de1775843c0bb4d06cee32672464051971"
+title: "A Family Of Swish Diffusion Strategy Based Adaptive Algorithms For Distributed Active Noise Control"
+publication: "IEEE Open Journal of Signal Processing"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/4749c6de1775843c0bb4d06cee32672464051971
+authors: "Rajapantula Kranthi, .. Vasundhara, Asutosh Kar, Mads Gr&#x00E6;sb&#x00F8;ll Christensen"
+---

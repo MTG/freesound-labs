@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f21e0288222783a9632b216895898ea16e622f00"
+title: "Noisebandnet: Controllable Time-Varying Neural Synthesis Of Sound Effects Using Filterbanks"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/f21e0288222783a9632b216895898ea16e622f00
+authors: "Adri'an Barahona-R'ios, Tom Collins"
+---

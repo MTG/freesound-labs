@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "371dbadff6db6471e47d26e861cb4aedd1056492"
+title: "Canonical Dependency Analysis Based On Squared-Loss Mutual Information"
+publication: "Neural Networks"
+year: 2011
+external_url: https://www.semanticscholar.org/paper/371dbadff6db6471e47d26e861cb4aedd1056492
+authors: "Masayuki Karasuyama, Masashi Sugiyama"
+---

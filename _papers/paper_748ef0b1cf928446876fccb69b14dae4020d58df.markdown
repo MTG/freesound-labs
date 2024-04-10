@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "748ef0b1cf928446876fccb69b14dae4020d58df"
+title: "Audioformer: Audio Transformer Learns Audio Feature Representations From Discrete Acoustic Codes"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/748ef0b1cf928446876fccb69b14dae4020d58df
+authors: "Zhaohui Li, Haitao Wang, Xinghua Jiang"
+---

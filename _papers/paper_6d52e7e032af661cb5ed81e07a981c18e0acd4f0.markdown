@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6d52e7e032af661cb5ed81e07a981c18e0acd4f0"
+title: "Enhance Audio Generation Controllability Through Representation Similarity Regularization"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/6d52e7e032af661cb5ed81e07a981c18e0acd4f0
+authors: "Yangyang Shi, Gaël Le Lan, Varun K. Nagaraja, Zhaoheng Ni, Xinhao Mei, Ernie Chang, Forrest N. Iandola, Yang Liu, Vikas Chandra"
+---

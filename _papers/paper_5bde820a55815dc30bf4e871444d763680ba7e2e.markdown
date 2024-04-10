@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5bde820a55815dc30bf4e871444d763680ba7e2e"
+title: "Codec-Superb: An In-Depth Analysis Of Sound Codec Models"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/5bde820a55815dc30bf4e871444d763680ba7e2e
+authors: "Haibin Wu, Ho-Lam Chung, Yi-Cheng Lin, Yuan-Kuei Wu, Xuanjun Chen, Yu-Chi Pai, Hsiu-Hsuan Wang, Kai-Wei Chang, Alexander H. Liu, Hung-yi Lee"
+---

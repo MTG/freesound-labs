@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dd1d26f6c3e928408fc3442ac670c95719dec15f"
+title: "Spatial Scaper: A Library To Simulate And Augment Soundscapes For Sound Event Localization And Detection In Realistic Rooms"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/dd1d26f6c3e928408fc3442ac670c95719dec15f
+authors: "Irán R. Román, Christopher Ick, Sivan Ding, Adrian S. Roman, Brian McFee, J. P. Bello"
+---

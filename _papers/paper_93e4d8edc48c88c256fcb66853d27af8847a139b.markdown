@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "93e4d8edc48c88c256fcb66853d27af8847a139b"
+title: "Limitations Of Weak Labels For Embedding And Tagging"
+publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/93e4d8edc48c88c256fcb66853d27af8847a139b
+authors: "Nicolas Turpault, R. Serizel, E. Vincent"
+---

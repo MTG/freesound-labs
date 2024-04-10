@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9be834da99ee03d7bb833107c91198ad532f839e"
+title: "Encodecmae: Leveraging Neural Codecs For Universal Audio Representation Learning"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/9be834da99ee03d7bb833107c91198ad532f839e
+authors: "L. Pepino, P. Riera, Luciana Ferrer"
+---

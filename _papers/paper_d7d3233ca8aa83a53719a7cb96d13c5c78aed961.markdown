@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d7d3233ca8aa83a53719a7cb96d13c5c78aed961"
+title: "Noise Robust Distillation Of Self-Supervised Speech Models Via Correlation Metrics"
+publication: "ArXiv"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d7d3233ca8aa83a53719a7cb96d13c5c78aed961
+authors: "Fabian Ritter Gutierrez, Kuan-Po Huang, Dianwen Ng, J. H. M. Wong, Hung-yi Lee, Chng Eng Siong, Nancy F. Chen"
+---

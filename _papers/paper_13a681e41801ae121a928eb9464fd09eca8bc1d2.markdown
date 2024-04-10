@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "13a681e41801ae121a928eb9464fd09eca8bc1d2"
+title: "Emid: An Emotional Aligned Dataset In Audio-Visual Modality"
+publication: "MCGE@MM"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/13a681e41801ae121a928eb9464fd09eca8bc1d2
+authors: "J. Zou, Jiahao Mei, Guangze Ye, Tianyu Huai, Qiwei Shen, Daoguo Dong"
+---

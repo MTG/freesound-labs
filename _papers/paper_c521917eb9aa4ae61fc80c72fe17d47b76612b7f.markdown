@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c521917eb9aa4ae61fc80c72fe17d47b76612b7f"
+title: "Evaluating And Predicting The Audibility Of Acoustic Alarms In The Workplace Using Experimental Methods And Deep Learning"
+publication: "Applied Acoustics"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c521917eb9aa4ae61fc80c72fe17d47b76612b7f
+authors: "F. Effa, Jean-Pierre Arz, R. Serizel, N. Grimault"
+---
