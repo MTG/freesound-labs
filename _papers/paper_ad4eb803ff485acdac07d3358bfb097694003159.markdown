@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ad4eb803ff485acdac07d3358bfb097694003159"
+title: "Data-Efficient Low-Complexity Acoustic Scene Classification In The Dcase 2024 Challenge"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/ad4eb803ff485acdac07d3358bfb097694003159
+authors: "Florian Schmid, Paul Primus, Toni Heittola, A. Mesaros, Irene Mart'in-Morat'o, Khaled Koutini, Gerhard Widmer"
+---

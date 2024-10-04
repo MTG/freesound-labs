@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4670fcd13676571a580f8524a8645a581b90a072"
+title: "Audiocomposer: Towards Fine-Grained Audio Generation With Natural Language Descriptions"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/4670fcd13676571a580f8524a8645a581b90a072
+authors: "Yuanyuan Wang, Hangting Chen, Dongchao Yang, Zhiyong Wu, Helen M. Meng, Xixin Wu"
+---

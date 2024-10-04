@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "973882c27e44480c23501878488830dff76b35ea"
+title: "Reclap: Improving Zero Shot Audio Classification By Describing Sounds"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/973882c27e44480c23501878488830dff76b35ea
+authors: "Sreyan Ghosh, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, R. Duraiswami, Dinesh Manocha"
+---

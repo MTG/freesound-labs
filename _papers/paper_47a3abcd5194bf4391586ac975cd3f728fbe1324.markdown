@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "47a3abcd5194bf4391586ac975cd3f728fbe1324"
+title: "A Military Audio Dataset For Situational Awareness And Surveillance"
+publication: "Scientific data"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/47a3abcd5194bf4391586ac975cd3f728fbe1324
+authors: "June-Woo Kim, Chihyeon Yoon, Ho-Young Jung"
+---

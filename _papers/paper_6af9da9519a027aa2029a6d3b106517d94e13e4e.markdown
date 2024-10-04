@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6af9da9519a027aa2029a6d3b106517d94e13e4e"
+title: "Quantifying The Effect Of Simulator-Based Data Augmentation For Speech Recognition On Augmented Reality Glasses"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/6af9da9519a027aa2029a6d3b106517d94e13e4e
+authors: "Riku Arakawa, Mathieu Parvaix, Chiong Lai, Hakan Erdogan, Alex Olwal"
+---

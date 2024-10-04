@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c60e77559d9d9242a43a7f68e543746ebe40421f"
+title: "Collaborative Dictionary Learning For Compressed Sensing"
+publication: "IEEE Transactions on Industrial Informatics"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c60e77559d9d9242a43a7f68e543746ebe40421f
+authors: "Weiyu Li, Weizhi Lu, Xijun Liang, Mingrui Chen, Kai Guo"
+---

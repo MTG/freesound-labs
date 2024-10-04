@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ec33ee901930e5272c7f986dbcf292a0850cc35d"
+title: "Sketching With Your Voice:'Non-Phonorealistic'Rendering Of Sounds Via Vocal Imitation"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/ec33ee901930e5272c7f986dbcf292a0850cc35d
+authors: "Matthew Caren, Kartik Chandra, Joshua B. Tenenbaum, Jonathan Ragan-Kelley, Karima Ma"
+---

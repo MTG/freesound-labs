@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "158cd404a60a284d06dc791c100ac2c0b9121d0a"
+title: "Codec-Superb @ Slt 2024: A Lightweight Benchmark For Neural Audio Codec Models"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/158cd404a60a284d06dc791c100ac2c0b9121d0a
+authors: "Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-Wei Chang, Jiawei Du, Ke-Han Lu, Alexander H. Liu, Ho-Lam Chung, Yuan-Kuei Wu, Dongchao Yang, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee"
+---

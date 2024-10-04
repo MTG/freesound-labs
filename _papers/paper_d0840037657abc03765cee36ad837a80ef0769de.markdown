@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d0840037657abc03765cee36ad837a80ef0769de"
+title: "A Survey Of Multimodal Large Language Model From A Data-Centric Perspective"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/d0840037657abc03765cee36ad837a80ef0769de
+authors: "Tianyi Bai, Hao Liang, Binwang Wan, Ling Yang, Bozhou Li, Yifan Wang, Bin Cui, Conghui He, Binhang Yuan, Wentao Zhang"
+---

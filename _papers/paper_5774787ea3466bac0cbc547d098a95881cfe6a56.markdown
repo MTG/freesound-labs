@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5774787ea3466bac0cbc547d098a95881cfe6a56"
+title: "The Sound Demixing Challenge 2023 - Cinematic Demixing Track"
+publication: "Trans. Int. Soc. Music. Inf. Retr."
+year: 2023
+external_url: https://www.semanticscholar.org/paper/5774787ea3466bac0cbc547d098a95881cfe6a56
+authors: "S. Uhlich, Giorgio Fabbro, M. Hirano, Shusuke Takahashi, G. Wichern, Jonathan Le Roux, Dipam Chakraborty, S. Mohanty, Kai Li, Yi Luo, Jianwei Yu, Rongzhi Gu, R. Solovyev, A. Stempkovskiy, T. Habruseva, M. Sukhovei, Yuki Mitsufuji"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8180bb975a8e5e4283ba67a95bc860894eecdc2c"
+title: "Hornbase: An Audio Dataset Of Car Horns In Different Scenarios And Positions"
+publication: "Data in brief"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/8180bb975a8e5e4283ba67a95bc860894eecdc2c
+authors: "Cleyton Aparecido Dim, Nelson Cruz Sampaio Neto, Jefferson Magalhães de Morais"
+---

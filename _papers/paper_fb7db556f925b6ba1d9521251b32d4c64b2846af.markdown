@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fb7db556f925b6ba1d9521251b32d4c64b2846af"
+title: "A Lightweight Convolutional Spiking Neural Network For Fires Detection Based On Acoustics"
+publication: "Electronics"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/fb7db556f925b6ba1d9521251b32d4c64b2846af
+authors: "Xiaohuan Li, Yi Liu, Libo Zheng, Wenqiong Zhang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "36f77f08f45b50a9c1e2698d4a70782508ef2834"
+title: "Learning Modality Knowledge Alignment For Cross-Modality Transfer"
+publication: "ICML"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/36f77f08f45b50a9c1e2698d4a70782508ef2834
+authors: "Wenxuan Ma, Shuang Li, Lincan Cai, Jingxuan Kang"
+---

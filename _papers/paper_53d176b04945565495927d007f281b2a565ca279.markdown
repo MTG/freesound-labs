@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "53d176b04945565495927d007f281b2a565ca279"
+title: "Learning Spatially-Aware Language And Audio Embedding"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/53d176b04945565495927d007f281b2a565ca279
+authors: "Bhavika Devnani, Skyler Seto, Zakaria Aldeneh, Alessandro Toso, Elena Menyaylenko, B. Theobald, Jonathan Sheaffer, Miguel Sarabia"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8842262a836ec6a59b0bd5e3f3cf4053d598f953"
+title: "Exploring Text-Queried Sound Event Detection With Audio Source Separation"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/8842262a836ec6a59b0bd5e3f3cf4053d598f953
+authors: "Han Yin, Jisheng Bai, Yang Xiao, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen"
+---

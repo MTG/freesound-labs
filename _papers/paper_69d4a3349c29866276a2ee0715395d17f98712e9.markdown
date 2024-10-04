@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "69d4a3349c29866276a2ee0715395d17f98712e9"
+title: "Performance Improvement Of Language-Queried Audio Source Separation Based On Caption Augmentation From Large Language Models For Dcase Challenge 2024 Task 9"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/69d4a3349c29866276a2ee0715395d17f98712e9
+authors: "Do Hyun Lee, Yoon-Gue Song, Hong Kook Kim"
+---

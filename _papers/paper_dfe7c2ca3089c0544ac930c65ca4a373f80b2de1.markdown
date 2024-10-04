@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dfe7c2ca3089c0544ac930c65ca4a373f80b2de1"
+title: "Soundscape Captioning Using Sound Affective Quality Network And Large Language Model"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/dfe7c2ca3089c0544ac930c65ca4a373f80b2de1
+authors: "Yuanbo Hou, Qiaoqiao Ren, A. Mitchell, Wenwu Wang, Jian Kang, Tony Belpaeme, Dick Botteldooren"
+---

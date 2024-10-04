@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "222c01d7dc318e9b5f8ac8c3827b2a672d97ca50"
+title: "A Deep Learning Approach For Arabic Spoken Command Spotting"
+publication: "2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/222c01d7dc318e9b5f8ac8c3827b2a672d97ca50
+authors: "Mahmoud Salhab, H. Harmanani"
+---

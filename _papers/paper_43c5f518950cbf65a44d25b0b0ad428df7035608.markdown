@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "43c5f518950cbf65a44d25b0b0ad428df7035608"
+title: "Leveraging Tropical Reef, Bird And Unrelated Sounds For Superior Transfer Learning In Marine Bioacoustics"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/43c5f518950cbf65a44d25b0b0ad428df7035608
+authors: "Ben Williams, B. V. Merrienboer, Vincent Dumoulin, Jenny Hamer, Eleni Triantafillou, A. Fleishman, Matthew McKown, Jill E. Munger, Aaron N. Rice, Ashlee Lillis, Clemency E. White, Catherine A. D. Hobbs, Tries B. Razak, Kate E. Jones, Tom Denton"
+---

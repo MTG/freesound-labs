@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "efb9473388b9a816aeb55263e2a7a89f5cb760a6"
+title: "On Class Separability Pitfalls In Audio-Text Contrastive Zero-Shot Learning"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/efb9473388b9a816aeb55263e2a7a89f5cb760a6
+authors: "Tiago Tavares, Fabio Ayres, Zhepei Wang, Paris Smaragdis"
+---

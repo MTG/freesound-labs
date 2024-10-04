@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4666e8392d555159173fe9ac582b3bb91c5b6d6e"
+title: "Mdx-Gan: Enhancing Perceptual Quality In Multi-Class Source Separation Via Adversarial Training"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/4666e8392d555159173fe9ac582b3bb91c5b6d6e
+authors: "Ke Chen, Jiaqi Su, Zeyu Jin"
+---

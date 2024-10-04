@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "92197d5da5a401aec67e996bc9d448124bf7d232"
+title: "Enhancing Cross-Modal Fine-Tuning With Gradually Intermediate Modality Generation"
+publication: "ICML"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/92197d5da5a401aec67e996bc9d448124bf7d232
+authors: "Lincan Cai, Shuang Li, Wenxuan Ma, Jingxuan Kang, Binhui Xie, Zixun Sun, Chengwei Zhu"
+---

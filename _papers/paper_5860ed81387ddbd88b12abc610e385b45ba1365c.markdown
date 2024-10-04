@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5860ed81387ddbd88b12abc610e385b45ba1365c"
+title: "A Variable Selection Analysis For Soundscape Emotion Modeling Using Decision Tree Regression And Modern Information Criteria"
+publication: "IEEE Access"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/5860ed81387ddbd88b12abc610e385b45ba1365c
+authors: "Roberto San Millán-Castillo, Luca Martino, Eduardo Morgado"
+---

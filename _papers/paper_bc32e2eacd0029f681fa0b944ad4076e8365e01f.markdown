@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bc32e2eacd0029f681fa0b944ad4076e8365e01f"
+title: "Insectsound1000 An Insect Sound Dataset For Deep Learning Based Acoustic Insect Recognition"
+publication: "Scientific data"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/bc32e2eacd0029f681fa0b944ad4076e8365e01f
+authors: "Jelto Branding, D. von Hörsten, Elias Böckmann, Jens Karl Wegener, Eberhard Hartung"
+---

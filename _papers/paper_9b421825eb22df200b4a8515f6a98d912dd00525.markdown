@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9b421825eb22df200b4a8515f6a98d912dd00525"
+title: "Second-Moment/Order Approximations By Kernel Smoothers With Application To Volatility Estimation"
+publication: "Mathematics"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/9b421825eb22df200b4a8515f6a98d912dd00525
+authors: "León Beleña, Ernesto Curbelo, Luca Martino, Valero Laparra"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c8c69519bef5be4fd5aa521b4ab718a11147826e"
+title: "Applications And Advances Of Artificial Intelligence In Music Generation:A Review"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c8c69519bef5be4fd5aa521b4ab718a11147826e
+authors: "Yanxu Chen, Linshu Huang, Tian Gou"
+---

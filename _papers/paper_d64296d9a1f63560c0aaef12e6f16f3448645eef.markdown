@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d64296d9a1f63560c0aaef12e6f16f3448645eef"
+title: "Computer Audition: From Task-Specific Machine Learning To Foundation Models"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/d64296d9a1f63560c0aaef12e6f16f3448645eef
+authors: "Andreas Triantafyllopoulos, Iosif Tsangko, Alexander Gebhard, A. Mesaros, Tuomas Virtanen, Bjorn W. Schuller"
+---

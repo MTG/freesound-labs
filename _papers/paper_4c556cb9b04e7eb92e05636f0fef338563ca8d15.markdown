@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4c556cb9b04e7eb92e05636f0fef338563ca8d15"
+title: "Scaling Up Masked Audio Encoder Learning For General Audio Classification"
+publication: "Interspeech 2024"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/4c556cb9b04e7eb92e05636f0fef338563ca8d15
+authors: "Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang, Bin Wang"
+---

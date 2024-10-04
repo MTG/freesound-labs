@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3cf241bfb4d5ec6a744f4c455fc5ed1431a761a4"
+title: "Benchmarking Representations For Speech, Music, And Acoustic Events"
+publication: "2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/3cf241bfb4d5ec6a744f4c455fc5ed1431a761a4
+authors: "Moreno La Quatra, Alkis Koudounas, Lorenzo Vaiani, Elena Baralis, Luca Cagliero, Paolo Garza, Sabato Marco Siniscalchi"
+---

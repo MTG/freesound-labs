@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a8e5924bbbbd952c366a808a3639627d2f871add"
+title: "Mechanisms Of Sustained Perceptual Entrainment After Stimulus Offset"
+publication: "The European journal of neuroscience"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/a8e5924bbbbd952c366a808a3639627d2f871add
+authors: "Moran Aharoni, Assaf Breska, Matthias M. Müller, E. Schröger"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6585de476b2b1cf8e64a806c0c51f4568cbe08e7"
+title: "Soundbeam Meets M2D: Target Sound Extraction With Audio Foundation Model"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/6585de476b2b1cf8e64a806c0c51f4568cbe08e7
+authors: "Carlos Hernandez-Olivan, Marc Delcroix, Tsubasa Ochiai, Daisuke Niizumi, Naohiro Tawara, Tomohiro Nakatani, Shoko Araki"
+---

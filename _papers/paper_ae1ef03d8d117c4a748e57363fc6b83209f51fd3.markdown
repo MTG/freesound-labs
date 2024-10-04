@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ae1ef03d8d117c4a748e57363fc6b83209f51fd3"
+title: "Language-Queried Target Sound Extraction Without Parallel Training Data"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/ae1ef03d8d117c4a748e57363fc6b83209f51fd3
+authors: "Hao Ma, Zhiyuan Peng, Xu Li, Yukai Li, Mingjie Shao, Qiuqiang Kong, Ju Liu"
+---

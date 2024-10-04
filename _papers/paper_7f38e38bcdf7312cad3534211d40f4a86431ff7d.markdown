@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7f38e38bcdf7312cad3534211d40f4a86431ff7d"
+title: "Soloaudio: Target Sound Extraction With Language-Oriented Audio Diffusion Transformer"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/7f38e38bcdf7312cad3534211d40f4a86431ff7d
+authors: "Helin Wang, Jiarui Hai, Yen-Ju Lu, Karan Thakkar, Mounya Elhilali, N. Dehak"
+---

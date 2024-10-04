@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e0a5c7e11098bba16de6937377c429f82c168e8d"
+title: "Coastline Resilience: Leveraging Satellite Imagery And The Co-Detr Model For Storm Damage Assessment"
+publication: "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/e0a5c7e11098bba16de6937377c429f82c168e8d
+authors: "Erwin Deng"
+---

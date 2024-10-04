@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c1e4846ff59db616062a75e5232942697c40bf42"
+title: "Slimnet: A Lightweight Attentive Network For Speech-Music-Noise Classification And Voice Activity Detection"
+publication: "2024 IEEE International Conference on Edge Computing and Communications (EDGE)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c1e4846ff59db616062a75e5232942697c40bf42
+authors: "Nicolas Shu, You Wang, Desmond Caulley, David V. Anderson"
+---

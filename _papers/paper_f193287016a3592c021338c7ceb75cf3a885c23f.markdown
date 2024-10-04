@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f193287016a3592c021338c7ceb75cf3a885c23f"
+title: "Learning Ontology Informed Representations With Constraints For Acoustic Event Detection"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/f193287016a3592c021338c7ceb75cf3a885c23f
+authors: "Akshay Raina, Sayeedul Islam Sheikh, Vipul Arora"
+---

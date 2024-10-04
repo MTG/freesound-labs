@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "44423491c90d39f02098159d6e464b0cc9260ee3"
+title: "Multi-Label Audio Classification With A Noisy Zero-Shot Teacher"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/44423491c90d39f02098159d6e464b0cc9260ee3
+authors: "Sebastian Braun, H. Gamper"
+---

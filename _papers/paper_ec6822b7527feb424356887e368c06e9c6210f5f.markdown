@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ec6822b7527feb424356887e368c06e9c6210f5f"
+title: "Completing Audio Drum Loops With Symbolic Drum Suggestions"
+publication: "NIME"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/ec6822b7527feb424356887e368c06e9c6210f5f
+authors: "B. Haki, Teresa Pelinski, Marina Nieto Giménez, Sergi Jordà"
+---

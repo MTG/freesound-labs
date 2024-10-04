@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "35d09c4325f42b8eac8c8571f9a485f60fe56c25"
+title: "Can Synthetic Audio From Generative Foundation Models Assist Audio Recognition And Speech Modeling?"
+publication: "Interspeech 2024"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/35d09c4325f42b8eac8c8571f9a485f60fe56c25
+authors: "Tiantian Feng, Dimitrios Dimitriadis, Shrikanth S. Narayanan"
+---

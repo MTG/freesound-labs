@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0bc956353dd599346c9007f6afbf8dc81b46dbd0"
+title: "Prompt-Guided Precise Audio Editing With Diffusion Models"
+publication: "ICML"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/0bc956353dd599346c9007f6afbf8dc81b46dbd0
+authors: "Manjie Xu, Chenxing Li, Duzhen Zhang, Dan Su, Weihan Liang, Dong Yu"
+---

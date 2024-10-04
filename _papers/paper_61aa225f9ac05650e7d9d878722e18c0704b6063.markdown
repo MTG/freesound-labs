@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "61aa225f9ac05650e7d9d878722e18c0704b6063"
+title: "Gama: A Large Audio-Language Model With Advanced Audio Understanding And Complex Reasoning Abilities"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/61aa225f9ac05650e7d9d878722e18c0704b6063
+authors: "Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S. Sakshi, Oriol Nieto, R. Duraiswami, Dinesh Manocha"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1d3b4bd9b04c83c8ff7e75bc951b98d263f05bd1"
+title: "Dasb - Discrete Audio And Speech Benchmark"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/1d3b4bd9b04c83c8ff7e75bc951b98d263f05bd1
+authors: "Pooneh Mousavi, Luca Della Libera, J. Duret, Artem Ploujnikov, Cem Subakan, M. Ravanelli"
+---

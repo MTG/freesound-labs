@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e3fdece06b2478f99692f872cb44fc95036f282e"
+title: "Enhancing Low-Resource Language And Instruction Following Capabilities Of Audio Language Models"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/e3fdece06b2478f99692f872cb44fc95036f282e
+authors: "Potsawee Manakul, Guangzhi Sun, Warit Sirichotedumrong, Kasima Tharnpipitchai, Kunat Pipatanakul"
+---

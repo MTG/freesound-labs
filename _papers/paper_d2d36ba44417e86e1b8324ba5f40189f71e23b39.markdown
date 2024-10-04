@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d2d36ba44417e86e1b8324ba5f40189f71e23b39"
+title: "Nast: Noise Aware Speech Tokenization For Speech Language Models"
+publication: "Interspeech 2024"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/d2d36ba44417e86e1b8324ba5f40189f71e23b39
+authors: "Shoval Messica, Yossi Adi"
+---

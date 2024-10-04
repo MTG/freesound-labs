@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "14bd2954fd51426f3935797b6547d00d85982aa2"
+title: "An Embedded End-To-End Voice Assistant"
+publication: "Eng. Appl. Artif. Intell."
+year: 2024
+external_url: https://www.semanticscholar.org/paper/14bd2954fd51426f3935797b6547d00d85982aa2
+authors: "Luca Lazzaroni, F. Bellotti, Riccardo Berta"
+---

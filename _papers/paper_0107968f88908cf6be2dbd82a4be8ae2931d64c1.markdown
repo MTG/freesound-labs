@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0107968f88908cf6be2dbd82a4be8ae2931d64c1"
+title: "Sound Event Localization And Detection With Pre-Trained Audio Spectrogram Transformer And Multichannel Seperation Network"
+publication: "DCASE"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/0107968f88908cf6be2dbd82a4be8ae2931d64c1
+authors: "Robin Scheibler, Tatsuya Komatsu, Yusuke Fujita, Michael Hentschel"
+---

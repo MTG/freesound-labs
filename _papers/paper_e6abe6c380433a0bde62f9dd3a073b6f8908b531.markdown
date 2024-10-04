@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e6abe6c380433a0bde62f9dd3a073b6f8908b531"
+title: "Audio-Based Step-Count Estimation For Running -- Windowing And Neural Network Baselines"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/e6abe6c380433a0bde62f9dd3a073b6f8908b531
+authors: "Philipp Wagner, Andreas Triantafyllopoulos, Alexander Gebhard, Bjorn W. Schuller"
+---

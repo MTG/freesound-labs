@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2715565cc93fe01ac5f24dfe65db5f7858066082"
+title: "Learning Multi-Target Tdoa Features For Sound Event Localization And Detection"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/2715565cc93fe01ac5f24dfe65db5f7858066082
+authors: "Axel Berg, Johanna Engman, Jens Gulin, Kalle Åström, Magnus Oskarsson"
+---

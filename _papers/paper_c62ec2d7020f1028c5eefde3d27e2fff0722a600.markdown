@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c62ec2d7020f1028c5eefde3d27e2fff0722a600"
+title: "Speechprompt: Prompting Speech Language Models For Speech Processing Tasks"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c62ec2d7020f1028c5eefde3d27e2fff0722a600
+authors: "Kai-Wei Chang, Haibin Wu, Yu-Kai Wang, Yuan-Kuei Wu, Hua Shen, Wei-Cheng Tseng, Iu-thing Kang, Shang-Wen Li, Hung-yi Lee"
+---

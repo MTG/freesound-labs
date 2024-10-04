@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "17d895b684d3d7d17254cec1aa521da254951f6d"
+title: "Towards Open Respiratory Acoustic Foundation Models: Pretraining And Benchmarking"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/17d895b684d3d7d17254cec1aa521da254951f6d
+authors: "Yuwei Zhang, Tong Xia, Jing Han, Y. Wu, Georgios Rizos, Yang Liu, Mohammed Mosuily, Jagmohan Chauhan, Cecilia Mascolo"
+---

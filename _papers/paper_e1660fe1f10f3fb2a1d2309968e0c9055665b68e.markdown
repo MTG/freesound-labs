@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e1660fe1f10f3fb2a1d2309968e0c9055665b68e"
+title: "Speechlm: Enhanced Speech Pre-Training With Unpaired Textual Data"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/e1660fe1f10f3fb2a1d2309968e0c9055665b68e
+authors: "Zi-Hua Zhang, Sanyuan Chen, Long Zhou, Yu Wu, Shuo Ren, Shujie Liu, Zhuoyuan Yao, Xun Gong, Lirong Dai, Jinyu Li, Furu Wei"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6deb5ea28495aa747099aa8cd5370f1bfa632125"
+title: "Soa: Reducing Domain Mismatch In Ssl Pipeline By Speech Only Adaptation For Low Resource Asr"
+publication: "2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/6deb5ea28495aa747099aa8cd5370f1bfa632125
+authors: "Natarajan Balaji Shankar, Ruchao Fan, Abeer Alwan"
+---

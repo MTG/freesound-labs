@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "47b7b442e8fa793ae5718236e81ffee2b74ae00a"
+title: "A Reference-Free Metric For Language-Queried Audio Source Separation Using Contrastive Language-Audio Pretraining"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/47b7b442e8fa793ae5718236e81ffee2b74ae00a
+authors: "Feiyang Xiao, Jian Guan, Qiaoxi Zhu, Xubo Liu, Wenbo Wang, Shuhan Qi, Kejia Zhang, Jianyuan Sun, Wenwu Wang"
+---

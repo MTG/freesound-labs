@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "39f76b715dad0dcb33c0563f240d7e3b919c2b40"
+title: "An Experimental Comparison Of Noise-Robust Text-To-Speech Synthesis Systems Based On Self-Supervised Representation"
+publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/39f76b715dad0dcb33c0563f240d7e3b919c2b40
+authors: "Xiaoying Zhao, Qiushi Zhu, Yuchen Hu"
+---

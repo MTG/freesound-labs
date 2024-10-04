@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1436f26e2101f2e69df9c25e43153576986eafdb"
+title: "Masked Modeling Duo: Towards A Universal Audio Pre-Training Framework"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/1436f26e2101f2e69df9c25e43153576986eafdb
+authors: "Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Noboru Harada, K. Kashino"
+---

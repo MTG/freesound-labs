@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bc132307a740ff0eb6c6389e54b3dfafd5c06f45"
+title: "M2D-Clap: Masked Modeling Duo Meets Clap For Learning General-Purpose Audio-Language Representation"
+publication: "Interspeech 2024"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/bc132307a740ff0eb6c6389e54b3dfafd5c06f45
+authors: "Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, Noboru Harada, Masahiro Yasuda, Shunsuke Tsubaki, Keisuke Imoto"
+---

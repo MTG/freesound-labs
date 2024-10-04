@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e4d7730f2992cea4dcca43082ae3f950ab3b0d36"
+title: "Equiav: Leveraging Equivariance For Audio-Visual Contrastive Learning"
+publication: "ICML"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/e4d7730f2992cea4dcca43082ae3f950ab3b0d36
+authors: "Jongsuk Kim, Hyeongkeun Lee, Kyeongha Rho, Junmo Kim, Joon Son Chung"
+---

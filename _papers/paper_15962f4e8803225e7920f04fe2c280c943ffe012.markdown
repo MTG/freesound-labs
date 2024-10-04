@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "15962f4e8803225e7920f04fe2c280c943ffe012"
+title: "Openace: An Open Benchmark For Evaluating Audio Coding Performance"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/15962f4e8803225e7920f04fe2c280c943ffe012
+authors: "Jozef Coldenhoff, Niclas Granqvist, Milos Cernak"
+---

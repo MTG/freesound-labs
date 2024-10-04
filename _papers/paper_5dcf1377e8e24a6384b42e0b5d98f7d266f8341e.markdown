@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5dcf1377e8e24a6384b42e0b5d98f7d266f8341e"
+title: "Towards Effective Multi-Modal Interchanges In Zero-Resource Sounding Object Localization"
+publication: "NeurIPS"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/5dcf1377e8e24a6384b42e0b5d98f7d266f8341e
+authors: "Yang Zhao, Chen Zhang, Haifeng Huang, Haoyuan Li, Zhou Zhao"
+---

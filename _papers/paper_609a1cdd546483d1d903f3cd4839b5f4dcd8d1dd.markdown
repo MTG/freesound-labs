@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "609a1cdd546483d1d903f3cd4839b5f4dcd8d1dd"
+title: "Describe Where You Are: Improving Noise-Robustness For Speech Emotion Recognition With Text Description Of The Environment"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/609a1cdd546483d1d903f3cd4839b5f4dcd8d1dd
+authors: "Seong-Gyun Leem, Daniel Fulford, J. Onnela, David Gard, Carlos Busso"
+---
