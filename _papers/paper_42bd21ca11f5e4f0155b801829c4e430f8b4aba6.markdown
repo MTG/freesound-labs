@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "42bd21ca11f5e4f0155b801829c4e430f8b4aba6"
+title: "Towards Sub-Millisecond Latency Real-Time Speech Enhancement Models On Hearables"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/42bd21ca11f5e4f0155b801829c4e430f8b4aba6
+authors: "Artem Dementyev, Chandan K. A. Reddy, Scott Wisdom, Navin Chatlani, J. Hershey, Richard F.Lyon"
+---

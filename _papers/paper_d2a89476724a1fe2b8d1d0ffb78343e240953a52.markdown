@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d2a89476724a1fe2b8d1d0ffb78343e240953a52"
+title: "Robuser: A Robustness Benchmark For Speech Emotion Recognition"
+publication: "2024 12th International Conference on Affective Computing and Intelligent Interaction (ACII)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/d2a89476724a1fe2b8d1d0ffb78343e240953a52
+authors: "Antonia Petrogianni, Lefteris Kapelonis, Nikolaos Antoniou, Sofia Eleftheriou, Petros Mitseas, Dimitris Sgouropoulos, Athanasios Katsamanis, Theodoros Giannakopoulos, Shrikanth Narayanan"
+---

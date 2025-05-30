@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9f5d2e86b02de2c0b33289f8b3fcf513b2dd8e82"
+title: "Self-Supervised Convolutional Audio Models Are Flexible Acoustic Feature Learners: A Domain Specificity And Transfer-Learning Study"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/9f5d2e86b02de2c0b33289f8b3fcf513b2dd8e82
+authors: "Mattson Ogg"
+---

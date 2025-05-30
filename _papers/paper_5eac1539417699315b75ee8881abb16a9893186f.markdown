@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5eac1539417699315b75ee8881abb16a9893186f"
+title: "Learning-Based Multi-Channel Speech Presence Probability Estimation Using A Low-Parameter Model And Integration With Mvdr Beamforming For Multi-Channel Speech Enhancement"
+publication: "2024 18th International Workshop on Acoustic Signal Enhancement (IWAENC)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/5eac1539417699315b75ee8881abb16a9893186f
+authors: "Shuai Tao, Pejman Mowlaee, Jesper Rindom Jensen, Mads Græsbøll Christensen"
+---

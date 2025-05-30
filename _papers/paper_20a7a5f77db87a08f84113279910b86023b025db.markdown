@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "20a7a5f77db87a08f84113279910b86023b025db"
+title: "Satrn: Spiking Audio Tagging Robust Network"
+publication: "Electronics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/20a7a5f77db87a08f84113279910b86023b025db
+authors: "Shouwei Gao, Xingyang Deng, Xiangyu Fan, Pengliang Yu, Hao Zhou, Zihao Zhu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f7c6f0b9a181f999fb25b164e5961ac8336d4b64"
+title: "Mm-Storyagent: Immersive Narrated Storybook Video Generation With A Multi-Agent Paradigm Across Text, Image And Audio"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f7c6f0b9a181f999fb25b164e5961ac8336d4b64
+authors: "Xuenan Xu, Jiahao Mei, Chenliang Li, Yuning Wu, Ming Yan, Shaopeng Lai, Ji Zhang, Mengyue Wu"
+---

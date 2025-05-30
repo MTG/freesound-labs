@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6f12116d172331a45e22d848ac052f25c5715a6b"
+title: "The Inaturalist Sounds Dataset"
+publication: "NeurIPS"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/6f12116d172331a45e22d848ac052f25c5715a6b
+authors: "Mustafa Chasmai, Alexander Shepard, Subhransu Maji, Grant Van Horn"
+---

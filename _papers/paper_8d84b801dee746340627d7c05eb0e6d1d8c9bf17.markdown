@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8d84b801dee746340627d7c05eb0e6d1d8c9bf17"
+title: "Kimi-Audio Technical Report"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8d84b801dee746340627d7c05eb0e6d1d8c9bf17
+authors: "KimiTeam, Ding Ding, Zeqian Ju, Yichong Leng, Songxiang Liu, Tong Liu, Zeyu Shang, Kai Shen, Wei Song, Xu Tan, Heyi Tang, Zhengtao Wang, Chu Wei, Yifei Xin, Xinran Xu, Jian-Xiu Yu, Yutao Zhang, Xinyu Zhou, Y. Charles, Jun Chen, Yanru Chen, Yulun Du, Weiran He, Zhenxing Hu, Guo-Rong Lai, Qingcheng Li, Yangyang Liu, Weidong Sun, Jianzhou Wang, Yuzhi Wang, Yue Wu, Yuxin Wu, Dongchao Yang, Haodong Yang, Yingbo Yang, Zhilin Yang, Aoxiong Yin, Rui Yuan, Yutong Zhang, Zaida Zhou"
+---

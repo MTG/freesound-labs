@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ab580da4419c78979055fb56874403b79be1c0c2"
+title: "Human–Machine Agencies In Live Coding For Music Performance"
+publication: "Journal of New Music Research"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/ab580da4419c78979055fb56874403b79be1c0c2
+authors: "Anna Xambó, Gerard Roma"
+---

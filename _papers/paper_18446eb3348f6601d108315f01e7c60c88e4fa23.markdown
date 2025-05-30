@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "18446eb3348f6601d108315f01e7c60c88e4fa23"
+title: "St-Ito: Controlling Audio Effects For Style Transfer With Inference-Time Optimization"
+publication: "ISMIR"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/18446eb3348f6601d108315f01e7c60c88e4fa23
+authors: "C. Steinmetz, Shubhr Singh, Marco Comunità, Ilias Ibnyahya, Shanxin Yuan, Emmanouil Benetos, Joshua D. Reiss"
+---

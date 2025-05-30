@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "01f128e3e6e0e725090fd58e507245404827bbc2"
+title: "Seasr: Speech Enhancement For Automatic Speech Recognition Systems Using Convolution Recurrent Neural Network With Residual Connections"
+publication: "2024 IEEE 5th Women in Technology Conference (WINTECHCON)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/01f128e3e6e0e725090fd58e507245404827bbc2
+authors: "Manasi Remane, Revanth Reddy Nalia, Ambrish Dantrey"
+---

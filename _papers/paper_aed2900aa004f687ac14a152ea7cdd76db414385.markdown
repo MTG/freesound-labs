@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "aed2900aa004f687ac14a152ea7cdd76db414385"
+title: "Artifact-Free Sound Quality In Dnn-Based Closed-Loop Systems For Audio Processing"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/aed2900aa004f687ac14a152ea7cdd76db414385
+authors: "Chuan Wen, G. Torfs, Sarah Verhulst"
+---

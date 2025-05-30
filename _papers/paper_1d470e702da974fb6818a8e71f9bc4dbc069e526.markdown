@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1d470e702da974fb6818a8e71f9bc4dbc069e526"
+title: "Biodenoising: Animal Vocalization Denoising Without Access To Clean Data"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/1d470e702da974fb6818a8e71f9bc4dbc069e526
+authors: "Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, M. Cusimano"
+---

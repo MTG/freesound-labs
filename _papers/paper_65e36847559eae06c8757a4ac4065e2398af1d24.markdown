@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "65e36847559eae06c8757a4ac4065e2398af1d24"
+title: "Content Adaptive Front End For Audio Classification"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/65e36847559eae06c8757a4ac4065e2398af1d24
+authors: "Prateek Verma, C. Chafe"
+---

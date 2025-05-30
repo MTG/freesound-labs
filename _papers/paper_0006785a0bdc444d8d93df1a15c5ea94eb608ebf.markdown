@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0006785a0bdc444d8d93df1a15c5ea94eb608ebf"
+title: "Qualispeech: A Speech Quality Assessment Dataset With Natural Language Reasoning And Descriptions"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0006785a0bdc444d8d93df1a15c5ea94eb608ebf
+authors: "Siyin Wang, Wenyi Yu, Xianzhao Chen, Xiaohai Tian, Jun Zhang, Lu Lu, Yu Tsao, Junichi Yamagishi, Yuxuan Wang, Chao Zhang"
+---

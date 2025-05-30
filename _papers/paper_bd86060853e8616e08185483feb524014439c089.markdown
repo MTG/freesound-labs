@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bd86060853e8616e08185483feb524014439c089"
+title: "Prevalence Of Transparency And Reproducibility-Related Research Practices In Music Psychology (2017–2022)"
+publication: "Musicae Scientiae"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/bd86060853e8616e08185483feb524014439c089
+authors: "T. Eerola"
+---

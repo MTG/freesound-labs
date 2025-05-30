@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "03d86c88d314f1ad9053cf227ff1bfbd954d493f"
+title: "Separate Anything You Describe"
+publication: "IEEE Transactions on Audio, Speech and Language Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/03d86c88d314f1ad9053cf227ff1bfbd954d493f
+authors: "Xubo Liu, Qiuqiang Kong, Yan Zhao, Haohe Liu, Yiitan Yuan, Yuzhuo Liu, Rui Xia, Yuxuan Wang, Mark D. Plumbley, Wenwu Wang"
+---

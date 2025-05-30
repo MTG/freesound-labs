@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "34a92b2f10191f3ae4f903760acd96058cbd0268"
+title: "From Alignment To Advancement: Bootstrapping Audio-Language Alignment With Synthetic Data"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/34a92b2f10191f3ae4f903760acd96058cbd0268
+authors: "Chun-Yi Kuan, Hung-yi Lee"
+---

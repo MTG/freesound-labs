@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "52206e982320ec323fd7eb6e20845bce5a5f33c2"
+title: "Correlation Of Fréchet Audio Distance With Human Perception Of Environmental Audio Is Embedding Dependent"
+publication: "2024 32nd European Signal Processing Conference (EUSIPCO)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/52206e982320ec323fd7eb6e20845bce5a5f33c2
+authors: "Modan Tailleur, Junwon Lee, Mathieu Lagrange, Keunwoo Choi, Laurie M. Heller, Keisuke Imoto, Yuki Okamoto"
+---

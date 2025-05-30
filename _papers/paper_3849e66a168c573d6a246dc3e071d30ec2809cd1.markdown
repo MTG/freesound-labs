@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3849e66a168c573d6a246dc3e071d30ec2809cd1"
+title: "Context-Aware Data Augmentation For Enhanced Speech Command Recognition In Industrial Environments"
+publication: "Scientific reports"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3849e66a168c573d6a246dc3e071d30ec2809cd1
+authors: "Giuseppe De Simone, Antonio Greco, Francesco Rosa, Alessia Saggese, Mario Vento"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3d70d683956996896556990c86d86f742132cb9f"
+title: "Audiospa: Spatializing Sound Events With Text"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3d70d683956996896556990c86d86f742132cb9f
+authors: "Linfeng Feng, Lei Zhao, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li"
+---

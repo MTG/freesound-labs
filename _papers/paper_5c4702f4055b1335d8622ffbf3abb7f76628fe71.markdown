@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5c4702f4055b1335d8622ffbf3abb7f76628fe71"
+title: "Improving Distance Estimation In Sound Event Localization And Detection Using Resnet50 And Multi-Accddoa"
+publication: "2024 10th International Conference on Signal Processing and Intelligent Systems (ICSPIS)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/5c4702f4055b1335d8622ffbf3abb7f76628fe71
+authors: "Zahra Abolfazli, H. R. Abutalebi, Tuomas Virtanen"
+---

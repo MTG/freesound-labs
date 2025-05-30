@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c7c5557c72f99c95e5e054744abc5e38cf831e0c"
+title: "Retrieval-Augmented Classifier Guidance For Audio Generation"
+publication: "Interspeech 2024"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c7c5557c72f99c95e5e054744abc5e38cf831e0c
+authors: "Ho-Young Choi, Won-Gook Choi, Joon-Hyuk Chang"
+---

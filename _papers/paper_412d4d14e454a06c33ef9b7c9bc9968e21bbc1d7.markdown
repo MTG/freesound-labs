@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "412d4d14e454a06c33ef9b7c9bc9968e21bbc1d7"
+title: "Macs: Multi-Source Audio-To-Image Generation With Contextual Significance And Semantic Alignment"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/412d4d14e454a06c33ef9b7c9bc9968e21bbc1d7
+authors: "Hao Zhou, Xiaobao Guo, Yuzhe Zhu, A. Kong"
+---

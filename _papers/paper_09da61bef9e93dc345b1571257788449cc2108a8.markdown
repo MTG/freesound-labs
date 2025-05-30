@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "09da61bef9e93dc345b1571257788449cc2108a8"
+title: "Two-Stage Unet With Channel And Temporal-Frequency Attention For Multi-Channel Speech Enhancement"
+publication: "Speech Commun."
+year: 2024
+external_url: https://www.semanticscholar.org/paper/09da61bef9e93dc345b1571257788449cc2108a8
+authors: "Shiyun Xu, Yinghan Cao, Zehua Zhang, Mingjiang Wang"
+---

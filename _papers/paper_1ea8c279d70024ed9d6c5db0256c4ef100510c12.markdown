@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1ea8c279d70024ed9d6c5db0256c4ef100510c12"
+title: "Audio-Language Models For Audio-Centric Tasks: A Survey"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1ea8c279d70024ed9d6c5db0256c4ef100510c12
+authors: "Yi Su, Jisheng Bai, Qisheng Xu, Kele Xu, Yong Dou"
+---

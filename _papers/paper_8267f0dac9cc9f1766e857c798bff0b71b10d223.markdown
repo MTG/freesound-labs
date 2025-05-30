@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8267f0dac9cc9f1766e857c798bff0b71b10d223"
+title: "Transfer Learning In Vocal Education: Technical Evaluation Of Limited Samples Describing Mezzo-Soprano"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/8267f0dac9cc9f1766e857c798bff0b71b10d223
+authors: "Zhenyi Hou, Xu Zhao, Kejie Ye, Xinyu Sheng, Shanggerile Jiang, Jiajing Xia, Yitao Zhang, Chenxi Ban, Daijun Luo, Jiaxing Chen, Yan Zou, Yuchao Feng, Guangyu Fan, Xin Yuan"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c006f5c57c03a9b9553dc026784b1060435c5bcf"
+title: "Using Virtual Reality To Raise Awareness Of Communication Challenges Faced By Individuals With Hearing Loss"
+publication: "2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c006f5c57c03a9b9553dc026784b1060435c5bcf
+authors: "Joanna Luberadzka, Enric Gusó, Umut Sayin, Adan Garriga"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8c397707c26bc86d7b41b2ebe8d72c33930738ec"
+title: "Comparing Self-Supervised Learning Models Pre-Trained On Human Speech And Animal Vocalizations For Bioacoustics Processing"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8c397707c26bc86d7b41b2ebe8d72c33930738ec
+authors: "Eklavya Sarkar, Mathew Magimai.-Doss"
+---

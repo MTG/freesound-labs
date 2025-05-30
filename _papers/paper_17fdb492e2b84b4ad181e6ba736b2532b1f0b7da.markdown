@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "17fdb492e2b84b4ad181e6ba736b2532b1f0b7da"
+title: "Text-Queried Audio Source Separation Via Hierarchical Modeling"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/17fdb492e2b84b4ad181e6ba736b2532b1f0b7da
+authors: "Xinlei Yin, Xiulian Peng, Xue Jiang, Zhiwei Xiong, Yan Lu"
+---

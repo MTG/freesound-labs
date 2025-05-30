@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b21178fd7c4e4848fc7507ed8c5af584b72a2ff0"
+title: "Synthio: Augmenting Small-Scale Audio Classification Datasets With Synthetic Data"
+publication: "ICLR"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/b21178fd7c4e4848fc7507ed8c5af584b72a2ff0
+authors: "Sreyan Ghosh, Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha"
+---

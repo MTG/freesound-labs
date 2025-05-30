@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c7817c1848a0a0318b8dfc8614f0a9632db320c1"
+title: "Envsdd: Benchmarking Environmental Sound Deepfake Detection"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c7817c1848a0a0318b8dfc8614f0a9632db320c1
+authors: "Han Yin, Yang Xiao, Rohan Kumar Das, Jisheng Bai, Haohe Liu, Wenwu Wang, Mark D. Plumbley"
+---

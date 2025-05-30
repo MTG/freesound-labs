@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ba2d3e12ad937838923b6f6a7fee660315876c58"
+title: "Internlm-Xcomposer2.5-Omnilive: A Comprehensive Multimodal System For Long-Term Streaming Video And Audio Interactions"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/ba2d3e12ad937838923b6f6a7fee660315876c58
+authors: "Pan Zhang, Xiao-wen Dong, Yuhang Cao, Yuhang Zang, Rui Qian, Xilin Wei, Lin Chen, Yifei Li, Junbo Niu, Shuangrui Ding, Qipeng Guo, Haodong Duan, Xin Chen, Han Lv, Zheng Nie, Min Zhang, Bin Wang, Wenwei Zhang, Xinyue Zhang, Jiaye Ge, Wei Li, Jingwen Li, Zhongying Tu, Conghui He, Xingcheng Zhang, Kai Chen, Yuanbo Qiao, Dahua Lin, Jiaqi Wang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b4ef23c8662afc319e7fa85f76a88ac9e06750a3"
+title: "Audio Flamingo 2: An Audio-Language Model With Long-Audio Understanding And Expert Reasoning Abilities"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b4ef23c8662afc319e7fa85f76a88ac9e06750a3
+authors: "Sreyan Ghosh, Zhifeng Kong, Sonal Kumar, S. Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro, AF-CLAP Contrastive Loss"
+---

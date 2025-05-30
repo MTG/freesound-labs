@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "230c642f10aa374fe2e965b759e2cb1a417a3690"
+title: "Trends In Audio Scene Source Counting And Analysis"
+publication: "Machine Learning with Applications"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/230c642f10aa374fe2e965b759e2cb1a417a3690
+authors: "Michael Nigro, Sridhar Krishnan"
+---

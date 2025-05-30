@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "256d12567ed86ea856e520fba21d226b6a573a88"
+title: "Reassigning Sources Of Misophonic Trigger Sounds To Change Their Unpleasantness: Testing Alternative Mechanisms With A New Set Of Movies, Paintings, And Words"
+publication: "PloS one"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/256d12567ed86ea856e520fba21d226b6a573a88
+authors: "Laurie M Heller, Urszula Oszczapinska, Jessica M. Smith, Megan M Julien"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2d38cf2eb0682218e15791226ec5daba8ac1bc99"
+title: "Emotioncaps: Enhancing Audio Captioning Through Emotion-Augmented Data Generation"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/2d38cf2eb0682218e15791226ec5daba8ac1bc99
+authors: "Mithun Manivannan, Vignesh Nethrapalli, Mark Cartwright"
+---

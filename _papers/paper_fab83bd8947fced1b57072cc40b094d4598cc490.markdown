@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fab83bd8947fced1b57072cc40b094d4598cc490"
+title: "Immersediffusion: A Generative Spatial Audio Latent Diffusion Model"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/fab83bd8947fced1b57072cc40b094d4598cc490
+authors: "Mojtaba Heydari, M. Souden, Bruno Conejo, J. Atkins"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fe2598cac5c445b4d2609d4e2b164c53e70b4c3d"
+title: "X-Ares: A Comprehensive Framework For Assessing Audio Encoder Performance"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/fe2598cac5c445b4d2609d4e2b164c53e70b4c3d
+authors: "Junbo Zhang, Heinrich Dinkel, Yadong Niu, Chenyu Liu, Si Cheng, Anbei Zhao, Jian Luan"
+---

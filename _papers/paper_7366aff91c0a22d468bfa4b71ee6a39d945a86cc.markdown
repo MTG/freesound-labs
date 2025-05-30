@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7366aff91c0a22d468bfa4b71ee6a39d945a86cc"
+title: "Stage-Wise And Prior-Aware Neural Speech Phase Prediction"
+publication: "2024 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/7366aff91c0a22d468bfa4b71ee6a39d945a86cc
+authors: "Fei Liu, Yang Ai, Hui-Peng Du, Ye-Xin Lu, Ruixin Zheng, Zhenhua Ling"
+---

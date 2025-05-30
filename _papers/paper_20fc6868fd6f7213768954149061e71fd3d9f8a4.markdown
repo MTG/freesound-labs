@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "20fc6868fd6f7213768954149061e71fd3d9f8a4"
+title: "Bridging The Gap Between Text, Audio, Image, And Any Sequence: A Novel Approach Using Gloss-Based Annotation"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/20fc6868fd6f7213768954149061e71fd3d9f8a4
+authors: "Sen Fang, Sizhou Chen, Yalin Feng, Xiaofeng Zhang, TeikToe Teoh"
+---

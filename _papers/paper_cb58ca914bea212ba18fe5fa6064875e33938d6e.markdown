@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cb58ca914bea212ba18fe5fa6064875e33938d6e"
+title: "Omniaudio: Generating Spatial Audio From 360-Degree Video"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/cb58ca914bea212ba18fe5fa6064875e33938d6e
+authors: "Huadai Liu, Tianyi Luo, Qikai Jiang, Kaicheng Luo, Peiwen Sun, Jialei Wan, Rongjie Huang, Qian Chen, Wen Wang, Xiangtai Li, Shiliang Zhang, Zhijie Yan, Zhou Zhao, Wei Xue"
+---

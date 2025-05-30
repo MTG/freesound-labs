@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "adb750b0f193cf54210791cf8a72838c71187897"
+title: "Gotta Hear Them All: Sound Source Aware Vision To Audio Generation"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/adb750b0f193cf54210791cf8a72838c71187897
+authors: "Wei Guo, Heng Wang, Jianbo Ma, Tom Weidong Cai"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6fe50c4b326791d87a1841dd1cf5c9dba7f110a7"
+title: "Conditional Sound Generation Using Neural Discrete Time-Frequency Representation Learning"
+publication: "2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/6fe50c4b326791d87a1841dd1cf5c9dba7f110a7
+authors: "Xubo Liu, Turab Iqbal, Jinzheng Zhao, Qiushi Huang, Mark D. Plumbley, Wenwu Wang"
+---

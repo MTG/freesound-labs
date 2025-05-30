@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "276c0ea1f871909df53f7bf70b9c69d1ee4d24cb"
+title: "Multichannel Speech Enhancement Using Complex-Valued Graph Convolutional Networks And Triple-Path Attentive Recurrent Networks"
+publication: "2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/276c0ea1f871909df53f7bf70b9c69d1ee4d24cb
+authors: "Xingyu Shen, Wei-Ping Zhu"
+---

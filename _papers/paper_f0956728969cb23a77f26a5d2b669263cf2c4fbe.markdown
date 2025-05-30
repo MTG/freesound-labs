@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f0956728969cb23a77f26a5d2b669263cf2c4fbe"
+title: "Enhancing Wearable Tap Water Audio Detection Through Subclass Annotation In The Hd-Epic Dataset"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f0956728969cb23a77f26a5d2b669263cf2c4fbe
+authors: "Robin Burchard, Kristof Van Laerhoven"
+---

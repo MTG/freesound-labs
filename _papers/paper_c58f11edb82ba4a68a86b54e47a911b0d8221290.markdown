@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c58f11edb82ba4a68a86b54e47a911b0d8221290"
+title: "Mellow: A Small Audio Language Model For Reasoning"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c58f11edb82ba4a68a86b54e47a911b0d8221290
+authors: "Soham Deshmukh, Satvik Dixit, Rita Singh, Bhiksha Raj"
+---

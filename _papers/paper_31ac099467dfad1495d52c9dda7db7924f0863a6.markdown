@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "31ac099467dfad1495d52c9dda7db7924f0863a6"
+title: "Recognizing Ornaments In Vocal Indian Art Music With Active Annotation"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/31ac099467dfad1495d52c9dda7db7924f0863a6
+authors: "Sumit Kumar, Parampreet Singh, Vipul Arora"
+---

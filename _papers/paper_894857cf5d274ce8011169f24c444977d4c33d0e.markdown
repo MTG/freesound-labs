@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "894857cf5d274ce8011169f24c444977d4c33d0e"
+title: "A Comprehensive Study Of Audio Profiling: Methods, Applications, Challenges, And Future Directions"
+publication: "Neurocomputing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/894857cf5d274ce8011169f24c444977d4c33d0e
+authors: "Anil Pudasaini, M. Al-Hawawreh, Mohamed Reda Bouadjenek, Hakim Hacid, Sunil Aryal"
+---

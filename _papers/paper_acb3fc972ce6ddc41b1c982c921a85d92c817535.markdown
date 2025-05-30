@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "acb3fc972ce6ddc41b1c982c921a85d92c817535"
+title: "Transformation Of Audio Embeddings Into Interpretable, Concept-Based Representations"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/acb3fc972ce6ddc41b1c982c921a85d92c817535
+authors: "Alice Zhang, Edison Thomaz, Lie Lu"
+---

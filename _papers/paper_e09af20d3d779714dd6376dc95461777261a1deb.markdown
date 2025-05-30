@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e09af20d3d779714dd6376dc95461777261a1deb"
+title: "Enhancing Neural Speech Embeddings For Generative Speech Models"
+publication: "2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/e09af20d3d779714dd6376dc95461777261a1deb
+authors: "Doyeon Kim, Yanjue Song, Nilesh Madhu, Hong-Goo Kang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "46cf05f8a900042f98201cb5d1ec82fbb87bdc9a"
+title: "A Pre-Training Framework That Encodes Noise Information For Speech Quality Assessment"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/46cf05f8a900042f98201cb5d1ec82fbb87bdc9a
+authors: "Subrina Sultana, Donald S. Williamson"
+---

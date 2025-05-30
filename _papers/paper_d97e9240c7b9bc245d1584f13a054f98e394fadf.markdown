@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d97e9240c7b9bc245d1584f13a054f98e394fadf"
+title: "Pseldnets: Pre-Trained Neural Networks On Large-Scale Synthetic Datasets For Sound Event Localization And Detection"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/d97e9240c7b9bc245d1584f13a054f98e394fadf
+authors: "Jinbo Hu, Yin Cao, Ming Wu, Fang Kang, Feiran Yang, Wenwu Wang, Mark D. Plumbley, Jun Yang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f9e21ffc5fcdc8ca88696c1dd06181493d5cc776"
+title: "Masked Latent Prediction And Classification For Self-Supervised Audio Representation Learning"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f9e21ffc5fcdc8ca88696c1dd06181493d5cc776
+authors: "Aurian Quelennec, Pierre Chouteau, Geoffroy Peeters, S. Essid"
+---

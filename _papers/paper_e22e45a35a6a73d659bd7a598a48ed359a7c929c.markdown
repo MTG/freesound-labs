@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e22e45a35a6a73d659bd7a598a48ed359a7c929c"
+title: "Omcat: Omni Context Aware Transformer"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/e22e45a35a6a73d659bd7a598a48ed359a7c929c
+authors: "Arushi Goel, Karan Sapra, Matthieu Le, Rafael Valle, Andrew Tao, Bryan Catanzaro"
+---

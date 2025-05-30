@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4b8ef5fa6b8c99393e96fb726903cca5017fe409"
+title: "A Time-Frequency Fusion Model For Multi-Channel Speech Enhancement"
+publication: "EURASIP J. Audio Speech Music. Process."
+year: 2024
+external_url: https://www.semanticscholar.org/paper/4b8ef5fa6b8c99393e96fb726903cca5017fe409
+authors: "Xiao Zeng, Shiyun Xu, Mingjiang Wang"
+---

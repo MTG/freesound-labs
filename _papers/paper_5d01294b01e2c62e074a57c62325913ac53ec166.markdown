@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5d01294b01e2c62e074a57c62325913ac53ec166"
+title: "Keep What You Need : Extracting Efficient Subnetworks From Large Audio Representation Models"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/5d01294b01e2c62e074a57c62325913ac53ec166
+authors: "David Genova, P. Esling, Tom Hurlin"
+---

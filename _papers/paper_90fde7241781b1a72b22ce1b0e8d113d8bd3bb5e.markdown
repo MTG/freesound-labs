@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "90fde7241781b1a72b22ce1b0e8d113d8bd3bb5e"
+title: "Cst-Former: Multidimensional Attention-Based Transformer For Sound Event Localization And Detection In Real Scenes"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/90fde7241781b1a72b22ce1b0e8d113d8bd3bb5e
+authors: "Yusun Shul, Dayun Choi, Jung-Woo Choi"
+---

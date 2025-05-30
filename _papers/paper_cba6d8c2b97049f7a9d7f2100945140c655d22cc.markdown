@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cba6d8c2b97049f7a9d7f2100945140c655d22cc"
+title: "Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation"
+publication: "ICLR"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/cba6d8c2b97049f7a9d7f2100945140c655d22cc
+authors: "Peiwen Sun, Sitong Cheng, Xiangtai Li, Zhen Ye, Huadai Liu, Honggang Zhang, Wei Xue, Yi-Ting Guo"
+---

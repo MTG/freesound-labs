@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "943bacf9746a4652e2e4caf4bfe9c0c75a7c0516"
+title: "Tacos: Temporally-Aligned Audio Captions For Language-Audio Pretraining"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/943bacf9746a4652e2e4caf4bfe9c0c75a7c0516
+authors: "Paul Primus, Florian Schmid, Gerhard Widmer"
+---

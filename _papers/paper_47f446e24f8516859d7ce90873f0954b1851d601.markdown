@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "47f446e24f8516859d7ce90873f0954b1851d601"
+title: "Generative Data Augmentation Challenge: Zero-Shot Speech Synthesis For Personalized Speech Enhancement"
+publication: "2025 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/47f446e24f8516859d7ce90873f0954b1851d601
+authors: "Jae-Sung Bae, Anastasia Kuznetsova, Dinesh Manocha, John Hershey, T. Kristjansson, Minje Kim"
+---

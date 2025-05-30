@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d5313d9660264fae2f23861b4931d5efb8f9a2db"
+title: "Sonicsim: A Customizable Simulation Platform For Speech Processing In Moving Sound Source Scenarios"
+publication: "ICLR"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/d5313d9660264fae2f23861b4931d5efb8f9a2db
+authors: "Kai Li, Wendi Sang, Chang Zeng, Run Yang, Guo Chen, Xiaolin Hu"
+---

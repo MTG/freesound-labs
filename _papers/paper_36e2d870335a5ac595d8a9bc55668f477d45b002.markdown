@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "36e2d870335a5ac595d8a9bc55668f477d45b002"
+title: "Anyenhance: A Unified Generative Model With Prompt-Guidance And Self-Critic For Voice Enhancement"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/36e2d870335a5ac595d8a9bc55668f477d45b002
+authors: "Junan Zhang, Jing Yang, Zihao Fang, Yuancheng Wang, Ze-bao Zhang, Zhuo Wang, Fan Fan, Zhizheng Wu"
+---

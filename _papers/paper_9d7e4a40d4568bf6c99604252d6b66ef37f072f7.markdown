@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9d7e4a40d4568bf6c99604252d6b66ef37f072f7"
+title: "Exploring The User Experience Of Ai-Assisted Sound Searching Systems For Creative Workflows"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/9d7e4a40d4568bf6c99604252d6b66ef37f072f7
+authors: "Haohe Liu, Thomas Deacon, Wenwu Wang, Matt Paradis, Mark D. Plumbley"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "716fd0d35a09f6363b7b522b7979ae7ace6d6ccf"
+title: "Birdset: A Large-Scale Dataset For Audio Classification In Avian Bioacoustics"
+publication: "ICLR"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/716fd0d35a09f6363b7b522b7979ae7ace6d6ccf
+authors: "Lukas Rauch, Raphael Schwinger, Moritz Wirth, Ren'e Heinrich, Denis Huseljic, M. Herde, Jonas Lange, Stefan Kahl, Bernhard Sick, Sven Tomforde, Christoph Scholz"
+---

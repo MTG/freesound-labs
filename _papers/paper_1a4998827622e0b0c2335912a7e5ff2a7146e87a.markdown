@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1a4998827622e0b0c2335912a7e5ff2a7146e87a"
+title: "M2D2: Exploring General-Purpose Audio-Language Representations Beyond Clap"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1a4998827622e0b0c2335912a7e5ff2a7146e87a
+authors: "Daisuke Niizumi, Daiki Takeuchi, Masahiro Yasuda, Binh Thien Nguyen, Yasunori Ohishi, Noboru Harada"
+---

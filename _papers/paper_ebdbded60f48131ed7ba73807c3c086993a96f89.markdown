@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ebdbded60f48131ed7ba73807c3c086993a96f89"
+title: "Wavtokenizer: An Efficient Acoustic Discrete Codec Tokenizer For Audio Language Modeling"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/ebdbded60f48131ed7ba73807c3c086993a96f89
+authors: "Shengpeng Ji, Ziyue Jiang, Xize Cheng, Yifu Chen, Minghui Fang, Jialong Zuo, Qian Yang, Ruiqi Li, Ziang Zhang, Xiaoda Yang, Rongjie Huang, Yidi Jiang, Qian Chen, Siqi Zheng, Wen Wang, Zhou Zhao"
+---

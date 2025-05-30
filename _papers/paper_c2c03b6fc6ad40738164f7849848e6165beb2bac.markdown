@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c2c03b6fc6ad40738164f7849848e6165beb2bac"
+title: "The Language Of Sound Search: Examining User Queries In Audio Search Engines"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/c2c03b6fc6ad40738164f7849848e6165beb2bac
+authors: "Benno Weck, Frederic Font"
+---

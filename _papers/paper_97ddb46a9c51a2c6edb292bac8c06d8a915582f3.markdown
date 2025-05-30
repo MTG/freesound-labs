@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "97ddb46a9c51a2c6edb292bac8c06d8a915582f3"
+title: "Taps: Throat And Acoustic Paired Speech Dataset For Deep Learning-Based Speech Enhancement"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/97ddb46a9c51a2c6edb292bac8c06d8a915582f3
+authors: "Yunsik Kim, Yonghun Song, Yoonyoung Chung"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7ec9f7ae5604a4e8e41ba76f86c8424e6363c4bd"
+title: "Keep, Delete, Or Substitute: Frame Selection Strategy For Noise-Robust Speech Emotion Recognition"
+publication: "INTERSPEECH"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/7ec9f7ae5604a4e8e41ba76f86c8424e6363c4bd
+authors: "Seong-Gyun Leem, Daniel Fulford, J. Onnela, David Gard, Carlos Busso"
+---

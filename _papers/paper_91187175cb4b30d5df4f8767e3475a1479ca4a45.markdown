@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "91187175cb4b30d5df4f8767e3475a1479ca4a45"
+title: "Modified Andrew'S Sine With Erf Function In Recursive Adaptive Exponential Fln Distributed Anc For Incremental Strategy"
+publication: "Signal Image Video Process."
+year: 2025
+external_url: https://www.semanticscholar.org/paper/91187175cb4b30d5df4f8767e3475a1479ca4a45
+authors: "Rajapantula Kranthi, Vasundhara"
+---

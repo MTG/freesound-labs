@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "852614a147f3010d51dfffccc506408bb70614f8"
+title: "Dualspec: Text-To-Spatial-Audio Generation Via Dual-Spectrogram Guided Diffusion Model"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/852614a147f3010d51dfffccc506408bb70614f8
+authors: "Lei Zhao, Sizhou Chen, Linfeng Feng, Xiao-Lei Zhang, Xuelong Li"
+---

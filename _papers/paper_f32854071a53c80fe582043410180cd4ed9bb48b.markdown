@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f32854071a53c80fe582043410180cd4ed9bb48b"
+title: "Acoustic Event Detection In Vehicles: A Multi-Label Classification Approach"
+publication: "Sensors"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f32854071a53c80fe582043410180cd4ed9bb48b
+authors: "Anaswara Antony, Wolfgang Theimer, Giovanni Grossetti, Christoph M. Friedrich"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7e68826decc429212aec535766f0a6bc013341a6"
+title: "Sound Of Traffic: A Dataset For Acoustic Traffic Identification And Counting"
+publication: "INTERSPEECH"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/7e68826decc429212aec535766f0a6bc013341a6
+authors: "Shabnam Ghaffarzadegan, Luca Bondi, Wei-Chang Lin, Abinaya Kumar, Ho-Hsiang Wu, Hans-Georg Horst, Samarjit Das"
+---

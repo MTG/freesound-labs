@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cc8bea60734b4e32cb15463cb61441f150e9de5c"
+title: "Background Music Monitoring Framework And Dataset For Tv Broadcast Audio"
+publication: "ETRI Journal"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/cc8bea60734b4e32cb15463cb61441f150e9de5c
+authors: "Hyemi Kim, Junghyun Kim, Jihyun Park, Seongwoo Kim, Chanjin Park, Wonyoung Yoo"
+---

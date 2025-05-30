@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "10bbb730b51d0ac79767a0402f8eedab7488c1e0"
+title: "Pre-Training With Synthetic Patterns For Audio"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/10bbb730b51d0ac79767a0402f8eedab7488c1e0
+authors: "Yuchi Ishikawa, Tatsuya Komatsu, Yoshimitsu Aoki"
+---

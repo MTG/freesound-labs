@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "be17584daaf5077707ffa1b5007ae4f5c6629378"
+title: "Solla: Towards A Speech-Oriented Llm That Hears Acoustic Context"
+publication: "ArXiv"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/be17584daaf5077707ffa1b5007ae4f5c6629378
+authors: "Junyi Ao, Dekun Chen, Xiaohai Tian, Wenjie Feng, Jun Zhang, Lu Lu, Yuxuan Wang, Haizhou Li, Zhizheng Wu"
+---

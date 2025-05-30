@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "664dec304722ab483ad8a12d29a78fea1ca67477"
+title: "Teaching Audio-Aware Large Language Models What Does Not Hear: Mitigating Hallucinations Through Synthesized Negative Samples"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/664dec304722ab483ad8a12d29a78fea1ca67477
+authors: "Chun-Yi Kuan, Hung-yi Lee"
+---

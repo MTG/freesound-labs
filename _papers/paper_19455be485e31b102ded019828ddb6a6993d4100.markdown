@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "19455be485e31b102ded019828ddb6a6993d4100"
+title: "Transformer-Based Multimodal Framework For Music Similarity Analysis And Recommendation Systems"
+publication: "2025 37th Conference of Open Innovations Association (FRUCT)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/19455be485e31b102ded019828ddb6a6993d4100
+authors: "Mikhail Rumiantcev"
+---

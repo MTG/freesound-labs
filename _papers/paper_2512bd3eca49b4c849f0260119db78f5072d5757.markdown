@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2512bd3eca49b4c849f0260119db78f5072d5757"
+title: "Make Some Noise: Towards Llm Audio Reasoning And Generation Using Sound Tokens"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/2512bd3eca49b4c849f0260119db78f5072d5757
+authors: "Shivam Mehta, Nebojsa Jojic, Hannes Gamper"
+---

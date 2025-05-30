@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "dae12153831ff29b3191752835183ea745e20960"
+title: "Baseline Systems And Evaluation Metrics For Spatial Semantic Segmentation Of Sound Scenes"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/dae12153831ff29b3191752835183ea745e20960
+authors: "Binh Thien Nguyen, Masahiro Yasuda, Daiki Takeuchi, Daisuke Niizumi, Yasunori Ohishi, Noboru Harada"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "943114246d3f0853e9403eb7e25fa902a4045340"
+title: "Mdctcodec: A Lightweight Mdct-Based Neural Audio Codec Towards High Sampling Rate And Low Bitrate Scenarios"
+publication: "2024 IEEE Spoken Language Technology Workshop (SLT)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/943114246d3f0853e9403eb7e25fa902a4045340
+authors: "Xiao-Hang Jiang, Yang Ai, Ruixin Zheng, Hui-Peng Du, Ye-Xin Lu, Zhenhua Ling"
+---

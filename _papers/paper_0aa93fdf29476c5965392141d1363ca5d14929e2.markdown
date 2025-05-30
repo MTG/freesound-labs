@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0aa93fdf29476c5965392141d1363ca5d14929e2"
+title: "Audio Technology For Improving Social Interaction In Extended Reality"
+publication: "Frontiers Virtual Real."
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0aa93fdf29476c5965392141d1363ca5d14929e2
+authors: "Joanna Luberadzka, Enric Gusó Muñoz, Umut Sayin Saraç, Adan Garriga"
+---

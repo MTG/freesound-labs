@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0fc7e78e5222a34be5008a989f3e67403d59b581"
+title: "Large Language Models Implicitly Learn To See And Hear Just By Reading"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0fc7e78e5222a34be5008a989f3e67403d59b581
+authors: "Prateek Verma, Mert Pilanci"
+---

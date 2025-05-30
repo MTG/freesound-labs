@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b0c23d16d93947ef2f481e486eea346646cede45"
+title: "A Review Of Isolating Speakers In Multi-Speaker Environments For Human-Computer Interaction"
+publication: "AIP Conference Proceedings"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/b0c23d16d93947ef2f481e486eea346646cede45
+authors: "Liqaa Fadil, Alia K. Abdul Hassan, Hiba B. Alwan"
+---

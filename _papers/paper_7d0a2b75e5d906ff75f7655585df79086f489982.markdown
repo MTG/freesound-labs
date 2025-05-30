@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7d0a2b75e5d906ff75f7655585df79086f489982"
+title: "Feasibility, Enjoyment, And Language Comprehension Impact Of A Tablet- And Gameflow-Based Story-Listening Game For Kindergarteners: Methodological And Mixed Methods Study"
+publication: "JMIR serious games"
+year: 2022
+external_url: https://www.semanticscholar.org/paper/7d0a2b75e5d906ff75f7655585df79086f489982
+authors: "Femke Vanden Bempt, M. Economou, Ward Dehairs, Maaike Vandermosten, J. Wouters, P. Ghesquière, J. Vanderauwera"
+---

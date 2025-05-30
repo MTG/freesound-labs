@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "eeb4465596f407588b343b1be2194885655333df"
+title: "Deep Learning Based Spatial Aliasing Reduction In Beamforming For Audio Capture"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/eeb4465596f407588b343b1be2194885655333df
+authors: "Mateusz Guzik, Giulio Cengarle, Daniel Arteaga"
+---

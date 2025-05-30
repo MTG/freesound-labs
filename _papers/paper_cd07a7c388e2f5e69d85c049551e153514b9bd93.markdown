@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cd07a7c388e2f5e69d85c049551e153514b9bd93"
+title: "3D Audio-Visual Segmentation"
+publication: "ArXiv"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/cd07a7c388e2f5e69d85c049551e153514b9bd93
+authors: "Artem Sokolov, Swapnil Bhosale, Xiatian Zhu"
+---

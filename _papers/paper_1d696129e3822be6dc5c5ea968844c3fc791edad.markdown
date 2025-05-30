@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1d696129e3822be6dc5c5ea968844c3fc791edad"
+title: "A Systematic Literature Review On Sound Event Detection And Classification"
+publication: "2025 5th International Conference on Trends in Material Science and Inventive Materials (ICTMIM)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1d696129e3822be6dc5c5ea968844c3fc791edad
+authors: "S.Padmaja, Dr. N. Sharmila Banu"
+---

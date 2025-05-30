@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "02cde23b77f5abdde55ef00c5038d5d89585b0e7"
+title: "Audio Texture Manipulation By Exemplar-Based Analogy"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/02cde23b77f5abdde55ef00c5038d5d89585b0e7
+authors: "Kan Jen Cheng, Tingle Li, G. Anumanchipalli"
+---

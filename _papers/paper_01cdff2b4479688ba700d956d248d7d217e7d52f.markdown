@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "01cdff2b4479688ba700d956d248d7d217e7d52f"
+title: "Towards Audio-Visual Navigation In Noisy Environments: A Large-Scale Benchmark Dataset And An Architecture Considering Multiple Sound-Sources"
+publication: "AAAI"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/01cdff2b4479688ba700d956d248d7d217e7d52f
+authors: "Zhanbo Shi, Lin Zhang, Linfei Li, Ying Shen"
+---

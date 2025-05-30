@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6aa0458bd75e0eb32d19540bcb3938e36e6337b9"
+title: "Diverse Audio Embeddings -- Bringing Features Back Outperforms Clap!"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/6aa0458bd75e0eb32d19540bcb3938e36e6337b9
+authors: "Prateek Verma"
+---

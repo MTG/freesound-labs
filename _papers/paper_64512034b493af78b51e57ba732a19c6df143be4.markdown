@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "64512034b493af78b51e57ba732a19c6df143be4"
+title: "T2A-Feedback: Improving Basic Capabilities Of Text-To-Audio Generation Via Fine-Grained Ai Feedback"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/64512034b493af78b51e57ba732a19c6df143be4
+authors: "Zehan Wang, Ke Lei, Chen Zhu, Jia-Bin Huang, Sashuai Zhou, Luping Liu, Xize Cheng, Shengpeng Ji, Zhenhui Ye, Tao Jin, Zhou Zhao"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "58a10f28e5d874c079dbb857b3f3300252bf81e9"
+title: "A Comparison Of Methods For Modeling Soundscape Dimensions Based On Different Datasetsa)."
+publication: "The Journal of the Acoustical Society of America"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/58a10f28e5d874c079dbb857b3f3300252bf81e9
+authors: "Siegbert Versümer, Patrick Blättermann, Fabian Rosenthal, Stefan Weinzierl"
+---

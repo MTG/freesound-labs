@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "184c9f8f6e6b79b42dce1356ba568aca3f2f8e85"
+title: "High-Resolution Speech Restoration With Latent Diffusion Model"
+publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/184c9f8f6e6b79b42dce1356ba568aca3f2f8e85
+authors: "Tushar Dhyani, Florian Lux, Michele Mancusi, Giorgio Fabbro, Fritz Hohl, Ngoc Thang Vu"
+---
