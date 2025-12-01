@@ -2,10 +2,6 @@
 
 This repository contains code for the frontpage of the Freesound Labs website (https://labs.freesound.org). It uses Jekyll to generate a static blog-like website.
 
-Contents of this readme file:
-
-<!-- TOC depthFrom:2 -->autoauto- [Adding content](#adding-content)auto    - [Posts](#posts)auto    - [Papers](#papers)auto    - [Datasets](#datasets)auto- [Development](#development)auto- [Deployment](#deployment)autoauto<!-- /TOC -->
-
 
 ## Adding content
 
@@ -107,12 +103,10 @@ NOTE: all commands above should be run from the root of the repository
 
 ## Deployment
 
-Freesound Labs is re-built automatically using Github webhooks so there's no need to run the deploy scripts.
+After page updates are commited to this repository, a deployment job needs to be manually run from the `mtg-deploy` repository (see README there under `fs-labs` folder) for the changes to become public.
 
-However, the list of papers in the "papers" section is not updated automatically, and the `retreive_papers.py` script should be run from time to time (and the new files created should be added and committed).
+Nota that this job does not automatically update the list of papers of the "papers" section. To that end, the `retreive_papers.py` script should be run and the new files created should be added and committed to this repo before running the dpeloyment job from `mtg-deploy.
+
 To do that, run the `retreive_papers.py` script locally using:
 
     docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
-
-
-Then commit the newly generated files to the repository and push so that Github rebuilds the site and new papers appear.
