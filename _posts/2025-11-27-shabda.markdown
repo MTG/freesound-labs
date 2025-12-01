@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Shabda"
+date:   2025-11-27 12:00:00
+release_date: 2022-07-30 12:00:00
+categories: 
+- Apps
+tags:
+- freesound-api
+- live-coding
+project_url: https://www.dappledark.com/products
+code: https://github.com/ilesinge/shabda
+image: /shabda.png
+by: 
+- Alexandre Gravel-Raymond 
+---
+
+**Shabda** is a tool for assembling and sharing groups of short (< 5 seconds) audio samples sourced from Freesound's collection.
+It fetches a master sample from [Freesound](https://freesound.org) based on a given keyword, and creates the collection based on audio similarity, making it easy to use the collection's samples in improvisation sessions with live-coding environments such as Tidal Cycles, Estuary and Strudel.
+The user can filter the samples based on the license with which they were published. 
+Shabda can also be used for generating text-to-speech samples on the fly during a live-coding session.
