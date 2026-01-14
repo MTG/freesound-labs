@@ -8,7 +8,7 @@ categories:
 tags:
 - freesound-api
 - live-coding
-project_url: https://www.dappledark.com/products
+project_url: https://shabda.ndre.gr/
 code: https://github.com/ilesinge/shabda
 image: /shabda.png
 by: 
