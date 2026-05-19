@@ -20,7 +20,7 @@ by:
 ---
 
 Hands-Free Sound Machine is a voice and gesture controlled drum machine built using HTML5, WebAudio API, WebSpeech API and the Freesound API.
-It has been developed at the Music Technology Group (Universitat Pompeu Fabra) as a prototype for the MusicBricks H2020 - ICT Innovation Action European project (Grant nr. 644871), and it is based in the [Free Mashine!](Based on http://labs.freesound.org/apps/free-maschine.html) app.
+It has been developed at the Music Technology Group (Universitat Pompeu Fabra) as a prototype for the MusicBricks H2020 - ICT Innovation Action European project (Grant nr. 644871), and it is based in the [Free Mashine!](Based on http://fslabs.upf.edu/apps/free-maschine.html) app.
 
 The drum machine can be controlled using your voice, telling it to start, stop, set the tempo and search sounds for each pad. Sounds are retrieved from Freesound. IRCAM’s riot sensor is used to activate and deactivate steps from the sequencer and to set the tempo.
 

@@ -8,7 +8,7 @@ categories:
 tags:
 - javascript 
 - freesound-api
-project_url: http://labs.freesound.org/api_demos/
+project_url: http://fslabs.upf.edu/api_demos/
 image: /api_demos.png
 by: 
 - Gerard Roma

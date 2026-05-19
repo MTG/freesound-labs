@@ -8,7 +8,7 @@ categories:
 tags:
 - essentia
 - freesound-api 
-project_url: http://labs.freesound.org/fsmic/
+project_url: http://fslabs.upf.edu/fsmic/
 image: /fs_mic.png
 by: 
 - Gerard Roma

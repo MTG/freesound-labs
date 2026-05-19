@@ -10,7 +10,7 @@ tags:
 - remixing
 - audio-mosaicing
 - freesound-api 
-project_url: http://labs.freesound.org/freeccit/
+project_url: http://fslabs.upf.edu/freeccit/
 image: /freeccit_screenshot.png
 by: 
 - Frederic Font

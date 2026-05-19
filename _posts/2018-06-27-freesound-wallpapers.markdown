@@ -9,7 +9,7 @@ tags:
 - spectrogram
 - waveform
 - wallpaper
-project_url: https://labs.freesound.org/wallpapers
+project_url: https://fslabs.upf.edu/wallpapers
 code: https://github.com/ffont/freesound-wallpaper-generator
 image: /wallpapers.png
 by: 

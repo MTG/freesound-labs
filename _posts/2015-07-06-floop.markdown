@@ -8,7 +8,7 @@ categories:
 tags:
 - music-creation
 - loops 
-project_url: http://labs.freesound.org/floop/
+project_url: http://fslabs.upf.edu/floop/
 image: /floop.png
 by: 
 - Gerard Roma

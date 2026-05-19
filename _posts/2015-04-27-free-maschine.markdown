@@ -10,7 +10,7 @@ tags:
 - drum-machine
 - music-creation
 - freesound-api 
-project_url: http://labs.freesound.org/freemaschine/
+project_url: http://fslabs.upf.edu/freemaschine/
 image: /free_maschine_screenshot.png
 by: 
 - Javi Agenjo
