@@ -94,19 +94,12 @@ You can run the development server with the command:
 
 The `retrieve_papers.py` script can be run with the following command:
 
-    docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
+    docker run --rm -e SEMANTIC_SCHOLAR_API_KEY=YOUR_API_KEY --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
 
-It should be run before building the site for the papers to appear in it.
+Note you'll need an API key (the one we use is in the mtg-deploy repository docs). The command should be run before building the site for the papers to appear in it.
 
-NOTE: all commands above should be run from the root of the repository
 
 
 ## Deployment
 
-After page updates are commited to this repository, a deployment job needs to be manually run from the `mtg-deploy` repository (see README there under `fs-labs` folder) for the changes to become public.
-
-Nota that this job does not automatically update the list of papers of the "papers" section. To that end, the `retreive_papers.py` script should be run and the new files created should be added and committed to this repo before running the dpeloyment job from `mtg-deploy.
-
-To do that, run the `retreive_papers.py` script locally using:
-
-    docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
+See instructions in the mtg-deploy respository.
