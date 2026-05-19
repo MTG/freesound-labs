@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "53a52a9579e7d2037f484bbd2c905a84b8cf6fd9"
+title: "Noise-Robust Speech Emotion Recognition Using Shared Self-Supervised Representations With Integrated Speech Enhancement"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/53a52a9579e7d2037f484bbd2c905a84b8cf6fd9
+authors: "Jing-Tong Tzeng, Seong-Gyun Leem, Ali N. Salman, Chi-Chun Lee, Carlos Busso"
+---

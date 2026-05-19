@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f015c23acf5f6ecf4886905223cb82db661086c1"
+title: "Sidon: Fast And Robust Open-Source Multilingual Speech Restoration For Large-Scale Dataset Cleansing"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f015c23acf5f6ecf4886905223cb82db661086c1
+authors: "Wataru Nakata, Yuki Saito, Yota Ueda, Hiroshi Saruwatari"
+---

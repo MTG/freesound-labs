@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "53812bd30ccbaf6caea6352c8a83383320efe9a3"
+title: "A Knowledge-Driven Approach To Music Segmentation, Music Source Separation And Cinematic Audio Source Separation"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/53812bd30ccbaf6caea6352c8a83383320efe9a3
+authors: "Chun-wei Ho, Sabato Marco Siniscalchi, Kai Li, Chin-Hui Lee"
+---

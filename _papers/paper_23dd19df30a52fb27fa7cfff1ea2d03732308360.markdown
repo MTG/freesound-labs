@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "23dd19df30a52fb27fa7cfff1ea2d03732308360"
+title: "Arecho: Autoregressive Evaluation Via Chain-Based Hypothesis Optimization For Speech Multi-Metric Estimation"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/23dd19df30a52fb27fa7cfff1ea2d03732308360
+authors: "Jiatong Shi, Yifan Cheng, Bo-Hao Su, Hye-jin Shim, Jinchuan Tian, Samuele Cornell, Yiwen Zhao, Siddhant Arora, Shinji Watanabe"
+---

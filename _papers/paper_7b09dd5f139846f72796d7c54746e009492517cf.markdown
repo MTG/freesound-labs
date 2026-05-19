@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7b09dd5f139846f72796d7c54746e009492517cf"
+title: "Gotta Hear Them All: Towards Sound Source Aware Audio Generation"
+publication: "AAAI Conference on Artificial Intelligence"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/7b09dd5f139846f72796d7c54746e009492517cf
+authors: "Wei Guo, Heng Wang, Jianbo Ma, Weidong Cai"
+---

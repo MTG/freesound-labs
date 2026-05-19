@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d3ddc51042ed3ea59a5442297d38af08cc148b41"
+title: "Neural Spectral Band Generation For Audio Coding"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d3ddc51042ed3ea59a5442297d38af08cc148b41
+authors: "Woongjib Choi, Byeong Hyeon Kim, Hyungseob Lim, Inseon Jang, Hong-Goo Kang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "979bd04f8bb9b164ba1f6c66353f36f8b71d814f"
+title: "Salm: Spatial Audio Language Model With Structured Embeddings For Understanding And Editing"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/979bd04f8bb9b164ba1f6c66353f36f8b71d814f
+authors: "Jinbo Hu, Yin Cao, Ming Wu, Feiran Yang, Jun Yang"
+---

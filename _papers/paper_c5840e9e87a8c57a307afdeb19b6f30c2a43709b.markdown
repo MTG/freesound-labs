@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c5840e9e87a8c57a307afdeb19b6f30c2a43709b"
+title: "Speaker Embeddings To Improve Tracking Of Intermittent And Moving Speakers"
+publication: "European Signal Processing Conference"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c5840e9e87a8c57a307afdeb19b6f30c2a43709b
+authors: "Taous Iatariene, Can Cui, Alexandre Guérin, Romain Serizel"
+---

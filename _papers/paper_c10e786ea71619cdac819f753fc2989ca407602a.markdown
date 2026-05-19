@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c10e786ea71619cdac819f753fc2989ca407602a"
+title: "Reasonaudio: A Benchmark For Evaluating Reasoning Beyond Matching In Text-Audio Retrieval"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/c10e786ea71619cdac819f753fc2989ca407602a
+authors: "Honglei Zhang, Yuting Chen, Chenpeng Hu, Siyue Zhang, Yilei Shi"
+---

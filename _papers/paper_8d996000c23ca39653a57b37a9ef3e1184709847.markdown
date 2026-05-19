@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8d996000c23ca39653a57b37a9ef3e1184709847"
+title: "Dnr-Nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8d996000c23ca39653a57b37a9ef3e1184709847
+authors: "Takuya Hasumi, Yusuke Fujita"
+---

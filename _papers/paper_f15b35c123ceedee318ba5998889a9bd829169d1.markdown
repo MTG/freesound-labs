@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f15b35c123ceedee318ba5998889a9bd829169d1"
+title: "St-Former: A Transformer-Based Temporal-Scene Fusion-Driven Auditory Experience Analysis Model"
+publication: "Alexandria Engineering Journal"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/f15b35c123ceedee318ba5998889a9bd829169d1
+authors: "Yanxi Shen, Anran Li"
+---

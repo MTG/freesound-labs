@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8d9b4620b566b0d461e8705921bedec2906e090c"
+title: "Sonic Scribbles – Constructing Sketch Classes From Visual Associations Of The Mental Model For Audio"
+publication: "Audio Mostly Conference"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8d9b4620b566b0d461e8705921bedec2906e090c
+authors: "Lars Engeln, Rainer Groh"
+---

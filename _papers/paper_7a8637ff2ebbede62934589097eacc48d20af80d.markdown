@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7a8637ff2ebbede62934589097eacc48d20af80d"
+title: "Latent Acoustic Mapping For Direction Of Arrival Estimation: A Self-Supervised Approach"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/7a8637ff2ebbede62934589097eacc48d20af80d
+authors: "Adrian S. Roman, Irán R. Román, J. Bello"
+---

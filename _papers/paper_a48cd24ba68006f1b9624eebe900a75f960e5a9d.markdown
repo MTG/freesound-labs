@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a48cd24ba68006f1b9624eebe900a75f960e5a9d"
+title: "Revisiting Audio-Language Pretraining For Learning General-Purpose Audio Representation"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/a48cd24ba68006f1b9624eebe900a75f960e5a9d
+authors: "Wei-Cheng Tseng, Xuanru Zhou, Mingyue Huo, Yiwen Shao, Hao Zhang, Dong Yu"
+---

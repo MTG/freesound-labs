@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2486965c7c84c9817ce4f93f1143ec9bc42a73f0"
+title: "Pal: Probing Audio Encoders Via Llms -- Audio Information Transfer Into Llms"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/2486965c7c84c9817ce4f93f1143ec9bc42a73f0
+authors: "Tony Alex, Wish Suharitdamrong, Sara Atito, Armin Mustafa, Philip J. B. Jackson, Imran Razzak, Muhammad Awais"
+---

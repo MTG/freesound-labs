@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "03c3bb7fa84bea74137d65ee7e5285d2c79ba964"
+title: "Audio Super-Resolution With Latent Bridge Models"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/03c3bb7fa84bea74137d65ee7e5285d2c79ba964
+authors: "Chang Li, Zehua Chen, Liyuan Wang, Jun Zhu"
+---

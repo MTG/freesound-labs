@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "29e8d3ae23d8463510db3e21804bf43e9bbb88b6"
+title: "Masked Autoencoders For Spatio-Temporal Audio Representations: Theory And Optimization"
+publication: "Pattern Recognition"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/29e8d3ae23d8463510db3e21804bf43e9bbb88b6
+authors: "Jiayu Xiong, Jing Wang, Wanlong Wang, Xiao Lyu, J. Kwan, Jun Xue"
+---

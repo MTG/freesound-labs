@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "468d6242184a49fe4a4f13f87c38e015db87fb20"
+title: "The Third Voiceprivacy Challenge: Preserving Emotional Expressiveness And Linguistic Content In Voice Anonymization"
+publication: "Computer Speech &amp; Language"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/468d6242184a49fe4a4f13f87c38e015db87fb20
+authors: "N. Tomashenko, Xiaoxiao Miao, Pierre Champion, S. Meyer, M. Panariello, Xin Wang, Nicholas W. D. Evans, Emmanuel Vincent, Junichi Yamagishi, Massimiliano Todisco"
+---

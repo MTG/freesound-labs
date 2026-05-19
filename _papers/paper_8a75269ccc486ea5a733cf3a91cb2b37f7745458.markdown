@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8a75269ccc486ea5a733cf3a91cb2b37f7745458"
+title: "Tiny Noise-Robust Voice Activity Detector For Voice Assistants"
+publication: "International Workshop on Machine Learning for Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8a75269ccc486ea5a733cf3a91cb2b37f7745458
+authors: "Hamed Jafarzadeh Asl, Mahsa Ghazvini Nejad, Amin Edraki, M. Asgharian, Vahid Partovi Nia"
+---

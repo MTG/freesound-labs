@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2db44cc1612397419354a67d6bfd75eecc568575"
+title: "Unlocking Strong Supervision: A Data-Centric Study Of General-Purpose Audio Pre-Training Methods"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/2db44cc1612397419354a67d6bfd75eecc568575
+authors: "Xuanru Zhou, Yiwen Shao, Wei-Cheng Tseng, Dong Yu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2659a33d4cd7e9372f62762defa2967d500537ee"
+title: "A Benchmark For Audio Reasoning Capabilities Of Multimodal Large Language Models"
+publication: "Conference of the European Chapter of the Association for Computational Linguistics"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/2659a33d4cd7e9372f62762defa2967d500537ee
+authors: "Iwona Christop, Mateusz Czy.znikiewicz, Pawel Sk'orzewski, Lukasz Bondaruk, Jakub Kubiak, Marcin Lewandowski, Marek Kubis"
+---

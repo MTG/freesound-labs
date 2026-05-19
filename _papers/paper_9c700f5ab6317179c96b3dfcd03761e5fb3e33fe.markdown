@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9c700f5ab6317179c96b3dfcd03761e5fb3e33fe"
+title: "Absorbing Discrete Diffusion For Speech Enhancement"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/9c700f5ab6317179c96b3dfcd03761e5fb3e33fe
+authors: "Philippe Gonzalez"
+---

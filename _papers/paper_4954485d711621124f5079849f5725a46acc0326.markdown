@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4954485d711621124f5079849f5725a46acc0326"
+title: "An Experimental Study On Joint Modeling For Sound Event Localization And Detection With Source Distance Estimation"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4954485d711621124f5079849f5725a46acc0326
+authors: "Yuxuan Dong, Qing Wang, Hengyi Hong, Ya Jiang, Shi Cheng"
+---

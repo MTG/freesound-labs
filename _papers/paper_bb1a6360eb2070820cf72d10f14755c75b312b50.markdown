@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bb1a6360eb2070820cf72d10f14755c75b312b50"
+title: "Trainable Multi-Channel Front-Ends For Joint Beamforming And Speaker Embedding Extraction"
+publication: "Computer Speech and Language"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/bb1a6360eb2070820cf72d10f14755c75b312b50
+authors: "Ladislav Mošner, Oldrich Plchot, Lukáš Burget, Chunlei Zhang, J. Černocký, Meng Yu"
+---

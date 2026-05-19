@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "30749746886a3a84c6fe261ea41ce2916c577064"
+title: "Latentflowsr: High-Fidelity Audio Super-Resolution Via Noise-Robust Latent Flow Matching"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/30749746886a3a84c6fe261ea41ce2916c577064
+authors: "Fei Liu, Yang Ai, Hui-Peng Du, Yunping Shi, Zhenhua Ling"
+---

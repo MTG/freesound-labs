@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e0ba5b41959917d9a16d00c9846b7fe8d4fbaca0"
+title: "Synsonic: Augmenting Sound Event Detection Through Text-To-Audio Diffusion Controlnet And Effective Sample Filtering"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/e0ba5b41959917d9a16d00c9846b7fe8d4fbaca0
+authors: "Jiarui Hai, Mounya Elhilali"
+---

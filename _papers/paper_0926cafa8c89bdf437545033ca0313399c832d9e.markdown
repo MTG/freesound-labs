@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0926cafa8c89bdf437545033ca0313399c832d9e"
+title: "Dialoguesidon: Recovering Full-Duplex Dialogue Tracks From In-The-Wild Dialogue Audio"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/0926cafa8c89bdf437545033ca0313399c832d9e
+authors: "Wataru Nakata, Yuki Saito, Kazuki Yamauchi, E. Tsunoo, Hiroshi Saruwatari"
+---

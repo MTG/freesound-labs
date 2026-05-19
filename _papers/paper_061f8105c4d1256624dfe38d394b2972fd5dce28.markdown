@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "061f8105c4d1256624dfe38d394b2972fd5dce28"
+title: "Dfingernet: Noise-Adaptive Speech Enhancement For Hearing Aids"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/061f8105c4d1256624dfe38d394b2972fd5dce28
+authors: "Iosif Tsangko, Andreas Triantafyllopoulos, Michael Müller, Hendrik Schröter, Bjorn W. Schuller"
+---

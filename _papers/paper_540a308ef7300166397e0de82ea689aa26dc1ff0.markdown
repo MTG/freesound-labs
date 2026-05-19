@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "540a308ef7300166397e0de82ea689aa26dc1ff0"
+title: "Acoustic Sentinel: Hierarchical Classification Of Footstep Sound Using Fine And Coarse-Grain Acoustic Feature Representations For Tactical Surveillance"
+publication: "Scientific Reports"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/540a308ef7300166397e0de82ea689aa26dc1ff0
+authors: "Anshuman Agrahri, Chandresh Kumar Maurya, Ravi Shekhar Tiwari, Shashwat Tripathi"
+---

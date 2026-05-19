@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6d1390de2d3ba991900d594ebb13b1ad6b1e7725"
+title: "Stereo Sound Event Localization And Detection With Onscreen/Offscreen Classification"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/6d1390de2d3ba991900d594ebb13b1ad6b1e7725
+authors: "Kazuki Shimada, A. Politis, Irán R. Román, Parthasaarathy Sudarsanam, David Díaz-Guerra, Ruchi Pandey, Kengo Uchida, Yuichiro Koyama, Naoya Takahashi, Takashi Shibuya, Shusuke Takahashi, Tuomas Virtanen, Yuki Mitsufuji"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "deef773b3c27f7fd5de51ea7329364cf23586315"
+title: "Towards Distance-Aware Synthetic Audio Mixtures For Universal Sound Separation"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/deef773b3c27f7fd5de51ea7329364cf23586315
+authors: "Wonjun Park, Tuan M. Dang, Kenny Q. Zhu"
+---

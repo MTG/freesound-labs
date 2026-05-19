@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "63130d499c71f6228b49a6e33df0c3da98cfcb30"
+title: "Enhancing The Recording And Analysis Of Antarctic Soundscapes"
+publication: "2025 IEEE Latin Conference on IoT (LCIoT)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/63130d499c71f6228b49a6e33df0c3da98cfcb30
+authors: "Emiliano Acevedo, Maria Noel Espinosa, Ilana Stolovas, Martín Rocamora, Leonardo Steinfeld"
+---

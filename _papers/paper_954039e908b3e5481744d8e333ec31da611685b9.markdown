@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "954039e908b3e5481744d8e333ec31da611685b9"
+title: "Training Environmental Sound Classification Models For Real-World Deployment In Edge Devices"
+publication: "Discover Applied Sciences"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/954039e908b3e5481744d8e333ec31da611685b9
+authors: "Manuel Goulão, Lourenço Bandeira, Bruno Martins, Arlindo L. Oliveira"
+---

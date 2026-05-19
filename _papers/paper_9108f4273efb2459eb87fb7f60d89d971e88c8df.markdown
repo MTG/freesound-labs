@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9108f4273efb2459eb87fb7f60d89d971e88c8df"
+title: "A Neural Speech Codec For Noise Robust Speech Coding"
+publication: ""
+year: 2023
+external_url: https://www.semanticscholar.org/paper/9108f4273efb2459eb87fb7f60d89d971e88c8df
+authors: "Jiayi Huang, Zeyu Yan, Wenbin Jiang, He Wang, Fei Wen"
+---

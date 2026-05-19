@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d97385fc92f42d5864a383637b50e1eaa5c0d15f"
+title: "An Evaluation Of Interleaved Instruction Tuning On Semantic Reasoning Performance In An Audio Mllm"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d97385fc92f42d5864a383637b50e1eaa5c0d15f
+authors: "Jiawei Liu, Enis Berk Çoban, Zarina Schevchenko, Hao Tang, Zhigang Zhu, Michael I. Mandel, Johanna Devaney"
+---

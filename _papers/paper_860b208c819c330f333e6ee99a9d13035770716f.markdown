@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "860b208c819c330f333e6ee99a9d13035770716f"
+title: "Improving Audio Classification By Transitioning From Zero- To Few-Shot"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/860b208c819c330f333e6ee99a9d13035770716f
+authors: "James Taylor, Wolfgang Mack"
+---

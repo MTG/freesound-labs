@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3502803e401f667073019f31ed4ff4d7e773924a"
+title: "Listening With Generative Models."
+publication: "Cognition"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/3502803e401f667073019f31ed4ff4d7e773924a
+authors: "Maddie Cusimano, Luke B. Hewitt, Josh H. McDermott"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a410289d9adea1f9047373cd7d924daaf63a575d"
+title: "Jastin: Aligning Llms For Zero-Shot Audio And Speech Evaluation Via Natural Language Instructions"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/a410289d9adea1f9047373cd7d924daaf63a575d
+authors: "Leying Zhang, Bowen Shi, Haibin Wu, Bach Viet Do, Yanmin Qian"
+---

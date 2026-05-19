@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4fb9f9fa1f40d8893f6d1fdf3a3093764e18f27f"
+title: "Spoldb: An Audio Dataset For Artificial Intelligence-Based Identification Of Noise Pollutants"
+publication: "International Journal of Environmental Science and Technology"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4fb9f9fa1f40d8893f6d1fdf3a3093764e18f27f
+authors: "S. Ganguly, H. Mukherjee, A. Dhar, M. Marciano, K. Roy"
+---

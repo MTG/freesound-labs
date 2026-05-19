@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7bf0874e33783fe924efc5d03fee5a0221c63403"
+title: "Acoustic Sensors And Audio Signal Processing In Intelligent Transportation Systems: A Survey"
+publication: "IEEE Transactions on Intelligent Vehicles"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/7bf0874e33783fe924efc5d03fee5a0221c63403
+authors: "Hossein Parineh, Majid Sarvi, S. A. Bagloee"
+---

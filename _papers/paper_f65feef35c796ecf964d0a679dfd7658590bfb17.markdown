@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f65feef35c796ecf964d0a679dfd7658590bfb17"
+title: "Dpdfnet: Boosting Deepfilternet2 Via Dual-Path Rnn"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f65feef35c796ecf964d0a679dfd7658590bfb17
+authors: "Daniel Rika, Nino Sapir, Ido Gus"
+---

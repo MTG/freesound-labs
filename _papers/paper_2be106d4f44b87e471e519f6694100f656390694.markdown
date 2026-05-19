@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2be106d4f44b87e471e519f6694100f656390694"
+title: "Source-Aware Spatial Self-Supervision For Sound Event Localization And Detection"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/2be106d4f44b87e471e519f6694100f656390694
+authors: "Yuto Nozaki, Yoshiaki Bando, Masaki Onishi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b06850ba45723357badedca11034c94bbc373543"
+title: "Thinksound: Chain-Of-Thought Reasoning In Multimodal Large Language Models For Audio Generation And Editing"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b06850ba45723357badedca11034c94bbc373543
+authors: "Huadai Liu, Jialei Wang, Kaicheng Luo, Wen Wang, Qian Chen, Zhou Zhao, Wei Xue"
+---

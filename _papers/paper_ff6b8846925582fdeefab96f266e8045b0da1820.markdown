@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ff6b8846925582fdeefab96f266e8045b0da1820"
+title: "A Practical Approach To Power Saving In Hearables Using Sub-Nyquist Sampling With Bandwidth Extension"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/ff6b8846925582fdeefab96f266e8045b0da1820
+authors: "Tarikul Islam Tamiti, Anomadarshi Barua"
+---

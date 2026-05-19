@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "60b4da85a3fc55278b55bad3c3a7214c3380d449"
+title: "Sound Source Localization Using Hybrid Convolutional Recurrent Neural Networks In Undesirable Conditions"
+publication: "Electronics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/60b4da85a3fc55278b55bad3c3a7214c3380d449
+authors: "Bastian Estay Zamorano, Ali Dehghan Firoozabadi, A. Brutti, Pablo Adasme, David Zabala-Blanco, Palacios Játiva Palacios Játiva, César A. Azurdia-Meza"
+---

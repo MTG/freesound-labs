@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1ac83951da733774af48e72c5298e92b4ae2730e"
+title: "L3Ac: Towards A Lightweight And Lossless Audio Codec"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1ac83951da733774af48e72c5298e92b4ae2730e
+authors: "Linwei Zhai, H. Ding, Cui Zhao, Fei Wang, Ge Wang, Wang Zhi, Wei Xi"
+---

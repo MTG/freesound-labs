@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "eea7e72094cb567ef16e59601f4d907a927af5d5"
+title: "Audiomog: Guiding Audio Generation With Mixture-Of-Guidance"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/eea7e72094cb567ef16e59601f4d907a927af5d5
+authors: "Junyou Wang, Zehua Chen, Binjie Yuan, Kaiwen Zheng, Chang Li, Yuxuan Jiang, Jun Zhu"
+---

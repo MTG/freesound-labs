@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b0db34c91497d112d8c373285f793d9834c92800"
+title: "Vela: Scalable Embeddings With Voice Large Language Models For Multimodal Retrieval"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b0db34c91497d112d8c373285f793d9834c92800
+authors: "Ruofan Hu, Yan Xia, Minjie Hong, Jieming Zhu, Boxing Chen, Xiaoda Yang, Minghui Fang, Tao Jin"
+---

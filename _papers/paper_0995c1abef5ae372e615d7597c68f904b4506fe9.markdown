@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0995c1abef5ae372e615d7597c68f904b4506fe9"
+title: "Spectral And Rhythm Feature Performance Evaluation For Category And Class Level Audio Classification With Deep Convolutional Neural Networks"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0995c1abef5ae372e615d7597c68f904b4506fe9
+authors: "Friedrich Wolf-Monheim"
+---

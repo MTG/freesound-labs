@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "29bda609222b796e30490d89769169de2add1c5a"
+title: "Audio-Jepa: Joint-Embedding Predictive Architecture For Audio Representation Learning"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/29bda609222b796e30490d89769169de2add1c5a
+authors: "Ludovic Tuncay, Etienne Labbé, Emmanouil Benetos, Thomas Pellegrini"
+---

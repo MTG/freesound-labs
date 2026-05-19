@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "978eb42b00292483d8c5480ef5e229241a8103b4"
+title: "Audio-Based Pedestrian Detection In The Presence Of Vehicular Noise"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/978eb42b00292483d8c5480ef5e229241a8103b4
+authors: "Yonghyun Kim, Chaeyeon Han, Akash Sarode, Noah Posner, S. Guhathakurta, Alexander Lerch"
+---

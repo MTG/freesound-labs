@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8329cd22a4f76e79931c1e75469249423fbddc13"
+title: "Schrödinger Bridge Mamba For One-Step Speech Enhancement"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8329cd22a4f76e79931c1e75469249423fbddc13
+authors: "Jing Yang, Sirui Wang, Chao Wu, Fan Fan"
+---

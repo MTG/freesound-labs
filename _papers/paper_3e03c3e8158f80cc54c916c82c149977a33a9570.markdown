@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3e03c3e8158f80cc54c916c82c149977a33a9570"
+title: "Limitations Of Watermarking Ai-Generated Speech Using Audioseal"
+publication: "International Conference on Trust, Privacy and Security in Intelligent Systems and Applications"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3e03c3e8158f80cc54c916c82c149977a33a9570
+authors: "Shameer Faziludeen, A. M. S., P. de Leon, U. Roedig"
+---

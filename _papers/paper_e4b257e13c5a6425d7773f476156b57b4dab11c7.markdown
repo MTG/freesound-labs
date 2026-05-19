@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e4b257e13c5a6425d7773f476156b57b4dab11c7"
+title: "Individualized Speech Enhancement For Hearing-Impaired Listeners"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/e4b257e13c5a6425d7773f476156b57b4dab11c7
+authors: "Chuan Wen, Sarah Verhulst"
+---

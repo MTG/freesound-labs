@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8e671f71435497e6faf6348ba9e961c540f40140"
+title: "Performance Improvement Of Spatial Semantic Segmentation With Enriched Audio Features And Agent-Based Error Correction For Dcase 2025 Challenge Task 4"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8e671f71435497e6faf6348ba9e961c540f40140
+authors: "Jongyeon Park, Joonhee Lee, Do H Lim, Hongkook Kim, Hyeongcheol Geum, J. Lim"
+---

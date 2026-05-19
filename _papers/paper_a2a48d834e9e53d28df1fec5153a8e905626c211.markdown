@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a2a48d834e9e53d28df1fec5153a8e905626c211"
+title: "Deepinsert: Early Layer Bypass For Efficient And Performant Multimodal Understanding"
+publication: "Conference of the European Chapter of the Association for Computational Linguistics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/a2a48d834e9e53d28df1fec5153a8e905626c211
+authors: "Moulik Choraria, Xinbo Wu, Akhil Bhimaraju, Nitesh Sekhar, Yue Wu, Xu Zhang, Prateek Singhal, L. Varshney"
+---

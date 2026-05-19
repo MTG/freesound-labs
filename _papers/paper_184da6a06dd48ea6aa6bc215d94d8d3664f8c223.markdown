@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "184da6a06dd48ea6aa6bc215d94d8d3664f8c223"
+title: "Adnac: Audio Denoiser Using Neural Audio Codec"
+publication: "International Conference on Speech Technology and Human-Computer Dialogue"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/184da6a06dd48ea6aa6bc215d94d8d3664f8c223
+authors: "Daniel Jimon, M. Vaida, Adriana Stan"
+---

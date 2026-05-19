@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1245a9339ca32aa44f750990ae320b6ccdd0c8f3"
+title: "Joint Learning Using Mixture-Of-Expert-Based Representation For Speech Enhancement And Robust Emotion Recognition"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1245a9339ca32aa44f750990ae320b6ccdd0c8f3
+authors: "Jing-Tong Tzeng, Carlos Busso, Chi-Chun Lee"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f069f03113dac0d52bc91f5b4a13000b71a20c22"
+title: "Mgphot: A Dataset Of Musicological Annotations For Popular Music (1958-2022)"
+publication: "Transactions of the International Society for Music Information Retrieval"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f069f03113dac0d52bc91f5b4a13000b71a20c22
+authors: "Sergio Oramas, Fabien Gouyon, Steve Hogan, Camilo Landau, Andreas F. Ehmann"
+---

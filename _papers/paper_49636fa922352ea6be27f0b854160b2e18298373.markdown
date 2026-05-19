@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "49636fa922352ea6be27f0b854160b2e18298373"
+title: "Geo-Atbench: A Benchmark For Geospatial Audio Tagging With Geospatial Semantic Context"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/49636fa922352ea6be27f0b854160b2e18298373
+authors: "Yuanbo Hou, Yanru Wu, Qiaoqiao Ren, Shengchen Li, Stephen Roberts, D. Botteldooren"
+---

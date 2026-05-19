@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e433368c0af019440367ed84fcc46bf09503137c"
+title: "When Silence Matters: The Impact Of Irrelevant Audio On Text Reasoning In Large Audio-Language Models"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/e433368c0af019440367ed84fcc46bf09503137c
+authors: "Chen-An Li, Tzu-Han Lin, Hung-yi Lee"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b38d63cd939fcc4ff14054d69054c436483009d1"
+title: "Collision-Less And Balanced Sampling For Language-Queried Audio Source Separation"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b38d63cd939fcc4ff14054d69054c436483009d1
+authors: "B. T. Nguyen, Daiki Takeuchi, Masahiro Yasuda, Daisuke Niizumi, Noboru Harada"
+---

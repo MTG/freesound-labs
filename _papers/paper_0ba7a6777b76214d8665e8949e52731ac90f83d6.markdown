@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0ba7a6777b76214d8665e8949e52731ac90f83d6"
+title: "Self-Supervised Speech Quality Assessment (S3Qa): Leveraging Speech Foundation Models For A Scalable Speech Quality Metric"
+publication: "Journal of the Acoustical Society of America"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0ba7a6777b76214d8665e8949e52731ac90f83d6
+authors: "Mattson Ogg, C. Bishop, Han Yi, S. Robinson"
+---

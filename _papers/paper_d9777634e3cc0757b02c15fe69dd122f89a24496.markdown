@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d9777634e3cc0757b02c15fe69dd122f89a24496"
+title: "Sam: A Mamba-2 State-Space Audio-Language Model"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d9777634e3cc0757b02c15fe69dd122f89a24496
+authors: "TaeHan Lee, Jaehan Jung, Hyukjun Lee"
+---

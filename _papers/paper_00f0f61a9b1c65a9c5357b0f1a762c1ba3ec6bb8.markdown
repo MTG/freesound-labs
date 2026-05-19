@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "00f0f61a9b1c65a9c5357b0f1a762c1ba3ec6bb8"
+title: "Cross-Attention-Based Target Sound Extraction By Fully Leveraging Enrollment In A Shared Latent Space"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/00f0f61a9b1c65a9c5357b0f1a762c1ba3ec6bb8
+authors: "Xue Yang, Guiru Shen, Yu Yang"
+---

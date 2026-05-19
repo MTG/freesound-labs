@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "447452da6d0342ea3a7b5c588515435be02e8a72"
+title: "Description And Discussion On Dcase 2026 Challenge Task 4: Spatial Semantic Segmentation Of Sound Scenes"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/447452da6d0342ea3a7b5c588515435be02e8a72
+authors: "Masahiro Yasuda, B. T. Nguyen, Noboru Harada, Romain Serizel, Mayank Mishra, Marc Delcroix, Carlos Hernandez-Olivan, Shoko Araki, Daiki Takeuchi, Tomohiro Nakatani, Nobutaka Ono"
+---

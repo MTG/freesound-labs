@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8497d16e56ec22a93a172c43a99b364285036b71"
+title: "Zero-Shot Audio Captioning Using Soft And Hard Prompts"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/8497d16e56ec22a93a172c43a99b364285036b71
+authors: "Yiming Zhang, Xuenan Xu, Ruoyi Du, Haohe Liu, Yuan Dong, Zheng-Hua Tan, Wenwu Wang, Zhanyu Ma"
+---

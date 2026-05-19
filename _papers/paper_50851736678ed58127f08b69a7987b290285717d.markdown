@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "50851736678ed58127f08b69a7987b290285717d"
+title: "Recent Trends In Distant Conversational Speech Recognition: A Review Of Chime-7 And 8 Dasr Challenges"
+publication: "Computer Speech and Language"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/50851736678ed58127f08b69a7987b290285717d
+authors: "Samuele Cornell, Christoph Boeddeker, Taejin Park, He Huang, Desh Raj, Matthew Wiesner, Yoshiki Masuyama, Xuankai Chang, Zhong-Qiu Wang, Stefano Squartini, Paola Garcia, Shinji Watanabe"
+---

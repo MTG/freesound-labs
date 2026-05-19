@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3887b07b979c9242eed880db036215fc4f8097cc"
+title: "Enhanced Television Broadcast Monitoring With Source Separation-Assisted Audio Fingerprinting: A Case Study"
+publication: "Multimedia tools and applications"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3887b07b979c9242eed880db036215fc4f8097cc
+authors: "Guillem Cortès-Sebastià, Marius Miron, Emilio Molina, Alex Ciurana, Xavier Serra"
+---

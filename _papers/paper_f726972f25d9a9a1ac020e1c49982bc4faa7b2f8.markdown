@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f726972f25d9a9a1ac020e1c49982bc4faa7b2f8"
+title: "Real-Time Emergency Vehicle Siren Detection With Efficient Cnns On Embedded Hardware"
+publication: "2025 IEEE 6th International Symposium on the Internet of Sounds (IS2)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f726972f25d9a9a1ac020e1c49982bc4faa7b2f8
+authors: "Marco Giordano, S. Giacomelli, C. Rinaldi, Fabio Graziosi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e04da705de6d63c38420135b001cc39c18ef4ef6"
+title: "Omni-Deepsearch: A Benchmark For Audio-Driven Omni-Modal Deep Search"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/e04da705de6d63c38420135b001cc39c18ef4ef6
+authors: "Tao Yu, Yiming Ding, Shenghua Chai, Minghui Zhang, Zhongtian Luo, Xinming Wang, Xinlong Chen, Zhaolu Kang, Junhao Gong, Yuxuan Zhou, Haopeng Jin, Zhiqing Cui, Jiabing Yang, YiFan Zhang, Hongzhu Yi, Zheqi He, Xi Yang, Yan Huang, Liang Wang"
+---

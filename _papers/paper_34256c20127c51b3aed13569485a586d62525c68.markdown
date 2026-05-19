@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "34256c20127c51b3aed13569485a586d62525c68"
+title: "Icassp 2026 Urgent Speech Enhancement Challenge"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/34256c20127c51b3aed13569485a586d62525c68
+authors: "Chenda Li, Wei Wang, Marvin Sach, Wangyou Zhang, Kohei Saijo, Samuele Cornell, Yihui Fu, Zhaoheng Ni, Tim Fingscheidt, Shinji Watanabe, Yanmin Qian"
+---

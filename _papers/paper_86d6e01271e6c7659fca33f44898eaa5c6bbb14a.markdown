@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "86d6e01271e6c7659fca33f44898eaa5c6bbb14a"
+title: "Quarkaudio Technical Report"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/86d6e01271e6c7659fca33f44898eaa5c6bbb14a
+authors: "Chengwei Liu, Haoyin Yan, Shaofei Xue, Xiaotao Liang, Xiaofu Chen, Bin Gong, Zheng Xue, Gang Song"
+---

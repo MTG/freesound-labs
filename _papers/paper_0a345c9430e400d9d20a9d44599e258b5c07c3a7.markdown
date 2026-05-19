@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0a345c9430e400d9d20a9d44599e258b5c07c3a7"
+title: "Tgif: Talker Group-Informed Familiarization Of Target Speaker Extraction"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0a345c9430e400d9d20a9d44599e258b5c07c3a7
+authors: "Tsun-An Hsieh, Minje Kim"
+---

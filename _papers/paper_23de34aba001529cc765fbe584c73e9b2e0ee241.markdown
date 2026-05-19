@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "23de34aba001529cc765fbe584c73e9b2e0ee241"
+title: "Hybrid Lightweight Temporal-Frequency Analysis Network For Multi-Channel Speech Enhancement"
+publication: "EURASIP Journal on Audio, Speech, and Music Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/23de34aba001529cc765fbe584c73e9b2e0ee241
+authors: "Yinghan Cao, Shiyun Xu, Wenjie Zhang, Mingjiang Wang, Yun Lu"
+---

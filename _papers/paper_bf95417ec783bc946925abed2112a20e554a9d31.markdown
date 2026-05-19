@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bf95417ec783bc946925abed2112a20e554a9d31"
+title: "From Large-Scale Audio Tagging To Real-Time Explainable Emergency Vehicle Sirens Detection"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/bf95417ec783bc946925abed2112a20e554a9d31
+authors: "S. Giacomelli, Marco Giordano, C. Rinaldi, Fabio Graziosi"
+---

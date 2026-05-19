@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "24791ca8678f6a057965f5f5b55ca5fb8f79000b"
+title: "Descriptor: Enhancing Conversations For The Hearing Impaired In The 9Th Computational Hearing In Multisource Environments Challenge (Chime9 Echi)"
+publication: "IEEE Data Descriptions"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/24791ca8678f6a057965f5f5b55ca5fb8f79000b
+authors: "Robert Sutherland, Jason Clarke, Hend Elghazaly, Thomas Kuebert, Marko Lugger, Stefan Petrausch, Juan Azcarreta Ortiz, Buye Xu, Stefan Goetze, Jon Barker"
+---

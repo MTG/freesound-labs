@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "59aad51e406915299f08647aec56e839c818f6bb"
+title: "Listen, Pause, And Reason: Toward Perception-Grounded Hybrid Reasoning For Audio Understanding"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/59aad51e406915299f08647aec56e839c818f6bb
+authors: "Jie Wang, Yazhe Niu, Dexuan Xu, Zhongyu Wei"
+---

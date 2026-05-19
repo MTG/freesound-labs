@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bc250e61c593750f56a26bf9d6c31f8a8a4d1ea4"
+title: "Noise-Robust Speech Recognition With Latency-Aware Performance Trade-Offs"
+publication: "2026 2nd International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/bc250e61c593750f56a26bf9d6c31f8a8a4d1ea4
+authors: "Ronit Dahiya, Suresh Kumar"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "50c6b8588196684a69e4bee4720021e7e7e8ecf3"
+title: "The Silent Thought: Modeling Internal Cognition In Full-Duplex Spoken Dialogue Models Via Latent Reasoning"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/50c6b8588196684a69e4bee4720021e7e7e8ecf3
+authors: "Donghang Wu, Tianyu Zhang, Yuxin Li, Hexin Liu, Chen Chen, E. Chng, Y. Bengio"
+---

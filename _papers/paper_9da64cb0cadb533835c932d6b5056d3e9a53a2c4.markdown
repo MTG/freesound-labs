@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9da64cb0cadb533835c932d6b5056d3e9a53a2c4"
+title: "Massive Sound Embedding Benchmark (Mseb)"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/9da64cb0cadb533835c932d6b5056d3e9a53a2c4
+authors: "G. Heigold, Ehsan Variani, Tom Bagby, Cyril Allauzen, Ji Ma, Shankar Kumar, M. Riley"
+---

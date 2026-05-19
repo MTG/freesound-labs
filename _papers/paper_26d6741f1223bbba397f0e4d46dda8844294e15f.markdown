@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "26d6741f1223bbba397f0e4d46dda8844294e15f"
+title: "Graph-Guided Spatial-Temporal Diffusion Model For Speech Enhancement With Microphone Array"
+publication: "International Conference on Digital Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/26d6741f1223bbba397f0e4d46dda8844294e15f
+authors: "Jingjing Yu, Lirui Wu, Chi Yang, Ranran Liu, A. Manikas"
+---

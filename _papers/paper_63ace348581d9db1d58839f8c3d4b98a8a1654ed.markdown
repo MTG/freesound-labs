@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "63ace348581d9db1d58839f8c3d4b98a8a1654ed"
+title: "Automated Playback Of Music For Blind People Using Hand Claps"
+publication: "2025 International Conference on Emerging Technologies in Electronics and Green Energy (ICETEG)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/63ace348581d9db1d58839f8c3d4b98a8a1654ed
+authors: "R. Pari, P. Amareshwaran"
+---

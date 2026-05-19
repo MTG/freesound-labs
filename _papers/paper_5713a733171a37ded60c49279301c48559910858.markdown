@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5713a733171a37ded60c49279301c48559910858"
+title: "Beyond Transcription: Mechanistic Interpretability In Asr"
+publication: "AAAI Conference on Artificial Intelligence"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/5713a733171a37ded60c49279301c48559910858
+authors: "Neta Glazer, Yael Segal-Feldman, Hilit Segev, Aviv Shamsian, Asaf Buchnick, Gil Hetz, Ethan Fetaya, Joseph Keshet, Aviv Navon"
+---

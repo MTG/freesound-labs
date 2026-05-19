@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "93a2804cc7b1fc4df9c9440b37ddd92f467a39d8"
+title: "Benchmarking Llms On The Massive Sound Embedding Benchmark (Mseb)"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/93a2804cc7b1fc4df9c9440b37ddd92f467a39d8
+authors: "Cyril Allauzen, Tom Bagby, G. Heigold, Ehsan Variani, Ke Wu"
+---

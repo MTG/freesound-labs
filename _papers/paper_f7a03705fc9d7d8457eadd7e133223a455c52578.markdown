@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f7a03705fc9d7d8457eadd7e133223a455c52578"
+title: "Audio Flamingo Sound-Cot Technical Report: Improving Chain-Of-Thought Reasoning In Sound Understanding"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f7a03705fc9d7d8457eadd7e133223a455c52578
+authors: "Zhifeng Kong, Arushi Goel, João Felipe Santos, Sreyan Ghosh, Rafael Valle, Wei Ping, Bryan Catanzaro"
+---

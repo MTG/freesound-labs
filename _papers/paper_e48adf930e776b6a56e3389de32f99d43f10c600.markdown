@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e48adf930e776b6a56e3389de32f99d43f10c600"
+title: "A Survey On Music Generation From Single-Modal, Cross-Modal, And Multi-Modal Perspectives"
+publication: "ACM Computing Surveys"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/e48adf930e776b6a56e3389de32f99d43f10c600
+authors: "Shuyu Li, Shulei Ji, Zihao Wang, Songruoyao Wu, Jiaxing Yu, Kejun Zhang"
+---

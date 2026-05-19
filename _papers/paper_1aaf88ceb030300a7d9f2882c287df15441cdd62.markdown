@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1aaf88ceb030300a7d9f2882c287df15441cdd62"
+title: "Audioscene: Integrating Object-Event Audio Into 3D Scenes"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1aaf88ceb030300a7d9f2882c287df15441cdd62
+authors: "Shuaihang Yuan, Congcong Wen, Muhammad Shafique, Anthony Tzes, Yi Fang"
+---

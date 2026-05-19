@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8f9e1c044ba54d754b8b69b39ca8eea3740446bf"
+title: "The Hi-Audio Online Platform For Recording And Distributing Multi-Track Music Datasets"
+publication: "Journal on Audio, Speech, and Music Processing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/8f9e1c044ba54d754b8b69b39ca8eea3740446bf
+authors: "José M. Gil Panal, Aurélien David, Ga¨el Richard"
+---

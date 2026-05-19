@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "62cfa51a4d32b311c1385afc2207c0056369e231"
+title: "Mixassist: An Audio-Language Dataset For Co-Creative Ai Assistance In Music Mixing"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/62cfa51a4d32b311c1385afc2207c0056369e231
+authors: "Michael Clemens, Ana Marasovi'c"
+---

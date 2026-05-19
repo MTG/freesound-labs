@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fa75132a8ee5ae946fab80189f2a7afa25d0028b"
+title: "Temp4Cap: Temporally-Aligned Automated Audio Captioning"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/fa75132a8ee5ae946fab80189f2a7afa25d0028b
+authors: "Ho-Young Choi, Jae-Heung Cho, Pil Moo Byun, Won-Gook Choi, Joon-Hyuk Chang"
+---

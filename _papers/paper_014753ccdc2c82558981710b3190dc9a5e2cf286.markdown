@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "014753ccdc2c82558981710b3190dc9a5e2cf286"
+title: "Linear Probing Enables Ship-Radiated Noise Recognition With Pretrained Audio Embeddings"
+publication: "Ecological Informatics"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/014753ccdc2c82558981710b3190dc9a5e2cf286
+authors: "Hilde I. Hummel, S. Bhulai, R. D. van der Mei, Burooj Ghani"
+---

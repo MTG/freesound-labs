@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e822cf32b6276834a959041383face8a839bd742"
+title: "Soundweaver: Semantic Warm-Starting For Text-To-Audio Diffusion Serving"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/e822cf32b6276834a959041383face8a839bd742
+authors: "Ayush Barik, S. Stoica, Nikhil Sarda, Arnav Kethana, A. Khanduja, Mucheng Xu, Fan Lai"
+---

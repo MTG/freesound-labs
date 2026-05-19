@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "cbb773b6ace5ccb64e5e9682387b7292dc3b7e60"
+title: "Speech Enhancement For Ambisonics Input-Output Systems: Spatio-Temporal Reverberation Shaping And A Neural Filtering Framework"
+publication: "Journal of the Acoustical Society of America"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/cbb773b6ace5ccb64e5e9682387b7292dc3b7e60
+authors: "Shiqi Wang, Hongbing Qiu, Xiyu Song, Mei Wang, Fangzhi Yao"
+---

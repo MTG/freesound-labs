@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b32350ceb26db2bb9d646a2323ffb96f317d3605"
+title: "Avcaps: An Audio-Visual Dataset With Modality-Specific Captions"
+publication: "IEEE Open Journal of Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b32350ceb26db2bb9d646a2323ffb96f317d3605
+authors: "Parthasaarathy Sudarsanam, Irene Martín-Morató, Aapo Hakala, Tuomas Virtanen"
+---

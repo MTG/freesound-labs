@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d7b158203c466d7ec53b11874b7c40f518c50c73"
+title: "Sound Event Localization And Detection Using A Spatial Omni-Dimensional Dynamic Interactions Network"
+publication: "Signal, Image and Video Processing"
+year: 2023
+external_url: https://www.semanticscholar.org/paper/d7b158203c466d7ec53b11874b7c40f518c50c73
+authors: "Tongyang Dao, Min Guo, M. Ma"
+---

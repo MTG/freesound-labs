@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fe106927b59ed74f10d78bfec1289ce41a71ff47"
+title: "Robust Audio-Text Retrieval Via Cross-Modal Attention And Hybrid Loss"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/fe106927b59ed74f10d78bfec1289ce41a71ff47
+authors: "Meizhu Liu, M. Rowe, Amit Agarwal, M. Avendi, Yassi Abbasi, Hitesh Laxmichand Patel, Paul Li, Kyu J. Han, Tao Sheng, Sujith Ravi, Dan Roth"
+---

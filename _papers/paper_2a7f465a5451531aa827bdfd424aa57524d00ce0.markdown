@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2a7f465a5451531aa827bdfd424aa57524d00ce0"
+title: "Crash Event Detection Using Acoustic Conformer"
+publication: "Transportation Research Part C: Emerging Technologies"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/2a7f465a5451531aa827bdfd424aa57524d00ce0
+authors: "Zubayer Islam, Mohamed A. Abdel-Aty"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f517a1e7ce72e4271c189235483fdec031dbd370"
+title: "Mtalk-Bench: Evaluating Speech-To-Speech Models In Multi-Turn Dialogues Via Arena-Style And Rubrics Protocols"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f517a1e7ce72e4271c189235483fdec031dbd370
+authors: "Yuhao Du, Qianwei Huang, Guo Zhu, Zhanchen Dai, Sunian Chen, Qiming Zhu, Yuhao Zhang, Li Zhou, Benyou Wang"
+---

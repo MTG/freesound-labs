@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "84594f9151c5fa992f6636f20f39b68e2ef6826c"
+title: "Infomin-Based Query Embedding Optimization For Query-Based Universal Sound Separation"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/84594f9151c5fa992f6636f20f39b68e2ef6826c
+authors: "Zhen Wang, Jiqing Han, Liwen Zhang, Youcheng Zhang"
+---

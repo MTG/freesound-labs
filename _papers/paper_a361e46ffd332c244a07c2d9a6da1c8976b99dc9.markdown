@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a361e46ffd332c244a07c2d9a6da1c8976b99dc9"
+title: "Stage-Adaptive Audio Diffusion Modeling"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/a361e46ffd332c244a07c2d9a6da1c8976b99dc9
+authors: "Xuanhao Zhang, Chang Li"
+---

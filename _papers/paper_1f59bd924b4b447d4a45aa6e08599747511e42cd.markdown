@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1f59bd924b4b447d4a45aa6e08599747511e42cd"
+title: "Fine-Grained Soundscape Control For Augmented Hearing"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/1f59bd924b4b447d4a45aa6e08599747511e42cd
+authors: "Seung-myoung Oh, Malek Itani, Aseem Gauri, Shyamnath Gollakota"
+---

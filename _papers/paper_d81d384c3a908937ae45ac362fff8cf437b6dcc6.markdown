@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d81d384c3a908937ae45ac362fff8cf437b6dcc6"
+title: "Low-Complexity Individualized Noise Reduction For Real-Time Processing"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d81d384c3a908937ae45ac362fff8cf437b6dcc6
+authors: "Chuan Wen, Sarah Verhulst"
+---

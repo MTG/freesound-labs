@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d162550e3c50760bcce7589acbbb54d341c27821"
+title: "Mats: An Audio Language Model Under Text-Only Supervision"
+publication: "International Conference on Machine Learning"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d162550e3c50760bcce7589acbbb54d341c27821
+authors: "Wen Wang, Ruibing Hou, Hong Chang, Shiguang Shan, Xilin Chen"
+---

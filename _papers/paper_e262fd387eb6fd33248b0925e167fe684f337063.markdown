@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e262fd387eb6fd33248b0925e167fe684f337063"
+title: "Unise: A Unified Framework For Decoder-Only Autoregressive Lm-Based Speech Enhancement"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/e262fd387eb6fd33248b0925e167fe684f337063
+authors: "Haoyin Yan, Chengwei Liu, Shaofei Xue, Xiaotao Liang, Zheng Xue"
+---

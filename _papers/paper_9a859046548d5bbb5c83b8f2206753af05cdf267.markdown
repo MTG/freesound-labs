@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9a859046548d5bbb5c83b8f2206753af05cdf267"
+title: "Scaling Beyond Denoising: Submitted System And Findings In Urgent Challenge 2025"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/9a859046548d5bbb5c83b8f2206753af05cdf267
+authors: "Zhihang Sun, Andong Li, Tong Lei, Rilin Chen, Meng Yu, C. Zheng, Yi Zhou, Dong Yu"
+---

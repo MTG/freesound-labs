@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "96357bc846a66a334e82275801c7f15796279501"
+title: "A Dataset For Environmental Sound Recognition In Embedded Systems For Autonomous Vehicles"
+publication: "Scientific Data"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/96357bc846a66a334e82275801c7f15796279501
+authors: "André Luiz Florentino, Eva Laussac Diniz, Plinio Thomaz Aquino-Jr"
+---

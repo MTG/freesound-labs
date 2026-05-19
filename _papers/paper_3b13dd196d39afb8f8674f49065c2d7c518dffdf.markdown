@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3b13dd196d39afb8f8674f49065c2d7c518dffdf"
+title: "Audio Synthesizer Inversion In Symmetric Parameter Spaces With Approximately Equivariant Flow Matching"
+publication: "International Society for Music Information Retrieval Conference"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3b13dd196d39afb8f8674f49065c2d7c518dffdf
+authors: "B. Hayes, C. Saitis, Gyorgy Fazekas"
+---

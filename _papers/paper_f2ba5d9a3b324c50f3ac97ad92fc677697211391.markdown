@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f2ba5d9a3b324c50f3ac97ad92fc677697211391"
+title: "Thinking While Listening: Simple Test Time Scaling For Audio Classification"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f2ba5d9a3b324c50f3ac97ad92fc677697211391
+authors: "Prateek Verma, Mert Pilanci"
+---

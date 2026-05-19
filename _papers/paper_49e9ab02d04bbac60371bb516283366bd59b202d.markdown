@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "49e9ab02d04bbac60371bb516283366bd59b202d"
+title: "Representation Learning For Semantic Alignment Of Language, Audio, And Visual Modalities"
+publication: "European Signal Processing Conference"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/49e9ab02d04bbac60371bb516283366bd59b202d
+authors: "Parthasaarathy Sudarsanam, Irene Mart'in-Morat'o, Tuomas Virtanen"
+---

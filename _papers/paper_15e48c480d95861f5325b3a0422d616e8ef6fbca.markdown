@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "15e48c480d95861f5325b3a0422d616e8ef6fbca"
+title: "Investigating Gender Bias In Text-To-Audio Generation Models"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/15e48c480d95861f5325b3a0422d616e8ef6fbca
+authors: "Aarish Shah Mohsin, Mohammad Nadeem, S. Sohail, Tughrul Arslan, M. Gogate, Nasir Saleem, Amir Hussain"
+---

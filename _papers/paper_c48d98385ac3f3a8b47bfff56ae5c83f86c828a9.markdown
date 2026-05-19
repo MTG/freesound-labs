@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c48d98385ac3f3a8b47bfff56ae5c83f86c828a9"
+title: "Scaling Audio-Text Retrieval With Multimodal Large Language Models"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/c48d98385ac3f3a8b47bfff56ae5c83f86c828a9
+authors: "Jilan Xu, Carl Thom'e, Danijela Horak, Weidi Xie, A. Zisserman"
+---

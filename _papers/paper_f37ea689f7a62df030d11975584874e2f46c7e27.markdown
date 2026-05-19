@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f37ea689f7a62df030d11975584874e2f46c7e27"
+title: "An Overview Of Neural Architectures For Self-Supervised Audio Representation Learning From Masked Spectrograms"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f37ea689f7a62df030d11975584874e2f46c7e27
+authors: "Sarthak Yadav, S. Theodoridis, Zheng-Hua Tan"
+---

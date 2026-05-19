@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8f879a97fe9480dfd7865131eeb0b223162d215b"
+title: "S-Sondo: Self-Supervised Knowledge Distillation For General Audio Foundation Models"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/8f879a97fe9480dfd7865131eeb0b223162d215b
+authors: "Mohammed Ali El Adlouni, Aurian Quelennec, Pierre Chouteau, Geoffroy Peeters, S. Essid"
+---

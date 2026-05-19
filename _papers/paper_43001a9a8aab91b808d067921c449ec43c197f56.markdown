@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "43001a9a8aab91b808d067921c449ec43c197f56"
+title: "Multilinguahah : A New Unsupervised Multilingual Acoustic Laughter Segmentation Method"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/43001a9a8aab91b808d067921c449ec43c197f56
+authors: "Sofía Callejas, Nahuel Gomez, Catherine Pelachaud, Brian Ravenet, Valentin Barrière"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a6bd9f3158bd77059650461b066215757315bca2"
+title: "A Survey On World Models Grounded In Acoustic Physical Information"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/a6bd9f3158bd77059650461b066215757315bca2
+authors: "Xiaoliang Chen, Le Chang, Xin Yu, Yunhe Huang, Xianling Tu"
+---

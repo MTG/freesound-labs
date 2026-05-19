@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1b6292aa510d53f4129a9eb95eda2066d975e2b3"
+title: "Looplens: Supporting Search As Creation In Loop-Based Music Composition"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/1b6292aa510d53f4129a9eb95eda2066d975e2b3
+authors: "Sheng Long, Atsuya Kobayashi, Kei Tateno"
+---

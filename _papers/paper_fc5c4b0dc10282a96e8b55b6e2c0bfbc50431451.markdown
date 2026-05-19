@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fc5c4b0dc10282a96e8b55b6e2c0bfbc50431451"
+title: "Meow-Omni 1: A Multimodal Large Language Model For Feline Ethology"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/fc5c4b0dc10282a96e8b55b6e2c0bfbc50431451
+authors: "Jucheng Hu, Zhangquan Chen, Yulin Chen, C. Hong, Liang Zhou, Tairan Wang, Sifei Li, Giulio Zhu, Fengtao Zhou, Yiheng Zeng, Suorong Yang, Dongzhan Zhou"
+---

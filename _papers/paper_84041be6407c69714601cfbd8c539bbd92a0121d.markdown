@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "84041be6407c69714601cfbd8c539bbd92a0121d"
+title: "In-The-Wild Audio Spatialization With Flexible Text-Guided Localization"
+publication: "Annual Meeting of the Association for Computational Linguistics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/84041be6407c69714601cfbd8c539bbd92a0121d
+authors: "Tianrui Pan, Jie Liu, Zewen Huang, Jie Tang, Gangshan Wu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7b1f0c2919ef4ab80daa59c9eff579a69a02f859"
+title: "Audiomarathon: A Comprehensive Benchmark For Long-Context Audio Understanding And Efficiency In Audio Llms"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/7b1f0c2919ef4ab80daa59c9eff579a69a02f859
+authors: "Peize He, Zichen Wen, Yubo Wang, Yuxuan Wang, Xiaoqian Liu, Jiaji Huang, Zehui Lei, Zhuangcheng Gu, Xiangqi Jin, Jiabing Yang, Kai Li, Zhifei Liu, Weijia Li, Cunxiang Wang, Conghui He, Linfeng Zhang"
+---

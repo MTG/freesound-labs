@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6a2347841583fae7f31409afe8c287ae90dee7f6"
+title: "Object-Avedit: An Object-Level Audio-Visual Editing Model"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/6a2347841583fae7f31409afe8c287ae90dee7f6
+authors: "Youquan Fu, Ruiyang Si, Hongfa Wang, Dongzhan Zhou, Jiacheng Sun, Ping Luo, Di Hu, Hongyuan Zhang, Xuelong Li"
+---

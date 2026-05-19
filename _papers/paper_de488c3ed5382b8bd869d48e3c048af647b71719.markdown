@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "de488c3ed5382b8bd869d48e3c048af647b71719"
+title: "The Ccf Aatc 2025 Speech Restoration Challenge: A Retrospective"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/de488c3ed5382b8bd869d48e3c048af647b71719
+authors: "Junan Zhang, Mengyao Zhu, Xin Xu, Hui Bu, Zhenhua Ling, Zhizheng Wu"
+---

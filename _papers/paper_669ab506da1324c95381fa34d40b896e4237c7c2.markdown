@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "669ab506da1324c95381fa34d40b896e4237c7c2"
+title: "Enhancing Stereo Sound Event Detection With Bimamba And Pretrained Pseldnet"
+publication: "Asia-Pacific Signal and Information Processing Association Annual Summit and Conference"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/669ab506da1324c95381fa34d40b896e4237c7c2
+authors: "Wenmiao Gao, Han Yin"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b0e1b57ed7f40be6d23c29bb2464ddb3a7e63061"
+title: "Bridgevoc: Revitalizing Neural Vocoder From A Restoration Perspective"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b0e1b57ed7f40be6d23c29bb2464ddb3a7e63061
+authors: "Andong Li, Tong Lei, Rilin Chen, Kai Li, Meng Yu, Xiaodong Li, Dong Yu, C. Zheng"
+---

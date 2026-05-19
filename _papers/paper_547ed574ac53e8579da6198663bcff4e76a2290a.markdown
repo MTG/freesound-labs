@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "547ed574ac53e8579da6198663bcff4e76a2290a"
+title: "Cartoonsing: Unifying Human And Nonhuman Timbres In Singing Generation"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/547ed574ac53e8579da6198663bcff4e76a2290a
+authors: "Jionghao Han, Jiatong Shi, Zhuoyan Tao, Yuxun Tang, Yiwen Zhao, G. Xia, Shinji Watanabe"
+---

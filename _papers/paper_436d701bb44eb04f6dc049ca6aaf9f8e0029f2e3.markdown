@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "436d701bb44eb04f6dc049ca6aaf9f8e0029f2e3"
+title: "Audio Controlnet For Fine-Grained Audio Generation And Editing"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/436d701bb44eb04f6dc049ca6aaf9f8e0029f2e3
+authors: "Haina Zhu, Yao Xiao, Xiquan Li, Ziyang Ma, Jianwei Yu, Bowen Zhang, Mingqi Yang, Xie Chen"
+---

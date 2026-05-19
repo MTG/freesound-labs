@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f25f1f8397f71250dc9bd17492d36fc6cbcb7ac0"
+title: "Sila: Signal-To-Language Augmentation For Enhanced Control In Text-To-Audio Generation"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/f25f1f8397f71250dc9bd17492d36fc6cbcb7ac0
+authors: "Sonal Kumar, Prem Seetharaman, Justin Salamon, Dinesh Manocha, Oriol Nieto"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3f1721a2a7d8a3aa33a100f3ba443fba7841b48f"
+title: "Geo2Sound: A Scalable Geo-Aligned Framework For Soundscape Generation From Satellite Imagery"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3f1721a2a7d8a3aa33a100f3ba443fba7841b48f
+authors: "Kunlin Wu, Yanning Wang, Haofeng Tan, Bo Chen, Teng Fei, Xianping Ma, Yang Yue, Zan Zhou, Xiaofeng Liu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "162663fc7652240085788882946edd24e02d634f"
+title: "Ervq: Enhanced Residual Vector Quantization With Intra-And-Inter-Codebook Optimization For Neural Audio Codecs"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/162663fc7652240085788882946edd24e02d634f
+authors: "Ruixin Zheng, Hui-Peng Du, Xiao-Hang Jiang, Yang Ai, Zhenhua Ling"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4e058a9d021b6c72ca8cb16808e12e32e3207d0b"
+title: "Crossing The Species Divide: Transfer Learning From Speech To Animal Sounds"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4e058a9d021b6c72ca8cb16808e12e32e3207d0b
+authors: "J. Cauzinille, Marius Miron, Olivier Pietquin, Masato Hagiwara, Ricard Marxer, Arnaud Rey, Benoît Favre"
+---

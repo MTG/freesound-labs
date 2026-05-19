@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "25c51ab7d1d49fe604c18001187c3337b721a1ef"
+title: "Openbeats: A Fully Open-Source General-Purpose Audio Encoder"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/25c51ab7d1d49fe604c18001187c3337b721a1ef
+authors: "Shikhar Bharadwaj, Samuele Cornell, Kwanghee Choi, Satoru Fukayama, Hye-jin Shim, Soham Deshmukh, Shinji Watanabe"
+---

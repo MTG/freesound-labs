@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5498eecc0a502c4174cebf0dab744686b1938ad7"
+title: "Smartears: A Practical Framework For Poultry Respiratory Monitoring Via Spectrogram-Based Audio Classification And Ai-Assisted Labeling"
+publication: "Computers and Electronics in Agriculture"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/5498eecc0a502c4174cebf0dab744686b1938ad7
+authors: "Hua Qiao, Zixin Chen, Chengming Ji, Jianfeng Gao, Xiaoyang Xue, Shouchang Zhou, Huanliang Xu, Junxian Huang"
+---

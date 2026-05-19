@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2461e7b687483814352ee21695864970936dc7d1"
+title: "Fsd50K-Solo: Automated Curation Of Single-Source Sound Events"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/2461e7b687483814352ee21695864970936dc7d1
+authors: "Ningyuan Yang, Sile Yin, Li-Chia Yang, Bryce Irvin, Xiao Quan, Marko Stamenovic, Shuo Zhang"
+---

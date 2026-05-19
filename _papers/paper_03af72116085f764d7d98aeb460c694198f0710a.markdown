@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "03af72116085f764d7d98aeb460c694198f0710a"
+title: "Serv: A Speech Enhancement Framework Based On Noise-Augmented Self-Supervised Representations And Vocoders"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/03af72116085f764d7d98aeb460c694198f0710a
+authors: "Xiao-Ying Zhao, Qiushi Zhu, Yuchen Hu, Lirong Dai"
+---

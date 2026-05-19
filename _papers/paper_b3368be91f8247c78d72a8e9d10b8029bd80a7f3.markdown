@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b3368be91f8247c78d72a8e9d10b8029bd80a7f3"
+title: "Investigation Of Whisper Asr Hallucinations Induced By Non-Speech Audio"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b3368be91f8247c78d72a8e9d10b8029bd80a7f3
+authors: "M. Barański, J. Jasinski, Julitta Bartolewska, Stanisław Kacprzak, Marcin Witkowski, Konrad Kowalczyk"
+---

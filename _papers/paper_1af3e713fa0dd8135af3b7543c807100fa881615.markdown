@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "1af3e713fa0dd8135af3b7543c807100fa881615"
+title: "A Semantically Consistent Dataset For Data-Efficient Query-Based Universal Sound Separation"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/1af3e713fa0dd8135af3b7543c807100fa881615
+authors: "Kai Li, Jintao Cheng, Chang Zeng, Zijun Yan, Helin Wang, Zixiong Su, Bo Zheng, Xiaolin Hu"
+---

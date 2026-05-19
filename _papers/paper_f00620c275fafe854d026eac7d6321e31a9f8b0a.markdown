@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f00620c275fafe854d026eac7d6321e31a9f8b0a"
+title: "Speechr: A Benchmark For Speech Reasoning In Large Audio-Language Models"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f00620c275fafe854d026eac7d6321e31a9f8b0a
+authors: "Wanqi Yang, Yanda Li, Yunchao Wei, Meng Fang, Ling Chen"
+---

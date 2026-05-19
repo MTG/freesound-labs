@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "875e83cafd3aac9215d7c1807160511ba991c301"
+title: "From Continuous To Discrete: Cross-Domain Collaborative General Speech Enhancement Via Hierarchical Language Models"
+publication: "ACM Multimedia"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/875e83cafd3aac9215d7c1807160511ba991c301
+authors: "Zhaoxi Mu, Rilin Chen, Andong Li, Meng Yu, Xinyu Yang, Dong Yu"
+---

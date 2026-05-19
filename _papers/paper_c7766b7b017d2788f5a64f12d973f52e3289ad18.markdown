@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c7766b7b017d2788f5a64f12d973f52e3289ad18"
+title: "Birddenoiser: A Bird Sound Denoising Network Based On Optimized Modern Convolution"
+publication: "Signal, Image and Video Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c7766b7b017d2788f5a64f12d973f52e3289ad18
+authors: "Tongxin Zhang, Hongxiang Xiao, Shuaikun Han, Zhiwei Zhan"
+---

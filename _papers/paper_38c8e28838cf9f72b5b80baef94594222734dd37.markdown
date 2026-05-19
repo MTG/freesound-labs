@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "38c8e28838cf9f72b5b80baef94594222734dd37"
+title: "Self-Improvement For Audio Large Language Model Using Unlabeled Speech"
+publication: "Interspeech"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/38c8e28838cf9f72b5b80baef94594222734dd37
+authors: "Shaowen Wang, Xinyuan Chen, Yao Xu"
+---

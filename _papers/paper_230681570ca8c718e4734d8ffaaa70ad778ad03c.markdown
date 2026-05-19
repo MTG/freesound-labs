@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "230681570ca8c718e4734d8ffaaa70ad778ad03c"
+title: "Fine-Tuned Whisper-Based Semantic-Temporal Aggregation Networks For Sound Event Classification"
+publication: "Pattern Recognition"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/230681570ca8c718e4734d8ffaaa70ad778ad03c
+authors: "Chen Chen, Jia Zhou, Yong Chen, Ao Li, Fengwei Gu, Liang Xi"
+---

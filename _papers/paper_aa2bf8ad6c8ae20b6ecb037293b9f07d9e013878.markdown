@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "aa2bf8ad6c8ae20b6ecb037293b9f07d9e013878"
+title: "Unmute The Patch Tokens: Rethinking Probing In Multi-Label Audio Classification"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/aa2bf8ad6c8ae20b6ecb037293b9f07d9e013878
+authors: "Lukas Rauch, René Heinrich, Houtan Ghaffari, Lukas Miklautz, Ilyass Moummad, Bernhard Sick, Christoph Scholz"
+---

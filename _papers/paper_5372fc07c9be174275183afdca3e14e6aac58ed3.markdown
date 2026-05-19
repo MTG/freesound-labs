@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5372fc07c9be174275183afdca3e14e6aac58ed3"
+title: "Vibomni: Towards Scalable Bone-Conduction Speech Enhancement On Earables"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/5372fc07c9be174275183afdca3e14e6aac58ed3
+authors: "Lixing He, Yunqi Guo, Haozheng Hou, Zhenyu Yan"
+---

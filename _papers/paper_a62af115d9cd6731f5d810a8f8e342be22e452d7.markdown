@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a62af115d9cd6731f5d810a8f8e342be22e452d7"
+title: "Epic-Sounds: A Large-Scale Dataset Of Actions That Sound"
+publication: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/a62af115d9cd6731f5d810a8f8e342be22e452d7
+authors: "Jaesung Huh, Jacob Chalk, E. Kazakos, D. Damen, A. Zisserman"
+---

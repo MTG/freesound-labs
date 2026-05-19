@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6da6452ddd2fa821c41d695d28e5fa6935f0cfc0"
+title: "Scaling Bioacoustic Signal Pre-Training With Million Samples Via Mask-Modeling"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/6da6452ddd2fa821c41d695d28e5fa6935f0cfc0
+authors: "Xuyao Deng, Tianjiao Wan, Kele Xu, Tian Gao, P. Qiao, Dawei Feng, Yong Dou"
+---

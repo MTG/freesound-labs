@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7d4f81a454fbbd0902e1602c397ad0d9bb048630"
+title: "Decodable But Not Structured: Linear Probing Enables Underwater Acoustic Target Recognition With Pretrained Audio Embeddings"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/7d4f81a454fbbd0902e1602c397ad0d9bb048630
+authors: "Hilde I. Hummel, S. Bhulai, R. V. D. Mei, Burooj Ghani"
+---

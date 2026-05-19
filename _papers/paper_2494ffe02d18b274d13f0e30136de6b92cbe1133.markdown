@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2494ffe02d18b274d13f0e30136de6b92cbe1133"
+title: "Stabletoken: A Noise-Robust Semantic Speech Tokenizer For Resilient Speechllms"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/2494ffe02d18b274d13f0e30136de6b92cbe1133
+authors: "Yuhan Song, Linhao Zhang, Chuhan Wu, Aiwei Liu, Wei Jia, Houfeng Wang, Xiao Zhou"
+---

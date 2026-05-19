@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c26621e6222a84832cd02bfba103ab8741b35583"
+title: "Pure Codec: Progressive Unfolding Of Residual Entropy For Speech Codec Learning"
+publication: "Automatic Speech Recognition & Understanding"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c26621e6222a84832cd02bfba103ab8741b35583
+authors: "Jiatong Shi, Haoran Wang, William Chen, Chenda Li, Wangyou Zhang, Jinchuan Tian, Shinji Watanabe"
+---

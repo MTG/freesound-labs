@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "26f01c6e2237425ab49f16e8c4d478af42d5c49c"
+title: "Audio-Based Feature Extraction For Uav Detection"
+publication: "2025 IEEE 8th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/26f01c6e2237425ab49f16e8c4d478af42d5c49c
+authors: "Iryna Yurchuk, T. Semenchenko"
+---

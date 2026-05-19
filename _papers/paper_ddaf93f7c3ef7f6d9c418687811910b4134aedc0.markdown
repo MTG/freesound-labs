@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ddaf93f7c3ef7f6d9c418687811910b4134aedc0"
+title: "Audiosae: Towards Understanding Of Audio-Processing Models With Sparse Autoencoders"
+publication: "Conference of the European Chapter of the Association for Computational Linguistics"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/ddaf93f7c3ef7f6d9c418687811910b4134aedc0
+authors: "Georgii Aparin, Tasnima Sadekova, Alexey Rukhovich, Assel Yermekova, Laida Kushnareva, Vadim Popov, Kristian Kuznetsov, Irina Piontkovskaya"
+---

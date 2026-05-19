@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "65d693b64a74bd7c4ce63ba75047db3382da9430"
+title: "Omnivinci: Enhancing Architecture And Data For Omni-Modal Understanding Llm"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/65d693b64a74bd7c4ce63ba75047db3382da9430
+authors: "Hanrong Ye, Chao-Han Huck Yang, Arushi Goel, Wei Huang, Ligeng Zhu, Yu Su, Sean Lin, An-Chieh Cheng, Zhen Wan, Jinchuan Tian, Yuming Lou, Dong Yang, Zhijian Liu, Yukang Chen, Ambrish Dantrey, Ehsan Jahangiri, Sreyan Ghosh, Da-fu Xu, Ehsan Hosseini-Asl, Danial Mohseni Taheri, Vidya Murali, Sifei Liu, Jason Lu, O. Olabiyi, Franklin Wang, Rafael Valle, Bryan Catanzaro, Andrew Tao, Song Han, Jan Kautz, Hongxu Yin, Pavlo Molchanov"
+---

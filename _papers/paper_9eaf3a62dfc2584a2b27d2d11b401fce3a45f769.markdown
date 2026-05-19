@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9eaf3a62dfc2584a2b27d2d11b401fce3a45f769"
+title: "Pase: Leveraging The Phonological Prior Of Wavlm For Low-Hallucination Generative Speech Enhancement"
+publication: "AAAI Conference on Artificial Intelligence"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/9eaf3a62dfc2584a2b27d2d11b401fce3a45f769
+authors: "Xiaobin Rong, Qinwen Hu, Mansur Yesilbursa, Kamil Wojcicki, Jing Lu"
+---

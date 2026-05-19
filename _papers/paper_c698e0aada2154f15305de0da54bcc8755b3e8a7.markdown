@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c698e0aada2154f15305de0da54bcc8755b3e8a7"
+title: "Generative Audio Language Modeling With Continuous-Valued Tokens And Masked Next-Token Prediction"
+publication: "International Conference on Machine Learning"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c698e0aada2154f15305de0da54bcc8755b3e8a7
+authors: "Shu-Wen Yang, Byeonggeun Kim, Kuan-Po Huang, Qingming Tang, Huy Phan, Bo-Ru Lu, Harshavardhan Sundar, Shalini Ghosh, Hung-yi Lee, Chieh-Chi Kao, Chao Wang"
+---

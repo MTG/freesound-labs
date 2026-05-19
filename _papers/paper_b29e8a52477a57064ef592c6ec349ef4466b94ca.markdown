@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b29e8a52477a57064ef592c6ec349ef4466b94ca"
+title: "Acoustic Evaluation Of A Neural Network Dedicated To The Detection Of Animal Vocalisations"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b29e8a52477a57064ef592c6ec349ef4466b94ca
+authors: "Jérémy Rouch, M. Ducrettet, S. Haupert, R. Emonet, F. Sèbe"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3a569c0c16acf729419b547726a52ed8da962f51"
+title: "Sputumlocator: Enhancing Airway Clearance With Auscultation-Based Sputum Localization"
+publication: "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3a569c0c16acf729419b547726a52ed8da962f51
+authors: "Yanbin Gong, Wentao Xie, Chi Xu, Qian Zhang, Shifang Yang"
+---

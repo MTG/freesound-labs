@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d0d5693107cfcc199e7c02986a17306dea5ce115"
+title: "Wavjepa: Semantic Learning Unlocks Robust Audio Foundation Models For Raw Waveforms"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d0d5693107cfcc199e7c02986a17306dea5ce115
+authors: "Goksenin Yuksel, Pierre Guetschel, Michael Tangermann, M. Gerven, Kiki van der Heijden"
+---

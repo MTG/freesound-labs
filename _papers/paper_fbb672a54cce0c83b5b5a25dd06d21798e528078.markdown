@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fbb672a54cce0c83b5b5a25dd06d21798e528078"
+title: "A Self-Improving Ensemble Learning Framework For Human Non-Speech Vocalization Classification"
+publication: "IEEE Access"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/fbb672a54cce0c83b5b5a25dd06d21798e528078
+authors: "Yonghai Wang, Gengshen Wu, Nana Shan"
+---

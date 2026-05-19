@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3149f1219a6ce377a06acce75e47b7adced5461a"
+title: "The World Is Not Mono: Enabling Spatial Understanding In Large Audio-Language Models"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3149f1219a6ce377a06acce75e47b7adced5461a
+authors: "Yuhuan You, Lai Wei, Xihong Wu, T. Qu"
+---

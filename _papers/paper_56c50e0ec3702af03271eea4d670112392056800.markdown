@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "56c50e0ec3702af03271eea4d670112392056800"
+title: "What And Where Manifolds Emerge And Align With Perception In Deep Neural Network Models Of Sound Localization"
+publication: "bioRxiv"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/56c50e0ec3702af03271eea4d670112392056800
+authors: "Chenggang Chen, Zhiyu Yang, Xiaoqin Wang"
+---

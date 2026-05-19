@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "2a0d86ea61f05fadb693730c3b06cbe850e491d0"
+title: "M3-Jepa: Multimodal Alignment Via Multi-Gate Moe Based On The Joint-Embedding Predictive Architecture"
+publication: ""
+year: 2024
+external_url: https://www.semanticscholar.org/paper/2a0d86ea61f05fadb693730c3b06cbe850e491d0
+authors: "Hongyang Lei, Xiaolong Cheng, Qi Qin, Dan Wang, Kun Fan, Huazhen Huang, Qingqing Gu, Yetao Wu, Zhonglin Jiang, Yong Chen, Luo Ji"
+---

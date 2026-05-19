@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "09e3c76135d86ca36ac8c7dd9f5499ae330c6f38"
+title: "Fastuss: Faster Task-Aware Unified Source Separation"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/09e3c76135d86ca36ac8c7dd9f5499ae330c6f38
+authors: "Francesco Paissan, G. Wichern, Yoshiki Masuyama, Ryo Aihara, François G. Germain, Kohei Saijo, Jonathan Le Roux"
+---

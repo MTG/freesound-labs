@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "46077242c079d16313de3bb47ba7dcede8f3502e"
+title: "Variable Step-Size Active Sound Quality Control Based On Auditory Temporal Coherence"
+publication: "Applied Acoustics"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/46077242c079d16313de3bb47ba7dcede8f3502e
+authors: "H. Su, Weijian Qin, Wenjie Zhang, Zhenhua Chen, Hongzhi Hu, Cuifeng Xu, Yi Tao"
+---

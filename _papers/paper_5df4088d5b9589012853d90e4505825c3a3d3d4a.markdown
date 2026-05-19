@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5df4088d5b9589012853d90e4505825c3a3d3d4a"
+title: "Feature Selection Via Graph Topology Inference For Soundscape Emotion Recognition"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/5df4088d5b9589012853d90e4505825c3a3d3d4a
+authors: "Samuel Rey, Luca Martino, Roberto San Millan, Eduardo Morgado"
+---

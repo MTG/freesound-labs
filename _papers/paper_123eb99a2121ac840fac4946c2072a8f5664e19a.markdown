@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "123eb99a2121ac840fac4946c2072a8f5664e19a"
+title: "Umbratts: Adapting Text-To-Speech To Environmental Contexts With Flow Matching"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/123eb99a2121ac840fac4946c2072a8f5664e19a
+authors: "Neta Glazer, Aviv Navon, Yael Segal, Aviv Shamsian, Hilit Segev, Asaf Buchnick, Menachem Pirchi, Gil Hetz, Joseph Keshet"
+---

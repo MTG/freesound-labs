@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c1d4c5d5480f8b485c89f5b6d668ae56353e0077"
+title: "Duotok: Source-Aware Dual-Track Tokenization For Multi-Track Music Language Modeling"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c1d4c5d5480f8b485c89f5b6d668ae56353e0077
+authors: "Rui Lin, Zhiyue Wu, Jiahe Le, Kangdi Wang, Weixiong Chen, Junyu Dai, Tao Jiang"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4e8cea64194834dce6163cb0bd7bcc965679acb8"
+title: "Integrating Spatial And Semantic Embeddings For Stereo Sound Event Localization In Videos"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4e8cea64194834dce6163cb0bd7bcc965679acb8
+authors: "Davide Berghi, Philip J. B. Jackson"
+---

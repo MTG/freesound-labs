@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0377def965337d8fb14d07414c90733727f6b4be"
+title: "Adversarial Training Improves Generalization Under Distribution Shifts In Bioacoustics"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/0377def965337d8fb14d07414c90733727f6b4be
+authors: "René Heinrich, Lukas Rauch, Bernhard Sick, Christoph Scholz"
+---

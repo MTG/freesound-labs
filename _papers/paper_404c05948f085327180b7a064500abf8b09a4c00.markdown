@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "404c05948f085327180b7a064500abf8b09a4c00"
+title: "Enhancing Situational Awareness In Wearable Audio Devices Using A Lightweight Sound Event Localization And Detection System"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/404c05948f085327180b7a064500abf8b09a4c00
+authors: "J. Yeow, Ee-Leng Tan, Santi Peksi, Zhen-Ting Ong, Woon-seng Gan"
+---

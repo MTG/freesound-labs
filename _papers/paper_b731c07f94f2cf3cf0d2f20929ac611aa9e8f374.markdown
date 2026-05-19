@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b731c07f94f2cf3cf0d2f20929ac611aa9e8f374"
+title: "Matpac++: Enhanced Masked Latent Prediction For Self-Supervised Audio Representation Learning"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b731c07f94f2cf3cf0d2f20929ac611aa9e8f374
+authors: "Aurian Quelennec, Pierre Chouteau, Geoffroy Peeters, S. Essid"
+---

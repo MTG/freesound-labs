@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a2e04aee2f42c2bae73706043d523f8f64abe15b"
+title: "Axlstms: Learning Self-Supervised Audio Representations With Xlstms"
+publication: "Interspeech"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/a2e04aee2f42c2bae73706043d523f8f64abe15b
+authors: "Sarthak Yadav, S. Theodoridis, Zheng-Hua Tan"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "ea1d2fc6624941d72dd8a58a2571c9ab14b759cd"
+title: "Region-Specific Audio Tagging For Spatial Sound"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/ea1d2fc6624941d72dd8a58a2571c9ab14b759cd
+authors: "Jinzheng Zhao, Yong Xu, Haohe Liu, Davide Berghi, Xinyuan Qian, Qiuqiang Kong, Junqi Zhao, Mark D. Plumbley, Wenwu Wang"
+---

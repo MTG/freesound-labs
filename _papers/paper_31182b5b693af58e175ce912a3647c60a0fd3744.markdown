@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "31182b5b693af58e175ce912a3647c60a0fd3744"
+title: "Hybrid-Sep: Language-Queried Audio Source Separation Via Pre-Trained Model Fusion And Adversarial Consistent Training"
+publication: "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/31182b5b693af58e175ce912a3647c60a0fd3744
+authors: "Jianyuan Feng, Guangzheng Li, Yangfei Xu"
+---

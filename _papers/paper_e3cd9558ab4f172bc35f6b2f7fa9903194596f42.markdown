@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e3cd9558ab4f172bc35f6b2f7fa9903194596f42"
+title: "Generating Moving 3D Soundscapes With Latent Diffusion Models"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/e3cd9558ab4f172bc35f6b2f7fa9903194596f42
+authors: "C. Templin, Yanda Zhu, Hao Wang"
+---

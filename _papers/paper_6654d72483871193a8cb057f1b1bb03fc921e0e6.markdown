@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6654d72483871193a8cb057f1b1bb03fc921e0e6"
+title: "Benchmarking Self-Supervised Audio Representations For Iot-Enabled Acoustic Beehive Monitoring"
+publication: "IEEE Internet of Things Journal"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/6654d72483871193a8cb057f1b1bb03fc921e0e6
+authors: "Heitor R. Guimarães, Mahsa Abdollahi, Yi Zhu, Ségolène Maucourt, Nico Coallier, Pierre Giovenazzo, Tiago H. Falk"
+---

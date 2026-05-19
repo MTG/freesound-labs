@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6e65e93c566bd49a1797be250e4ecef5499f30b7"
+title: "Tracking Of Intermittent And Moving Speakers : Dataset And Metrics"
+publication: "Proceedings of the 11th Convention of the European Acoustics Association Forum Acusticum / EuroNoise 2025"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/6e65e93c566bd49a1797be250e4ecef5499f30b7
+authors: "Taous Iatariene, Alexandre Guérin, Romain Serizel"
+---

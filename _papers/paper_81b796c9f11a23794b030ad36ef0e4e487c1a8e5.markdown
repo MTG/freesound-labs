@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "81b796c9f11a23794b030ad36ef0e4e487c1a8e5"
+title: "Spatially-Aware Multi-Channel Speaker Anti-Spoofing With Lora-Adapted Self-Supervised Models"
+publication: "International Conferences on Vision, Image and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/81b796c9f11a23794b030ad36ef0e4e487c1a8e5
+authors: "Ruikang Zhan, Yuanjun Zhao, Pengcheng Gong, Yuntao Wu"
+---

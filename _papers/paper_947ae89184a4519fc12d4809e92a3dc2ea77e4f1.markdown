@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "947ae89184a4519fc12d4809e92a3dc2ea77e4f1"
+title: "Unitok-Audio: A Unified Audio Generation Framework Via Generative Modeling On Discrete Codec Tokens"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/947ae89184a4519fc12d4809e92a3dc2ea77e4f1
+authors: "Chengwei Liu, Haoyin Yan, Shaofei Xue, Xiaotao Liang, Yinghao Liu, Zheng Xue, Gang Song, Boyang Zhou"
+---

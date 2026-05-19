@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "a3858547c68cd4d8d991f93622b60552330d0834"
+title: "Language Model Based Text-To-Audio Generation: Anti-Causally Aligned Collaborative Residual Transformers"
+publication: "Conference on Empirical Methods in Natural Language Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/a3858547c68cd4d8d991f93622b60552330d0834
+authors: "Juncheng Wang, Chao Xu, Cheng Yu, Zhe Hu, Haoyu Xie, Guoqi Yu, Lei Shang, Shujun Wang"
+---

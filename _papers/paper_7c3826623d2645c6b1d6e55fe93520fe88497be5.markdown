@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7c3826623d2645c6b1d6e55fe93520fe88497be5"
+title: "Star-Bench: Probing Deep Spatio-Temporal Reasoning As Audio 4D Intelligence"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/7c3826623d2645c6b1d6e55fe93520fe88497be5
+authors: "Zihan Liu, Zhikang Niu, Qiuyang Xiao, Zhisheng Zheng, Ruoqi Yuan, Yuhang Zang, Yuhang Cao, Xiao-wen Dong, Jianze Liang, Xie Chen, Leilei Sun, Dahua Lin, Jiaqi Wang"
+---

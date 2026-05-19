@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f46c147323393f57b486603bee248ef745384489"
+title: "Woosh: A Sound Effects Foundation Model"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/f46c147323393f57b486603bee248ef745384489
+authors: "Gaëtan Hadjeres, Marc Ferras, Khaled Koutini, Benno Weck, Alexandre Bittar, Thomas Hummel, Zineb Lahrici, Hakim Missoum, Joan Serrà, Yuki Mitsufuji"
+---

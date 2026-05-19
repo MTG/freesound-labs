@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f62415b4fff754db2fbf952505f584ab72c86e6b"
+title: "Interactive Target Positive And Negative Features Modeling For Monaural Speech Enhancement"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f62415b4fff754db2fbf952505f584ab72c86e6b
+authors: "Xinmeng Xu, Weiping Tu, Yuhong Yang, Jizhen Li, Yiqun Zhang"
+---

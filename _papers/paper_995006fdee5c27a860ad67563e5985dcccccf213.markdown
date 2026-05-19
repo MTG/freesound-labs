@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "995006fdee5c27a860ad67563e5985dcccccf213"
+title: "Dconnear: An Artifact-Free Neural Network Architecture For Closed-Loop Audio Signal Processing"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/995006fdee5c27a860ad67563e5985dcccccf213
+authors: "Chuan Wen, G. Torfs, Sarah Verhulst"
+---

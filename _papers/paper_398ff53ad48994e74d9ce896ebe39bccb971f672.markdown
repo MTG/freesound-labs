@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "398ff53ad48994e74d9ce896ebe39bccb971f672"
+title: "Foundation Models For Bioacoustics – A Comparative Review"
+publication: "Ecological Informatics"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/398ff53ad48994e74d9ce896ebe39bccb971f672
+authors: "Raphael Schwinger, Paria Vali Zadeh, Lukas Rauch, Mats Kurz, Tom Hauschild, Sam Lapp, Sven Tomforde"
+---

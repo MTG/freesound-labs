@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "13d451a4a1879a9710eaff5168b21fbbe73dfa3a"
+title: "A Knowledge-Driven Approach To Target Speech Extraction In The Presence Of Background Sound Effects For Cinematic Audio Source Separation (Cass)"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/13d451a4a1879a9710eaff5168b21fbbe73dfa3a
+authors: "Chun-wei Ho, Sabato Marco Siniscalchi, Kai Li, Chin-Hui Lee"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "884a017b686711f899838d66254613a6093bb6f2"
+title: "Optimal Transport Audio Distance With Learned Riemannian Ground Metrics"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/884a017b686711f899838d66254613a6093bb6f2
+authors: "Won-Ryeol Jeong"
+---

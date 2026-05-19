@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3c38c0d41a6e78475df69f2fc22778720d2c8d84"
+title: "Draw What You Hear: High-Fidelity Image Generation And Manipulation Via Soundadapter"
+publication: "IEEE Transactions on Neural Networks and Learning Systems"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3c38c0d41a6e78475df69f2fc22778720d2c8d84
+authors: "Mingjie Wang, Song Yuan, Xian-Feng Han, Zili Yi"
+---

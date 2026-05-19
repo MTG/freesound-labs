@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "102e5c5a04305477a11245e7fa2da139aa52a207"
+title: "State Space Models For Bioacoustics: A Comparative Evaluation With Transformers"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/102e5c5a04305477a11245e7fa2da139aa52a207
+authors: "Chengyu Tang, Sanjeev Baskiyar"
+---

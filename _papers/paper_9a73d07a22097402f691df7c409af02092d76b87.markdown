@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "9a73d07a22097402f691df7c409af02092d76b87"
+title: "Freeaudio: Training-Free Timing Planning For Controllable Long-Form Text-To-Audio Generation"
+publication: "ACM Multimedia"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/9a73d07a22097402f691df7c409af02092d76b87
+authors: "Yuxuan Jiang, Zehua Chen, Zeqian Ju, Chang Li, Weibei Dou, Jun Zhu"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "bf01166bc5c64fe12884d73c5969bfc92ec9612d"
+title: "Developing A Corpus For Polish Speech Enhancement By Reducing Noise, Reverberation, And Disruptions"
+publication: "Integrated Spatial Databases"
+year: 2024
+external_url: https://www.semanticscholar.org/paper/bf01166bc5c64fe12884d73c5969bfc92ec9612d
+authors: "Mariusz Kleć, Krzysztof Szklanny, Alicja Wieczorkowska"
+---

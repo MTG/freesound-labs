@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "012a52d0f3b56c178c15aa496d108dda0a92ea2b"
+title: "Flow2Gan: Hybrid Flow Matching And Gan With Multi-Resolution Network For Few-Step High-Fidelity Audio Generation"
+publication: ""
+year: 2025
+external_url: https://www.semanticscholar.org/paper/012a52d0f3b56c178c15aa496d108dda0a92ea2b
+authors: "Zengwei Yao, Wei Kang, Han Zhu, Liyong Guo, Lingxuan Ye, Fangjun Kuang, Weiji Zhuang, Zhaoqing Li, Zhi-Mo Han, Long Lin, Daniel Povey"
+---

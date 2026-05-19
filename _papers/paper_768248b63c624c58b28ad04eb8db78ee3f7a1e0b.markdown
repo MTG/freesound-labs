@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "768248b63c624c58b28ad04eb8db78ee3f7a1e0b"
+title: "Spectrogram Features For Audio And Speech Analysis"
+publication: "Applied Sciences"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/768248b63c624c58b28ad04eb8db78ee3f7a1e0b
+authors: "Ian McLoughlin, L. Pham, Yan Song, Xiaoxiao Miao, Huy Phan, Pengfei Cai, Qing Gu, Jiang Nan, Haoyu Song, D. Soh"
+---

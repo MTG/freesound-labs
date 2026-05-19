@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3f2cb7f302e6309913ce08ac3bca8e78752b06a6"
+title: "Stupase: Towards Low-Hallucination Studio-Quality Generative Speech Enhancement"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3f2cb7f302e6309913ce08ac3bca8e78752b06a6
+authors: "Xiaobin Rong, Jun Gao, Zhengjia Wang, Mansur Yesilbursa, Kamil Wojcicki, Jing Lu"
+---

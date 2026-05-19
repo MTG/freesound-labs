@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "081db65947d1f4af10e3a6d03f05fa274e2aa389"
+title: "Desta2.5-Audio: Toward General-Purpose Large Audio Language Model With Self-Generated Cross-Modal Alignment"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/081db65947d1f4af10e3a6d03f05fa274e2aa389
+authors: "Ke-Han Lu, Zhehuai Chen, Szu-Wei Fu, Chao-Han Huck Yang, Sung-Feng Huang, Chih-Kai Yang, Chee-En Yu, C. Chen, Wei-Chih Chen, Chien-yu Huang, Yi-Cheng Lin, Yu-Xiang Lin, C. Fu, Chun-Yi Kuan, Wenze Ren, Xuanjun Chen, Wei-Ping Huang, En-Pei Hu, Tzu-Quan Lin, Yuan-Kuei Wu, Kuan-Po Huang, Hsiao-Ying Huang, Huang-Cheng Chou, Kai-Wei Chang, Cheng-Han Chiang, Boris Ginsburg, Y. Wang, Hung-yi Lee"
+---

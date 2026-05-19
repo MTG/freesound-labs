@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "36fa853f958869539bf184b5bcbc65351c98e456"
+title: "Using Tropical Reef, Bird And Unrelated Sounds For Superior Transfer Learning In Marine Bioacoustics"
+publication: "Philosophical transactions of the Royal Society of London. Series B, Biological sciences"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/36fa853f958869539bf184b5bcbc65351c98e456
+authors: "Ben Williams, Bart van Merriënboer, Vincent Dumoulin, Jenny Hamer, A. Fleishman, Matthew McKown, Jill Munger, Aaron N. Rice, Ashlee Lillis, Clemency E. White, Catherine A. D. Hobbs, Tries B. Razak, David J. Curnick, Kate E. Jones, Tom Denton"
+---

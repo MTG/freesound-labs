@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "e2c615d101cf7418fafb7d8a518c73ac78766c58"
+title: "Alarm: Audio-Language Alignment For Reasoning Models"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/e2c615d101cf7418fafb7d8a518c73ac78766c58
+authors: "Petr Grinberg, Hassan Shahmohammadi"
+---

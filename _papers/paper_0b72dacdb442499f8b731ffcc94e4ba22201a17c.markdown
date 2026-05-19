@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0b72dacdb442499f8b731ffcc94e4ba22201a17c"
+title: "Biodcase: Using Data Challenges To Make Community Advances In Computational Bioacoustics"
+publication: "bioRxiv"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/0b72dacdb442499f8b731ffcc94e4ba22201a17c
+authors: "Dan Stowell, E. Vidaña-Vila, I. Nolasco, Ben McEwen, Lucie Jean-Labadye, Yasmine Benhamadi, G. Dubus, Benjamin Hoffman, P. Linhart, Ilaria Morandi, Dorian Cazau, Brian S. Miller, Elena Schall, Clea Parcerisas, Anatole Gros-Martial, Ilyass Moummad, Pierre-Yves Raumer, E. White, Paul White, P. V. N. Duc, Vincent Lostanlen"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d97853b4f6e73fd9e73f988d0902a4f08e7964ba"
+title: "Flowse-Grpo: Training Flow Matching Speech Enhancement Via Online Reinforcement Learning"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/d97853b4f6e73fd9e73f988d0902a4f08e7964ba
+authors: "Haoxu Wang, Biao Tian, Yiheng Jiang, Zexu Pan, Shengkui Zhao, Bin Ma, Daren Chen, Xiangang Li"
+---

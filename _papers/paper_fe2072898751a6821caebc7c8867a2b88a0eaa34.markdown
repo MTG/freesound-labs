@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fe2072898751a6821caebc7c8867a2b88a0eaa34"
+title: "Resource-Efficient And Noise-Robust Modality Fusion For Audio-Visual Speech Recognition"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/fe2072898751a6821caebc7c8867a2b88a0eaa34
+authors: "Alexandros Koumparoulis, G. Potamianos"
+---

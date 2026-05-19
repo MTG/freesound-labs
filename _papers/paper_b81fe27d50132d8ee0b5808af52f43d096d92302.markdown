@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "b81fe27d50132d8ee0b5808af52f43d096d92302"
+title: "Perch 2.0: The Bittern Lesson For Bioacoustics"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b81fe27d50132d8ee0b5808af52f43d096d92302
+authors: "B. V. Merrienboer, Vincent Dumoulin, Jenny Hamer, Lauren Harrell, Andrea Burns, Tom Denton"
+---

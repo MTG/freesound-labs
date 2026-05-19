@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5b757285179bf47791731692861c2ca3f9d0b3ec"
+title: "Misophonia Trigger Sound Detection On Synthetic Soundscapes Using A Hybrid Model With A Frozen Pre-Trained Cnn And A Time-Series Module"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/5b757285179bf47791731692861c2ca3f9d0b3ec
+authors: "Kurumi Sashida, Gouhei Tanaka"
+---

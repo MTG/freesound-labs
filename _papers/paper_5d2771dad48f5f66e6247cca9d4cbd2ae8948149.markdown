@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5d2771dad48f5f66e6247cca9d4cbd2ae8948149"
+title: "Audsemthinker: Enhancing Audio-Language Models Through Reasoning Over Semantics Of Sound"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/5d2771dad48f5f66e6247cca9d4cbd2ae8948149
+authors: "Gijs Wijngaard, Elia Formisano, Michele Esposito, M. Dumontier"
+---

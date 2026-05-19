@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8d09cbb4904f9fd7544f871f79de903863648db0"
+title: "Q2D2: A Geometry-Aware Audio Codec Leveraging Two-Dimensional Quantization"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8d09cbb4904f9fd7544f871f79de903863648db0
+authors: "Tal Shuster, Eliya Nachmani"
+---

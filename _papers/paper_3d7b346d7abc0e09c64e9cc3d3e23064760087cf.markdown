@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "3d7b346d7abc0e09c64e9cc3d3e23064760087cf"
+title: "Salad-Vae: Semantic Audio Compression With Language-Audio Distillation"
+publication: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/3d7b346d7abc0e09c64e9cc3d3e23064760087cf
+authors: "Sebastian Braun, Hannes Gamper, Dimitra Emmanouilidou"
+---

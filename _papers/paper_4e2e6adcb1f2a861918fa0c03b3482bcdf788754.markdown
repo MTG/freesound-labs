@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4e2e6adcb1f2a861918fa0c03b3482bcdf788754"
+title: "High-Accuracy Audio-Based Vehicle Detection: Deep Learning Vs Machine Learning"
+publication: "2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4e2e6adcb1f2a861918fa0c03b3482bcdf788754
+authors: "Hailey Hyosun Yoo, Majid Sarvi, S. A. Bagloee"
+---

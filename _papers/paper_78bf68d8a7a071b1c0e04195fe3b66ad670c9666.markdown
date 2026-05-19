@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "78bf68d8a7a071b1c0e04195fe3b66ad670c9666"
+title: "Multiple Choice Learning Of Low Rank Adapters For Language Modeling"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/78bf68d8a7a071b1c0e04195fe3b66ad670c9666
+authors: "Victor Letzelter, Hugo Malard, Mathieu Fontaine, Ga¨el Richard, S. Essid, Andrei Bursuc, Patrick P'erez"
+---

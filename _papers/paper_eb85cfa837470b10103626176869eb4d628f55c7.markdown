@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "eb85cfa837470b10103626176869eb4d628f55c7"
+title: "Environmental Noise Dataset For Sound Event Classification And Detection"
+publication: "Scientific Data"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/eb85cfa837470b10103626176869eb4d628f55c7
+authors: "Luca Fredianelli, Francesco Artuso, Geremia Pompei, Gaetano Licitra, G. Iannace, Andac Akbaba"
+---

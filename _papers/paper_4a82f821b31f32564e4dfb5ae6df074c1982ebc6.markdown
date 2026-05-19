@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4a82f821b31f32564e4dfb5ae6df074c1982ebc6"
+title: "A Robust Framework For Sound Event Localization And Detection On Real Recordings"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4a82f821b31f32564e4dfb5ae6df074c1982ebc6
+authors: "Jin Sob Kim, Hyun Joon Park, Wooseok Shin, Sung Won Han"
+---

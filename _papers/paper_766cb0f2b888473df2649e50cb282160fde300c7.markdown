@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "766cb0f2b888473df2649e50cb282160fde300c7"
+title: "Multi-Channel Speech Enhancement Guided By Learning-Based $A$ $Posteriori$ Speech Presence Probability Estimation"
+publication: "IEEE Transactions on Audio, Speech, and Language Processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/766cb0f2b888473df2649e50cb282160fde300c7
+authors: "Shuai Tao, Pejman Mowlaee, Jesper Rindom Jensen, M. G. Christensen"
+---

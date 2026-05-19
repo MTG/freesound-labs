@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f9b09f323c164edc71251d04c0dbc7c2094406c5"
+title: "Wow-Bench: Evaluating Fine-Grained Acoustic Perception In Audio-Language Models Via Marine Mammal Vocalizations"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/f9b09f323c164edc71251d04c0dbc7c2094406c5
+authors: "Jaeyeon Kim, Heeseung Yun, Sang Hoon Woo, C. Yang, Gunhee Kim"
+---

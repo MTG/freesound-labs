@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "7b981b7aa4b5a429bdf18b894e552c814f62c28c"
+title: "An Auditory-Visual Cooperative Perception Method For Honking Vehicle Localization"
+publication: "PLoS ONE"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/7b981b7aa4b5a429bdf18b894e552c814f62c28c
+authors: "Fei Yuan, Junxi Kang, Jiao Yin, Jinli Cao"
+---

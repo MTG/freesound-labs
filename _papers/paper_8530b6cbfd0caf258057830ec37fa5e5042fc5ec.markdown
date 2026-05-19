@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "8530b6cbfd0caf258057830ec37fa5e5042fc5ec"
+title: "Controllable Joint Noise Reduction And Hearing Loss Compensation Using A Differentiable Auditory Model"
+publication: "The 6th Clarity Workshop on Improving Speech-in-Noise for Hearing Devices (Clarity-2025)"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/8530b6cbfd0caf258057830ec37fa5e5042fc5ec
+authors: "Philippe Gonzalez, Torsten Dau, Tobias May"
+---

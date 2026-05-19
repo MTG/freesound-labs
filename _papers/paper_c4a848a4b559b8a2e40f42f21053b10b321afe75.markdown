@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c4a848a4b559b8a2e40f42f21053b10b321afe75"
+title: "A New Hybrid Vad Model Using Machine Learning System And Gfcc Acoustic Features In Challenging Noisy Environment"
+publication: "Circuits, systems, and signal processing"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/c4a848a4b559b8a2e40f42f21053b10b321afe75
+authors: "Rim Boukri, A. Farrouki"
+---

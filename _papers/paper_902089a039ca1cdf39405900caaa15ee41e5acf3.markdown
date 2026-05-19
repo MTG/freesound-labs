@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "902089a039ca1cdf39405900caaa15ee41e5acf3"
+title: "Focus Then Listen: Exploring Plug-And-Play Audio Enhancer For Noise-Robust Large Audio Language Models"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/902089a039ca1cdf39405900caaa15ee41e5acf3
+authors: "Han Yin, Yang Xiao, Younghoo Kwon, Ting Dang, Jung-Woo Choi"
+---

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "5c09f671c06326a11a160930e2d67dd2adcd60ec"
+title: "A Statistics-Driven Differentiable Approach For Sound Texture Synthesis And Analysis"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/5c09f671c06326a11a160930e2d67dd2adcd60ec
+authors: "Esteban Guti'errez, F. Font, Xavier Serra, L. Wyse"
+---

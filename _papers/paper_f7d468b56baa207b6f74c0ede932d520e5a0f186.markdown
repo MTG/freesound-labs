@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f7d468b56baa207b6f74c0ede932d520e5a0f186"
+title: "Infernofusion: An Edge-Optimized Audio-Visual Deep Learning Framework For Early Fire Smoke Detection"
+publication: "2026 International Conference on Visual Analytics and Data Visualization (ICVADV)"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/f7d468b56baa207b6f74c0ede932d520e5a0f186
+authors: "Asmitha J S, D. R, N. V"
+---

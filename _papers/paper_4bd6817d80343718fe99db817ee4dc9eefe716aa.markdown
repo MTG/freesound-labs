@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4bd6817d80343718fe99db817ee4dc9eefe716aa"
+title: "Competitive Audio-Language Models With Data-Efficient Single-Stage Training On Public Data"
+publication: "Automatic Speech Recognition & Understanding"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/4bd6817d80343718fe99db817ee4dc9eefe716aa
+authors: "Gokul Karthik Kumar, Rishabh Saraf, Ludovick Lepauloux, A. Muneer, Billel Mokeddem, Hakim Hacid"
+---

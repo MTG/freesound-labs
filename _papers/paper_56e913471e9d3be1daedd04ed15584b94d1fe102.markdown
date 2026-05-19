@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "56e913471e9d3be1daedd04ed15584b94d1fe102"
+title: "Metric Analysis For Spatial Semantic Segmentation Of Sound Scenes"
+publication: "arXiv.org"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/56e913471e9d3be1daedd04ed15584b94d1fe102
+authors: "Mayank Mishra, Paul Magron, Romain Serizel"
+---
