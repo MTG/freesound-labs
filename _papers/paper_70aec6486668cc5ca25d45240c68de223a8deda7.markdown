@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/70aec6486668cc5ca25d45240c68de223a8deda7
 authors: "Jiarui Hai, Helin Wang, Dongchao Yang, Karan Thakkar, N. Dehak, Mounya Elhilali"
 ---
+
+Common target sound extraction (TSE) approaches primarily relied on discriminative approaches in order to separate the target sound while minimizing interference from the unwanted sources, with varying success in separating the target from the background. This study introduces DPM-TSE, a generative method based on diffusion probabilistic modeling (DPM) for Target Sound Extraction (TSE), to achieve both cleaner target renderings as well as improved separability from unwanted sounds. The technique also tackles the noise floor of DPM by introducing a correction method for noise schedules and sample steps. This approach is evaluated using both objective and subjective quality metrics on the FSD Kaggle 2018 dataset. The results show that DPM-TSE has a significant improvement in perceived quality in terms of target extraction and purity.

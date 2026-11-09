@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/21a0f5257a08e7c1ad8ba7d4d272d75a6e588732
 authors: "Swapnil Bhosale, Rupayan Chakraborty, S. Kopparapu"
 ---
+
+Automatic Audio Captioning (AAC) refers to the task of describing an audio sample in a natural language (NL) text. Unlike NL text generation tasks, which rely on lexical semantic metrics like BLEU for evaluation, the AAC evaluation metric requires acoustic semantics to map NL text corresponding to similar sounds in addition to lexical semantics. In this paper, we propose a novel metric based on Text-to-Audio Grounding (TAG), to incorporate acoustic semantics. Experiments demonstrate our evaluation metric to perform better compared to existing metrics used in NL text and image captioning literature for AAC.

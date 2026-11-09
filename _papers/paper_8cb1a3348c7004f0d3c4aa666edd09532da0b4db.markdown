@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/8cb1a3348c7004f0d3c4aa666edd09532da0b4db
 authors: "Mengwei Wang, Zhe Yang"
 ---
+
+Recently, transformer-based models have shown leading performance in audio classification, gradually replacing the dominant ConvNet in the past. However, some research has shown that certain characteristics and designs in transformers can be applied to other architectures and make them achieve similar performance as transformers. In this paper, we introduce TFECN, a pure ConvNet that combines the design in transformers and has time-frequency enhanced convolution with large kernels. It can provide a global receptive field on the frequency dimension as well as avoid the influence of the con-volution’s shift-equivariance on the recognition of not shift-invariant patterns along the frequency axis. Furthermore, to use ImageNet-pretrained weights, we propose a method for transferring weights between kernels of different sizes. On the commonly used datasets AudioSet, FSD50K, and ESC50, our TFECN outperforms the models trained in the same way.

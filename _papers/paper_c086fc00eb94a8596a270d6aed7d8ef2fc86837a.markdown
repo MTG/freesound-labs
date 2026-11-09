@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/c086fc00eb94a8596a270d6aed7d8ef2fc86837a
 authors: "E. Guizzo, C. Marinoni, Marco Pennese, Xinlei Ren, Xiguang Zheng, Chen Zhang, B. Masiero, A. Uncini, D. Comminiello"
 ---
+
+The L3DAS22 Challenge is aimed at encouraging the development of machine learning strategies for 3D speech enhancement and 3D sound localization and detection in office-like environments. This challenge improves and extends the tasks of the L3DAS21 edition1. We generated a new dataset, which maintains the same general characteristics of L3DAS21 datasets, but with an extended number of data points and adding constrains that improve the baseline model’s efficiency and overcome the major difficulties encountered by the participants of the previous challenge. We updated the baseline model of Task 1, using the architecture that ranked first in the previous challenge edition. We wrote a new supporting API, improving its clarity and ease-of-use. In the end, we present and discuss the results submitted by all participants. L3DAS22 Challenge website: www.l3das.com/icassp2022.

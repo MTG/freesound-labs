@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/936df4e14067a7167c9511211c1332eb60b2d4af
 authors: "Diego de Benito-Gorrón, Kateřina Žmolíková, D. Toledano"
 ---
+
+Sound Event Detection and Source Separation are closely related tasks: whereas the first aims to find the time boundaries of acoustic events inside a recording, the goal of the latter is to isolate each of the acoustic sources into different signals. This paper presents a Sound Event Detection system formed by two independently pre-trained blocks for Source Separation and Sound Event Detection. We propose a joint-training scheme, where both blocks are trained at the same time, and a two-stage training, where each block trains while the other one is frozen. In addition, we compare the use of supervised and unsupervised pre-training for the Separation block, and two model selection strategies for Sound Event Detection. Our experiments show that the proposed methods are able to outperform the baseline systems of the DCASE 2021 Challenge Task 4.

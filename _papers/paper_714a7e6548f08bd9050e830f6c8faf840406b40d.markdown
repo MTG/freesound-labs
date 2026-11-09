@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/714a7e6548f08bd9050e830f6c8faf840406b40d
 authors: "Nico M. Schmidt, Jordi Pons, M. Miron"
 ---
+
+We introduce PodcastMix, a dataset formalizing the task of separating background music and foreground speech in podcasts. We aim at deﬁning a benchmark suitable for training and eval-uating (deep learning) source separation models. To that end, we release a large and diverse training dataset based on programatically generated podcasts. However, current (deep learning) models can incur into generalization issues, specially when trained on synthetic data. To target potential generalization issues, we release an evaluation set based on real podcasts for which we design objective and subjective tests. Out of our experiments with real podcasts, we ﬁnd that current (deep learning) models may have generalization issues. Yet, these can perform competently, e.g., our best baseline separates speech with a mean opinion score of 3.84 (rating “overall separation quality” from 1 to 5). The dataset and baselines are accessible online.

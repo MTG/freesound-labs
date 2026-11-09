@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/d64296d9a1f63560c0aaef12e6f16f3448645eef
 authors: "Andreas Triantafyllopoulos, Iosif Tsangko, Alexander Gebhard, A. Mesaros, Tuomas Virtanen, Bjorn W. Schuller"
 ---
+
+Foundation models (FMs) are increasingly spearheading recent advances on a variety of tasks that fall under the purview of computer audition—i.e., the use of machines to understand sounds. They feature several advantages over traditional pipelines: among others, the ability to consolidate multiple tasks in a single model, the option to leverage knowledge from other modalities, and the readily available interaction with human users. Naturally, these promises have created substantial excitement in the audio community and have led to a wave of early attempts to build new, generalpurpose FMs for audio. In the present contribution, we give an overview of computational audio analysis as it transitions from traditional pipelines toward auditory FMs. Our work highlights the key operating principles that underpin those models and showcases how they can accommodate multiple tasks that the audio community previously tackled separately.

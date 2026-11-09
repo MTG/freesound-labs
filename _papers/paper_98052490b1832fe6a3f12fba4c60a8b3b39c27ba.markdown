@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/98052490b1832fe6a3f12fba4c60a8b3b39c27ba
 authors: "Ariane Stolfi, A. Milo, M. Barthet"
 ---
+
+This paper describes the development and evaluation of the online music making tool Playsound.space, an open platform leveraging Freesound Creative Commons audio content. After discussing the interface which relies on semantic queries and spectrogram representations, we introduce new features aiming to enhance participation and creativity support. This includes a multi-user chat system providing language translation, and a Web Audio player enabling real-time sound editing and time-stretching. We present evaluations for live performance and soundscape composition sketching. Throughout our reflections, we provide directions for future artistic and pedagogical applications that can benefit the design of other ubiquitous music systems.

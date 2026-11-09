@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/29bda609222b796e30490d89769169de2add1c5a
 authors: "Ludovic Tuncay, Etienne Labbé, Emmanouil Benetos, Thomas Pellegrini"
 ---
+
+Building on the Joint-Embedding Predictive Architecture (JEPA) paradigm, a recent self-supervised learning framework that predicts latent representations of masked regions in high-level feature spaces, we propose Audio-JEPA (Audio Joint-Embedding Predictive Architecture), tailored specifically for audio data. Audio-JEPA uses a simple Vision Transformer backbone to predict latent representations of masked spectrogram patches rather than reconstructing raw audio. We pre-train on unlabeled AudioSet clips (10s, 32kHz) with random patch masking on mel-spectrograms. We evaluate on the X-ARES suite covering speech, music, and environmental sound tasks. Although our implementation is a straightforward translation of the original model to audio, the results still show comparable performance to wav2vec 2.0 and data2vec while using less than one-fifth of their training data and with no hyper-parameter tuning. All code and pretrained checkpoints are available on GitHub.

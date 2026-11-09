@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/c7c5557c72f99c95e5e054744abc5e38cf831e0c
 authors: "Ho-Young Choi, Won-Gook Choi, Joon-Hyuk Chang"
 ---
+
+Most audio datasets utilized for training in the audio generation fields are low-quality, leading to difficulties in the generation of high-quality, single-event audio. However, to acquire single-event audio with noise-free, high costs are incurred. In this paper, we propose a simple retrieval-augmented classifier-guided sampling strategy for foley sound synthesis. Specifically, to guide the diffusion model during sampling with classifier guidance, given an input class, we first retrieve relevant audio features by utilizing a Contrastive Language-Audio Pre-training model. The gradients from a classifier for the retrieved audio features are then calculated to serve as additional guidance. Our evaluation, conducted on the DCASE 2023 challenge task 7 dataset, demonstrates that our proposed method overall improves a Frechet audio distance score.

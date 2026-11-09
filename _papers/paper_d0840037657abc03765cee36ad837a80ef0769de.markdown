@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/d0840037657abc03765cee36ad837a80ef0769de
 authors: "Tianyi Bai, Hao Liang, Binwang Wan, Ling Yang, Bozhou Li, Yifan Wang, Bin Cui, Conghui He, Binhang Yuan, Wentao Zhang"
 ---
+
+Multimodal large language models (MLLMs) enhance the capabilities of standard large language models by integrating and processing data from multiple modalities, including text, vision, audio, video, and 3D environments. Data plays a pivotal role in the development and refinement of these models. In this survey, we comprehensively review the literature on MLLMs from a data-centric perspective. Specifically, we explore methods for preparing multimodal data during the pretraining and adaptation phases of MLLMs. Additionally, we analyze the evaluation methods for the datasets and review the benchmarks for evaluating MLLMs. Our survey also outlines potential future research directions. This work aims to provide researchers with a detailed understanding of the data-driven aspects of MLLMs, fostering further exploration and innovation in this field.

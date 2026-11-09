@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/de025df9d534593f3d6df197b021c42ca73c77c4
 authors: "Ahmed Omran, Neil Zeghidour, Zalán Borsos, Félix de Chaumont Quitry, M. Slaney, M. Tagliasacchi"
 ---
+
+We present a method to separate speech signals from noisy environments in the embedding space of a neural audio codec. We introduce a new training procedure that allows our model to produce structured encodings of audio waveforms given by embedding vectors, where one part of the embedding vector represents the speech signal, and the rest represent the environment. We achieve this by partitioning the embeddings of different input waveforms and training the model to faithfully reconstruct audio from mixed partitions, thereby ensuring each partition encodes a separate audio attribute. As use cases, we demonstrate the separation of speech from background noise or from reverberation characteristics. Our method also allows for targeted adjustments of the audio output characteristics.

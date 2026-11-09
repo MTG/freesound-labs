@@ -7,3 +7,5 @@ year: 2015
 external_url: https://www.semanticscholar.org/paper/0e3302fcf22b8980b4278b42260d17fc6f659398
 authors: "Diego Castán, David Tavarez, Paula Lopez-Otero, J. Franco-Pedroso, H. Delgado, E. Navas, L. Fernández, D. Ramos-Castro, J. Serrano, A. Ortega, E. Lleida"
 ---
+
+Audio segmentation is important as a pre-processing task to improve the performance of many speech technology tasks and, therefore, it has an undoubted research interest. This paper describes the database, the metric, the systems and the results for the Albayzín-2014 audio segmentation campaign. In contrast to previous evaluations where the task was the segmentation of non-overlapping classes, Albayzín-2014 evaluation proposes the delimitation of the presence of speech, music and/or noise that can be found simultaneously. The database used in the evaluation was created by fusing different media and noises in order to increase the difficulty of the task. Seven segmentation systems from four different research groups were evaluated and combined. Their experimental results were analyzed and compared with the aim of providing a benchmark and showing up the promising directions in this field.

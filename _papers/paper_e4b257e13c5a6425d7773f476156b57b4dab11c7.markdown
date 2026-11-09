@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/e4b257e13c5a6425d7773f476156b57b4dab11c7
 authors: "Chuan Wen, Sarah Verhulst"
 ---
+
+Despite significant progress in speech enhancement (SE), improving speech intelligibility and perceptual quality in noisy environments for hearing-impaired individuals remains challenging. This paper presents an individualized speech-enhancement (ISE) framework that integrates noise reduction (NR) and sound amplification for hearing loss compensation within a unified system. Our fully differentiable, closed-loop design incorporates biophysically realistic auditory models. The framework features two pathways: one simulating the auditory response of a normal-hearing (NH) system to denoised speech and the other modeling a hearing-impaired (HI) system’s response to noisy speech. The ISE model is trained by minimizing the difference between NH and HI auditory responses. Experimental results show that the ISE model enhances speech intelligibility and perceptual quality in noisy conditions for HI listeners, offering a promising foundation for advancing personalized noise reduction strategies.

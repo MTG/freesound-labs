@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/3b3a8b95a976317184d143f38cf3dfcaa6bc641c
 authors: "Shota Ikawa, Kunio Kashino"
 ---
+
+We propose an audio captioning system that describes non-speech audio signals in the form of natural language. Unlike existing systems, this system can generate a sentence describing sounds, rather than an object label or onomatopoeia. This allows the description to include more information, such as how the sound is heard and how the tone or volume changes over time, and can accommodate unknown sounds. A major problem in realizing this capability is that the validity of the description depends not only on the sound itself but also on the situation or context. To address this problem, a conditional sequence-to-sequence model is proposed. In this model, a parameter called “speciﬁcity” is introduced as a condition to control the amount of information contained in the output text and generate an appropriate description. Experiments show that the model works effectively.

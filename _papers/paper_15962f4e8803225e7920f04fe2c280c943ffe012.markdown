@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/15962f4e8803225e7920f04fe2c280c943ffe012
 authors: "Jozef Coldenhoff, Niclas Granqvist, Milos Cernak"
 ---
+
+Audio and speech coding lack unified evaluation and open-source testing. Many candidate systems were evaluated on proprietary, non-reproducible, or small data, and machine learning-based codecs are often tested on datasets with similar distributions as trained on, which is unfairly compared to digital signal processing-based codecs that usually work well with unseen data. This paper presents a full-band audio and speech coding quality benchmark with more variable content types, including traditional open test vectors. An example use case of audio coding quality assessment is presented with open-source Opus, 3GPP’s EVS, and recent ETSI’s LC3 with LC3+ used in Bluetooth LE Audio profiles. Besides, quality variations of emotional speech encoding at 16 kbps are shown. The proposed open-source benchmark contributes to audio and speech coding democratization and is available at https://github.com/JozefColdenhoff/OpenACE.

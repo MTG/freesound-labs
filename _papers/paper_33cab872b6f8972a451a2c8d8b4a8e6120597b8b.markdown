@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/33cab872b6f8972a451a2c8d8b4a8e6120597b8b
 authors: "T. Iqbal, Yin Cao, Qiuqiang Kong, Mark D. Plumbley, Wenwu Wang"
 ---
+
+In supervised machine learning, the assumption that training data is labelled correctly is not always satisfied. In this paper, we investigate an instance of labelling error for classification tasks in which the dataset is corrupted with out-of-distribution (OOD) instances: data that does not belong to any of the target classes, but is labelled as such. We show that detecting and relabelling certain OOD instances, rather than discarding them, can have a positive effect on learning. The proposed method uses an auxiliary classifier, trained on data that is known to be in-distribution, for detection and relabelling. The amount of data required for this is shown to be small. Experiments are carried out on the FSDnoisy18k audio dataset, where OOD instances are very prevalent. The proposed method is shown to improve the performance of convolutional neural networks by a significant margin. Comparisons with other noise-robust techniques are similarly encouraging.

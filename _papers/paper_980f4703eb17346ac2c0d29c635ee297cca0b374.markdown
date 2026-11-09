@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/980f4703eb17346ac2c0d29c635ee297cca0b374
 authors: "M. Cartwright, Ana Elisa Méndez Méndez, J. Cramer, Vincent Lostanlen, G. Dove, Ho-Hsiang Wu, Justin Salamon, Oded Nov, J. Bello"
 ---
+
+SONYC Urban Sound Tagging (SONYC-UST) is a dataset for the development and evaluation of machine listening systems for real-world urban noise monitoring. It consists of 3068 audio recordings from the “Sounds of New York City” (SONYC) acoustic sensor network. Via the Zooniverse citizen science platform, volunteers tagged the presence of 23 ﬁne-grained classes that were chosen in consultation with the New York City Department of Environmental Protection. These 23 ﬁne-grained classes can be grouped into eight coarse-grained classes. In this work, we describe the collection of this dataset, metrics used to evaluate tagging systems, and the results of a simple baseline model

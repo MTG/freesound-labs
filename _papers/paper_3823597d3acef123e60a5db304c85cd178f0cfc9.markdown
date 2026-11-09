@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/3823597d3acef123e60a5db304c85cd178f0cfc9
 authors: "E. Fonseca, Diego Ortego, K. McGuinness, N. O'Connor, X. Serra"
 ---
+
+Self-supervised representation learning can mitigate the limitations in recognition tasks with few manually labeled data but abundant unlabeled data—a common scenario in sound event research. In this work, we explore unsupervised contrastive learning as a way to learn sound event representations. To this end, we propose to use the pretext task of contrasting differently augmented views of sound events. The views are computed primarily via mixing of training examples with unrelated backgrounds, followed by other data augmentations. We analyze the main components of our method via ablation experiments. We evaluate the learned representations using linear evaluation, and in two in-domain downstream sound event classification tasks, namely, using limited manually labeled data, and using noisy labeled data. Our results suggest that unsupervised contrastive pre-training can mitigate the impact of data scarcity and increase robustness against noisy labels.

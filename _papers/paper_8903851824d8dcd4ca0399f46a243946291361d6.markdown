@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/8903851824d8dcd4ca0399f46a243946291361d6
 authors: "Tom Denton, Alejandro Luebs, Felicia S. C. Lim, Andrew Storus, Hengchin Yeh, W. Kleijn, J. Skoglund"
 ---
+
+Recent advances in neural-network based generative modeling of speech has shown great potential for speech coding. However, the performance of such models drops when the input is not clean speech, e.g., in the presence of background noise, preventing its use in practical applications. In this paper we examine the reason and discuss methods to overcome this issue. Placing a denoising preprocessing stage when extracting features and target clean speech during training is shown to be the best performing strategy.

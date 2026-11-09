@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/bcb740386b0b2d3756ec5d948c2f91ae966eff17
 authors: "Seong-Gyun Leem, D. Fulford, J. Onnela, David E Gard, C. Busso"
 ---
+
+An appealing approach for speech emotion recognition (SER) is to pre-train a large speech representation model, such as Wav2Vec2.0 or HuBERT. However, this large model should be adapted to different environments when deployed in real-world applications. This approach demands additional training time and stored parameters for each target environment. This paper proposes a computation and memory-efficient adaptation method. The approach trains skip connection adapters that generate environmental representations from the convolutional encoder, and denoise the self-supervised speech representations. Our experiments with the clean and contaminated versions of the MSP-Podcast corpus show that our adapter-based approach not only improves the performance of the original fine-tuned SER model, but also reduces the computation and memory requirements. For each environment, the approach requires 59.16% less adaptation time and only 0.98% of the parameters of the transformer encoder.

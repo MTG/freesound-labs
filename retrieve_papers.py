@@ -9,6 +9,7 @@ if API_KEY is None:
 
 PAPERS_DIR = '_papers'
 MANUAL_PAPERS_FILENAME = 'manual_paper_semantic_scholar_urls.txt'
+PAPER_FIELDS = 'paperId,title,authors,year,url,venue,abstract'
 
 semantic_scholar_source_papers_ids_names = [
     ('b3fef5d63abaca4a860603089ce91c0198034a54', 'FSD50K: an Open Dataset of Human-Labeled Sound Events'),
@@ -47,13 +48,14 @@ def write_markdown_file(paper_data, filename):
         id=paper_data['paperId'],
         publication=paper_data['venue'] or '',
     )
-    fid = open(filename, 'w')
-    fid.write(contents)
-    fid.close()
+    abstract = paper_data.get('abstract')
+    if abstract and abstract.strip():
+        contents += '\n' + abstract.strip() + '\n'
+    with open(filename, 'w', encoding='utf-8') as fid:
+        fid.write(contents)
 
 def get_citations_page(paper_id, page_size=200, offset=0):
-    fields = 'paperId,title,authors,year,url,venue'
-    semantic_scholar_url = 'https://api.semanticscholar.org/graph/v1/paper/{}/citations?fields={}&limit={}&offset={}'.format(paper_id, fields, page_size, offset)
+    semantic_scholar_url = 'https://api.semanticscholar.org/graph/v1/paper/{}/citations?fields={}&limit={}&offset={}'.format(paper_id, PAPER_FIELDS, page_size, offset)
     headers = {'X-API-KEY': API_KEY} if API_KEY else {}
     resp = requests.get(semantic_scholar_url, headers=headers).json()
     return resp
@@ -96,8 +98,7 @@ def add_local_papers():
             # If markdown file does not not already exist, get paper information and write file
             try:
                 headers = {'X-API-KEY': API_KEY} if API_KEY else {}
-                fields = 'paperId,title,authors,year,url,venue'
-                resp = requests.get('https://api.semanticscholar.org/graph/v1/paper/{}?fields={}'.format(paper_id, fields), headers=headers).json()
+                resp = requests.get('https://api.semanticscholar.org/graph/v1/paper/{}?fields={}'.format(paper_id, PAPER_FIELDS), headers=headers).json()
             except Exception as e:
                 print('ERROR getting info for paper id {}: {}'.format(paper_id, str(e)))
             print(resp)

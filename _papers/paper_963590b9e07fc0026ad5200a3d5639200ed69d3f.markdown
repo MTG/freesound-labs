@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/963590b9e07fc0026ad5200a3d5639200ed69d3f
 authors: "Felicia Lim, W. Kleijn, M. Chinen, J. Skoglund"
 ---
+
+Rapid advances in machine-learning based generative modeling of speech make its use in speech coding attractive. However, the current performance of such models drops rapidly with noise contamination of the input, preventing use in practical applications. We present a new speech-coding scheme that is based on features that are robust to the distortions occurring in speech-coder input signals. To this purpose, we encourage the feature encoder to provide the same independent features for each of a set of linguistically equivalent signals, obtained by adding various noises to a common clean signal. The independent features, subjected to scalar quantization, are used as a conditioning vector sequence for WaveNet. Our experiments show that a 1.8 kb/s implementation of the resulting coder provides state-of-the-art performance for clean signals, and is additionally robust to noisy input.

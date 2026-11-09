@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/ea1d2fc6624941d72dd8a58a2571c9ab14b759cd
 authors: "Jinzheng Zhao, Yong Xu, Haohe Liu, Davide Berghi, Xinyuan Qian, Qiuqiang Kong, Junqi Zhao, Mark D. Plumbley, Wenwu Wang"
 ---
+
+Audio tagging aims to label sound events appearing in an audio recording. In this paper, we propose region-specific audio tagging, a new task which labels sound events in a given region for spatial audio recorded by a microphone array. The region can be specified as an angular space or a distance from the microphone. We first study the performance of different combinations of spectral, spatial, and position features. Then we extend state-of-the-art audio tagging systems such as pre-trained audio neural networks (PANNs) and audio spectrogram transformer (AST) to the proposed region-specific audio tagging task. Experimental results on both the simulated and the real datasets show the feasibility of the proposed task and the effectiveness of the proposed method. Further experiments show that incorporating the directional features is beneficial for omnidirectional tagging.

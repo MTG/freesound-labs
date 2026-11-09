@@ -7,3 +7,5 @@ year: 2021
 external_url: https://www.semanticscholar.org/paper/f75c1b36b80b1aa9a4db59ab77617445b31f1aae
 authors: "Motohiro Sunouchi, Masaharu Yoshioka"
 ---
+
+Sound designers and musicians often need to retrieve sound materials based on their similarity to aesthetic hearing experiences from sound databases such as Freesound. This study proposes an aesthetic experience-oriented evaluation framework for a field-recording sound retrieval system, using the sound clips extracted from Freesound. Furthermore, we discuss the features of the framework by analyzing the performance of the similarity search system for field-recording sound material using acoustic feature signatures that are based on the multiscale fractal dimension.

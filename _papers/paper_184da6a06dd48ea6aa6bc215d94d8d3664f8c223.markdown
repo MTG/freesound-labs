@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/184da6a06dd48ea6aa6bc215d94d8d3664f8c223
 authors: "Daniel Jimon, M. Vaida, Adriana Stan"
 ---
+
+Audio denoising is critical in signal processing, enhancing intelligibility and fidelity for applications like restoring musical recordings. This paper presents a proof-of-concept for adapting a state-of-the-art neural audio codec, the Descript Audio Codec (DAC), for music denoising. This work overcomes the limitations of traditional architectures like UNets by training the model on a large-scale, custom-synthesized dataset built from diverse sources. Training is guided by a multi-objective loss function that combines time-domain, spectral, and signal-level fidelity metrics. Ultimately, this paper aims to present a PoC for high-fidelity, generative audio restoration.

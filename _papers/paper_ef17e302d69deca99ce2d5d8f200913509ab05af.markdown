@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/ef17e302d69deca99ce2d5d8f200913509ab05af
 authors: "Carlotta Anemuller, O. Thiergart, Emanuël Habets"
 ---
+
+The degree of correlation between two audio signals entering the ears is known to have a significant impact on the spatial perception of a sound image. Audio signal decorrelation is therefore a widely used tool in various applications within the field of spatial audio processing. This paper explores for the first time the use of a data-driven approach for audio decorrelation. We propose a convolutional neural network architecture that is trained with the help of a state-of-the-art reference decorrelator. The proposed approach is evaluated using music and applause signals by means of objective evaluations as well as through a listening test. The proposed approach can serve as a proof of concept to address common limitations of existing decorrelation techniques in future work, which include introduction of temporal smearing and coloration artifacts and the production of a limited number of mutually uncorrelated output signals.

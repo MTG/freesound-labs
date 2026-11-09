@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/f7a03705fc9d7d8457eadd7e133223a455c52578
 authors: "Zhifeng Kong, Arushi Goel, João Felipe Santos, Sreyan Ghosh, Rafael Valle, Wei Ping, Bryan Catanzaro"
 ---
+
+Chain-of-thought reasoning has demonstrated significant improvements in large language models and vision language models, yet its potential for audio language models remains largely unexplored. In this technical report, we take a preliminary step towards closing this gap. For better assessment of sound reasoning, we propose AF-Reasoning-Eval, a benchmark targeting common-sense reasoning and the ability to discriminate among closely related choices. To prepare training corpus for sound reasoning abilities, we propose automatic pipelines that transform existing audio question answering and classification data into explicit reasoning chains, yielding AF-CoT-Train with 1.24M samples. We study the effect of finetuning Audio Flamingo series on AF-CoT-Train and observe considerable improvements on several reasoning benchmarks, validating the effectiveness of chain-of-thought finetuning on advanced sound understanding.

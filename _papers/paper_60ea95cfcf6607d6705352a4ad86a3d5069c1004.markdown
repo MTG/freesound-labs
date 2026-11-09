@@ -7,3 +7,5 @@ year: 2016
 external_url: https://www.semanticscholar.org/paper/60ea95cfcf6607d6705352a4ad86a3d5069c1004
 authors: "Emiel van Miltenburg, Benjamin Timmermans, Lora Aroyo"
 ---
+
+This paper presents a collection of annotations (tags or keywords) for a set of 2,133 environmental sounds taken from the Freesound database (www.freesound.org). The annotations are acquired through an open-ended crowd-labeling task, in which participants were asked to provide keywords for each of three sounds. The main goal of this study is to find out (i) whether it is feasible to collect keywords for a large collection of sounds through crowdsourcing, and (ii) how people talk about sounds, and what information they can infer from hearing a sound in isolation. Our main finding is that it is not only feasible to perform crowd-labeling for a large collection of sounds, it is also very useful to highlight different aspects of the sounds that authors may fail to mention. Our data is freely available, and can be used to ground semantic models, improve search in audio databases, and to study the language of sound.

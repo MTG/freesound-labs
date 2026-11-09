@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/978eb42b00292483d8c5480ef5e229241a8103b4
 authors: "Yonghyun Kim, Chaeyeon Han, Akash Sarode, Noah Posner, S. Guhathakurta, Alexander Lerch"
 ---
+
+Audio-based pedestrian detection is a challenging task and has, thus far, only been explored in noise-limited environments. We present a new dataset, results, and a detailed analysis of the state-of-the-art in audio-based pedestrian detection in the presence of vehicular noise. In our study, we conduct three analyses: (i) cross-dataset evaluation between noisy and noise-limited environments, (ii) an assessment of the impact of noisy data on model performance, highlighting the influence of acoustic context, and (iii) an evaluation of the model's predictive robustness on out-of-domain sounds. The new dataset is a comprehensive 1321-hour roadside dataset. It incorporates traffic-rich soundscapes. Each recording includes 16kHz audio synchronized with frame-level pedestrian annotations and 1fps video thumbnails.

@@ -7,3 +7,5 @@ year: 2014
 external_url: https://www.semanticscholar.org/paper/f50fd706c55f749b03205121b3bb7811e8c8b1ed
 authors: "J. R. Delgado-Contreras, J. García-Vázquez, R. Brena, C. E. Galván-Tejada, J. I. Galván-Tejada"
 ---
+
+Abstract In this work, an environmental audio classification scheme is proposed using a Chi squared filter as a feature selection strategy. Using feature selection (FS), the original 62 features characteristic vector can be optimized, and it can be used for environmental sound classification. These features are obtained using statistical analysis and frequency domain analysis. As a result, we obtain a reduced feature vector composed of 15 features: 11 statistical and 4 of the frequency domain. Using this reduced vector, a 10 class classification was done, using Support Vector machines (SVM) as classification method, the accuracy is higher than 90%.

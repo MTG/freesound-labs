@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/c461d13f13b05ebc557ec93f40165bb5caed4078
 authors: "Jiale Yang, Ying Zhang, Yang Hai"
 ---
+
+: Here, the authors present a novel interactive prototype system that enhances the effectiveness and ingenuity for sound designers to explore the sound effect library created by layering in multi-methods. They combine the explored methods of semantic keyword, acoustic feature, and layer relationship. In particular, the system visualises the layer relationship via circle pack, which facilitates the sound designers’ understanding on the components of the mixed sound effect by the designed layer and sourced layer. In order to evaluate the proposed method, they conduct a timing experiment along with a five-point Likert scale survey to analyse the searching efficiency, the user experience, and the interactive user behaviours. The studies performed by the authors show that the proposed system is capable of enhancing the sound designers’ ability for sound effects searching, thus creating new possible combination and design.

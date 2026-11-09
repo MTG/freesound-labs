@@ -7,3 +7,5 @@ year: 2026
 external_url: https://www.semanticscholar.org/paper/9c700f5ab6317179c96b3dfcd03761e5fb3e33fe
 authors: "Philippe Gonzalez"
 ---
+
+Inspired by recent developments in neural speech coding and diffusion-based language modeling, we tackle speech enhancement by modeling the conditional distribution of clean speech codes given noisy speech codes using absorbing discrete diffusion. The proposed approach, which we call ADDSE, leverages both the expressive latent space of neural audio codecs and the non-autoregressive sampling procedure of diffusion models. To efficiently model the hierarchical structure of residual vector quantization codes, we propose RQDiT, which combines techniques from RQ-Transformer and diffusion Transformers for non-autoregressive modeling. Results show competitive performance in terms of non-intrusive objective metrics on two datasets, especially at low signal-to-noise ratios and with few sampling steps. Code and audio examples are available online.

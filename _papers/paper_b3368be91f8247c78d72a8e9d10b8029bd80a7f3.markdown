@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/b3368be91f8247c78d72a8e9d10b8029bd80a7f3
 authors: "M. Barański, J. Jasinski, Julitta Bartolewska, Stanisław Kacprzak, Marcin Witkowski, Konrad Kowalczyk"
 ---
+
+Hallucinations of deep neural models are amongst key challenges in automatic speech recognition (ASR). In this paper, we investigate hallucinations of the Whisper ASR model induced by non-speech audio segments present during inference. By inducting hallucinations with various types of sounds, we show that there exists a set of hallucinations that appear frequently. We then study hallucinations caused by the augmentation of speech with such sounds. Finally, we describe the creation of a bag of hallucinations (BoH) that allows to remove the effect of hallucinations through the post-processing of text transcriptions. The results of our experiments show that such post-processing is capable of reducing word error rate (WER) and acts as a good safeguard against problematic hallucinations.

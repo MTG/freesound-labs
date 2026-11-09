@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/d9777634e3cc0757b02c15fe69dd122f89a24496
 authors: "TaeHan Lee, Jaehan Jung, Hyukjun Lee"
 ---
+
+We present SAM, a State-space Audio-language Model that integrates an audio encoder with a Mamba-2 backbone. SAM-2.7B achieves 21.1 mAP on AudioSet and 17.6 SPICE on AudioCaps, matching or surpassing larger 7B transformer-based models with fewer parameters. We further provide the first systematic, representation-level analysis of how SSMs interact with audio encoder outputs: (1) joint audio encoder finetuning is essential, supported by accuracy gains and observed adaptation of token representation rank and similarity across different SSM sizes; (2) despite linear scaling, SSMs benefit more from compact, information-rich audio token representations than from excessively long token sequences; and (3) incorporating instruction-following supervision substantially improves reasoning ability, boosting MMAU-Sound accuracy from 22.8 to 56.8. Through comprehensive experiments and analysis, we establish practical design principles for SSMs as strong, scalable backbones for audio-language models.

@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/35d09c4325f42b8eac8c8571f9a485f60fe56c25
 authors: "Tiantian Feng, Dimitrios Dimitriadis, Shrikanth S. Narayanan"
 ---
+
+Recent advances in foundation models have enabled audio-generative models that produce high-fidelity sounds associated with music, events, and human actions. Despite the success achieved in modern audio-generative models, the conventional approach to assessing the quality of the audio generation relies heavily on distance metrics like Frechet Audio Distance. In contrast, we aim to evaluate the quality of audio generation by examining the effectiveness of using them as training data. Specifically, we conduct studies to explore the use of synthetic audio for audio recognition. Moreover, we investigate whether synthetic audio can serve as a resource for data augmentation in speech-related modeling. Our comprehensive experiments demonstrate the potential of using synthetic audio for audio recognition and speech-related modeling. Our code is available at https://github.com/usc-sail/SynthAudio.

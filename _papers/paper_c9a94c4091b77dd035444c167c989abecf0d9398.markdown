@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/c9a94c4091b77dd035444c167c989abecf0d9398
 authors: "Xinhao Mei, Xubo Liu, MarkD . Plumbley, Wenwu Wang"
 ---
+
+Automated audio captioning is a cross-modal translation task that aims to generate natural language descriptions for given audio clips. This task has received increasing attention with the release of freely available datasets in recent years. The problem has been addressed predominantly with deep learning techniques. Numerous approaches have been proposed, such as investigating different neural network architectures, exploiting auxiliary information such as keywords or sentence information to guide caption generation, and employing different training strategies, which have greatly facilitated the development of this field. In this paper, we present a comprehensive review of the published contributions in automated audio captioning, from a variety of existing approaches to evaluation metrics and datasets. We also discuss open challenges and envisage possible future research directions.

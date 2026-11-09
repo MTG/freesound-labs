@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/c139896f5a3bbe16d7fc7821e2b9a91a85b511d7
 authors: "E. Fonseca, M. Plakal, F. Font, D. Ellis, X. Serra"
 ---
+
+This paper introduces Task 2 of the DCASE2019 Challenge, titled "Audio tagging with noisy labels and minimal supervision". This task was hosted on the Kaggle platform as "Freesound Audio Tagging 2019". The task evaluates systems for multi-label audio tagging using a large set of noisy-labeled data, and a much smaller set of manually-labeled data, under a large vocabulary setting of 80 everyday sound classes. In addition, the proposed dataset poses an acoustic mismatch problem between the noisy train set and the test set due to the fact that they come from different web audio sources. This can correspond to a realistic scenario given by the difficulty in gathering large amounts of manually labeled data. We present the task setup, the FSDKaggle2019 dataset prepared for this scientific evaluation, and a baseline system consisting of a convolutional neural network. All these resources are freely available.

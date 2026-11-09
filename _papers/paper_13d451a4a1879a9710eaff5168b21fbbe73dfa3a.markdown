@@ -7,3 +7,5 @@ year: 2026
 external_url: https://www.semanticscholar.org/paper/13d451a4a1879a9710eaff5168b21fbbe73dfa3a
 authors: "Chun-wei Ho, Sabato Marco Siniscalchi, Kai Li, Chin-Hui Lee"
 ---
+
+We propose a knowledge-driven approach to speech target extraction in the presence of background sound effects already recorded in cinematic audio. The specific knowledge sources studied are manners of articulation that are detected in speech frames and adopted to form a knowledge vector as a part of features to enhance speech separation and target speech extraction because some short speech segments are often difficult to separate from mixed background sounds. Testing on the recent Sound Demixing Challenge data for cinematic audio source separation (CASS) shows that utilizing articulator-aware knowledge sources produces better separation results than those obtained without using any knowledge, especially for speech segments buried in unspecified background sound events.

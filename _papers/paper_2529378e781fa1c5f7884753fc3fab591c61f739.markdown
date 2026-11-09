@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/2529378e781fa1c5f7884753fc3fab591c61f739
 authors: "Louis Delebecque, Romain Serizel"
 ---
+
+Thanks to spatial information contained in reverberated signals, multichannel speech enhancement (SE) algorithms are able to outperform single channel systems. Reverberated signals are often generated from simulations of room impulse responses (RIRs). However, the influence of such methods on SE quality has not been investigated so far. In this paper, we propose a dataset for binaural SE, composed of real recordings, measured and simulated RIRs for the same audio scenes. Measurements are realized with and without a dummy head. This dataset is used to estimate the relevance of evaluating SE algorithms on data generated from RIRs. Results show that the head shadow effect must be taken into account and that using simulated RIRs can lead to underestimate or overestimate SE quality depending on the spatial settings.

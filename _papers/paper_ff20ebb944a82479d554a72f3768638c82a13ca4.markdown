@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/ff20ebb944a82479d554a72f3768638c82a13ca4
 authors: "Enric Gus'o, Jordi Pons, Santiago Pascual, J. Serrà"
 ---
+
+We investigate which loss functions provide better separations via benchmarking an extensive set of those for music source separation. To that end, we first survey the most representative audio source separation losses we identified, to later consistently benchmark them in a controlled experimental setup. We also explore using such losses as evaluation metrics, via cross-correlating them with the results of a subjective test. Based on the observation that the standard signal-to-distortion ratio metric can be misleading in some scenarios, we study alternative evaluation metrics based on the considered losses.

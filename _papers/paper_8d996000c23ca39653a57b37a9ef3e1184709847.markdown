@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/8d996000c23ca39653a57b37a9ef3e1184709847
 authors: "Takuya Hasumi, Yusuke Fujita"
 ---
+
+We propose a new dataset for cinematic audio source separation (CASS) that handles non-verbal sounds. Existing CASS datasets only contain reading-style sounds as a speech stem. These datasets differ from actual movie audio, which is more likely to include acted-out voices. Consequently, models trained on conventional datasets tend to have issues where emotionally heightened voices, such as laughter and screams, are more easily separated as an effect, not speech. To address this problem, we build a new dataset, DnR-nonverbal. The proposed dataset includes non-verbal sounds like laughter and screams in the speech stem. From the experiments, we reveal the issue of non-verbal sound extraction by the current CASS model and show that our dataset can effectively address the issue in the synthetic and actual movie audio. Our dataset is available at https://zenodo.org/records/15470640.

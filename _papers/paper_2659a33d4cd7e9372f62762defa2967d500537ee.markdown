@@ -7,3 +7,5 @@ year: 2026
 external_url: https://www.semanticscholar.org/paper/2659a33d4cd7e9372f62762defa2967d500537ee
 authors: "Iwona Christop, Mateusz Czy.znikiewicz, Pawel Sk'orzewski, Lukasz Bondaruk, Jakub Kubiak, Marcin Lewandowski, Marek Kubis"
 ---
+
+The present benchmarks for testing the audio modality of multimodal large language models concentrate on testing various audio tasks such as speaker diarization or gender identification in isolation. Whether a multimodal model can answer the questions that require reasoning skills to combine audio tasks of different categories, cannot be verified with their use. To address this issue, we propose Audio Reasoning Tasks (ART), a new benchmark for assessing the ability of multimodal models to solve problems that require reasoning over audio signal.

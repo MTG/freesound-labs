@@ -7,3 +7,5 @@ year: 2021
 external_url: https://www.semanticscholar.org/paper/29ade2640a2846916a1d6d53a1c97a7e5819516b
 authors: "Ria Sinha"
 ---
+
+Abstract: This paper describes a digital assistant designed to help hearing-impaired people sense ambient sounds. The assistant relies on obtaining audio signals from the ambient environment of a hearing-impaired person. The audio signals are analysed by a machine learning model that uses spectral signatures as features to classify audio signals into audio categories (e.g., emergency, animal sounds, etc.) and specific audio types within the categories (e.g., ambulance siren, dog barking, etc.) and notify the user leveraging a mobile or wearable device. The user can configure active notification preferences and view historical logs. The machine learning classifier is periodically trained externally based on labeled audio sound samples. Additional system features include an audio amplification option and a speech to text option for transcribing human speech to text output. Keywords: assistive technology, sound classification, machine learning, audio processing, spectral fingerprinting

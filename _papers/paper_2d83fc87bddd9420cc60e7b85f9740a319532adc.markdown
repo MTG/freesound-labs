@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/2d83fc87bddd9420cc60e7b85f9740a319532adc
 authors: "P. Tremblay, Gerard Roma, Owen Green"
 ---
+
+Abstract This article presents a new software toolbox to enable programmatic mining of sound banks for musicking and musicking-driven research. The toolbox is available for three popular creative coding environments currently used by “techno-fluent” musicians. The article describes the design rationale and functionality of the toolbox and its ecosystem, then the development methodology—several versions of the toolbox have been seeded to early adopters who have, in turn, contributed to the design. Examples of these early usages are presented, and we describe some observed musical affordances of the proposed approach to the exploration and manipulation of music corpora, as well as the main roadblocks encountered. We finally reflect on a few emerging themes for the next steps in building a community around critical programmatic mining of sound banks.

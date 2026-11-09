@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/93e4d8edc48c88c256fcb66853d27af8847a139b
 authors: "Nicolas Turpault, R. Serizel, E. Vincent"
 ---
+
+Many datasets and approaches in ambient sound analysis use weakly labeled data. Weak labels are employed because annotating every data sample with a strong label is too expensive. Yet, their impact on the performance in comparison to strong labels remains unclear. Indeed, weak labels must often be dealt with at the same time as other challenges, namely multiple labels per sample, unbalanced classes and/or overlapping events. In this paper, we formulate a supervised learning problem which involves weak labels. We create a dataset that focuses on the difference between strong and weak labels as opposed to other challenges. We investigate the impact of weak labels when training an embedding or an end-to-end classifier. Different experimental scenarios are discussed to provide insights into which applications are most sensitive to weakly labeled data.

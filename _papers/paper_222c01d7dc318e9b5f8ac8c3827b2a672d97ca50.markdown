@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/222c01d7dc318e9b5f8ac8c3827b2a672d97ca50
 authors: "Mahmoud Salhab, H. Harmanani"
 ---
+
+Keyword spotting (KWS) in spoken language involves identifying specific terms within an audio stream. While this task is widely employed in edge devices, achieving high accuracy is challenging due to the need for efficiency on low-power and resource-constrained systems. This paper presents a novel approach for Arabic keyword spotting using a ConformerGRU model architecture. The model’s performance is further enhanced by training a text-to-speech model for synthetic data generation. The proposed method demonstrates state-of-the-art results with 99.59% accuracy.

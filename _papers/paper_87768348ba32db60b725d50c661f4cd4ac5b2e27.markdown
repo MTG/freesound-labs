@@ -7,3 +7,5 @@ year: 2021
 external_url: https://www.semanticscholar.org/paper/87768348ba32db60b725d50c661f4cd4ac5b2e27
 authors: "A. Jensenius"
 ---
+
+Music researchers work with increasingly large and complex data sets. There are few established data handling practices in the field and several conceptual, technological, and practical challenges. Furthermore, many music researchers are not equipped for (or interested in) the craft of data storage, curation, and archiving. This paper discusses some of the particular challenges that empirical music researchers face when working towards Open Research practices: handling (1) (multi)media files, (2) privacy, and (3) copyright issues. These are exemplified through MusicLab, an event series focused on fostering openness in music research. It is argued that the "best practice" suggested by the FAIR principles is too demanding in many cases, but "good enough practice" may be within reach for many. A four-layer data handling "recipe" is suggested as concrete advice for achieving "good enough practice" in empirical music research.

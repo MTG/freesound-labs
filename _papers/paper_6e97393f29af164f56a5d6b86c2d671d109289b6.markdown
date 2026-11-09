@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/6e97393f29af164f56a5d6b86c2d671d109289b6
 authors: "Jingdong Li, Yuanyuan Zhu, Dawei Luo, Yun Liu, Guohui Cui, Zhaoxia Li"
 ---
+
+This paper described the PCG-AIID system for L3DAS22 challenge in Task 1: 3D speech enhancement in office reverberant environment. We proposed a two-stage framework to address multi-channel speech denoising and dereverberation. In the first stage, a multiple input and multiple out-put (MIMO) network is applied to remove background noise while maintaining the spatial characteristics of multi-channel signals. In the second stage, a multiple input and single out-put (MISO) network is applied to enhance the speech from desired direction and post-filtering. As a result, our system ranked 3rd place in ICASSP2022 L3DAS22 challenge and significantly outperforms the baseline system, while achieving 3.2% WER and 0.972 STOI on the blind test-set.

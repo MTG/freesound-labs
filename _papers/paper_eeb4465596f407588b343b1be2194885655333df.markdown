@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/eeb4465596f407588b343b1be2194885655333df
 authors: "Mateusz Guzik, Giulio Cengarle, Daniel Arteaga"
 ---
+
+Spatial aliasing affects spaced microphone arrays, causing directional ambiguity above certain frequencies, degrading spatial and spectral accuracy of beamformers. Given the limitations of conventional signal processing and the scarcity of deep learning approaches to spatial aliasing mitigation, we propose a novel approach using a U-Net architecture to predict a signal-dependent de-aliasing filter, which reduces aliasing in conventional beamforming for spatial capture. Two types of multichannel filters are considered, one which treats the channels independently and a second one that models cross-channel dependencies. The proposed approach is evaluated in two common spatial capture scenarios: stereo and first-order Ambisonics. The results indicate a very significant improvement, both objective and perceptual, with respect to conventional beamforming. This work shows the potential of deep learning to reduce aliasing in beamforming, leading to improvements in multi-microphone setups.

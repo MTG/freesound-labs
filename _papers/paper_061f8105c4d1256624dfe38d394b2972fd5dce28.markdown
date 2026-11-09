@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/061f8105c4d1256624dfe38d394b2972fd5dce28
 authors: "Iosif Tsangko, Andreas Triantafyllopoulos, Michael Müller, Hendrik Schröter, Bjorn W. Schuller"
 ---
+
+The DeepFilterNet (DFN) architecture was recently proposed as a deep learning model suited for hearing aid devices. Despite its competitive performance on numerous benchmarks, it still follows a ‘one-size-fits-all’ approach, which aims to train a single, monolithic architecture that generalises across different noises and environments. However, its limited size and computation budget can hamper its generalisability. Recent work has shown that in-context adaptation can improve performance by conditioning the denoising process on additional information extracted from background recordings to mitigate this. These recordings can be offloaded outside the hearing aid, thus improving performance while adding minimal computational overhead. We introduce these principles to the DFN model, thus proposing the DFingerNet (DFiN) model, which shows superior performance on various benchmarks inspired by the DNS Challenge.

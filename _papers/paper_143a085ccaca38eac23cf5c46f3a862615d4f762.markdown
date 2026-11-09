@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/143a085ccaca38eac23cf5c46f3a862615d4f762
 authors: "Slawomir Kapka, J. Tkaczuk"
 ---
+
+In this article, we describe Conditioned Localizer and Classiﬁer (CoLoC) which is a novel solution for Sound Event Localization and Detection (SELD). The solution constitutes of two stages: the localization is done ﬁrst and is followed by classiﬁcation conditioned by the output of the localizer. In order to resolve the problem of the unknown number of sources we incorporate the idea bor-rowed from Sequential Set Generation (SSG). Models from both stages are SELDnet-like CRNNs, but with single outputs. Con-ducted reasoning shows that such two single-output models are ﬁt for SELD task. We show that our solution improves on the baseline system in most metrics on the STARSS22 Dataset.

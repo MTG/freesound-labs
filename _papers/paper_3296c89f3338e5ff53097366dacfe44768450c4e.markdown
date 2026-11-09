@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/3296c89f3338e5ff53097366dacfe44768450c4e
 authors: "Tanmay Khandelwal, Rohan Kumar Das"
 ---
+
+Sound event detection (SED) entails identifying the type of sound and estimating its temporal boundaries from acoustic signals. These events are uniquely characterized by their spatio-temporal features, which are determined by the way they are produced. In this study, we leverage some distinctive high-level acoustic characteristics of various sound events to assist the SED model training, without requiring additional labeled data. Specifically, we use the DCASE Task 4 2022 dataset and categorize the 10 classes into four subcategories based on their high-level acoustic characteristics. We then introduce a novel multi-task learning framework that jointly trains the SED and high-level acoustic characteristics classification tasks, using shared layers and weighted loss. Our method significantly improves the performance of the SED system, achieving a 36.3% improvement in terms of the polyphonic sound event detection score compared to the baseline on the DCASE 2022 Task 4 validation set.

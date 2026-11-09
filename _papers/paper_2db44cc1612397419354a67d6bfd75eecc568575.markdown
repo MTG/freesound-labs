@@ -7,3 +7,5 @@ year: 2026
 external_url: https://www.semanticscholar.org/paper/2db44cc1612397419354a67d6bfd75eecc568575
 authors: "Xuanru Zhou, Yiwen Shao, Wei-Cheng Tseng, Dong Yu"
 ---
+
+Current audio pre-training seeks to learn unified representations for broad audio understanding tasks, but it remains fragmented and is fundamentally bottlenecked by its reliance on weak, noisy, and scale-limited labels. Drawing lessons from vision's foundational pre-training blueprint, we argue that the audio field must first establish its own large-scale, strong supervision framework. We introduce a new data-centric pipeline that leverages a high-fidelity captioner to create SOTA-quality captions and the first Unified Tag System (UTS) that bridges speech, music, and environmental sounds. We then conduct a systematic comparative study of different pre-training objectives on these strong source data. Our experiments suggest that data quality and coverage are the primary drivers of performance, while the choice of objective dictates downstream task specialization.

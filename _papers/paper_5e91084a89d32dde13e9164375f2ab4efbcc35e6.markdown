@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/5e91084a89d32dde13e9164375f2ab4efbcc35e6
 authors: "Qiuqiang Kong, Yin Cao, T. Iqbal, Y. Xu, W. Wang, Mark D. Plumbley"
 ---
+
+The Detection and Classification of Acoustic Scenes and Events (DCASE) 2019 challenge focuses on audio tagging, sound event detection and spatial localisation. DCASE 2019 consists of five tasks: 1) acoustic scene classification, 2) audio tagging with noisy labels and minimal supervision, 3) sound event localisation and detection, 4) sound event detection in domestic environments, and 5) urban sound tagging. In this paper, we propose generic cross-task baseline systems based on convolutional neural networks (CNNs). The motivation is to investigate the performance of a variety of models across several tasks without exploiting the specific characteristics of the tasks. We looked at CNNs with 5, 9, and 13 layers, and found that the optimal architecture is task-dependent. For the systems we considered, we found that the 9-layer CNN with average pooling is a good model for a majority of the DCASE 2019 tasks.

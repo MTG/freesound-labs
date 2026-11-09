@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/cd1e768a937aa7cc620d2e1a45f491a060247c91
 authors: "Saksham Singh Kushwaha, Magdalena Fuentes"
 ---
+
+In the context of environmental sound classification, the adaptability of systems is key: which sound classes are interesting depends on the context and the user's needs. Recent advances in text-to-audio retrieval allow for zero-shot audio classification, but performance compared to supervised models remains limited. This work proposes a multimodal prototypical approach that exploits local audio-text embeddings to provide more relevant answers to audio queries, augmenting the adaptability of sound detection in the wild. We do this by first using text to query a nearby community of audio embeddings that best characterize each query sound, and select the group's centroids as our prototypes. Second, we compare unseen audio to these prototypes for classification. We perform multiple ablation studies to understand the impact of the embedding models and prompts. Our unsupervised approach improves upon the zero-shot state-of-the-art in three sound recognition benchmarks by an average of 12%.

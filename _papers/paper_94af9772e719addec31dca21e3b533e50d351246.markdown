@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/94af9772e719addec31dca21e3b533e50d351246
 authors: "Rajapantula Kranthi, Vasundhara"
 ---
+
+In a dispersed scenario, active noise reduction in the presence of outliers and burst noises presents a significant challenge. Conventional distributed active noise control (DANC) systems perform poorly in the presence of outliers and impulse-like noises. The robustness against non-Gaussian/impulsive noises is improved by the saturation features of the error non-linearities. The saturation characteristics of the inverse tangent function are used in this technique. The proposed inverse tangent robust least mean logarithmic square incremental DANC (IRL-DANC) method converges faster and the noise is mitigated effectively in these scenarios. The simulation outcomes validate the proposed distributed active noise system effectiveness in contrast to the existing methodologies. The results show that the proposed strategy achieves faster convergence and a 1–5 dB improvement in noise cancellation for various noise environments.

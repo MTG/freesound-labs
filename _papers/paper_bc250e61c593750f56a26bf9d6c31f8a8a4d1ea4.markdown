@@ -7,3 +7,5 @@ year: 2026
 external_url: https://www.semanticscholar.org/paper/bc250e61c593750f56a26bf9d6c31f8a8a4d1ea4
 authors: "Ronit Dahiya, Suresh Kumar"
 ---
+
+Real-world speech applications require Automatic Speech Recognition (ASR) models to achieve low error and remain reliable, responsive on clean as well as noisy audio. We create a latency aware evaluation report through a mixed benchmark made using LibriSpeech speaker utterance datasets with seven everyday noise families (babble, music, wind, city, rain, competing speaker, and sudden transient events) across multiple signal-to-noise ratios. We compare models from major ASR ecosystems- wav2vec 2.0 encoders, NVIDIA NeMo conformer CTC and transducer model, and OpenAI Whisper variants. We report both WER and speed metrics including latency and RTF, for each noise condition. We also highlight comparison among three diverse models (Whisper Small, Conformer Transducer Small, and wav2vec 2.0 Base) to show the real speed-accuracyrobustness trade-offs they offer. Manifests, metrics, and scripts are included to support reproducible, noise-aware ASR evaluation.

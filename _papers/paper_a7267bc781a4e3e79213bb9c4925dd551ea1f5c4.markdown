@@ -7,3 +7,5 @@ year: 2018
 external_url: https://www.semanticscholar.org/paper/a7267bc781a4e3e79213bb9c4925dd551ea1f5c4
 authors: "M. Mancas, Christian Frisson, E. al., Noé Tits"
 ---
+
+The 11th Summer Workshop on Multimodal Interfaces eNTERFACE 2015 was hosted by the Numediart Institute of Creative Technologies of the University of Mons from August 10th to September 2015. During the four weeks, students and researchers from all over the world came together in the Numediart Institute of the University of Mons to work on eight selected projects structured around intelligent interfaces. Eight projects were selected and their reports are shown here.

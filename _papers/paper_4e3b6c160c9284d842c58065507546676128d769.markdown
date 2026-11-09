@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/4e3b6c160c9284d842c58065507546676128d769
 authors: "S. Veena, M. Nerisai, J. Remya, S. SaiTejah."
 ---
+
+Sound is the most important product of natural activities. Each sound has variations and uniqueness of its own. But separating them from the mixed sound environment is a difficult task. The present paper discusses the activities of the researches to identify and classify these sounds by using many techniques. Analysis of these help to motivate the researchers to find new ways and means for identification of each sound, which may help in various fields such as hearing impairment treatment, criminal activities prevention, forensic science, humanoid robots.

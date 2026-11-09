@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/43a5dc34d8c8d4f59d8592cc0fcf362c351805c4
 authors: "Md. Rahat-uz-Zaman, Shadmaan Hye, M. Hasan"
 ---
+
+Signal processing is a vast subfield of electrical and computer science where audio signal processing has secured a remarkable position to restore corrupted or missing audio blocks. However, generating possible future audio block from the previous audio block is still a new idea that can help to reduce both audio noise and partially missing an audio segment. In this paper, a generative adversarial network (GAN) along with a pipeline is proposed for the prediction of possible audio after an input audio sequence. The proposed model uses short-time Fourier transformation of audio to make it an image. The image is then fed to a conditional GAN to predict the output image. After that, Inverse short-time Fourier transform is then applied to that predicted image, generating the predicted audio sequence. For a small audio sequence prediction, the proposed methodology is quite fast, robust and has achieved a loss of 0.43. So it is may work well if deployed on a voice call and broadcasting applications.

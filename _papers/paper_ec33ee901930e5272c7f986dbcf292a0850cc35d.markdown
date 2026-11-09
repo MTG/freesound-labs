@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/ec33ee901930e5272c7f986dbcf292a0850cc35d
 authors: "Matthew Caren, Kartik Chandra, Joshua B. Tenenbaum, Jonathan Ragan-Kelley, Karima Ma"
 ---
+
+We present a method for automatically producing human-like vocal imitations of sounds: the equivalent of “sketching,” but for auditory rather than visual representation. Starting with a simulated model of the human vocal tract, we first try generating vocal imitations by tuning the model’s control parameters to make the synthesized vocalization match the target sound in terms of perceptually-salient auditory features. Then, to better match human intuitions, we apply a cognitive theory of communication to take into account how human speakers reason strategically about their listeners. Finally, we show through several experiments and user studies that when we add this type of communicative reasoning to our method, it aligns with human intuitions better than matching auditory features alone does. This observation has broad implications for the study of depiction in computer graphics.

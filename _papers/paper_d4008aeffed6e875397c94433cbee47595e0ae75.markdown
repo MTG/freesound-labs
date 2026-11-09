@@ -7,3 +7,5 @@ year: 2021
 external_url: https://www.semanticscholar.org/paper/d4008aeffed6e875397c94433cbee47595e0ae75
 authors: "Robert Müller, Steffen Illium, C. Linnhoff-Popien"
 ---
+
+Wildlife monitoring is an essential part of most conservation efforts where one of the many building blocks is acoustic monitoring. Acoustic monitoring has the advantage of being non-invasive and applicable in areas of high vegetation. In this work, we present a deep and recurrent architecture for the classiﬁ-cation of primate vocalizations that is based upon well proven modules such as bidirectional Long Short-Term Memory neural networks, pooling, normalized softmax and focal loss. Additionally, we apply Bayesian optimization to obtain a suitable set of hyperparameters. We test our approach on a recently published dataset of primate vocalizations that were recorded in an African wildlife sanctuary. Using an ensemble of the best ﬁve models found during hyperparameter optimization on the development set, we achieve a Unweighted Average Recall of 89.3% on the test set. Our approach outperforms the best base-line, an ensemble of various deep and shallow classiﬁers, which achieves a UAR of 87.5%.

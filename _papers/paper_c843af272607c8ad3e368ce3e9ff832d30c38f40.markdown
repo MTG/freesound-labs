@@ -7,3 +7,5 @@ year: 2021
 external_url: https://www.semanticscholar.org/paper/c843af272607c8ad3e368ce3e9ff832d30c38f40
 authors: "A. Madhu, S. Kumaraswamy"
 ---
+
+The research in Environmental Sound Classification (ESC) has been progressively growing with the emergence of deep learning algorithms. However, data scarcity poses a major hurdle for any huge advance in this domain. Data augmentation offers an excellent solution to this problem. While Generative Adversarial Networks (GANs) have been successful in generating synthetic speech and sounds of musical instruments, they have hardly been applied to the generation of environmental sounds. This paper presents EnvGAN, the first ever application of GANs for the adversarial generation of environmental sounds. Our experiments on three standard ESC datasets illustrate that the EnvGAN can synthesize audio similar to the ones in the datasets. The suggested method of augmentation outshines most of the futuristic techniques for audio augmentation.

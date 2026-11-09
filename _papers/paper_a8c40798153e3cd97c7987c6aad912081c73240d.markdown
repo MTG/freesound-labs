@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/a8c40798153e3cd97c7987c6aad912081c73240d
 authors: "Xavier Favory, X. Serra"
 ---
+
+Comunicacio presentada a: Web Audio Conference WAC-2018, celebrat del 19 al 21 de setembre de 2018 a Berlin, Alemanya.

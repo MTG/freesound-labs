@@ -7,3 +7,5 @@ year: 2017
 external_url: https://www.semanticscholar.org/paper/343bc56c397fc1376a22e079378a8b73f3f92771
 authors: "A. C. D. C. Junior"
 ---
+
+DE CARVALHO JUNIOR, A. D. Mobile Technologies for Music Interaction. 2017. 187 p. Thesis (Doctorate) Institute of Mathematics and Statistics, University of São Paulo, São Paulo,

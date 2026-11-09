@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/f193287016a3592c021338c7ceb75cf3a885c23f
 authors: "Akshay Raina, Sayeedul Islam Sheikh, Vipul Arora"
 ---
+
+Acoustic Event Detection (AED) has been of great interest for nearly a decade for diverse applications. Most open datasets contain meta information on the hierarchy of labels, which can be utilized for building robust AED systems. Our study aims at injecting this domain knowledge by enforcing ontology-informed constraints upon the output space. We show that constrained optimization allows a network to confuse less among the child classes and can back off to parent classes when not confident enough. We perform several experiments on different datasets signifying the robustness of the method. The experiments substantiate that the state of the art baselines do not follow ontology constraints, and perform poorer than the proposed method.

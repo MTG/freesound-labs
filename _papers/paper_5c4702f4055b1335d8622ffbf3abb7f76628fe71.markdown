@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/5c4702f4055b1335d8622ffbf3abb7f76628fe71
 authors: "Zahra Abolfazli, H. R. Abutalebi, Tuomas Virtanen"
 ---
+
+This paper introduces a novel enhancement to the Sound Event Localization and Detection (SELD) system, specifically focusing on improving distance estimation in Task 3 of the Detection and Classification of Acoustic Scenes and Events (DCASE) 2024 challenge. The main innovation lies in the use of ResNet50 architecture instead of traditional CNNs, resulting in more precise and efficient feature extraction. Additionally, the Multi Activity-Coupled Cartesian Distance and Direction of Arrival (Multi-ACCDDOA) format is employed for simultaneous estimation of direction and distance. While the primary focus is on improving distance estimation, the system has maintained stable and acceptable performance in other aspects. These advancements hold significant potential for real-time applications in augmented reality and autonomous systems.

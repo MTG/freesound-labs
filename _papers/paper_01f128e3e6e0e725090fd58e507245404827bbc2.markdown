@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/01f128e3e6e0e725090fd58e507245404827bbc2
 authors: "Manasi Remane, Revanth Reddy Nalia, Ambrish Dantrey"
 ---
+
+Automatic Speech Recognition (ASR) systems have become increasingly popular in recent years with applications like virtual assistants and auto-captions. However, one of the major hurdles is the noise in speech signals which significantly degrades ASR accuracy. A simpler solution is to enhance the speech signal using a noise reduction algorithm prior to ASR. The existing speech enhancement algorithms suffer from a trade-off between noise reduction and speech distortion, and the difficulty in estimating non-stationary noises. In this work, we present SEASR, a lightweight fully causal realtime speech enhancement network for improving ASR accuracy in noisy environments. Our network seamlessly removes non-stationary noises from speech at low SNRs demonstrating a relative improvement of 20-60% of accuracy across various ASR systems. We also showcase the performance and quality improvements of our model compared to other popular noise suppression methods.

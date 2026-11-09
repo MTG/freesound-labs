@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/cc2096d14a21df5fbe55a743ba94087f1987998c
 authors: "Z. Podwinska, B. Fazenda, W. Davies"
 ---
+
+Auditory salience describes the extent to which sounds attract the listener’s attention. So far, there have not been any published studies testing if the location of sound relative to the listener influences its salience. In fact, not many experiments in general test auditory attention in a fully spatialised setting, with sounds in front and behind the listener. We modified two experimental methods from the literature so that they can be used to test spatial salience - one based on oddball detection and artificially created sounds, the other based on self-reported attention tracking in a more ecologically valid scenario. Each of these methods has its advantages and each presents different challenges. However, they both seem to indicate that high frequency sounds arriving from the back are slightly less salient. We believe this result could likely be explained by loudness differences.

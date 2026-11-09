@@ -7,3 +7,5 @@ year: 2024
 external_url: https://www.semanticscholar.org/paper/6657419c5af5d086cd0f835bea34beb025a57e58
 authors: "Adrian S. Roman, Baladithya Balamurugan, Rithik Pothuganti"
 ---
+
+This technical report details our work towards building an enhanced audio-visual sound event localization and detection (SELD) network. We build on top of the audio-only SELDnet23 model and adapt it to be audio-visual by merging both audio and video information prior to the gated recurrent unit (GRU) of the audio-only network. Our model leverages YOLO and DETIC object detectors. We also build a framework that implements audio-visual data augmentation and audio-visual synthetic data generation. We deliver an audio-visual SELDnet system that outperforms the existing audio-visual SELD baseline.

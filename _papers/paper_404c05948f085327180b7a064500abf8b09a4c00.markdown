@@ -7,3 +7,5 @@ year: 2025
 external_url: https://www.semanticscholar.org/paper/404c05948f085327180b7a064500abf8b09a4c00
 authors: "J. Yeow, Ee-Leng Tan, Santi Peksi, Zhen-Ting Ong, Woon-seng Gan"
 ---
+
+Wearable audio devices with active noise control (ANC) enhance listening comfort but often at the expense of situational awareness. However, this auditory isolation may mask crucial environmental cues, posing significant safety risks. To address this, we propose an environmental intelligence framework that combines Acoustic Scene Classification (ASC) with Sound Event Localization and Detection (SELD). Our system first employs a lightweight ASC model to infer the current environment. The scene prediction then dynamically conditions a SELD network, tuning its sensitivity to detect and localize sounds that are most salient to the current context. On simulated headphone data, the proposed ASC-conditioned SELD system demonstrates improved spatial intelligence over a conventional baseline. This work represents a crucial step towards creating intelligent hearables that can deliver crucial environmental information, fostering a safer and more context-aware listening experience.

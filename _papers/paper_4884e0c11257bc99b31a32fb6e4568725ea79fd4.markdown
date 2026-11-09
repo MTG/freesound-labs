@@ -7,3 +7,5 @@ year: 2018
 external_url: https://www.semanticscholar.org/paper/4884e0c11257bc99b31a32fb6e4568725ea79fd4
 authors: "E. Fonseca, M. Plakal, F. Font, D. Ellis, Xavier Favory, J. Pons, X. Serra"
 ---
+
+This paper describes Task 2 of the DCASE 2018 Challenge, titled "General-purpose audio tagging of Freesound content with AudioSet labels". This task was hosted on the Kaggle platform as "Freesound General-Purpose Audio Tagging Challenge". The goal of the task is to build an audio tagging system that can recognize the category of an audio clip from a subset of 41 diverse categories drawn from the AudioSet Ontology. We present the task, the dataset prepared for the competition, and a baseline system.

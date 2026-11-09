@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/a33a53ef60e9d2b61768d1026a2df54e02cd4fdc
 authors: "Mahmoud Salhab, H. Harmanani"
 ---
+
+Spoken keyword spotting is the task of identifying a keyword in an audio stream and is widely used in smart devices at the edge to activate voice assistants and perform hands-free tasks. The task is daunting as there is a need to achieve high accuracy while at the same time ensuring that such systems continue to run efficiently on low power and possibly limited computational capabilities devices. This work presents AraSpot for Arabic keyword spotting trained on 40 Arabic keywords, using different online data augmentation and introducing ConformerGRU model architecture. Finally, we further improve the performance of the model by training a text-to-speech model for synthetic data generation. AraSpot achieved a state-of-the-art 99.59% result outperforming previous approaches.1

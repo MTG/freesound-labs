@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/3af2d43232b84073b9a18eaa9f38e4ad67052e69
 authors: "Szu-Yu Chou, Kai-Hsiang Cheng, J. Jang, Y. Yang"
 ---
+
+In this paper, we introduce a novel attentional similarity module for the problem of few-shot sound recognition. Given a few examples of an unseen sound event, a classifier must be quickly adapted to recognize the new sound event without much fine-tuning. The proposed attentional similarity module can be plugged into any metric-based learning method for few-shot learning, allowing the resulting model to especially match related short sound events. Extensive experiments on two datasets show that the proposed module consistently improves the performance of five different metric-based learning methods for few-shot sound recognition. The relative improvement ranges from +4.1% to +7.7% for 5-shot 5-way accuracy for the ESC-50 dataset, and from +2.1% to +6.5% for noiseESC-50. Qualitative results demonstrate that our method contributes in particular to the recognition of transient sound events.

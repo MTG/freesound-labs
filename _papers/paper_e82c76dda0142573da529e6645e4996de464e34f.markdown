@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/e82c76dda0142573da529e6645e4996de464e34f
 authors: "Joseph P. Turian, M. Henry"
 ---
+
+Growing research demonstrates that synthetic failure modes imply poor generalization. We compare commonly used audio-to-audio losses on a synthetic benchmark, measuring the pitch distance between two stationary sinusoids. The results are surprising: many have poor sense of pitch direction. These shortcomings are exposed using simple rank assumptions. Our task is trivial for humans but difficult for these audio distances, suggesting significant progress can be made in self-supervised audio learning by improving current losses.

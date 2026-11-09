@@ -7,3 +7,5 @@ year: 2018
 external_url: https://www.semanticscholar.org/paper/84785bfb672f51a84cd3a507a955057caa6a3206
 authors: "Michael Wand, Ngoc Thang Vu, J. Schmidhuber"
 ---
+
+Audiovisual speech recognition (AVSR) is a method to alleviate the adverse effect of noise in the acoustic signal. Leveraging recent developments in deep neural network-based speech recognition, we present an AVSR neural network architecture which is trained end-to-end, without the need to separately model the process of decision fusion as in conventional (e.g. HMM-based) systems. The fusion system outperforms single-modality recognition under all noise conditions. Investigation of the saliency of the input features shows that the neural network automatically adapts to different noise levels in the acoustic signal.

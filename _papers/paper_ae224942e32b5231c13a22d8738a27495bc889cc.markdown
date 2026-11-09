@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/ae224942e32b5231c13a22d8738a27495bc889cc
 authors: "Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang"
 ---
+
+We study the usability of pre-trained weakly supervised audio tagging (AT) models as feature extractors for general audio representations. We mainly analyze the feasibility of transferring those embeddings to other tasks within the speech and sound domains. Specifically, we benchmark weakly supervised pre-trained models (MobileNetV2 and EfficientNet-B0) against modern self-supervised learning methods (BYOL-A) as feature extractors. Fourteen downstream tasks are used for evaluation ranging from music instrument classification to language classification. Our results indicate that AT pre-trained models are an excellent transfer learning choice for music, event, and emotion recognition tasks. Further, finetuning AT models can also benefit speech-related tasks such as keyword spotting and intent classification.

@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/7aa1cb84053341a91b050e4e5153c35eda2cef6b
 authors: "Chenxing Li, Ye Bai, Yang Wang, Feng Deng, Yuanyuan Zhao, Zhuohao Zhang, Xiaorui Wang"
 ---
+
+This paper introduces an image-driven audio-visual universal source separation (ID-USS) and proposes ID-USS-Conformer. ID-USS aims to separate a target source from the mixture based on the input image that is consistent with the target. Impor-tantly, ID-USS only focuses on the sound made by the target in this image, not on the description of the target or the semantic information of the picture. In detail, ID-USS-Conformer mainly consists of an Efficient-b3-based visual branch and a Conformer-based audio branch. The visual branch extracts the visual clue of the target from the input image. After the audio branch fuses the visual features, ID-USS-Conformer separates the target source from the mixture. We launch an ID-USS dataset and verify the effectiveness of ID-USS-Conformer on it. The ID-USS-Conformer has achieved a 10.139 dB signal-to-distortion ratio improvement in the test set and outperformed the compared methods.

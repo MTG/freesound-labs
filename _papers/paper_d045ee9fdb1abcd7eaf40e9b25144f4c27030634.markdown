@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/d045ee9fdb1abcd7eaf40e9b25144f4c27030634
 authors: "Ant'onio Ramires, X. Serra"
 ---
+
+Comunicacio presentada a la 22a International Conference on Digital Audio Effects (DAFx-19) que se celebra del 2 al 6 de setembre de 2019 a Birmingham, Regne Unit.

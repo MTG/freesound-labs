@@ -7,3 +7,5 @@ year: 2020
 external_url: https://www.semanticscholar.org/paper/60aebd4afd8c4b5539ef0147608237bf2d0e059d
 authors: "Fei Jia, Somshubra Majumdar, B. Ginsburg"
 ---
+
+We present MarbleNet, an end-to-end neural network for Voice Activity Detection (VAD). MarbleNet is a deep residual network composed from blocks of 1D time-channel separable convolution, batch-normalization, ReLU and dropout layers. When compared to a state-of-the-art VAD model, MarbleNet is able to achieve similar performance with roughly 1/10-th the parameter cost. We further conduct extensive ablation studies on different training methods and choices of parameters in order to study the robustness of MarbleNet in real-world VAD tasks.

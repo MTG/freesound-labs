@@ -7,3 +7,5 @@ year: 2022
 external_url: https://www.semanticscholar.org/paper/67fc3372158b129e5e1ef87062f0c337879e3cfa
 authors: "Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang"
 ---
+
+Large-scale audio tagging datasets inevitably contain imperfect labels, such as clip-wise annotated (temporally weak) tags with no exact on- and offsets, due to a high manual labeling cost. This work proposes pseudo strong labels (PSL), a simple label augmentation framework that enhances the supervision quality for large-scale weakly supervised audio tagging. A machine annotator is first trained on a large weakly supervised dataset, which then provides finer supervision for a student model. Using PSL we achieve an mAP of 35.95 balanced train subsets of Audioset using a MobileNetV2 backend, significantly outperforming approaches without PSL. An analysis is provided which reveals that PSL mitigates missing labels. Lastly, we show that models trained with PSL are also superior at generalizing to the Freesound datasets (FSD) than their weakly trained counterparts.

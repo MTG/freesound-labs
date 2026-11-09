@@ -7,3 +7,5 @@ year: 2018
 external_url: https://www.semanticscholar.org/paper/9bed12c3e3c51fcea782ef8ee8e91d153127525c
 authors: "F. Viola, A. Stolfi, A. Milo, Miguel Ceriani, M. Barthet, György Fazekas"
 ---
+
+Playsound is a simple and intuitive web-based tool for music composition based on sounds from Freesound, an online repository of diverse audio content with Creative Commons licenses. In this paper, we present an approach based on Semantic Web technologies to provide recommendations to Playsound users. A Semantic Web of Things architecture is outlined, showing loosely coupled, independent software agents interoperating by means of a semantic publish/subscribe platform and a set of ontologies to describe agents, audio contents, input/output of audio analytics tools and recommendations. Preliminary tests confirm that the designed architecture adapts well to environments where services can be discovered and seamlessly orchestrated on the fly, resulting in a dynamic workflow.

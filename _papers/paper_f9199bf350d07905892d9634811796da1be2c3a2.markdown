@@ -7,3 +7,5 @@ year: 2019
 external_url: https://www.semanticscholar.org/paper/f9199bf350d07905892d9634811796da1be2c3a2
 authors: "Kele Xu, B. Zhu, Qiuqiang Kong, Haibo Mi, B. Ding, D. Wang, H. Wang"
 ---
+
+Audio tagging aims to infer descriptive labels from audio clips and it is challenging due to the limited size of data and noisy labels. The solution to the tagging task is described in this paper. The main contributions include the following: an ensemble learning framework is applied to ensemble statistical features and the outputs from the deep classifiers, with the goal to utilize complementary information. Moreover, a sample re-weight strategy is employed to address the noisy label problem within the framework. The approach achieves a mean average precision of 0.958, outperforming the baseline system with a large margin.

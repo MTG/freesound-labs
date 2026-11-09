@@ -7,3 +7,5 @@ year: 2021
 external_url: https://www.semanticscholar.org/paper/9a79ac0fb1c1b84734e16c788d845e2f8721ec0a
 authors: "A. Aleluia, G. Cabral"
 ---
+
+In this paper, we present using the Wizard of Oz method to rapid prototyping machine learning features in interactive artistic applications. Machine learning systems often require time and resources until they were available to be executed. But in the era of agile movement where we have to test as soon as possible and in artistic solutions whose scope initially perhaps be unclear, there is a need for a way to fast testing hypothesis. We also briefly described Ama, a system for adult ballet training at home, which served as a proof of concept of our strategy.

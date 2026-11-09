@@ -7,3 +7,5 @@ year: 2023
 external_url: https://www.semanticscholar.org/paper/476f3b4816de7ce4536146b8de0d32ca6408db6f
 authors: "Sangshin Oh, Minsung Kang, Hyeongi Moon, Keunwoo Choi, Ben Sangbae Chon"
 ---
+
+To achieve successful deployment of AI research, it is crucial to understand the demands of the industry. In this paper, we present the results of a survey conducted with professional audio engineers, in order to determine research priorities and define various research tasks. We also summarize the current challenges in audio quality and controllability based on the survey. Our analysis emphasizes that the availability of datasets is currently the main bottleneck for achieving high-quality audio generation. Finally, we suggest potential solutions for some revealed issues with empirical evidence.
