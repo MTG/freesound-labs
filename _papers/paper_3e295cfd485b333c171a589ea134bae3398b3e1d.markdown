@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "3e295cfd485b333c171a589ea134bae3398b3e1d"
+title: "Pg-Seld: Physics-Guided Sound Event Localization And Detection"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3e295cfd485b333c171a589ea134bae3398b3e1d
+authors: "Elad Cohen, Elad Cohen, Arnon Netzer, H. Habi"
+---
+
+Sound event localization and detection (SELD) aims to jointly recognize sound events and estimate their directions of arrival from multichannel audio. Although recent deep learning approaches have achieved strong performance, their ability to generalize across acoustic environments remains limited, as room reverberation introduces environment-specific characteristics into the learned representations. In this work, we address this challenge by leveraging a physical free-field model as a room-independent reference. Specifically, we propose PG-SELD, a training framework that combines free-field with physics-guided knowledge distillation. Our approach aligns intermediate representations extracted from reverberant signals with those produced by a free-field teacher for matched acoustic scenes. This guidance encourages the model to preserve event- and localization-relevant information while reducing sensitivity to room-specific characteristics. Experimental results on the STARSS23 benchmark show that PG-SELD consistently improves the generalization performance of multiple baseline SELD architectures.

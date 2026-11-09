@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "6a983fe91c25dfb19159018a2148a755373d3f4c"
+title: "Paralinguistic Attitude Recognition For Spoken Dialogue Systems"
+publication: "International Workshop on Spoken Dialogue Systems Technology"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/6a983fe91c25dfb19159018a2148a755373d3f4c
+authors: "Kouki Miyazawa, Zhi Zhu, Yoshinao Sato"
+---

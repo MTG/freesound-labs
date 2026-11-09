@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "4fe6080a795c67a70e7a5911611da9bb77e21333"
+title: "Sciphi-Chat: Training A Spatial Audio Agent For Question Answering, Dialogue, And Tool Use"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/4fe6080a795c67a70e7a5911611da9bb77e21333
+authors: "Gijs Wijngaard, Hannes Gamper, Sebastian Braun"
+---
+
+Spatial audio question answering requires associating sound identities with locations and reasoning about their relations. This paper introduces SciPhi-Chat, a spatial audio agent that answers questions, conducts multi-turn dialogue, and calls tools on first-order ambisonic recordings. The accompanying MASU benchmark contains 12,000 samples across 42 task categories, the widest task coverage of any spatial model, with real recordings and simulated audio scenes. SciPhi-Chat achieves a score of 44.9%, 7.4 percentage points above the previous state-of-the-art. On the external ASA-Bench, SciPhi-Chat achieves 74.5% azimuth and 60.0% elevation accuracy, the highest among locally evaluated models. Removing reasoning supervision reduces ASA-Bench accuracy by 17.4 percentage points. All materials will be released via https://github.com/microsoft/sciphi-chat

@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "fbed349016a81c67edc924ef5b6945c0dcd3869f"
+title: "Reinforcement Learning-Driven Inverse Design Of Programmable Resonant Acoustic Metamaterials"
+publication: "Thin-walled structures"
+year: 2027
+external_url: https://www.semanticscholar.org/paper/fbed349016a81c67edc924ef5b6945c0dcd3869f
+authors: "Yin-Chu Wang, Xiao-Feng Li, Mi Xiao, Liang Gao"
+---

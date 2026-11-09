@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "212a3c013cc6770437d1cc983d4cc25aea726baf"
+title: "A Unified Benchmark Of Audio Backbones And Synthetic Audio For Intelligent Fire Sound Detection"
+publication: "2026 3rd International Conference on Electronic Engineering and Information Systems (EEISS)"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/212a3c013cc6770437d1cc983d4cc25aea726baf
+authors: "Di-Gao Wu, Ming Zhu, Shu-Han Guo, Zhuolu Li, Zhenyu Wen, Xiangyu Zhan, Xuan Zhang"
+---
+
+Fire sound detection remains underexplored despite its practical importance, primarily because widely used public audio datasets contain few fire-related events, and no dedicated public benchmark currently provides a unified data curation and evaluation protocol for this task. We address three questions: how to build a reproducible pipeline for fire sound detection, which pretrained audio backbones transfer best, and when synthetic audio helps under limited real-data conditions. Our framework combines curated real fire recordings, challenging negative samples from FSD50K for in-domain training and testing, synthetic training samples from a text-to-audio pipeline, and external evaluation on ESC-50 and AudioSet-Fire. Under a unified adaptation protocol, we compare diverse backbones and additionally evaluate LoRA for Transformer models. Results show that indomain performance saturates quickly, while AudioSet-Fire is the most discriminative benchmark for generalization. CED-base performs best, achieving an AudioSet-Fire F1 of 56.82 with 40% real data plus synthetic augmentation, and 52.78 in the full-data regime. These findings suggest that external generalization depends not only on the amount of real training data but also on the choice of backbone and the way synthetic data interacts with its representation.

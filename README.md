@@ -94,10 +94,12 @@ You can run the development server with the command:
 
 The `retrieve_papers.py` script can be run with the following command:
 
-    docker run --rm -e SEMANTIC_SCHOLAR_API_KEY=YOUR_API_KEY --volume="$PWD:/srv/jekyll" -it fslabs-builder python3 retrieve_papers.py
+    SEMANTIC_SCHOLAR_API_KEY='YOUR_API_KEY' python retrieve_papers.py
 
 Note you'll need an API key (the one we use is in the mtg-deploy repository docs). The command should be run before building the site for the papers to appear in it.
 
+Rate-limited Semantic Scholar requests are retried with backoff. If rate
+limiting persists, the script reports the HTTP error and can be run again later.
 
 
 ## Deployment

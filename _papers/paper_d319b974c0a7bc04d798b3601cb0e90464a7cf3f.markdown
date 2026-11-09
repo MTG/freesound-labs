@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "d319b974c0a7bc04d798b3601cb0e90464a7cf3f"
+title: "Sure-Challenge: Evaluating Speech Evidence Before Speech-Llm Generation"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/d319b974c0a7bc04d798b3601cb0e90464a7cf3f
+authors: "Mengzhe Geng"
+---

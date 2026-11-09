@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "48410e7a0fef3011c1f4d4e593fab8896e120d7a"
+title: "Foleyset: A Multi-Level Human-Annotated Foley Sound Dataset"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/48410e7a0fef3011c1f4d4e593fab8896e120d7a
+authors: "Sunshiyu Wang, Alexander Lerch"
+---
+
+In audiovisual post-production, Foley refers to synchronous sound effects associated with human actions, such as footsteps, cloth rustle, and prop handling, that are recreated to match the on-screen movements and interactions of characters. These sounds are often recorded by professional Foley artists using physical props. This resource-intensive workflow has motivated data-driven research on Foley, including tasks such as classification, retrieval, and generation; however, high-quality annotated Foley datasets for training remain scarce. To address this gap, we present FoleySet, a publicly available Foley dataset of 10,000 audio clips annotated with a two-level Foley taxonomy. This dataset provides a standardized, Creative Commons-licensed resource for data-driven Foley classification, retrieval, and generation.

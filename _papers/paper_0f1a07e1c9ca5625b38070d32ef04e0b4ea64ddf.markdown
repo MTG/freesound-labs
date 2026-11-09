@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "0f1a07e1c9ca5625b38070d32ef04e0b4ea64ddf"
+title: "Semi-Supervised Audio Transformers For Non-Invasive Welfare Monitoring In Pig Farming: A Beats-Based Approach"
+publication: "Smart Agricultural Technology"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/0f1a07e1c9ca5625b38070d32ef04e0b4ea64ddf
+authors: "Valentina Restrepo, Sarah C. L. Fischer, S. Herter"
+---

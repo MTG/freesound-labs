@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "3880e45be292875553728457749eae2682820eb8"
+title: "Chime-9 Echi: A Machine Learning Challenge For Enhancing Conversations To Address Hearing Impairment"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3880e45be292875553728457749eae2682820eb8
+authors: "Robert Sutherland, Thomas Kuebert, M. Lugger, S. Petrausch, E. B. Petersen, Juan Azcarreta Ortiz, Bu-Ye Xu, Stefan Goetze, Jon Barker"
+---
+
+This work presents the task and results of the CHiME-9 challenge for Enhancing Conversations to address Hearing Impairment. The challenge considers the scenario of four-party conversations in a noisy, cafeteria-style environment with interfering speech sources and sound effects. Participants are provided with audio recordings made with Meta Aria glasses and hearing aid microphones, and clean speech samples of the conversation participants. The task is to extract the speech of the conversation partners from the noisy multi-channel recordings with the goal of improving the intelligibility and quality of the speech, evaluated using objective metrics and subjective listening tests. This paper reviews submissions from seven teams and ranks them on a combination of subjective intelligibility and quality. Results show that while the objective metrics do not reflect listener performance, the top systems were able to make substantial improvements over the challenge baseline in both intelligibility and quality ratings.

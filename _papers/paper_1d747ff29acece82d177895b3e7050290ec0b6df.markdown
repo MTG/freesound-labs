@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "1d747ff29acece82d177895b3e7050290ec0b6df"
+title: "Phase-Flow: Phonetic-Conditioned Acoustic Flow Matching In Ssl Representation Domain For Speech Enhancement"
+publication: "Interspeech"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/1d747ff29acece82d177895b3e7050290ec0b6df
+authors: "Jun Gao, Xiao-Bin Rong, Yu Sun, Da-Han Wang, Jing Lu"
+---
+
+Flow matching (FM) enables high-fidelity generation, while self-supervised learning (SSL) speech models provide hierarchical representations spanning acoustic and phonetic levels. However, existing FM-based speech enhancement (SE) methods operate primarily in the spectral domain, treating SSL features only as external conditions rather than modeling directly in the SSL latent space. To fully exploit the structural richness of SSL representations, we propose PhASE-Flow, an FM-based SE framework that operates entirely in the SSL space. It models the conditional distribution of clean acoustic representations given phonetic ones, reconstructing the waveform via a neural vocoder. Experiments show that PhASE-Flow outperforms state-of-the-art baselines in perceptual quality and intelligibility. Notably, it achieves competitive performance with only four sampling steps, enabling highly efficient inference. Audio demos are available at https://anonymous.4open.science/w/phase-flow_demo-E6E1/.

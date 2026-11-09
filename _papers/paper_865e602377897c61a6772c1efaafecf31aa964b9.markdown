@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "865e602377897c61a6772c1efaafecf31aa964b9"
+title: "Aurelius: Relation Aware Text-To-Audio Generation At Scale"
+publication: "International Conference on Learning Representations"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/865e602377897c61a6772c1efaafecf31aa964b9
+authors: "Yu-Hang He, Liang He, Y. Jain, A. Markham, Vibhav Vineet"
+---

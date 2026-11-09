@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "dbdb2d5d8180c116cb1e101cccb590c559da3813"
+title: "Multi-Scale Spatio-Temporal Learning-Based Neural Beamformer For Multichannel Speech Enhancement."
+publication: "Journal of the Acoustical Society of America"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/dbdb2d5d8180c116cb1e101cccb590c559da3813
+authors: "Yanwen Li, Hua-Wei Chen"
+---
+
+Time-domain neural beamformers typically extract pairwise microphone features and process them using sequential networks. While this approach can capture temporal dynamics of the input features containing spatial cues, it does not explicitly model spatial and temporal information jointly, which constrains the network's ability to learn rich spatio-temporal (ST) representations for multichannel speech enhancement. This paper proposes STBFNet, a time-domain neural beamforming network that leverages multi-scale ST feature learning. In the proposed model, local ST features are first extracted and aggregated through multi-scale convolutional operations, enabling the network to jointly capture temporal dependencies and channel-wise correlations. Simultaneously, spatial information compensation is employed to enhance global channel interactions. The resulting features are fused and further processed, where self-attention is utilized to learn long-range contextual dependencies, and a modified Conformer-style convolution is applied to strengthen ST feature integration. Through these designs, the network produces refined ST representations, leading to improved performance in time-domain beamforming. Experimental results demonstrate the superiority of STBFNet over existing multichannel filtering methods. The proposed STBFNet has a smaller model size and achieves lower latency while maintaining competitive performance.

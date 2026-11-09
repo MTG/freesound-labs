@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "25583a7185a8949c0ab25a3d9b92a3aa383e09d6"
+title: "Ai Agent-Based Sound Dataset Generation And Neural Network Classification"
+publication: "Middle East and North Africa Communications Conference"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/25583a7185a8949c0ab25a3d9b92a3aa383e09d6
+authors: "Zahraa Almokaddem, R. Tawil, Reza Thani"
+---
+
+Environmental sound classification is essential for applications such as smart city monitoring, autonomous systems, and multimedia interaction, yet progress remains constrained by the limited availability of large, diverse, and high-quality datasets. This paper presents an AI agent-based framework for automated sound dataset generation and hybrid neural network classification. The proposed agent autonomously collects and filters audio from Freesound, YouTube, and TikTok using a multi-stage pipeline that combines signal-level analysis, semantic validation through CLAP (Contrastive Language-Audio Pretraining), and visual verification using a Vision-Language Model (LLaVA), while rejecting music and speech contamination. All accepted clips are standardized to 3-second mono 22.05 kHz WAV files with full metadata logging. The resulting dataset comprises over 12,000 samples across 12 environmental and urban classes, refined to 10 for training. A CNN-RNNAttention classifier achieved 84.8 % validation accuracy and 83.4 % test accuracy, demonstrating that AI agents can autonomously construct high-quality sound datasets while enabling robust environmental sound recognition.

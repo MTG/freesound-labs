@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "87285a25f2611270b4b4083e877bb4b31bbe3e83"
+title: "Multi-Task Learning For Interpretable Weakly Labelled Sound Event Detection"
+publication: "arXiv.org"
+year: 2020
+external_url: https://www.semanticscholar.org/paper/87285a25f2611270b4b4083e877bb4b31bbe3e83
+authors: "Soham Deshmukh, Bhiksha Raj, Rita Singh"
+---
+
+Weakly Labelled learning has garnered lot of attention in recent years due to its potential to scale Sound Event Detection (SED) and is formulated as Multiple Instance Learning (MIL) problem. This paper proposes a Multi-Task Learning (MTL) framework for learning from Weakly Labelled Audio data which encompasses the traditional MIL setup. To show the utility of proposed framework, we use the input TimeFrequency representation (T-F) reconstruction as the auxiliary task. We show that the chosen auxiliary task de-noises internal T-F representation and improves SED performance under noisy recordings. Our second contribution is introducing two step Attention Pooling mechanism. By having 2-steps in attention mechanism, the network retains better T-F level information without compromising SED performance. The visualisation of first step and second step attention weights helps in localising the audio-event in T-F domain. For evaluating the proposed framework, we remix the DCASE 2019 task 1 acoustic scene data with DCASE 2018 Task 2 sounds event data under 0, 10 and 20 db SNR resulting in a multi-class Weakly labelled SED problem. The proposed total framework outperforms existing benchmark models over all SNRs, specifically 22.3 %, 12.8 %, 5.9 % improvement over benchmark model on 0, 10 and 20 dB SNR respectively. We carry out ablation study to determine the contribution of each auxiliary task and 2-step Attention Pooling to the SED performance improvement. The code is publicly released

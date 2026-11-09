@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "c8b1ad960eab0525135ad32dd592b23e44be40b3"
+title: "Unistream: Multi-Expert Residual Vector Quantization For 48 Khz Causal Streaming Audio Coding"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/c8b1ad960eab0525135ad32dd592b23e44be40b3
+authors: "Ming-Yu Zhao, Zhi-Yong Wu"
+---
+
+We present UniStream, a fully causal 48 kHz neural audio codec for streaming speech, music, and environmental sounds. At its core is Multi-Expert Residual Vector Quantization (ME-RVQ), which replaces the single shared codebook in each residual quantization layer with four expert codebooks controlled by a deterministic Top-K router. Because routing decisions are derived solely from previously decoded quantized states, the decoder can reproduce the selected experts without transmitting expert identifiers, thereby expanding quantization capacity while adding 5.5M parameters. We further introduce an auxiliary Optimal Transport Conditional Flow Matching (OT-CFM) objective to regularize the quantized latent space during training. The flow module is removed entirely at inference and therefore incurs no runtime overhead. UniStream supports a 12 kbps Top-1 mode and a 22.5 kbps Top-2 mode within a causal 48 kHz encoder-decoder framework, while achieving real-time GPU inference. To complement narrow-band speech metrics, we report 48 kHz ViSQOL audio mode, ViSQOL speech mode, standard VGGish-FAD, DNSMOS P.835, and higher-rate reference comparisons with Opus and EnCodec. At 12 kbps, UniStream-Top1 achieves PESQ and UTMOS scores comparable to EnCodec while reducing speech Mel-D from 13.07 to 8.21. At 22.5 kbps, UniStream-Top2 achieves a ViSQOL speech-mode score of 4.67 and an environmental audio-mode score of 3.96, exceeding all evaluated systems operating at 12 kbps or below in the latter setting. It also comes within 0.03 MOS-LQO of Opus at 24 kbps on speech in ViSQOL audio mode. Ablation studies confirm that ME-RVQ is the primary source of quality improvement, whereas OT-CFM provides perceptual gains on speech with a mild trade-off in spectral distortion.

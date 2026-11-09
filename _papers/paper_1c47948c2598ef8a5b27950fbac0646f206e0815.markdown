@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "1c47948c2598ef8a5b27950fbac0646f206e0815"
+title: "Comparative Analysis Of Mfcc And Mfe Feature Extraction Methods For Cnn-Based Railway Sound Classification"
+publication: "Jurnal Jartel Jurnal Jaringan Telekomunikasi"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/1c47948c2598ef8a5b27950fbac0646f206e0815
+authors: "Nadaval Hagga, Sapto Wibowo, M. Sarosa"
+---
+
+Environmental sound classification is one of the artificial intelligence fields widely applied in embedded system-based monitoring applications. This study compares two audio feature extraction methods, namely Mel-Frequency Cepstral Coefficients (MFCC) and Mel-Filterbank Energy (MFE), for railway sound classification using a Convolutional Neural Network (CNN) model. The dataset consisted of 153 audio samples collected directly from real-world environments, comprising 80 railway sound samples and 73 environmental noise samples. The dataset was divided into 122 training samples and 31 testing samples. Feature extraction and model training were performed using the Edge Impulse platform, and the trained models were subsequently implemented on a Raspberry Pi 5. The training results showed that MFCC achieved 96.7% accuracy, 97% precision, 97% recall, and 97% F1-score, while MFE achieved 98.4% accuracy, 98% precision, 98% recall, and 98% F1-score. During implementation on the Raspberry Pi 5, the MFCC-based model achieved 96.77% accuracy, while the MFE-based model achieved 100% accuracy. However, the MFCC-based model demonstrated lower computational latency, with an average inference time of 12.317 ms, compared to 23.44 ms for the MFE-based model. These results indicate that MFE provides higher classification performance, whereas MFCC provides better computational efficiency in terms of inference time, demonstrating a trade-off between classification performance and computational efficiency for railway sound classification on embedded platforms.

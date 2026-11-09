@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "3de05b27bc059973bec0c3a92ad88a11b95ef978"
+title: "Text-Prompted Clap: Learning Text-Conditioned Audio Representations Via Contrastive Learning"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3de05b27bc059973bec0c3a92ad88a11b95ef978
+authors: "Mo-Han Li, R. Doddipatla, Phil Woodland"
+---
+
+Contrastive Language-Audio Pretraining (CLAP) aligns text and audio in a shared embedding space, but encoding each modality independently limits its ability to model cross-modal semantics in complex audio understanding and retrieval tasks. To address this limitation, this paper proposes Text-Prompted CLAP (TP-CLAP), a parameter-efficient extension of CLAP that introduces a cross-attention-based fusion module to incorporate textual prompts into audio features. TP-CLAP is trained using an audio multiple-choice question answering (AMCQA) framework, where it learns to align text-conditioned audio representations with text embeddings of correct answer choices via contrastive learning. Experiments demonstrate that TP-CLAP matches or exceeds several substantially larger audio-LLMs on audio question answering despite its compact size. After fine-tuning for attribute-focused audio-to-audio retrieval, text-conditioned audio representations consistently outperform their unconditioned counterparts on music retrieval benchmarks. In addition, TP-CLAP improves upon the base CLAP model on conventional audio-text retrieval and zero-shot classification.

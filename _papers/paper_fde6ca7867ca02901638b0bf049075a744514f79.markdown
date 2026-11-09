@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "fde6ca7867ca02901638b0bf049075a744514f79"
+title: "Rethinking Procedural Audio Pre-Training: Source Scaling And Objective Adaptation"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/fde6ca7867ca02901638b0bf049075a744514f79
+authors: "Jia-Jun Peng, Feng-Rui Liu, Xin-Yu Liu, Feng Liu"
+---
+
+Procedural audio has emerged as a viable source for transferable audio representation learning, but its design principles remain unclear.We revisit two questions: how a procedural source should be scaled, and whether training choices developed on natural audio should transfer unchanged to procedural data.Using a controlled source, we separate scale into formula-class coverage C and within-class rendering diversity I.Experiments with FDSL and AudioMAE show that these two forms of scale provide different benefits and depend on the learning formulation and downstream task. A matched AudioMAE study further shows that procedural audio favors low mask ratios (10%--25%), whereas AudioSet-28K favors 50%--75%. Shared-codebook analysis reveals lower patch diversity and stronger temporal predictability in procedural audio. These results motivate source-aware procedural pre-training, where source scaling and learning configuration are considered jointly.Code is available at https://github.com/Cross-Innovation-Lab/Formula-Bank.

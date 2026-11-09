@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "403d353ad93fa5e5b91e1c9393f24631b22cfba8"
+title: "One Waveform, Two Stories: Benchmarking Speech-Acoustic Conflict In Audio-Language Models"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/403d353ad93fa5e5b91e1c9393f24631b22cfba8
+authors: "Wen-Bin Wang, Yu-Heng Li, Koichiro Yoshino"
+---
+
+Audio-language models (ALMs) are evaluated on their understanding of both speech and environmental sounds. What remains underexplored is how they respond when spoken claims contradict acoustic evidence within the same recording. We introduce SAC-Bench, a benchmark of intra-audio speech--acoustic conflict comprising 616,031 unique clips from 188 sound-event classes across seven semantic, temporal, and spatial tasks. It pairs environmental recordings with compatible or contradictory synthesized spoken claims and includes audio-only controls where applicable. Across five open-weight ALMs evaluated on semantic and temporal tasks, high audio-only accuracy often coexists with large losses under conflicting claims; Event Identity accuracy is 24.8--46.5 percentage points lower in conflict than compatible conditions. Temporal Order failures persist even when speech follows the complete event sequence, so simultaneous speech--event masking cannot fully explain them. A spatial case study with Spatial-Omni finds lower motion accuracy associated with both spoken claims and the speech source's physical trajectory. Prompt interventions sometimes restore acoustic accuracy, but can also reduce claim-aligned answers without improving grounding or worsen performance. SAC-Bench thus separates acoustic competence, conflict robustness, and intervention effects.

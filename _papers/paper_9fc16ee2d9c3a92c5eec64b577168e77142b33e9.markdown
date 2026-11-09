@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "9fc16ee2d9c3a92c5eec64b577168e77142b33e9"
+title: "Peap: Proactive Embodied Action Sequence Planning With Joint Understanding Of Vision And Audio Perception"
+publication: "Annual Meeting of the Association for Computational Linguistics"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/9fc16ee2d9c3a92c5eec64b577168e77142b33e9
+authors: "Tian-Wei Lan, Jiaqi Wu, Ze-Ming Liu, Zhaoxin Fan, Hai-Feng Wang, Yu-Hang Guo"
+---
+
+.

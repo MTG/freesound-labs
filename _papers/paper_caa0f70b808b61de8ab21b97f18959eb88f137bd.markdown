@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "caa0f70b808b61de8ab21b97f18959eb88f137bd"
+title: "Technical Report For Merl'S Real-Tse Challenge Submission"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/caa0f70b808b61de8ab21b97f18959eb88f137bd
+authors: "Dominik Klement, Yoshiki Masuyama, Christoph Boeddeker, Kohei Saijo, Julius Richter, G. Wichern, J. Le Roux"
+---
+
+Target speech extraction (TSE) has largely been dominated by neural network-based approaches trained and evaluated on synthetic fully overlapped data. The Real-TSE Challenge aims to advance performance on real-world far-field noisy and reverberant recordings. This technical report describes MERL's submission to the Real-TSE Challenge. Rather than proposing a novel model architecture, we built upon the baseline model and focused primarily on data preparation and cleaning. Our system was trained in four stages, beginning with pre-training on fully overlapped mixtures and simulated multi-talker conversations with noise and reverberation applied to both the mixture and the enrollment utterances. We then adapted the model to real-world conditions using noisy far-field recordings with pseudo-targets derived from processed close-talk microphone signals. Our submission achieved first place in the second track, demonstrating the critical importance of high-quality data preparation. Furthermore, we observed that DNSMOS and speaker similarity are susceptible to over-optimization, motivating an investigation of their robustness using adversarial attacks. The results show that both metrics can be driven to extreme values without degrading the token error rate or the VAD-based F1 score.

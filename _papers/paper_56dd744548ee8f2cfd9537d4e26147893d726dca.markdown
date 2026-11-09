@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "56dd744548ee8f2cfd9537d4e26147893d726dca"
+title: "Off-Manifold Robustness In Synthesizer Inversion With Joint Distribution Flow Matching"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/56dd744548ee8f2cfd9537d4e26147893d726dca
+authors: "B. Hayes"
+---
+
+Recent work on synthesizer inversion shows that generative models outperform deterministic approaches by explicitly modeling the ambiguity in mapping audio to parameters. Training such models, however, requires audio-parameter pairs, which are typically obtained by rendering sampled or preset parameters through the synthesizer itself. This creates a train-test mismatch that can degrade performance on off-manifold real-world recordings, for which ground-truth parameter annotations do not exist. To circumvent this obstacle, we propose to model the joint distribution of audio and parameters with a multi-modal continuous normalizing flow using independent noise schedules for each modality. This formulation allows us to train joint and conditional densities with paired synthesizer data, while unpaired real recordings can train the audio marginal alone, exposing the model to off-manifold signals without requiring parameter labels. Further, because the model learns to map from audio to parameters at all noise levels, we find that partially noising the audio reference at inference improves real-audio reconstruction, consistent with reducing sensitivity to distribution-specific detail while preserving coarse structure. Evaluating on Surge XT and Dexed, we find that modelling the joint distribution substantially improves both inversion of real-world and in-domain audio.

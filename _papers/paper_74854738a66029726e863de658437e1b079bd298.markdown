@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "74854738a66029726e863de658437e1b079bd298"
+title: "A Reproducible End-To-End Software Pipeline For Acoustic Forest Fire Detection"
+publication: "European Conference on Artificial Intelligence"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/74854738a66029726e863de658437e1b079bd298
+authors: "Robert-Nicolae Boştinaru, N. Bizon, S. Drǎguşin, G. Iana"
+---
+
+This paper addresses early acoustic forest fire detection as a methodological problem of designing a reproducible software chain rather than as a mere competition among classifiers. The emphasis is placed on defining an end-to-end pipeline that includes dataset standardization, segmentation, engineering-justified preprocessing, input representation, classification, and operational evaluation. The paper synthesizes the essential directions in the recent literature on fire detection, acoustic fire detection, environmental sound classification, bioacoustics, and deployment on edge platforms. On this basis, it delineates the current gap in the field and argues for the necessity of a leakage-free protocol, practically relevant metrics, and transparent reporting of experimental decisions.

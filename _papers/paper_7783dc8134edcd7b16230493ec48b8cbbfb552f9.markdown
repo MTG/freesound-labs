@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "7783dc8134edcd7b16230493ec48b8cbbfb552f9"
+title: "Automatic Sound Effect Classification And Subtitle Generation System Using Pre-Trained Audio Neural Networks With Transfer Learning"
+publication: "IEEE Access"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/7783dc8134edcd7b16230493ec48b8cbbfb552f9
+authors: "Hyeyoon Jung, Kyeongsu Byun, Joonho Kwon"
+---
+
+Recent advances in automatic subtitle generation have primarily focused on speech recognition, whereas subtitle generation for nonverbal sound effects has received comparatively little attention. This limitation hinders comprehensive delivery of audiovisual information. Sound effects—such as gunshots, screams, and crying—are crucial for providing narrative context and conveying emotional nuances in video content. Nevertheless, current subtitle systems frequently omit these elements, relying heavily on manual annotation and underscoring the need for automated approaches. In this paper, we propose a system for the automatic detection, classification, and subtitling of a broad range of nonverbal sound effects. The proposed system leverages a pretrained audio neural network model via transfer learning to identify and classify multiple types of sound effects. Collected audio data are first embedded using the pretrained model and subsequently processed by a custom-designed classifier to enhance recognition accuracy. Subtitles are generated based on time-aligned sound-effect detections, and consecutive detections are merged to form subtitle intervals. Using real broadcast videos and TV content, the proposed system achieved an average classification accuracy of 76% and a subtitle timing accuracy of 72.3% within 3 seconds, even in environments with overlapping speech and background noise. Our approach effectively detects and classifies sound-effect events in diverse media content, such as dramas, films, and entertainment programs, and generates corresponding subtitles. Furthermore, merging consecutive segments with identical labels helps improve subtitle coherence. These findings demonstrate the practical feasibility of the proposed system as a subtitle-augmentation approach for incorporating nonverbal auditory cues into dialogue-centered subtitles.

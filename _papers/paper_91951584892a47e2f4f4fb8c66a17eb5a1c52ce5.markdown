@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "91951584892a47e2f4f4fb8c66a17eb5a1c52ce5"
+title: "The First Clarity Enhancement Challenge: Developing Hearing Aid Algorithms For Speech-In-Noise"
+publication: "Computer Speech and Language"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/91951584892a47e2f4f4fb8c66a17eb5a1c52ce5
+authors: "Simone Graetzer, M. Akeroyd, Jon Barker, Trevor J. Cox, John F. Culling, J. Firth, Graham Naylor, Eszter Porter, R. V. Muñoz"
+---

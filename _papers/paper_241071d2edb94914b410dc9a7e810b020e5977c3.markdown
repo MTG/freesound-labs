@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "241071d2edb94914b410dc9a7e810b020e5977c3"
+title: "A Behaviourally Normed Database Of 1,377 Natural Sounds For Auditory Cognition And Neuroscience"
+publication: "bioRxiv"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/241071d2edb94914b410dc9a7e810b020e5977c3
+authors: "Marie-Thérèse Plégat, M. Vitória, Giorgio Marinato, Beatrice Tita, C. van der Lans, Minne Pijfers, Mia-Sara Bertovic, Michele Esposito, Elia Formisano, Bruno L. Giordano"
+---
+
+Natural-sound research requires stimulus sets that combine acoustic standardization with detailed behavioural characterization. We present 1,377 two-second sounds representing 240 expert-defined source– action classes. We call this database “MaMa Sounds”, as it resulted from the collaborative effort of two academic teams in Maastricht and Marseille. The sounds were manually curated, segmented, sampled at 16 kHz, and labelled with a noun identifying the source and a verb identifying the action. We release deidentified trial-level identification and familiarity data together with multiple per-sound norms (e.g., identification accuracy, confidence and agreement; familiarity), along with overall norms derived with principal component analysis. Noun, verb, and joint noun–verb norms are provided as direct means and medians with the number of contributing observations. This battery preserves process-specific information, while two principal-component scores provide compact overall behavioural-identifiability measures derived from response ease, semantic correspondence, agreement, and familiarity. The repository also contains deterministic response-cleaning code, participant and reference Word2Vec representations, and code reproducing the public sound-level tables. The resource supports stimulus selection, matching, and continuous modelling in auditory cognition and neuroscience.

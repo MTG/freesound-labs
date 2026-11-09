@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "747a77f90b6ca3cf97a408493fd66d3d1dc97e27"
+title: "Tria Pipeline: A Large-Scale Automatic Audio Annotation Pipeline For Audio Classification In Specific Scenarios"
+publication: "Interspeech"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/747a77f90b6ca3cf97a408493fd66d3d1dc97e27
+authors: "Hongrui Lyu, Ming-Ru Yang, Qian-Hua He, Yan-Xiong Li, Jinxin Huang, Zhengyu Pei"
+---
+
+There are some datasets of varying scales for audio classification (AC) applied to different tasks. However, annotated data is limited for most scenarios, such as domestic environments. To address this challenge, we propose an $\textbf{A}$utomatic $\textbf{A}$udio $\textbf{A}$nnotation Pipeline--TriA Pipeline, which can efficiently convert audio from various scenarios into high-quality training data with audio event annotations. A TriA dataset was constructed with the TriA Pipeline, over 2130 hours of audio covering 431 audio classes. Furthermore, we partitioned a prior-knowledge-guided subset (TriA$_{\mathrm{GK}}$) from TriA and conduct comparative experiments on three domestic AC tasks. Comparing the result on manually annotated data only and that on manually annotated data combines TriA$_{\mathrm{GK}}$, TriA$_{\mathrm{GK}}$ could achieve average relative gains of 3.97% in accuracy and 3.35% in Macro-F1, validating the effectiveness of TriA$_{\mathrm{GK}}$ and the TriA Pipeline.

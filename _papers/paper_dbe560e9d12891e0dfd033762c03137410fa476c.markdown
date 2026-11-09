@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "dbe560e9d12891e0dfd033762c03137410fa476c"
+title: "Anyedit: A Unified Framework For Speech And Singing Voice Editing With Real-World Environmental Consistency"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/dbe560e9d12891e0dfd033762c03137410fa476c
+authors: "Yun-Jia Zhang, Ju-Nan Zhang, Jing Yang, Xueyao Zhang, Fan Fan, Zhi-Zheng Wu"
+---
+
+We present AnyEdit, a unified, separation-free framework for speech and singing voice editing that preserves real-world acoustic environments, including noise, reverberation, and background music. Recent unified generative models already achieve strong speech and singing generation in clean conditions, but real-world vocal editing remains challenging because the model must revise content while simultaneously preserving speaker identity, prosody, and the surrounding acoustic scene. Directly modeling noisy audio end-to-end entangles semantic editing with environmental acoustics, weakening the core vocal generation capability. We therefore adopt a two-stage design that preserves clean-domain editing ability while deferring acoustic rendering to a separate stage: an instruction-guided autoregressive editor first predicts clean prosody and content-style tokens, supported by a teacher-student noise-robust prosody tokenizer that distills clean prosodic tokens from degraded recordings; a flow-matching acoustic model then performs in-context rendering conditioned on the source acoustic context, so the edited segment inherits surrounding noise, reverberation, and background sound while maintaining consistent speaker timbre. To stabilize unedited regions, we introduce unmodified-area-aware supervision; after pre-training, we further apply direct preference optimization on mined real-to-real singing pairs. We also release AnyEditBench, a benchmark covering both speech and singing voice editing under clean, simulated, and in-the-wild acoustic conditions. Experiments on Chinese and English speech and singing datasets showed that AnyEdit consistently outperforms strong baselines in content accuracy, subjective quality, and background consistency under noisy and reverberant conditions. Demo: https://any-edit.github.io/. AnyEditBench: https://huggingface.co/datasets/Ririiiii/anyeditbench.

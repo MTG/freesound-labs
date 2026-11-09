@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "3a1c0932a8a55a465f4b80925c383fde1e311ff9"
+title: "Commanding At The Speed Of Sound: Audio-Centric Referring Expression Segmentation For Aerial Scenes"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/3a1c0932a8a55a465f4b80925c383fde1e311ff9
+authors: "Zi-Yun Chen, Yi-Jun Wang, Chuan-Yi Zhang, Liang Yao, Yuexuan An, Xiang Gu, Wei Zhou, Fan Liu"
+---
+
+Referring expression segmentation (RES) aims to localize targets at the pixel level guided by human instructions. However, current models predominantly follow a text-centric paradigm that treats discrete text as the primary interaction medium for these human instructions. This assumption is especially limiting in unmanned aerial vehicle (UAV) applications, where rapid response, hands-free operation, and natural communication are often critical. In this paper, we reconstruct UAV referring expression segmentation through an audio-centric perspective. Grounded in information theory, we demonstrate that raw audio provides a higher upper bound for extracting rich semantic features than transcribed text. To achieve this, we construct an audio-driven UAV referring expression segmentation benchmark named Aerial-AudioRES by augmenting VisDrone with synthesized speech, forming"audio-text-image-mask"quadruples. Specifically, we employ an ambiguity filtering mechanism to ensure referential uniqueness, and incorporate eight distinct timbres alongside 4 realistic noises to simulate authentic environments. To drive the paradigm shift from text-centric to audio-centric, we propose the end-to-end Audio-centric Referring Expression Segmentation Network (ARES-Net). Distinct from discrete text-visual matching, our approach learns to establish a direct soft alignment between continuous acoustic manifolds and multi-scale visual representations. Comprehensive experiments show that our method obtains a peak accuracy of 64.23% in oIoU and demonstrates robust generalization on a collected real-human test set. Furthermore, it significantly reduces total interaction latency to one-third of the text-based method. Our code is available at https://github.com/LemonGauss/ARES-Net.

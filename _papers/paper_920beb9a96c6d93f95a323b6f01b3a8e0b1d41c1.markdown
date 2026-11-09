@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "920beb9a96c6d93f95a323b6f01b3a8e0b1d41c1"
+title: "Audio-Image Cross-Modal Retrieval With Onomatopoeic Images"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/920beb9a96c6d93f95a323b6f01b3a8e0b1d41c1
+authors: "Keisuke Imoto, Y. Kojima, Takao Tsuchiya"
+---
+
+Finding sound effects or environmental sounds that match a creator's intended impression remains a largely manual process in multimedia production. This is especially relevant for comics and other visual media, where visually stylized onomatopoeic expressions convey auditory impressions through letter shapes, strokes, layouts, and decorative patterns. However, cross-modal retrieval between onomatopoeic images and general sounds has been largely unexplored. This paper thus introduces a bidirectional retrieval framework between onomatopoeic images and the corresponding sound clips. Instead of directly comparing embeddings extracted from pretrained image and audio encoder, we train modality-specific projection heads that re-align the embeddings for visual onomatopoeia and corresponding sounds. We then construct the Multimodal Image-Audio Onomatopoeia dataset (MIAO), which contains paired onomatopoeic images and sound clips across 50 sound event classes. Experimental results show that the proposed method substantially outperforms a zero-shot baseline using pretrained CLIP and CLAP embeddings. These results demonstrate that adapting pretrained representations enables effective retrieval in both directions: from onomatopoeic images to sounds and from sounds to onomatopoeic images.

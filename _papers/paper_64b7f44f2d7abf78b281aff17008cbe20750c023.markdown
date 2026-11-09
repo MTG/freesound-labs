@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "64b7f44f2d7abf78b281aff17008cbe20750c023"
+title: "Task-Oriented Neural Foa Encoding For Seld From Irregular Microphone Arrays"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/64b7f44f2d7abf78b281aff17008cbe20750c023
+authors: "Jia-Chen Liu, Yin Cao, Ming Wu, Jun Yang"
+---
+
+Sound event localization and detection (SELD) systems often rely on first-order Ambisonics (FOA) input, whereas obtaining useful FOA representations from irregular microphone arrays remains challenging. This paper proposes a two-stage SELD framework that learns a task-oriented, FOA-compatible representation from microphone-array signals. A neural residual encoder first refines conventional FOA encoding through a signal-dependent correction. A teacher--student scheme then transfers event and spatial knowledge from theoretical FOA representations through frame-level permutation-invariant knowledge distillation. Experiments on synthetic scenes with tetrahedral and 12-channel Benchmark arrays, together with real stationary-source recordings from the LOCATA dataset, show that teacher guidance consistently improves downstream SELD performance and substantially reduces localization error. Signal-level analysis further shows that lower FOA reconstruction error does not necessarily correspond to better SELD performance, indicating that the distilled representation is optimized primarily for task-relevant spatial information rather than strict FOA reconstruction.

@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "30f7abd26821c63bc105c80cb531c4a03a76e792"
+title: "Sure-Tagger: Structured Speech Representations For Compositional Evaluation And Targeted Data Selection"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/30f7abd26821c63bc105c80cb531c4a03a76e792
+authors: "Jing Peng, Hui-Fei Wang, Wei-Han Chen, Shuo-Yin Gao, Bi-Cheng Zhang, Jun Du, Han-Qi Li, Chao-Lei Liu, Wen Wen, Tao Liu, Xu Li, Yu Xi, Shuai Wang, Kai Yu"
+---
+
+Speech conveys linguistic content, speaker characteristics, temporal interactions, paralinguistic cues, and acoustic environments. While recent speech captioning models describe these dimensions in natural language, inconsistent attribute coverage and ambiguous omissions hinder systematic analysis across recordings. We introduce SURE-Tagger, a framework that constructs semi-structured speech representations with explicit attribute values, supplementary descriptions, and abstention under insufficient evidence. By integrating specialist observations through language-model reasoning, SURE-Tagger enables speech conditions to be consistently identified and jointly queried across datasets. We further introduce Tag-Bench, combining real recordings with controlled, agentically synthesized speech scenes and verified attribute annotations. On Tag-Bench, SURE-Tagger achieves the highest scores on 25 of 29 evaluated dimensions for real speech and 24 of 29 for synthetic speech, outperforming caption-based baselines across structural and descriptive attributes. Beyond annotation, we use these representations to construct cross-dataset evaluation subsets and reveal condition-specific ASR errors. Using a separate candidate pool, SURE-Tagger-guided selection reduces the overall ASR error rate of Qwen3-ASR-1.7B by 14.3% relative to the unadapted model under a one-hour fine-tuning budget, while caption-guided and random selection increase error in the same setting. These results demonstrate how structured speech representations can connect rich annotation, compositional evaluation, and targeted model improvement.

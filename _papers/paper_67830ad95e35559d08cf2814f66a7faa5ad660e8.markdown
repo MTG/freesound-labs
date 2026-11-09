@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "67830ad95e35559d08cf2814f66a7faa5ad660e8"
+title: "Parameter-Efficient Dual-Encoder Architecture With Differentiable Choquet Integral Fusion For Underwater Acoustic Classification"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/67830ad95e35559d08cf2814f66a7faa5ad660e8
+authors: "Amirmohammad Mohammadi, Joshua Peeples, A. Van Dine"
+---
+
+Underwater acoustic classification has a wide array of oceanic applications, but faces challenges due to an increasingly complex acoustic environment. Waveform and spectrogram representations have been primarily used as acoustic data features for classification tasks in this domain. Spectrograms model harmonic dependencies, but these reduced representations can filter out acoustic features relevant for discrimination. While phase information from the waveform allows full characterization of the signal, the original waveform can be noisy and complex, rendering this representation difficult for models to process directly. This paper proposes a dual-encoder neural architecture to simultaneously process acoustic waveforms and spectrograms, leveraging pre-trained backbones and parameter-efficient fine-tuning modules, enabling a domain adaptation. To combine these adapted branches, a novel differentiable fuzzy aggregation mechanism based on the Choquet integral is introduced to balance the temporal and spectral representations. This fusion strategy not only yields higher classification accuracy but also provides interpretability. Specifically, by analyzing the learned fuzzy measures, insights are revealed about class-specific shifts in the network's representation reliance. By dynamically shifting attention to the representation least corrupted by potential asymmetric channel distortions, the proposed gating mechanism mitigates the non-stationary challenges of the underwater environment. Evaluations on the DeepShip and ShipsEar datasets demonstrate that the proposed architecture achieves classification improvements over independent single-encoder baselines, while simultaneously restricting the trainable parameter space. This mitigates the risk of overfitting on limited acoustic datasets while alleviating the computational costs associated with fully fine-tuning foundation models.

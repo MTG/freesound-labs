@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "14034a915169fd37590cd93f035fe54f3e7b0f64"
+title: "Audedit: Inversion-Free Text-Guided Editing With Pretrained Audio Flow Models"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/14034a915169fd37590cd93f035fe54f3e7b0f64
+authors: "Zhong-Yuan Fu"
+---

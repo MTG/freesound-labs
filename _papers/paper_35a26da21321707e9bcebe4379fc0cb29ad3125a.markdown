@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "35a26da21321707e9bcebe4379fc0cb29ad3125a"
+title: "On Temporal Binding In Large Audio Language Models"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/35a26da21321707e9bcebe4379fc0cb29ad3125a
+authors: "Paul Primus, Gerhard Widmer"
+---
+
+Reasoning about temporal structure of audio recordings requires Large Audio Language Models (LALMs) to associate sound events with their temporal position. Understanding the underlying mechanisms is a first step toward diagnosing failures and identifying model components that may need improvement. Using mechanistic interpretability, we investigate how temporal information is represented and bound to sound events in three open-source LALMs. We find that across all three, event-specific location becomes concentrated in event name representations at intermediate modality integration layers. These representations encode coarse event position along a low-dimensional, curved relative time trajectory. Steering event name representations along this trajectory systematically shifts before/after beliefs, providing evidence that these representations contribute to coarse temporal reasoning. In contrast, the same interventions do not reliably shift predicted onset timestamps, suggesting that coarse temporal reasoning and precise metric event localization rely on distinct mechanisms.

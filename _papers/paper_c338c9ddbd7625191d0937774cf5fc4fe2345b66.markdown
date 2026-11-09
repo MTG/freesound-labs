@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "c338c9ddbd7625191d0937774cf5fc4fe2345b66"
+title: "A Human-Inspired Seldd Approach For Improved Direction-Of-Arrival And Distance Estimation"
+publication: "Multimedia tools and applications"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/c338c9ddbd7625191d0937774cf5fc4fe2345b66
+authors: "Zahra Abolfazli, H. R. Abutalebi"
+---

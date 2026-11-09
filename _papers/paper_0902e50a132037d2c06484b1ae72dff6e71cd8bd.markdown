@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "0902e50a132037d2c06484b1ae72dff6e71cd8bd"
+title: "A Standardized Naturalistic Audio Stimulus Dataset With Unsupervised Labeling"
+publication: "Scientific Data"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/0902e50a132037d2c06484b1ae72dff6e71cd8bd
+authors: "Anas Al-Naji, R. Schubotz, Anoushiravan Zahedi"
+---
+
+This study presents a standardized naturalistic audio stimulus dataset designed for use in trial-wise cognitive neuroscience, neuroimaging, and behavioral research. The dataset provides short, recognizable auditory stimuli that are normed for emotional valence and startlingness. To create such a dataset, the current study collected 291 audio files from a range of sources and standardized them to a duration of 1.5 s. A final sample of 361 participants rated the audio clips on emotional valence, startlingness, and recognizability, and subsequently freely described the audios by typing what they believed the sound to be. The text responses of the participants were embedded and clustered using an unsupervised machine-learning algorithm to derive a participant-grounded organization of auditory object categories. The results indicate that the audio clips were generally recognizable, while emotional valence and startlingness ratings varied across stimuli.

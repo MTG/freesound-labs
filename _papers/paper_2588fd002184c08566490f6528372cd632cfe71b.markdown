@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "2588fd002184c08566490f6528372cd632cfe71b"
+title: "Flow-Hoa: Generative Joint Optimization For Ambisonics Encoding Via Flow Matching"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/2588fd002184c08566490f6528372cd632cfe71b
+authors: "Yu-Huan You, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv"
+---
+
+Higher-Order Ambisonics (HOA) encoding from sparse, irregular microphone arrays remains a critical challenge for consumer spatial audio capture in immersive communication and XR. We propose Flow-HOA, a generative framework that jointly optimizes a multi-dimensional objective encompassing time-domain, spectral, and spatial fidelity while producing a deployable, time-invariant bank of Finite Impulse Response (FIR) encoding filters. Using conditional flow matching, the model learns to map a simple prior distribution to the target distribution of FIR filter coefficients. Training is guided by a composite loss that balances time-domain waveform fidelity, multi-resolution spectral consistency, sub-band energy preservation, and spatial directivity constraints. Objective evaluations on synthetically simulated data demonstrate improved performance over strong model-based baselines in both signal fidelity and spatial accuracy metrics. Subjective listening tests on real microphone array recordings further confirm that Flow-HOA yields higher overall sound quality with reduced artifacts, demonstrating generalization from synthetic training data to real-world capture conditions.

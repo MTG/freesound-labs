@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "29b45eb18cf6244a7185cc13babe7e5f11a61389"
+title: "Coughnet: A Lightweight, Low-Cost, And Energy-Efficient Multiple Coughers Detection And Identification System"
+publication: "IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/29b45eb18cf6244a7185cc13babe7e5f11a61389
+authors: "Amir Esmaeili, Maryam Fazli, Dali Ismail"
+---
+
+Early detection and identification of respiratory symptoms in shared indoor environments are critical to mitigate the spread of airborne diseases. Cough detection offers valuable insights for infection control and personalized monitoring in settings such as waiting rooms. However, existing approaches rely on computationally intensive processing and energy hungry communication, and typically focus on single source detection. In this paper, we present CoughNet, a lightweight and energy efficient system for cough detection and multi source identification that integrates edge deep learning with adaptive LoRa communication to balance between local processing and data transmission. CoughNet also employs noise aware preprocessing and embedding-based clustering to enable robust operation in noisy environments. The evaluation results show that CoughNet achieves accuracy comparable to state-of-the-art methods while reducing the inference energy by 11X. Additionally, our proposed LoRa AI-ADR improves packet reception rate by up to 4.77X under unreliable channels. CoughNet achieves 85% source identification accuracy with only a single cough sample, demonstrating strong practicality for real-world deployment.

@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "745c3cb9ae5923f443975d78cb3d3c60eb5f4eee"
+title: "No Time To Collapse: Unlocking Robustness And Multiplexed Capacity In Frozen Audio Watermarkers"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/745c3cb9ae5923f443975d78cb3d3c60eb5f4eee
+authors: "Xuan-Ye Wang, Lin-Xi Li, Ye-Chen Wang, Li-Wei Jin, Qian-Wei Guo, C. Maple"
+---
+
+Modern neural audio watermarking systems typically embed a message repeatedly across time and then collapse the resulting temporal evidence into a single payload using averaging, voting, or another fixed aggregation rule. We argue that this temporal collapse limits both robustness and the recovery of multiple payloads, and that the limitation can be addressed without retraining the underlying watermarker. We freeze a pretrained watermarker's encoder and detector and train only a low-latency Conformer-based decoder. The decoder consumes the detector's temporal soft outputs, which a system-specific adapter pools into a sequence of window-level representations, and predicts the embedded message. On three frozen watermarkers (AURA, AudioSeal, and WavMark), the learned decoder improves recovery of attacked messages and yields higher detection AUROC point estimates on all three. Under controlled full- and partial-coverage multiplexing, it improves joint-exact recovery of two alternating payload words by 9.7-48.0, 6.9-17.3, and 8.2-14.2 percentage points, respectively, under one to three chained attacks on feasible clips.

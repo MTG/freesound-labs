@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "03779f308b5e3d84b6193569dab6a1af85f8ef66"
+title: "Open-Set Ego-Noise Separation For Legged-Robot Audition Via Annotation-Free Adaptation And Pretrained-Model Transfer"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/03779f308b5e3d84b6193569dab6a1af85f8ef66
+authors: "Koki Shoda, Junichi Kasahara, Aoba Koyanagi, Qi An, Atsushi Yamashita"
+---
+
+This paper proposes an open-set ego-noise separation framework for legged-robot audition via annotation-free adaptation and pretrained-model transfer. The framework removes robot-specific ego-noise while preserving environmental sounds whose classes are not specified in advance. Acoustic sensing provides cues about a robot's surroundings beyond the visual field, but walking-induced ego-noise from footstep impacts, joint-backlash rattling, and motor noise severely contaminates the recordings. The framework first uses RecurGraph to select ego-noise-dominant clips from the unlabeled recordings by aggregating clip embeddings into an embedding centroid and propagating scores over an audio-embedding graph. The selected clips are mixed with diverse environmental sounds from a large-scale sound-event dataset to provide paired mixture--target supervision for open-set separation. Transfer-DiT then adapts a general-purpose zero-shot neural separator to achieve high-fidelity open-set ego-noise separation for the target robot. Experiments with bipedal and quadrupedal robots show reliable clip selection and improvements in separation quality and downstream task performance over baseline separators. These results demonstrate the feasibility of annotation-free adaptation without separately recorded ego-noise-only data or manual clip-level annotations.

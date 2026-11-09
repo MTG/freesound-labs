@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "26f2cbd0e5fb320f4d906d943f747b07356e530f"
+title: "A Deep Learning Framework For Phase-Aware Feature Representation To Improve Sound Source Direction And Distance Estimation"
+publication: "Conference on Information and Knowledge Technology"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/26f2cbd0e5fb320f4d906d943f747b07356e530f
+authors: "Zahra Abolfazli, H. R. Abutalebi"
+---
+
+This paper proposes a novel refinement of the network’s input features to improve distance and Direction-of-Arrival estimation in the sound event localization and detection system. Instead of relying on Mel energies, we propose using phase spectrograms as input feature, which effectively preserve inter-channel time delays and capture crucial wave propagation characteristics. Furthermore, we introduce architectural improvements for increased robustness. Specifically, Huber loss replaces MSE, reducing sensitivity to noise. Additionally, MHSA layers are replaced with Conformer blocks to better model both long-range dependencies and local interactions within the audio data. Our experimental results validate the effectiveness of the proposed phase-based feature representation and optimized architecture, demonstrating improvements in both DOA and distance estimation.

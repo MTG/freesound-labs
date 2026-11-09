@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "df1a05398a86dbc817d51fe4658b30cd82531641"
+title: "Charduplex: Building Character-Consistent Full-Duplex Spoken Dialogue Models"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/df1a05398a86dbc817d51fe4658b30cd82531641
+authors: "Donghang Wu, Yi-Si Liu, Chen Chen, He-Xin Liu, E. Chng"
+---
+
+Full-duplex speech models are moving voice interaction beyond conventional turn-taking, yet natural conversation is shaped not only by when an agent speaks, but also by how it behaves as a conversational character. We present CharDuplex, a character-driven full-duplex speech model that combines real-time spoken interaction with persona-conditioned behavior. We first adapt GLM-4-Voice to an always-on dual-stream architecture and train the model for full-duplex conversation. Then a fully automated pipeline constructs character-conditioned dialogue data from open-source character descriptions for character-conditioned supervised fine-tuning. The model is further refined with the proposed FDGym, where an LLM-simulated user dynamically interacts with the model, enabling reinforcement learning over evolving multi-turn interactions. On SpeechRole-Eval, CharDuplex achieves the highest average score among the evaluated open-source models, while remaining competitive with closed-source systems. It also demonstrates competitive general speech intelligence and strong full-duplex interaction capabilities. CharDuplex demonstrates a practical training recipe for building full-duplex voice assistants that are not only interactive, but also character-consistent.

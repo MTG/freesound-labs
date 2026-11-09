@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "d60964ae081005c96bb83188559aac485a9ee99d"
+title: "Avex: What Matters For Animal Vocalization Encoding"
+publication: "International Conference on Learning Representations"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/d60964ae081005c96bb83188559aac485a9ee99d
+authors: "Marius Miron, David Robinson, Milad Alizadeh, Ellen Gilsenan-McMahon, G. Narula, Emmanuel Chemla, Maddie Cusimano, Felix Effenberger, Masato Hagiwara, Benjamin Hoffman, Sara C. Keen, D. Kim, J. Lawton, Jen-Yu Liu, Aza Raskin, Olivier Pietquin, M. Geist"
+---
+
+Bioacoustics, the study of sounds produced by living organisms, plays a vital role in conservation, biodiversity monitoring, and behavioral studies. Many tasks in this field, such as species, individual, and behavior classification and detection, are well-suited to machine learning. However, they often suffer from limited annotated data, highlighting the need for a general-purpose bioacoustic encoder capable of extracting useful representations for diverse downstream tasks. Such encoders have been proposed before, but are often limited in scope due to a focus on a narrow range of species (typically birds), and a reliance on a single model architecture or training paradigm. Moreover, they are usually evaluated on a small set of tasks and datasets. In this work, we present a large-scale empirical study that covers aspects of bioacoustics that are relevant to research but have previously been scarcely considered: training data diversity and scale, model architectures and training recipes, and the breadth of evaluation tasks and datasets. We obtain encoders that are state-of-the-art on the existing and proposed benchmarks. We also identify what matters for training these encoders, such that this work can be extended when more data are available or better architectures are proposed. Specifically, across 26 datasets with tasks including species classification, detection, individual ID, and vocal repertoire discovery, we find self-supervised pre-training followed by supervised post-training on a mixed bioacoustics + general-audio corpus yields the strongest in- and out-of-distribution performance. We show the importance of data diversity in both stages. To support ongoing research and application, we will release the model checkpoints.

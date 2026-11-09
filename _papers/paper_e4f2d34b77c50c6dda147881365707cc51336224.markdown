@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "e4f2d34b77c50c6dda147881365707cc51336224"
+title: "Mishap-Bench: A Hallucination Benchmark For Large Audio-Language Models"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/e4f2d34b77c50c6dda147881365707cc51336224
+authors: "Wen-Soi Zhi, Giulio Segalini, Jian-Jia Chen, L. Chen"
+---
+
+Large audio-language models (LALMs) produce fluent responses about audio but often hallucinate by making plausible yet ungrounded claims. Existing audio hallucination benchmarks mainly measure response correctness, leaving it unclear whether an LALM hallucinates or simply fails to understand the audio. We challenge correctness-based evaluation by defining two hallucination categories: (i) context, where claims are not grounded in the audio; and (ii) knowledge, where claims about audio-related topics lack support from externally verifiable facts. We introduce MISHAP-Bench, a comprehensive benchmark with 12,000 challenging open-ended question-audio pairs and a rigorous evaluation pipeline covering both categories. To evaluate open-ended responses, we propose a groundedness judge that uses reference rubrics and judge prompts guided by human annotations. We extensively evaluate ten state-of-the-art LALMs and show that hallucination remains substantial. Even a frontier model such as Gemini 3.7 Flash reaches a hallucination rate of 36.5%. We further adapt and benchmark four mitigation methods from multiple domains for LALMs. Despite some improvements, effective hallucination mitigation remains an open challenge. Finally, we call on the community to evaluate hallucination and benchmark mitigation methods with MISHAP-Bench.

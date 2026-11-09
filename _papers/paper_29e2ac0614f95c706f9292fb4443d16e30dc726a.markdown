@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "29e2ac0614f95c706f9292fb4443d16e30dc726a"
+title: "Towards Event-Robust Acoustic Scene Classification"
+publication: "Interspeech"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/29e2ac0614f95c706f9292fb4443d16e30dc726a
+authors: "Yi-Qian Cai, Bo-Han Hu, Yu Yang, Peng Lu, Sheng-Chen Li, Xing-Kun Shao"
+---
+
+This paper introduces the Event-Shifted Acoustic Scene (ESAS) dataset, a novel benchmark for evaluating the robustness of Acoustic Scene Classification (ASC) systems against unknown sound events. Existing ASC datasets typically contain recordings of clean and consistent audio, while real-world environments often include diverse and unexpected sound events. To bridge this gap, ESAS simulates real-world acoustic variability by injecting foreground sound events into background scenes with the assistance of large language models. In this work, we present the construction methodology, dataset statistics, and evaluation protocols. Furthermore, a comprehensive evaluation of state-of-the-art ASC systems is conducted using the ESAS benchmark. Experimental results reveal that existing ASC models suffer significant performance degradation when facing the event-shift challenge. The introduction of the ESAS dataset aims to drive future research toward event-robust ASC.

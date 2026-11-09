@@ -10,6 +10,9 @@ if API_KEY is None:
 PAPERS_DIR = '_papers'
 MANUAL_PAPERS_FILENAME = 'manual_paper_semantic_scholar_urls.txt'
 PAPER_FIELDS = 'paperId,title,authors,year,url,venue,abstract'
+MAX_REQUEST_ATTEMPTS = 8
+MIN_REQUEST_INTERVAL = 1.0
+last_request_time = None
 
 semantic_scholar_source_papers_ids_names = [
     ('b3fef5d63abaca4a860603089ce91c0198034a54', 'FSD50K: an Open Dataset of Human-Labeled Sound Events'),
@@ -54,11 +57,30 @@ def write_markdown_file(paper_data, filename):
     with open(filename, 'w', encoding='utf-8') as fid:
         fid.write(contents)
 
-def get_citations_page(paper_id, page_size=200, offset=0):
-    semantic_scholar_url = 'https://api.semanticscholar.org/graph/v1/paper/{}/citations?fields={}&limit={}&offset={}'.format(paper_id, PAPER_FIELDS, page_size, offset)
+def get_semantic_scholar_json(url, params):
+    global last_request_time
     headers = {'X-API-KEY': API_KEY} if API_KEY else {}
-    resp = requests.get(semantic_scholar_url, headers=headers).json()
-    return resp
+    for attempt in range(MAX_REQUEST_ATTEMPTS):
+        if last_request_time is not None:
+            time.sleep(max(0, MIN_REQUEST_INTERVAL - (time.monotonic() - last_request_time)))
+        last_request_time = time.monotonic()
+        response = requests.get(url, params=params, headers=headers, timeout=60)
+        if response.status_code == 429 and attempt < MAX_REQUEST_ATTEMPTS - 1:
+            retry_after = response.headers.get('Retry-After', '')
+            delay = max(1, int(retry_after)) if retry_after.isdigit() else 2 ** (attempt + 1)
+            print('Semantic Scholar rate limited the request; retrying in {} seconds'.format(delay), flush=True)
+            time.sleep(delay)
+            continue
+        if not response.ok:
+            raise requests.HTTPError(
+                'Semantic Scholar request failed (HTTP {}): {}'.format(response.status_code, response.text),
+                response=response,
+            )
+        return response.json()
+
+def get_citations_page(paper_id, page_size=200, offset=0):
+    url = 'https://api.semanticscholar.org/graph/v1/paper/{}/citations'.format(paper_id)
+    return get_semantic_scholar_json(url, {'fields': PAPER_FIELDS, 'limit': page_size, 'offset': offset})
 
 def get_all_citations_for_paper(paper_id, paper_name):
     print('- Searching papers citing {}'.format(paper_name))
@@ -66,9 +88,10 @@ def get_all_citations_for_paper(paper_id, paper_name):
     papers_data = []
     while next_offset is not None:
         resp = get_citations_page(paper_id, offset=next_offset)
+        if not isinstance(resp, dict) or not isinstance(resp.get('data'), list):
+            raise ValueError('Unexpected Semantic Scholar citations response for {}: {}'.format(paper_id, resp))
         next_offset = resp.get("next", None)
         papers_data += [element["citingPaper"] for element in resp['data']]
-        time.sleep(1)
     print('Found {} citations'.format(len(papers_data)))
     return papers_data
 
@@ -90,25 +113,20 @@ def add_remote_papers():
 def add_local_papers():
 
     print('- Adding papers from manual list...')
-    for semantic_scholar_url in open(MANUAL_PAPERS_FILENAME, 'r').readlines():
-        paper_id = semantic_scholar_url.split('/')[-1][:-1]
+    with open(MANUAL_PAPERS_FILENAME, 'r', encoding='utf-8') as fid:
+        urls = fid.readlines()
+    for semantic_scholar_url in urls:
+        paper_id = semantic_scholar_url.strip().split('/')[-1]
         print(paper_id)
         out_filename = paper_filename_from_id(paper_id)
         if not os.path.exists(out_filename):
             # If markdown file does not not already exist, get paper information and write file
-            try:
-                headers = {'X-API-KEY': API_KEY} if API_KEY else {}
-                resp = requests.get('https://api.semanticscholar.org/graph/v1/paper/{}?fields={}'.format(paper_id, PAPER_FIELDS), headers=headers).json()
-            except Exception as e:
-                print('ERROR getting info for paper id {}: {}'.format(paper_id, str(e)))
+            url = 'https://api.semanticscholar.org/graph/v1/paper/{}'.format(paper_id)
+            resp = get_semantic_scholar_json(url, {'fields': PAPER_FIELDS})
             print(resp)
             write_markdown_file(resp, out_filename)
 
-            # Sleep to avoid API rate limiting
-            time.sleep(1)
-
-
 if __name__ == "__main__":
     args = parser.parse_args()
-    #add_remote_papers()
+    add_remote_papers()
     add_local_papers()

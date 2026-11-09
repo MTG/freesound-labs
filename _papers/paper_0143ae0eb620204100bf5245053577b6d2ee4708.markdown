@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "0143ae0eb620204100bf5245053577b6d2ee4708"
+title: "City Research Online"
+publication: ""
+year: 2015
+external_url: https://www.semanticscholar.org/paper/0143ae0eb620204100bf5245053577b6d2ee4708
+authors: "D. Wolff, Tillman Weyde"
+---
+
+Computational modelling of music similarity is an increasingly important task for personalisation and optimisation in Music Information Retrieval and for research in music perception and cognition. Relative similarity ratings provide a new and promising approach to this task as they avoid problems associated with absolute ratings. In this article, we use relative ratings from the MagnaTagATune dataset to develop a complete learning and evaluation process with state-of-the-art algorithms and provide the ﬁrst comprehensive and rigorous evaluation of this approach. We compare diﬀerent high and low level audio features, genre data, dimensionality eﬀects, weighted similarity ratings, and diﬀerent sampling methods. For model adaptation, we compare SVM-based metric learning, Metric-Learning-to-Rank (MLR), including a diagonal and a novel weighted MLR variant, and similarity learning with Neural Networks. Our results show that music similarity measures learnt on relative ratings are signiﬁcantly better than a standard metric, depending on the choice of learning algorithm, feature set and application scenario. We implemented a testing framework in Matlab R (cid:13) , which we made publicly available 1 to ensure reproducibility of our results. 2

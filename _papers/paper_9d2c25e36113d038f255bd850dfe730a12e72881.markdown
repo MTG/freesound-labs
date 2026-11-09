@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "9d2c25e36113d038f255bd850dfe730a12e72881"
+title: "Towards Real-World Environment-Aware Zero-Shot Text-To-Speech Synthesis Via Disentangled Audio Infilling"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/9d2c25e36113d038f255bd850dfe730a12e72881
+authors: "Ye-Xin Lu, Xin Wang, Yang Ai, Hui-Peng Du, Zhen-Hua Ling, Junichi Yamagishi"
+---
+
+Recent zero-shot text-to-speech (TTS) systems achieve remarkable naturalness and speaker similarity but typically require high-quality speaker prompts and either strip away or entangle the acoustic environment with speaker characteristics, limiting their real-world applicability. We present an extended DAIEN-TTS, an environment-aware zero-shot TTS framework that disentangles and jointly models speech, background noise, and reverberation, enabling independent control over timbre and acoustic environment through separate speaker and environment prompts. Built upon the flow-matching-based F5-TTS, it uses a speech-environment separation module to decompose environmental speech into speech, noise, and reverberation components, which are injected into the Diffusion Transformer for environment-aware generation. Training uses simulated data constructed by mixing clean speech with noise and room impulse responses, together with a cross-speaker conditioning strategy that suppresses speaker information leakage from the environment branch. When real-world data are available, the system can be further fine-tuned to bridge the simulated-to-real domain gap.At inference, a triple classifier-free guidance mechanism enables fine-grained control over speech, noise, and reverberation, and a signal-to-noise-ratio adaptation strategy aligns the synthesized speech with the environment prompt. Experiments on simulated and real-world test sets show that DAIEN-TTS generates environmental personalized speech with high naturalness, strong speaker similarity, and faithful noise and reverberation reproduction, while offering controllability beyond prior environment-aware TTS systems.

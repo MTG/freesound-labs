@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "80fdead9d24375263e1b8794863ac4d250e36d21"
+title: "Reducing Hallucinated Transcripts In Whisper Via Hallucination Space Projection"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/80fdead9d24375263e1b8794863ac4d250e36d21
+authors: "Maryam Abbasihafshejani, Murtuza Jadliwala"
+---
+
+Whisper is a widely used foundation model for automatic speech recognition (ASR), but its generative decoder can produce fluent hallucinated transcripts for inputs containing little or no speech. We propose a training-free, inference-time method to reduce these hallucinations using low-rank projection of decoder activations. A compact hallucination-associated subspace is estimated from non-speech calibration data, and decoder hidden states are projected away from this subspace during inference. We evaluate two variants: always-on, which applies projection to all inputs, and gated, which applies it only when Whisper predicts that an input is likely non-speech. Across non-speech benchmarks, always-on projection reduces average hallucination rate (HR) from 31.31% to 2.44%, a 92.21% relative reduction, while gated projection reduces HR to 3.74%, an 88.05% relative reduction, with lower false rejection of genuine speech. On LibriSpeech, gated projection increases absolute word error rate (WER) by 0.33-4.39 percentage points and yields false-rejection rates (FRR) of 0.41--9.97% across model and split settings. These results show that low-rank activation projection can substantially suppress Whisper hallucinations without retraining, while providing a controllable trade-off between hallucination suppression and speech recognition performance.

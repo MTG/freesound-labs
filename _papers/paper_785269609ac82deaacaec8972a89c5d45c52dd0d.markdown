@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "785269609ac82deaacaec8972a89c5d45c52dd0d"
+title: "Extending A Vision–Language Model With Audio Understanding: Introducing Qolda-Avl For The Kazakh Language"
+publication: "Big Data and Cognitive Computing"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/785269609ac82deaacaec8972a89c5d45c52dd0d
+authors: "Batyr Arystanbekov, Akylbek Maxutov, A. Nurimanov, H. Varol"
+---
+
+Recent advances in multi-modal large language models have enabled systems to jointly process text, images, and audio. However, these developments have primarily benefited high-resource languages, leaving many low-resource communities underserved. In response, we introduce Qolda-AVL, a compact five-billion-parameter audio–vision–language model tailored for Kazakh. Qolda-AVL extends our previous Qolda vision–language model by adding a dedicated audio perception branch while maintaining strong visual and linguistic performance. Built on the Qwen3-VL-Thinking backbone, we incorporate Audio DeepStack, which transfers features from three intermediate Whisper encoder layers into the first three layers of the language model using dedicated projections and residual connections. The model is trained through a four-stage pipeline: adapting the Whisper encoder and language model to Kazakh, aligning the new audio branch to the language backbone, and jointly fine-tuning all modules on chain-of-thought reasoning tasks across audio, image, and text. All audio, vision, and language capabilities are evaluated using the model’s native reasoning mode, and a chain-of-thought trace is generated before each final answer during the performance assessment. To facilitate further research, we open-source the model along with the adapted Kazakh versions of four audio benchmarks, covering spoken attribute reasoning, spoken mathematical question answering, and audio captioning with question answering.

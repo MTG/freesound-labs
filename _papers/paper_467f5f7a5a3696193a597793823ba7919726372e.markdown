@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "467f5f7a5a3696193a597793823ba7919726372e"
+title: "At-Differ: Dataset For Audio-Text Difference Captioning"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/467f5f7a5a3696193a597793823ba7919726372e
+authors: "Akihiro Fujii, Yuki Okamoto, Yuki Saito, Hiroshi Saruwatari"
+---
+
+Evaluating audio-text semantic alignment is important in various audio-language tasks. Existing methods mainly quantify audio-text semantic alignment using a single score and cannot explicitly describe how audio and text differ. In this paper, we propose audio-text difference captioning, a task that generates textual descriptions of differences between audio and text. We also construct a new dataset AT-DIFFER containing audio-text pairs with systematically simulated differences and corresponding difference captions. Using AT-DIFFER, we fine-tune an existing multimodal large language model to describe differences between audio and text. The experimental results show that the original model has limited ability to describe such differences, whereas fine-tuning on AT-DIFFER substantially improves this ability.

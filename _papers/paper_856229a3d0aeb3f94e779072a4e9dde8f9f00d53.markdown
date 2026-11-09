@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "856229a3d0aeb3f94e779072a4e9dde8f9f00d53"
+title: "Sea-Lm: Egocentric Spatial Audio Understanding For Wearable Microphone Arrays"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/856229a3d0aeb3f94e779072a4e9dde8f9f00d53
+authors: "Sonal Kumar, Sinan Hersek, Artem Dementyev, Meng-Zhen Pan, Ishan Chatterjee, Anurag Kumar, R. Duraiswami, Dinesh Manocha, Andrea Colaco"
+---
+
+Embodied, ego-centric intelligence fundamentally requires the ability to comprehend spatial audio within complex environments. While large audio-language models excel at mono-channel reasoning, they lack spatial awareness, discarding critical spatial cues that enable sound localization and that can improve the disentanglement of overlapping sound sources. To address this, we present SEA-LM, a Spatial Audio Understanding model. First, we introduce FOACODER, a layout-flexible spatial audio encoder trained on source localization and ego-centric voice activity detection objectives to encode First Order Ambisonics derived from variable-count, variable-position smart-glasses arrays via beamforming. We train a Multimodal Large Language Model (MLLM) to understand these spatial audio embeddings through a two-stage curriculum spanning six tasks, including sound localization and spatially selective transcription in settings with multiple speakers and overlapping sounds. To prevent the transcription outputs from dominating the next token prediction loss and overwhelming the direction predictions, we introduce a Spatio-temporal Weighted Cross-Entropy Loss. On our evaluation set, SEA-LM achieves lower azimuth and elevation MAE, higher temporal IoU, lower external-source hallucination and missing-source rates, and lower WER on most transcription tasks than compared baselines, while remaining robust across 1,211 smart-glasses array configurations with 4 to 9 microphones.

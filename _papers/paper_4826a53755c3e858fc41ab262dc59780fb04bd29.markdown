@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "4826a53755c3e858fc41ab262dc59780fb04bd29"
+title: "Dual-Stream Graph Memory Networks With Meta-Learning For Marine Mammal Call Classification"
+publication: "Applied Acoustics"
+year: 2027
+external_url: https://www.semanticscholar.org/paper/4826a53755c3e858fc41ab262dc59780fb04bd29
+authors: "Meng Wang, Zhao Liu, She-Feng Yan, Li-Jun Xu, Lei Zhao, Jing-Jing Wang"
+---

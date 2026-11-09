@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "f9b61692fe89238552052eefc7faa15ac5b36f1b"
+title: "A Knowledge Distillation Framework For Multi-Signal-To-Noise Ratio Speech Enhancement In Construction Environments"
+publication: "Developments in the Built Environment"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/f9b61692fe89238552052eefc7faa15ac5b36f1b
+authors: "Jia-Jing Liu, Jianxin Wu, Hanbin Luo, Przemysław Sekuła"
+---

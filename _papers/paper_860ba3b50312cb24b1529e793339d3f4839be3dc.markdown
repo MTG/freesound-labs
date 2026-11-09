@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "860ba3b50312cb24b1529e793339d3f4839be3dc"
+title: "Masked Autoencoders With Limited Data: Does It Work? A Fine-Grained Bioacoustics Case Study"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/860ba3b50312cb24b1529e793339d3f4839be3dc
+authors: "Wuao Liu, Mustafa Chasmai, S. Maji, G. Van Horn"
+---
+
+Bioacoustic recognition requires fine-grained acoustic understanding to distinguish similar-sounding species. However, many large-scale data repositories such as iNaturalist are weakly annotated, often with only a single positive species label per recording, making supervised learning particularly challenging. Inspired by advances in computer vision, recent approaches have shifted toward self-supervised learning to capture the underlying structure of audio without relying on exhaustive annotations. In particular, masked autoencoders (MAE) have shown strong transferability on massive audio corpora, yet their effectiveness in more modest bioacoustic settings remains underexplored. In this work, we conduct a systematic study of MAE pretraining for species classification on iNatSounds, analyzing the impacts of pretraining data scale, domain specificity, data curation, and transfer strategies. Consistent with prior work, we find that models pretrained on diverse general audio data achieve the best transfer performance on iNatSounds. Contrary to observations from large-scale audio benchmarks, we find that (1) additional masked reconstruction pretraining on domain-specific data provides limited benefits and may even degrade performance relative to off-the-shelf models, and (2) selective data filtering offers a negligible advantage when the overall data scale is limited. Our results indicate that, in moderate-sized fine-grained bioacoustic settings, pretraining scale dominates objective design. These findings further clarify when MAE-based pretraining is effective and provide practical guidance for model selection under limited supervision.

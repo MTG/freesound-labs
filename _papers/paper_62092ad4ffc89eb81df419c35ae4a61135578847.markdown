@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "62092ad4ffc89eb81df419c35ae4a61135578847"
+title: "Structure-Aware Long-Form Audio Classification And Multi-Class Dataset Construction For The Intangible Cultural Heritage Dong Folk Polyphonic Singing"
+publication: "Scientific Reports"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/62092ad4ffc89eb81df419c35ae4a61135578847
+authors: "Tong Zhao, Xi Yang, Xiao-Peng Qi, Yu Huang"
+---
+
+This paper targets Dong folk polyphonic singing, a multi-part, conductorless, and unaccompanied intangible cultural heritage choral tradition, and focuses on the needs of automatic genre recognition and digital preservation for representative thematic categories including Drum-Tower Grand Song, Praise Grand Song, Ritual-Convention Grand Song, Ethical Grand Song, Blessing Grand Song, Children’s Grand Song, and Narrative Grand Song. To address challenges such as scarce public data, highly complex polyphonic textures, large intra-class variability, and small-sample overfitting, we construct and curate a multi-class audio dataset for Dong folk polyphonic singing, and provide a unified preprocessing pipeline together with a reproducible data-splitting protocol. Methodologically, we propose a structure-aware long-audio classification framework that adopts segment-wise training to alleviate data scarcity and performs sequence-level modeling to capture cross-segment dependencies and key discriminative cues arising from polyphony. Experimental results demonstrate that the proposed approach consistently outperforms multiple mainstream baselines across several evaluation metrics, substantially improving the separability of easily confused categories, and providing effective technical support for intelligent retrieval, organization, and digital archive construction of Dong folk polyphonic singing.

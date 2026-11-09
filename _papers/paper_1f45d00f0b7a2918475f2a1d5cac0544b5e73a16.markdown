@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "1f45d00f0b7a2918475f2a1d5cac0544b5e73a16"
+title: "Octonet: A Large-Scale Multi-Modal Dataset For Human Activity Understanding Grounded In Motion-Captured 3D Pose Labels"
+publication: "Neural Information Processing Systems"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/1f45d00f0b7a2918475f2a1d5cac0544b5e73a16
+authors: "D. Yuan, Xie Zhang, Wei-Ying Hou, Sheng Lyu, Yuemin Yu, Luca Jiang-Tao Yu, Cheng-Xiao Li, Chen-Shu Wu"
+---
+
+We introduce OctoNet , a large-scale, multi-modal, multi-view human activity dataset designed to advance human activity understanding and multi-modal learning. OctoNet comprises 12 heterogeneous modalities (including RGB, depth, thermal cameras, infrared arrays, audio, millimeter-wave radar, Wi-Fi, IMU, and more) recorded from 41 participants under multi-view sensor setups, yielding over 67.72M synchronized frames. The data encompass 62 daily activities spanning structured routines, freestyle behaviors, human-environment interaction, healthcare tasks, etc. All modalities are annotated by high-fidelity 3D pose labels captured via a professional motion-capture system, allowing precise alignment and rich supervision across sensors and views. OctoNet is one of the most comprehensive datasets of its kind, enabling a wide range of learning tasks such as human activity recognition, 3D pose estimation, multi-modal fusion, cross-modal supervision, and sensor foundation models. Extensive experiments have been conducted to demonstrate the sensing capacity using various baselines. OctoNet offers a unique and unified testbed for developing and benchmarking generalizable, robust models for human-centric sensing AI.

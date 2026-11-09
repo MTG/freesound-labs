@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "c2cabde1ddb9f8236d32e0f749bb3f59fb05c360"
+title: "Federated Self-Training For Semi-Supervised Audio Recognition"
+publication: "ACM Transactions on Embedded Computing Systems"
+year: 2021
+external_url: https://www.semanticscholar.org/paper/c2cabde1ddb9f8236d32e0f749bb3f59fb05c360
+authors: "Vasileios Tsouvalas, Aaqib Saeed, Tanir Ozcelebi"
+---
+
+Federated Learning is a distributed machine learning paradigm dealing with decentralized and personal datasets. Since data reside on devices such as smartphones and virtual assistants, labeling is entrusted to the clients or labels are extracted in an automated way. Specifically, in the case of audio data, acquiring semantic annotations can be prohibitively expensive and time-consuming. As a result, an abundance of audio data remains unlabeled and unexploited on users’ devices. Most existing federated learning approaches focus on supervised learning without harnessing the unlabeled data. In this work, we study the problem of semi-supervised learning of audio models via self-training in conjunction with federated learning. We propose FedSTAR to exploit large-scale on-device unlabeled data to improve the generalization of audio recognition models. We further demonstrate that self-supervised pre-trained models can accelerate the training of on-device models, significantly improving convergence within fewer training rounds. We conduct experiments on diverse public audio classification datasets and investigate the performance of our models under varying percentages of labeled and unlabeled data. Notably, we show that with as little as 3% labeled data available, FedSTAR on average can improve the recognition rate by 13.28% compared to the fully supervised federated model.

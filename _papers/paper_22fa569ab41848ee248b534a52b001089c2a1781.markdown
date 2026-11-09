@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "22fa569ab41848ee248b534a52b001089c2a1781"
+title: "Context-Aware Alerts For Supporting Reading While Walking In Augmented Reality"
+publication: "International Journal of Human-Computer Interaction"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/22fa569ab41848ee248b534a52b001089c2a1781
+authors: "Matan Aharon Mayerowicz, Amber Maimon, Mohammad Hajali, S. Szpiro, J. Lanir"
+---

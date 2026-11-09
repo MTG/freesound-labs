@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "16f639dae0acf4b5cd00c9b17552de21905b53dd"
+title: "Sound Effects Dataset Unification With The Universal Category System"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/16f639dae0acf4b5cd00c9b17552de21905b53dd
+authors: "J. Beck, Alexander Lerch"
+---
+
+Sound effects (SFX) datasets and libraries often employ distinct tagging schemes, taxonomies, and metadata structures. This creates challenges for research on SFX classification and generation because incompatible taxonomies lead to siloed datasets that might require individualized approaches, result in non-comparable outcomes, and prevent data merging strategies. We propose a modular dataset relabeling framework that adopts the Universal Category System (UCS), an industry-standard hierarchical taxonomy for sound effects, as a shared structural foundation. This open-source framework enables us (i) to convert tags of existing datasets to UCS with a rule-based multi-stage pipeline and conflict resolution to achieve high automatic conversion rates, (ii) to suggest a stratified dataset split for the new labels, and (iii) to combine multiple datasets. To showcase the practical utility, we introduce the EnvSound-UCS dataset, a publicly available unified UCS-compliant dataset of environmental sounds with 58,057 sound clips from three sources: AudioSet, FSD50K, and ESC-50.

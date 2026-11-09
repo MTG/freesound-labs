@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "b1d3c530621fdf50b40f7f9afd490601af6b1d7e"
+title: "Sem-Net: A Social–Emotional Music Classification Model For Emotion Regulation And Music Literacy In Individuals With Special Needs"
+publication: "Applied Sciences"
+year: 2025
+external_url: https://www.semanticscholar.org/paper/b1d3c530621fdf50b40f7f9afd490601af6b1d7e
+authors: "Yu-Chi Chou, Shan-Ken Chien, Pen-Chiang Chao, Yuan-Jin Lin, Chih-Yun Chen, Kuang-Kai Yeh, Yen-Chia Peng, Chen-Hao Tsao, Shih-Lun Chen, Kuo-Chen Li"
+---
+
+This study aims to establish an innovative AI-based social–emotional music classification model named SEM-Net, specifically designed to integrate three core positive social–emotional elements—positive outlook, empathy, and problem-solving—into classical music, facilitating accurate emotional classification of musical excerpts related to emotional states. SEM-Net employs a convolutional neural network (CNN) architecture composed of 17 meticulously structured layers to capture complex emotional and musical features effectively. To further enhance the precision and robustness of the classification system, advanced social–emotional music feature preprocessing and sophisticated feature extraction techniques were developed, significantly improving the model’s predictive performance. Experimental results demonstrate that SEM-Net achieves an impressive final classification accuracy of 94.13%, substantially surpassing the baseline method by 54.78% and outperforming other widely used deep learning architectures, including conventional CNN, LSTM, and Transformer models, by at least 27%. The proposed SEM-Net system facilitates emotional regulation and meaningfully enhances emotional and musical literacy, social communication skills, and overall quality of life for individuals with special needs, offering a practical, scalable, and accessible tool that contributes significantly to personalized emotional growth and social–emotional learning.

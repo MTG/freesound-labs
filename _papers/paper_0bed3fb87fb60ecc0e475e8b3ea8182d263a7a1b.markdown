@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "0bed3fb87fb60ecc0e475e8b3ea8182d263a7a1b"
+title: "Rate–Distortion–Perception-Guided Rate-Adaptive Digital Semantic Communication For Agentic Ai"
+publication: "IEEE Transactions on Cognitive Communications and Networking"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/0bed3fb87fb60ecc0e475e8b3ea8182d263a7a1b
+authors: "Xiao-Jiao Chen, Jing Wang, Ming Zeng, Zhong Zheng, Ze-Song Fei"
+---
+
+Agentic AI has emerged as a promising paradigm for enabling autonomous, collaborative interactions among multiple AI agents, driven by the increasing number of intelligent devices. However, the increase in the amount of data transmitted between intelligent agents poses significant challenges to conventional communication schemes due to limited spectral resources. To address those issues, this paper proposes a rate-adaptive digital semantic communication between agents based on rate-distortion-perception (RDP) optimization for agentic AI systems. Specifically, within the transmitter agent, a rate-adaptive module is designed based on semantic importance and channel conditions to enhance transmission efficiency. In addition, a group finite scalar quantization (GFSQ) method is proposed to reduce bandwidth consumption and ensure compatibility with digital communication systems. To reduce the impact of channel noise and compensate for the quality degradation under low-SNR conditions, the receiver agent is equipped with an improved Transformer-based channel denoising module. To further enhance the proposed method, we formulate an extended RDP optimization framework that jointly balances the trade-offs among transmission rate, semantic distortion, reconstruction distortion, and perceptual quality. Extensive experiments on several datasets demonstrate that the proposed method achieves variable-rate transmission while requiring only about 50% of the bandwidth used by existing semantic communication schemes, and simultaneously improves perceptual quality. These results demonstrate the potential of the proposed method for efficient and rate-adaptive audio transmission under the considered channel conditions, providing a basis for future investigation of communication support for agentic AI applications.

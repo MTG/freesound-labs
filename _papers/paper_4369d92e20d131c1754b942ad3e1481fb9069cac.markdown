@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "4369d92e20d131c1754b942ad3e1481fb9069cac"
+title: "Designed Vocalizations Dataset: Sound-Designed Human And Animal Voices For Non-Human Voice Conversion"
+publication: "Interspeech"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/4369d92e20d131c1754b942ad3e1481fb9069cac
+authors: "Seolhee Lee, Minsu Kang, Yangsun Lee, Woo-Sun Min, Choonghyeon Lee, Namhyun Cho"
+---
+
+Advances in AI-based voice conversion have enabled a wide range of media applications, including films, audiobooks, and games. However, most research and public benchmarks still focus on natural human speech, leaving designed vocalizations, such as monster growls and robotic voices, underexplored, partly due to the lack of publicly available resources. To address this gap, we introduce the Designed Vocalizations Dataset, constructed by curating diverse raw vocal sources, including speech and animal vocalizations, and applying professional vocal effects processing to produce corresponding effect modified variants. We further provide a standardized test set with explicit seen/unseen splits over source timbre groups and preset styles to assess generalization under controlled conditions. Finally, we report baseline benchmark results to support reproducible evaluation and future research. The dataset and demo samples are available at https://ncai-official.github.io/speech/publications/designed-vocalizations-dataset/.

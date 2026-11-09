@@ -1,0 +1,9 @@
+---
+layout: paper
+id: "973f12428f87923c3e1bdbaa78f8ac04cc739ee3"
+title: "Knowledge-Aware Replay For Multi-Label Class-Incremental Learning"
+publication: "Expert systems with applications"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/973f12428f87923c3e1bdbaa78f8ac04cc739ee3
+authors: "Chengtai Cao, Xinhong Chen, Qun Song, Rui Tan, Yung-Hui Li, Jianping Wang"
+---

@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "0e3c49cf3e9017679f34171b9f70931c11939aaf"
+title: "Hear, Invoke, And Understand: A Skill-Calling Multimodal Agent For Large Audio Language Models"
+publication: "arXiv.org"
+year: 2026
+external_url: https://www.semanticscholar.org/paper/0e3c49cf3e9017679f34171b9f70931c11939aaf
+authors: "Yuwen Wang, Tian-Hao Zhang, Ming Cai, Yili Ren, Zi-Yang Jiang, X. Wang, Zhi-Chao Wang, Pan Zhou, Kun Zhan, Xin-Yuan Qian"
+---
+
+Complex acoustic problems may require models to perform acoustic operations, interact with external tools and reason over the resulting textual or processed-audio observations rather than answer directly from a fixed audio input. We study such problems as tool-interactive audio reasoning and develop SpeechAgent-R, an audio agent that coordinates its intrinsic multimodal understanding with external skills and tools. To support this capability, we construct HIU-Corpus, comprising 65,492 interaction trajectories and 507.6 hours of audio across 24 tasks, 8 skills and 9 tools. SpeechAgent-R first learns structured interaction behaviors through trajectory-based supervised fine-tuning and then improves its decisions through multi-turn reinforcement learning. We further introduce HIU-Bench to jointly evaluate task performance, interaction quality and generalization to diverse task settings. It contains 1,395 samples across 56 tasks, including in-distribution (ID) and out-of-distribution (OOD) splits with substantial shifts in tool usage and workflow composition. SpeechAgent-R achieves 84.17 on ID tasks and 70.94 on OOD tasks, improving over the base model under the same agent harness by 15.40 and 14.23 points. These results demonstrate that learning skill and tool coordination improves audio agents'ability to handle diverse task settings and adaptive tool interactions.

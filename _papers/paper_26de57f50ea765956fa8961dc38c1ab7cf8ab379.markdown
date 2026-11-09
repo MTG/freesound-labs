@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "26de57f50ea765956fa8961dc38c1ab7cf8ab379"
+title: "Timuse: Text-Initialized Masked Semantic Token Modeling For Universal Speech Enhancement"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/26de57f50ea765956fa8961dc38c1ab7cf8ab379
+authors: "Yi-Wei Guo, Hao Qiu, M. Ye, Zhi-Jie Deng, Ze-Hua Chen, Kai Yu"
+---
+
+Discrete-token-based universal speech enhancement (USE) enables strong sequence modeling but often suffers from a quality--fidelity trade-off, where perceptually plausible outputs may alter linguistic content or speaker characteristics. We present TIMUSE, a two-stage USE framework combining text-initialized masked semantic restoration with acoustic reconstruction. A pretrained diffusion language model (DLM) is adapted with LoRA to recover clean semantic tokens using masked generative modeling, while a conditional flow matching model reconstructs clean 24\,kHz speech from the recovered semantic tokens and original degraded speech. Both system-level and controlled comparisons show that TIMUSE achieves a better balance between perceptual quality and fidelity than existing discrete USE models. Ablations further show that text DLM initialization brings a targeted gain under severe degradations.

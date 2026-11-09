@@ -1,0 +1,11 @@
+---
+layout: paper
+id: "19bf5f8a3ca3ed6de2e79164b3c43ffe59607c84"
+title: "Audiofm: Towards General Purpose Audio Representation Learning"
+publication: ""
+year: 2026
+external_url: https://www.semanticscholar.org/paper/19bf5f8a3ca3ed6de2e79164b3c43ffe59607c84
+authors: "Ya-Min Li, Rui-Dong Zhang, An Wang, Eduardo Fonseca, Dan Ellis, Zechen Li, Simon A. Lee, Tao Pang, Jake Garrison, Maxwell A. Xu, Yi-Chen Wang, Jia-Tian Zhang, Wei-Zhi Zhang, Hai-Chao Zhang, Catie Chang, Xin Liu, Anupam Pathak, D. Mcduff, Shwetak N. Patel, Jacob E. Sunshine, Yu-Zhe Yang, Xiao-Ran Fan"
+---
+
+Learning audio representations that effectively bridge holistic global soundscapes with fine-grained acoustic moments is a long-standing goal in self-supervised learning. Recording-level contrastive objectives encourage agreement between pooled audio representations, but do not explicitly supervise local time-frequency representations. We introduce AudioFM, a self-supervised framework that combines recording-level contrast with patch-wise masked latent discrimination. Using visible acoustic context, a student predicts representations of masked patches and identifies their corresponding full-view teacher targets among candidates from other recordings. We further incorporate weaker supervision from eligible temporal neighbors to encourage local temporal consistency. Extensive evaluations show that AudioFM achieves state-of-the-art performance across diverse audio domains in linear probing, fine-tuning, and zero-shot transfer, demonstrating superior event detection, robust scene-level understanding, and strong domain generalizability.
