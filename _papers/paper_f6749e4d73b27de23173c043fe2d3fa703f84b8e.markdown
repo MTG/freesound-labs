@@ -6,6 +6,7 @@ publication: "IUI"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/f6749e4d73b27de23173c043fe2d3fa703f84b8e
 authors: "N. Singh"
+publication_date: "2021-04-14"
 ---
 
 Software tools for media production have largely been adapted from physical media paradigms, offering blank canvases upon which to import, combine, and process content. In music production, this increasingly involves meticulous manual assembly of audio clips often carefully curated from diverse sources. As collections of audio content scale upwards in sample size, diversity, and number, creative projects require exponentially more time, effort, and attention to effectively shape them. New tools must find new ways to contend with this abundance of content. We propose the Sound Sketchpad, an algorithm-in-the-loop audio-graphical system and interface for combining sounds from a database into new music. It allows a user to sketch broad musical ideas by making sound, and then interactively modify and refine the resulting composition by drawing visual paths. We discuss the design, implementation, and advantages of this approach.

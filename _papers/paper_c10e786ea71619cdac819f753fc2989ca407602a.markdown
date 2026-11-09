@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/c10e786ea71619cdac819f753fc2989ca407602a
 authors: "Honglei Zhang, Yuting Chen, Chenpeng Hu, Siyue Zhang, Yilei Shi"
+publication_date: "2026-05-05"
 ---
 
 Existing audio retrieval benchmarks primarily assess semantic matching, lacking comprehensive evaluation of the logical reasoning capabilities required by complex queries. We introduce ReasonAudio, a benchmark for reasoning-intensive Text-Audio Retrieval that evaluates four abilities: negation, temporal order, sound co-occurrence, and sound duration. It comprises five synthetic subtasks with 1,000 queries over 10,000 composite audio clips and a natural subtask with 100 queries over 1,000 real-world clips. Evaluation of 11 state-of-the-art retrieval systems reveals substantial limitations: the best-performing model, OmniEmbed-7B, achieves an overall score of 20.7. In a controlled experiment designed to reduce the influence of sound-event matching, OmniEmbed-7B attains 53.8% average accuracy, compared with 70.6% for its generative backbone, Qwen2.5-Omni-7B-Thinker, and 95.6% for humans. Our results highlight the challenges of reasoning-intensive audio retrieval and reveal a performance gap between OmniEmbed-7B and its generative backbone.

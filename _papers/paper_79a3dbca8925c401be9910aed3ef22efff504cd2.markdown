@@ -6,4 +6,5 @@ publication: "Applied Acoustics"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/79a3dbca8925c401be9910aed3ef22efff504cd2
 authors: "Shichao Wu, Yongru Wang, Zhengxi Hu, Jingtai Liu"
+publication_date: "2023-08-01"
 ---

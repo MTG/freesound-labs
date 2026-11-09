@@ -6,6 +6,7 @@ publication: "IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensin
 year: 2024
 external_url: https://www.semanticscholar.org/paper/e0a5c7e11098bba16de6937377c429f82c168e8d
 authors: "Erwin Deng"
+publication_date: "2024-07-07"
 ---
 
 As climate change intensifies, coastal regions face increasing vulnerability to extreme weather events. This report addresses the urgent need for efficient disaster response in these areas. It introduces the use of the Co-DETR model [1], which is an improvement of DETR-based models, to assess storm damage using satellite images. Feature extraction and a nearest neighbors algorithm were applied to extract a training dataset containing the most relevant patches. The model’s effectiveness is demonstrated through a dataset built from manually annotated satellite images taken before and after Hurricane Maria in Puerto Rico.

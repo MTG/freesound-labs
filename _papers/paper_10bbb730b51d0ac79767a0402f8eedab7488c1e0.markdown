@@ -6,6 +6,7 @@ publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Spe
 year: 2024
 external_url: https://www.semanticscholar.org/paper/10bbb730b51d0ac79767a0402f8eedab7488c1e0
 authors: "Yuchi Ishikawa, Tatsuya Komatsu, Yoshimitsu Aoki"
+publication_date: "2024-10-01"
 ---
 
 In this paper, we propose to pre-train audio encoders using synthetic patterns instead of real audio data. Our proposed framework consists of two key elements. The first one is Masked Autoencoder (MAE), a self-supervised learning framework that learns from reconstructing data from randomly masked counterparts. MAEs tend to focus on low-level information such as visual patterns and regularities within data. Therefore, it is unimportant what is portrayed in the input, whether it be images, audio mel-spectrograms, or even synthetic patterns. This leads to the second key element, which is synthetic data. Synthetic data, unlike real audio, is free from privacy and licensing infringement issues. By combining MAEs and synthetic patterns, our framework enables the model to learn generalized feature representations without real data, while addressing the issues related to real audio. To evaluate the efficacy of our framework, we conduct extensive experiments across a total of 13 audio tasks and 17 synthetic datasets. The experiments provide insights into which types of synthetic patterns are effective for audio. Our results demonstrate that our framework achieves performance comparable to models pre-trained on AudioSet-2M and partially outperforms image-based pre-training methods.

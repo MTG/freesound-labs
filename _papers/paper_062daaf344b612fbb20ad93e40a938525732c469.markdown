@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/062daaf344b612fbb20ad93e40a938525732c469
 authors: "F. Paissan, Luca Della Libera, M. Ravanelli, Cem Subakan"
+publication_date: "2024-05-27"
 ---
 
 Interpreting the decisions of deep learning models, including audio classifiers, is crucial for ensuring the transparency and trustworthiness of this technology. In this paper, we introduce LMAC-ZS (Listenable Maps for Audio Classifiers in the Zero-Shot context), which, to the best of our knowledge, is the first decoder-based post-hoc interpretation method for explaining the decisions of zero-shot audio classifiers. The proposed method utilizes a novel loss function that maximizes the faithfulness to the original similarity between a given text-and-audio pair. We provide an extensive evaluation using the Contrastive Language-Audio Pretraining (CLAP) model to showcase that our interpreter remains faithful to the decisions in a zero-shot classification context. Moreover, we qualitatively show that our method produces meaningful explanations that correlate well with different text prompts.

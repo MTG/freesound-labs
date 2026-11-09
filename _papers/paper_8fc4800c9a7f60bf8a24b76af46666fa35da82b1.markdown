@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/8fc4800c9a7f60bf8a24b76af46666fa35da82b1
 authors: "Yuxuan Chen, Hao-Yuan Yu, Pei-Ze He"
+publication_date: "2026-06-08"
 ---
 
 Flow-matching transformers achieve strong audio separation, yet their attention dynamics are opaque. We adapt established causal-intervention principles into a deterministic, inference-time probing protocol for SAM Audio. Orthogonal probing uncovers a dual-pathway text-conditioning mechanism: additive injections control semantic identity, while cross-attention refines acoustic structure. We observe an asynchronous layerwise convergence: stable layers build temporal scaffolds early, whereas fast layers continue resolving artifacts during sampling. The model also attenuates temporal segmentation cues to maintain continuous-flow stability. Using these insights, we propose Layer-Selective Attention Caching (LSAC), a training-free acceleration method that caches attention in stable layers. Across acoustic complexities, LSAC cuts self-attention computation by about ~25% with negligible quality loss and yields up to 6.7x higher quality retention than naive step reduction.

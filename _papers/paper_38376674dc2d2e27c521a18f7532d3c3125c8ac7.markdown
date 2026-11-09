@@ -6,6 +6,7 @@ publication: ""
 year: 2022
 external_url: https://www.semanticscholar.org/paper/38376674dc2d2e27c521a18f7532d3c3125c8ac7
 authors: "Pritam Sarkar, A. Etemad"
+publication_date: "2022-11-25"
 ---
 
 We present XKD, a novel self-supervised framework to learn meaningful representations from unlabelled videos. XKD is trained with two pseudo objectives. First, masked data reconstruction is performed to learn modality-specific representations from audio and visual streams. Next, self-supervised cross-modal knowledge distillation is performed between the two modalities through a teacher-student setup to learn complementary information. We introduce a novel domain alignment strategy to tackle domain discrepancy between audio and visual modalities enabling effective cross-modal knowledge distillation.

@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/4f54807b39f9a7e3bc4539bc24790dad2274ec7c
 authors: "Sarthak Yadav, M. Foster"
+publication_date: "2021-03-23"
 ---
 
 Most of the existing isolated sound event datasets comprise a small number of sound event classes, usually 10 to 15, restricted to a small domain, such as domestic and urban sound events. In this work, we introduce GISE-51, a dataset spanning 51 isolated sound events belonging to a broad domain of event types. We also release GISE-51-Mixtures, a dataset of 5-second soundscapes with hard-labelled event boundaries synthesized from GISE-51 isolated sound events. We conduct baseline sound event recognition (SER) experiments on the GISE-51-Mixtures dataset, benchmarking prominent convolutional neural networks, and models trained with the dataset demonstrate strong transfer learning performance on existing audio recognition benchmarks. Together, GISE-51 and GISE-51-Mixtures attempt to address some of the shortcomings of recent sound event datasets, providing an open, reproducible benchmark for future research along with the freedom to adapt the included isolated sound events for domain-specific applications.

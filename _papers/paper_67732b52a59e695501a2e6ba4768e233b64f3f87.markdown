@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/67732b52a59e695501a2e6ba4768e233b64f3f87
 authors: "H. Taherian, S. Eskimez, Takuya Yoshioka"
+publication_date: "2022-11-05"
 ---
 
 Personalized speech enhancement (PSE) models achieve promising results compared with unconditional speech enhancement models due to their ability to remove interfering speech in addition to background noise. Unlike unconditional speech enhancement, causal PSE models may occasionally remove the target speech by mistake. The PSE models also tend to leak interfering speech when the target speaker is silent for an extended period. We show that existing PSE methods suffer from a trade-off between speech over-suppression and interference leakage by addressing one problem at the expense of the other. We propose a new PSE model training framework using cross-task knowledge distillation to mitigate this trade-off. Specifically, we utilize a personalized voice activity detector (pVAD) during training to exclude the non-target speech frames that are wrongly identified as containing the target speaker with hard or soft classification. This prevents the PSE model from being too aggressive while still allowing the model to learn to suppress the input speech when it is likely to be spoken by interfering speakers. Comprehensive evaluation results are presented, covering various PSE usage scenarios.

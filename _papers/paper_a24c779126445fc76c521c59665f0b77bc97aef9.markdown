@@ -6,4 +6,5 @@ publication: "2013 IEEE International Conference on Acoustics, Speech and Signal
 year: 2013
 external_url: https://www.semanticscholar.org/paper/a24c779126445fc76c521c59665f0b77bc97aef9
 authors: "Patrice Guyot, J. Pinquier, R. André-Obrecht"
+publication_date: "2013-05-26"
 ---

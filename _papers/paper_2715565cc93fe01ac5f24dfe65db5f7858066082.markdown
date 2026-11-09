@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/2715565cc93fe01ac5f24dfe65db5f7858066082
 authors: "Axel Berg, Johanna Engman, Jens Gulin, Kalle Åström, Magnus Oskarsson"
+publication_date: "2024-08-30"
 ---
 
 Sound event localization and detection (SELD) systems using audio recordings from a microphone array rely on spatial cues for determining the location of sound events. As a consequence, the localization performance of such systems is to a large extent determined by the quality of the audio features that are used as inputs to the system. We propose a new feature, based on neural generalized cross-correlations with phase-transform (NGCC-PHAT), that learns audio representations suitable for localization. Using permutation invariant training for the time-difference of arrival (TDOA) estimation problem enables NGCC-PHAT to learn TDOA features for multiple overlapping sound events. These features can be used as a drop-in replacement for GCC-PHAT inputs to a SELD-network. We test our method on the STARSS23 dataset and demonstrate improved localization performance compared to using standard GCC-PHAT or SALSA-Lite input features.

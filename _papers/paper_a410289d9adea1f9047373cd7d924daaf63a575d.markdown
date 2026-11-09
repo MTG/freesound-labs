@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/a410289d9adea1f9047373cd7d924daaf63a575d
 authors: "Leying Zhang, Bowen Shi, Haibin Wu, Bach Viet Do, Yanmin Qian"
+publication_date: "2026-05-06"
 ---
 
 The rapid advancement of generative audio models has outpaced the development of robust evaluation methodologies. Existing objective metrics and general multimodal large language models (MLLMs) often struggle with domain generalization, zero-shot capabilities, and instructional flexibility. To address these bottlenecks, we propose JASTIN, a generalizable, instruction-driven audio evaluation framework that formulates audio assessment as a self-instructed reasoning task. JASTIN bridges a frozen high-performance audio encoder with a fine-tuned LLM backbone via a trainable audio adapter. To ensure robust zero-shot generalization, we introduce a comprehensive instruction following data preparation pipeline, incorporating Multi-Source, Multi-Task, Multi-Calibration, and Multi-Description data. Experimental results demonstrate that JASTIN achieves state-of-the-art Pearson and Spearman correlations with human subjective ratings. It consistently outperforms general MLLMs across speech, sound, music, and out-of-domain evaluation tasks without the need for task-specific retraining.

@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/50a6845d8f333ebcc6f8bb225fb082b0804aaa3b
 authors: "Sripathi Sridhar, Mark Cartwright"
+publication_date: "2023-10-20"
 ---
 
 Current audio classification models have small class vocabularies relative to the large number of sound event classes of interest in the real world. Thus, they provide a limited view of the world that may miss important yet unexpected or unknown sound events. To address this issue, open-set audio classification techniques have been developed to detect sound events from unknown classes. Although these methods have been applied to a multi-class context in audio, such as sound scene classification, they have yet to be investigated for polyphonic audio in which sound events overlap, requiring the use of multi-label models. In this study, we establish the problem of multi-label open-set audio classification by creating a dataset with varying unknown class distributions and evaluating baseline approaches built upon existing techniques.

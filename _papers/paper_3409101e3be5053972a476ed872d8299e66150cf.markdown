@@ -6,6 +6,7 @@ publication: "IEEE Sensors Journal"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/3409101e3be5053972a476ed872d8299e66150cf
 authors: "Rafael Mellado Hernández, V. M. Baeza"
+publication_date: "2026-06-01"
 ---
 
 Acoustic event detection (AED) at the edge is increasingly relevant for distributed sensor networks operating under computational and communication constraints. This article presents an event-driven architecture for AED on resource-constrained edge sensor nodes. The proposed framework combines mel spectrogram feature extraction with time-to-first-spike (TTFS) encoding and a compact convolutional spiking neural network (SNN) employing leaky integrate-and-fire (LIF) neurons. The complete processing pipeline is executed locally at the sensor node, enabling binary classification of impulsive and nonimpulsive acoustic events without continuous transmission of raw audio data. The system is evaluated using a public urban sound dataset adapted to a binary detection scenario. Experimental results demonstrate an overall accuracy of 93.67%, with balanced macro-averaged precision, recall, and ${F}1$ -score, confirming stable detection performance under class imbalance conditions. In addition to classification results, the architectural design and computational structure of the proposed SNN are analyzed to assess its suitability for edge deployment. The presented approach illustrates how event-driven neural processing can be integrated into acoustic sensing nodes to support local decision-making in distributed sensor networks.

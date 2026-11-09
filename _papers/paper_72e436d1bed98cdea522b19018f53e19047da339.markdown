@@ -1,11 +1,12 @@
 ---
 layout: paper
 id: "72e436d1bed98cdea522b19018f53e19047da339"
-title: "Correlation Of Fr\'Echet Audio Distance With Human Perception Of Environmental Audio Is Embedding Dependant"
+title: "Correlation Of Fr\\'Echet Audio Distance With Human Perception Of Environmental Audio Is Embedding Dependant"
 publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/72e436d1bed98cdea522b19018f53e19047da339
 authors: "Modan Tailleur, Junwon Lee, Mathieu Lagrange, Keunwoo Choi, Laurie M. Heller, Keisuke Imoto, Yuki Okamoto"
+publication_date: "2024-03-26"
 ---
 
 This paper explores whether considering alternative domain-specific embeddings to calculate the Fr\'echet Audio Distance (FAD) metric can help the FAD to correlate better with perceptual ratings of environmental sounds. We used embeddings from VGGish, PANNs, MS-CLAP, L-CLAP, and MERT, which are tailored for either music or environmental sound evaluation. The FAD scores were calculated for sounds from the DCASE 2023 Task 7 dataset. Using perceptual data from the same task, we find that PANNs-WGM-LogMel produces the best correlation between FAD scores and perceptual ratings of both audio quality and perceived fit with a Spearman correlation higher than 0.5. We also find that music-specific embeddings resulted in significantly lower results. Interestingly, VGGish, the embedding used for the original Fr\'echet calculation, yielded a correlation below 0.1. These results underscore the critical importance of the choice of embedding for the FAD metric design.

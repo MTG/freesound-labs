@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/da298ff48604e1f82821da3f42c3a13aee28a37a
 authors: "Joseph P. Turian, Jordie Shier, G. Tzanetakis, K. McNally, Max Henry"
+publication_date: "2021-04-27"
 ---
 
 We release synth1B1, a multi-modal audio corpus consisting of 1 billion 4-second synthesized sounds, paired with the synthesis parameters used to generate them. The dataset is 100x larger than any audio dataset in the literature. We also introduce torchsynth, an open source modular synthesizer that generates the synth 1B1 samples on-the-fly at 16200x faster than real-time (714MHz) on a single GPU. Finally, we release two new audio datasets: FM synth timbre and subtractive synth pitch. Using these datasets, we demonstrate new rank-based evaluation criteria for existing audio representations. Finally, we propose a novel approach to synthesizer hyperparameter optimization.

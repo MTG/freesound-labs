@@ -6,6 +6,7 @@ publication: "International Workshop on Machine Learning for Signal Processing"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/cc6164a5006c586b5b33290d4b0d7ed1ed145b86
 authors: "E. Guizzo, R. F. Gramaccioni, Saeid Jamili, Christian Marinoni, Edoardo Massaro, Claudia Medaglia, Giuseppe Nachira, Leonardo Nucciarelli, Ludovica Paglialunga, Marco Pennese, Sveva Pepe, Enrico Rocchi, A. Uncini, D. Comminiello"
+publication_date: "2021-04-12"
 ---
 
 The L3DAS21 Challenge11www.13das.com/mlsp2021 is aimed at encouraging and fostering collaborative research on machine learning for 3D audio signal processing, with particular focus on 3D speech enhancement (SE) and 3D sound localization and detection (SELD). Alongside with the challenge, we release the L3DAS21 dataset, a 65 hours 3D audio corpus, accompanied with a Python API that facilitates the data usage and results submission stage. Usually, machine learning approaches to 3D audio tasks are based on single-perspective Ambisonics recordings or on arrays of single-capsule microphones. We propose, instead, a novel multichannel audio configuration based multiple-source and multiple-perspective Ambisonics recordings, performed with an array of two first-order Ambisonics microphones. To the best of our knowledge, it is the first time that a dualmic Ambisonics configuration is used for these tasks. We provide baseline models and results for both tasks, obtained with state-of-the-art architectures: FaSNet for SE and SELDnet for SELD.

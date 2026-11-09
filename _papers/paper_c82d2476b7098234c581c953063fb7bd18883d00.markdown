@@ -6,6 +6,7 @@ publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Spe
 year: 2024
 external_url: https://www.semanticscholar.org/paper/c82d2476b7098234c581c953063fb7bd18883d00
 authors: "Manjunath Mulimani, A. Mesaros"
+publication_date: "2024-12-23"
 ---
 
 In this work, we propose a method for domain-incremental learning for audio classification from a sequence of datasets recorded in different acoustic conditions. Fine-tuning a model on a sequence of evolving domains or datasets leads to forgetting of previously learned knowledge. On the other hand, freezing all the layers of the model leads to the model not adapting to the new domain. In this work, our novel dynamic network architecture keeps the shared homogeneous acoustic characteristics of domains, and learns the domain-specific acoustic characteristics in incremental steps. Our approach achieves a good balance between retaining the knowledge of previously learned domains and acquiring the knowledge of the new domain. We demonstrate the effectiveness of the proposed method on incremental learning of single-label classification of acoustic scenes from European cities and Korea, and multi-label classification of audio recordings from Audioset and FSD50K datasets. The proposed approach learns to classify acoustic scenes incrementally with an average accuracy of 71.9% for the order: European cities → Korea, and 83.4% for Korea → European cities. In a multi-label audio classification setup, it achieves an average lωlrap of 47.5% for Audioset → FSD50K and 40.7% for FSD50K → Audioset.

@@ -6,6 +6,7 @@ publication: "Spoken Language Technology Workshop"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/bbac27231f1104b35280e6b197fd08891511d257
 authors: "Michael Neumann, Ngoc Thang Vu"
+publication_date: "2021-01-19"
 ---
 
 In this paper we explore audiovisual emotion recognition under noisy acoustic conditions with a focus on speech features. We attempt to answer the following research questions: (i) How does speech emotion recognition perform on noisy data? and (ii) To what extend does a multimodal approach improve the accuracy and compensate for potential performance degradation at different noise levels?We present an analytical investigation on two emotion datasets with superimposed noise at different signal-to-noise ratios, comparing three types of acoustic features. Visual features are incorporated with a hybrid fusion approach: The first neural network layers are separate modality-specific ones, followed by at least one shared layer before the final prediction. The results show a significant performance decrease when a model trained on clean audio is applied to noisy data and that the addition of visual features alleviates this effect.

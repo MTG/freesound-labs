@@ -6,6 +6,7 @@ publication: "Interspeech 2024"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/4c556cb9b04e7eb92e05636f0fef338563ca8d15
 authors: "Heinrich Dinkel, Zhiyong Yan, Yongqing Wang, Junbo Zhang, Yujun Wang, Bin Wang"
+publication_date: "2024-06-11"
 ---
 
 Despite progress in audio classification, a generalization gap remains between speech and other sound domains, such as environmental sounds and music. Models trained for speech tasks often fail to perform well on environmental or musical audio tasks, and vice versa. While self-supervised (SSL) audio representations offer an alternative, there has been limited exploration of scaling both model and dataset sizes for SSL-based general audio classification. We introduce Dasheng, a simple SSL audio encoder, based on the efficient masked autoencoder framework. Trained with 1.2 billion parameters on 272,356 hours of diverse audio, Dasheng obtains significant performance gains on the HEAR benchmark. It outperforms previous works on CREMA-D, LibriCount, Speech Commands, VoxLingua, and competes well in music and environment classification. Dasheng features inherently contain rich speech, music, and environmental information, as shown in nearest-neighbor classification experiments. Code is available https://github.com/richermans/dasheng/.

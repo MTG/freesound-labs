@@ -1,11 +1,12 @@
 ---
 layout: paper
 id: "bdf69112073864209f0ac99e923c1d16ca4658fe"
-title: "Av-Qtss: Class-Query Target Sound Spatialization In Multi-Source 360$^\Circ$ Videos"
+title: "Av-Qtss: Class-Query Target Sound Spatialization In Multi-Source 360$^\\Circ$ Videos"
 publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/bdf69112073864209f0ac99e923c1d16ca4658fe
 authors: "Qing-Yu Luo, Peng Zhang, Davide Berghi, Wen-Wu Wang, Philip J. B. Jackson"
+publication_date: "2026-10-25"
 ---
 
 Spatial audio is central to immersive 360$^\circ$ media, yet existing audio-visual spatialization renders the scene as a whole, leaving no control over an individual source. We introduce Audio-Visual Query-conditioned Target Sound Spatialization (AV-QTSS): given a monaural multi-source mixture, a 360$^\circ$ video and a class query from the 13-class DCASE sound-event ontology, it generates the first-order Ambisonics (FOA) signal of the queried source alone. The omnidirectional mixture contains no explicit spatial cues, so direction has to be inferred from the video, where several objects may sound at once. We propose a query-conditioned dense binding localizer that predicts a spherical probability map over the whole scene, coupled to the renderer so both are optimized jointly. Experiments with one to four concurrent sources show improved localization and spatial accuracy relative to established methods and ablated variants, and the localizer transfers to real 360$^\circ$ recordings after adaptation.

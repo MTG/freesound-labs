@@ -6,4 +6,5 @@ publication: "International Semantic Web Conference"
 year: 2014
 external_url: https://www.semanticscholar.org/paper/7653c0249fd82895f9b779391e5f16cb96a40f07
 authors: "F. Font, S. Oramas, György Fazekas, X. Serra"
+publication_date: "2014-10-21"
 ---

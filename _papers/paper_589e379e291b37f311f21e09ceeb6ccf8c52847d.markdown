@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/589e379e291b37f311f21e09ceeb6ccf8c52847d
 authors: "Swapnil Bhosale, Rupayan Chakraborty, S. Kopparapu"
+publication_date: "2022-01-28"
 ---
 
 Automatic Audio Captioning (AAC) refers to the task of translating audio into a natural language that describes the audio events, source of the events and their relationships. The limited samples in AAC datasets at present, has set up a trend to incorporate transfer learning with Audio Event Detection (AED) as a parent task. Towards this direction, in this paper, we propose an encoder-decoder architecture with light-weight (i.e. with lesser learnable parameters) Bi-LSTM recurrent layers for AAC and compare the performance of two state-of-the-art pre-trained AED models as embedding extractors. Our results show that an efficient AED based embedding extractor combined with temporal attention and augmentation techniques is able to surpass existing literature with computationally intensive architectures. Further, we provide evidence of the ability of the non-uniform attention weighted encoding generated as a part of our model to facilitate the decoder glance over specific sections of the audio while generating each token.

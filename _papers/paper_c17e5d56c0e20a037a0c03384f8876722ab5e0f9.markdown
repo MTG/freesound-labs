@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/c17e5d56c0e20a037a0c03384f8876722ab5e0f9
 authors: "Xavier Favory, Konstantinos Drossos, T. Virtanen, X. Serra"
+publication_date: "2020-10-27"
 ---
 
 Self-supervised audio representation learning offers an attractive alternative for obtaining generic audio embeddings, capable to be employed into various downstream tasks. Published approaches that consider both audio and words/tags associated with audio do not employ text processing models that are capable to generalize to tags unknown during training. In this work we propose a method for learning audio representations using an audio autoencoder (AAE), a general word embed-dings model (WEM), and a multi-head self-attention (MHA) mechanism. MHA attends on the output of the WEM, pro-viding a contextualized representation of the tags associated with the audio, and we align the output of MHA with the out-put of the encoder of AAE using a contrastive loss. We jointly optimize AAE and MHA and we evaluate the audio representations (i.e. the output of the encoder of AAE) by utilizing them in three different downstream tasks, namely sound, music genre, and music instrument classification. Our results show that employing multi-head self-attention with multiple heads in the tag-based network can induce better learned audio representations.

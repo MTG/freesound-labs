@@ -6,4 +6,5 @@ publication: "International Journal of Environmental Science and Technology"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/4fb9f9fa1f40d8893f6d1fdf3a3093764e18f27f
 authors: "S. Ganguly, H. Mukherjee, A. Dhar, M. Marciano, K. Roy"
+publication_date: "2025-01-18"
 ---

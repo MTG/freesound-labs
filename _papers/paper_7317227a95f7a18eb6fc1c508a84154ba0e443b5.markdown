@@ -6,6 +6,7 @@ publication: "INTERSPEECH"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/7317227a95f7a18eb6fc1c508a84154ba0e443b5
 authors: "Michael Wand, Jiirgen Schmidhuber"
+publication_date: "2020-10-25"
 ---
 
 In this study we investigate architectures for modality fusion in audiovisual speech recognition, where one aims to alleviate the adverse effect of acoustic noise on the speech recognition accuracy by using video images of the speaker’s face as an additional modality. Starting from an established neural network fusion system, we substantially improve the recognition accuracy by taking single-modality losses into account: late fusion (at the output logits level) is substantially more robust than the base-line, in particular for unseen acoustic noise, at the expense of having to determine the optimal weighting of the input streams. The latter requirement can be removed by making the fusion itself a trainable part of the network.

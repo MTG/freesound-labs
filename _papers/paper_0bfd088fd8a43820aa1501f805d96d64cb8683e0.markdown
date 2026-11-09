@@ -6,6 +6,7 @@ publication: "DCASE"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/0bfd088fd8a43820aa1501f805d96d64cb8683e0
 authors: "Huang Xie, Samuel Lipping, T. Virtanen"
+publication_date: "2022-06-13"
 ---
 
 Language-based audio retrieval is a task, where natural language textual captions are used as queries to retrieve audio signals from a dataset. It has been ﬁrst introduced into DCASE 2022 Challenge as Subtask 6B of task 6, which aims at developing computational systems to model relationships between audio signals and free-form textual descriptions. Compared with audio captioning (Subtask 6A), which is about generating audio captions for audio signals, language-based audio retrieval (Subtask 6B) focuses on ranking audio signals according to their relevance to natural language textual captions. In DCASE 2022 Challenge, the provided baseline system for Subtask 6B was signiﬁcantly outperformed, with top performance being 0.276 in mAP@10. This paper presents the out-come of Subtask 6B in terms of submitted systems' performance and analysis.

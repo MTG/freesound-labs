@@ -6,6 +6,7 @@ publication: "Multimodality &amp; Society"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/44376668bc8f21fb7252e1f6d6b500ecec3d9a72
 authors: "Michelle Charette, Elizabeth Lima, Denielle Elliott"
+publication_date: "2022-04-18"
 ---
 
 Brain injuries transform how one’s world sounds. What follows are two sonic stories. These short audio compositions are designed to transport the listener into the pre- and post-brain injury sensory environment—a textured and embodied landscape that non-injured minded individuals, including most clinicians, have little understanding of. This lack of understanding is a consequence of the sorts of neurological research done in the scientific traditions which tend to leave certain forms of sensory phenomena unstudied and exclude patients’ voices. We draw inspiration from Rachel Kolb’s (2017) first-person account of hearing music for the first time after getting cochlear implants. She writes that music jolted her core in ways she could not explain. Instead of “Can you hear the music?”, she prefers to be asked, “What does music feel like to you?” Stemming from the perspectives of two individuals that live with brain injuries (identified here as Story A and Story B), these sonic stories ask what does a brain injury sound like?

@@ -6,6 +6,7 @@ publication: "Scientific Data"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/051cda432963a18f94867eb5b849cbd4eb712241
 authors: "Muhammad Asif, Muhammad Usaid, Munaf Rashid, Tabarka Rajab, S. Hussain, Sarwar Wasi"
+publication_date: "2022-10-04"
 ---
 
 Traffic congestion, accidents, and pollution are becoming a challenge for researchers. It is essential to develop new ideas to solve these problems, either by improving the infrastructure or applying the latest technology to use the existing infrastructure better. This research paper presents a high-resolution dataset that will help the research community to apply AI techniques to classify any emergency vehicle from traffic and road noises. Demand for such datasets is high as they can control traffic flow and reduce traffic congestion. It also improves emergency response time, especially for fire and health events. This work collects audio data using different methods, and pre-processed them  to develop a high-quality and clean dataset. The dataset is divided into two labelled classes one for emergency vehicle sirens and one for traffic noises. The developed dataset offers high quality and range of real-world traffic sounds and emergency vehicle sirens. The technical validity of the dataset is also established. Measurement(s) Ambulance Siren and Road Noises. (Recordings) Technology Type(s) Microphone Sample Characteristic - Environment Roads Sample Characteristic - Location Pakistan

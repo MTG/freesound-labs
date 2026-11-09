@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/b9e69c83de1ddeb2434026573c7a2b3d0c964d6a
 authors: "Janek Ebbers, R. Serizel, Reinhold Haeb-Umbach"
+publication_date: "2022-01-31"
 ---
 
 Performing an adequate evaluation of sound event detection (SED) systems is far from trivial and is still subject to ongoing research. The recently proposed polyphonic sound detection (PSD)-receiver operating characteristic (ROC) and PSD score (PSDS) make an important step into the direction of an evaluation of SED systems which is independent from a certain decision threshold. This allows to obtain a more complete picture of the overall system behavior which is less biased by threshold tuning. Yet, the PSD-ROC is currently only approximated using a finite set of thresholds. The choice of the thresholds used in approximation, however, can have a severe impact on the resulting PSDS. In this paper we propose a method which allows for computing system performance on an evaluation set for all possible thresholds jointly, enabling accurate computation not only of the PSD-ROC and PSDS but also of other collar-based and intersection-based performance curves. It further allows to select the threshold which best fulfills the requirements of a given application. Source code is publicly available in our SED evaluation package sed_scores_eval1.

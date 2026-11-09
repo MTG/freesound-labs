@@ -6,6 +6,7 @@ publication: "Interspeech 2021"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/dcd58c352561634afc3573a4ddcb05e993b736fd
 authors: "S. Graetzer, Jon Barker, T. Cox, M. Akeroyd, J. Culling, G. Naylor, Eszter Porter, Rhoddy Viveros Muñoz"
+publication_date: "2021-08-30"
 ---
 
 In recent years, rapid advances in speech technology have been made possible by machine learning challenges such as CHiME, REVERB, Blizzard, and Hurricane. In the Clarity project, the machine learning approach is applied to the problem of hearing aid processing of speech-in-noise, where current technology in enhancing the speech signal for the hearing aid wearer is often ineffective. The scenario is a (simulated) cuboid-shaped living room in which there is a single listener, a single target speaker and a single interferer, which is either a competing talker or domestic noise. All sources are static, the target is always within ± 30 ◦ azimuth of the listener and at the same elevation, and the interferer is an omnidirectional point source at the same elevation. The target speech comes from an open source 40-speaker British English speech database collected for this purpose. This paper provides a baseline description of the round one Clarity challenges for both enhancement (CEC1) and prediction (CPC1). To the authors’ knowledge, these are the ﬁrst machine learning challenges to consider the problem of hearing aid speech signal processing.

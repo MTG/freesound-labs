@@ -6,6 +6,7 @@ publication: "Journal on Audio, Speech, and Music Processing"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/8f9e1c044ba54d754b8b69b39ca8eea3740446bf
 authors: "José M. Gil Panal, Aurélien David, Ga¨el Richard"
+publication_date: "2026-03-31"
 ---
 
 This paper introduces the Hi-Audio online platform, an open-source tool designed to support musicians and researchers in the field of Music Information Retrieval (MIR). The platform enables the recording, uploading, and sharing of multitrack musical compositions, aiming to build an open-access audio database to advance research in music technology. Uploaded audio files are automatically analyzed upon synchronization with the server, leveraging signal processing techniques and machine learning models to generate rich metadata. The platform facilitates remote and asynchronous collaboration via a web-based interface accessible at hiaudio.fr. Furthermore, a novel built-in method for accurate and robust round-trip latency estimation in the browser is proposed and integrated into the platform, demonstrating its applicability in real-world distributed recording scenarios. Finally, an initial user evaluation with musicians was conducted to assess usability and practical relevance under realistic usage conditions. The evaluation combined task-based performance analysis with standardized usability and workload measures. The results indicate high task completion rates for core recording functions and show that the platform can be used effectively by musicians with minimal prior training.

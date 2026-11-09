@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/83ae44d08ee5c1348b0fd5fa3ed9b4236f98ca95
 authors: "Jinhua Liang, Huy Phan, Emmanouil Benetos"
+publication_date: "2022-12-17"
 ---
 
 Humans categorise and structure perceived acoustic signals into hierarchies of auditory objects. The semantics of these objects are thus informative in sound classification, especially in few-shot scenarios. However, existing works have only represented audio semantics as binary labels (e.g., whether a recording contains dog barking or not), and thus failed to learn a more generic semantic relationship among labels. In this work, we introduce an ontology-aware framework to train multi-label few-shot audio networks with both relative and absolute relationships in an audio taxonomy. Specifically, we propose label-dependent prototypical networks (LaD-ProtoNet) to learn coarse-to-fine acoustic patterns by exploiting direct connections between parent and children classes of sound events. We also present a label smoothing method to take into account the taxonomic knowledge by taking into account absolute distance between two labels w.r.t the taxonomy. For evaluation in a real-world setting, we curate a new dataset, namely FSD-FS, based on the FSD50K dataset and compare the proposed methods and other few-shot classifiers using this dataset. Experiments demonstrate that the proposed method outperforms non-ontology-based methods on the FSD-FS dataset.

@@ -6,6 +6,7 @@ publication: "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Spe
 year: 2020
 external_url: https://www.semanticscholar.org/paper/9c2e71301363b2b32569a9cb0af30bfc28c0c775
 authors: "Fei Jia, Somshubra Majumdar, Boris Ginsburg"
+publication_date: "2020-10-26"
 ---
 
 We present MarbleNet, an end-to-end neural network for Voice Activity Detection (VAD). MarbleNet is a deep residual network composed from blocks of 1D time-channel separable convolution, batch-normalization, ReLU and dropout layers. When compared to a state-of-the-art VAD model, MarbleNet is able to achieve similar performance with roughly 1/10-th the parameter cost. We further conduct extensive ablation studies on different training methods and choices of parameters in order to study the robustness of MarbleNet in real-world VAD tasks.

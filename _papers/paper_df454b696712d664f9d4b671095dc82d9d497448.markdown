@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/df454b696712d664f9d4b671095dc82d9d497448
 authors: "Hao-Yin Yan, Cheng-Wei Liu, Zheng Xue, Xiao-Tao Liang, Ji-Fa Cai, Ze-Yu Zhao, Jing-Jing Wang"
+publication_date: "2026-10-07"
 ---
 
 Generative speech enhancement (SE) is prone to linguistic hallucination when semantic constraint is unreliable under severe noise and reverberation. Moreover, approaches that generate discrete codec tokens are bounded by the quantization error of the codec decoder, regardless of token-prediction accuracy. We propose LIFT-SE, a two-stage generative framework that decouples linguistic inference from acoustic synthesis within QRes-Codec, which exposes a quantized latent and its residual-completed continuous form. The first stage predicts clean codec tokens autoregressively, conditioned on frame-aligned features from a self-supervised front-end distilled toward clean speech. The second stage applies conditional flow matching to transport Gaussian noise to the continuous latent conditioned on the predicted tokens, and the frozen decoder reconstructs the enhanced waveform. Discrete generation provides naturalness, while continuous refinement restores signal fidelity. Experiments on the DNS1 and URGENT benchmarks show that LIFT-SE attains favorable linguistic consistency under reverberant conditions together with competitive perceptual quality, and systematic ablations verify the necessity of both stages. Code will be released in the future.

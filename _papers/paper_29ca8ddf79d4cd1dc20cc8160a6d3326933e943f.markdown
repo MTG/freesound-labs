@@ -6,6 +6,7 @@ publication: "EACL"
 year: 2017
 external_url: https://www.semanticscholar.org/paper/29ca8ddf79d4cd1dc20cc8160a6d3326933e943f
 authors: "Emiel van Miltenburg"
+publication_date: "2017-04-01"
 ---
 
 This research proposal discusses pragmatic factors in image description, arguing that current automatic image description systems do not take these factors into account. I present a general model of the human image description process, and propose to study this process using corpus analysis, experiments, and computational modeling. This will lead to a better characterization of human image description behavior, providing a road map for future research in automatic image description, and the automatic description of perceptual stimuli in general.

@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/5dec2aa562956cc0eb9614d33e9f5ff817467c6f
 authors: "Efthymios Tzinis, G. Wichern, P. Smaragdis, Jonathan Le Roux"
+publication_date: "2022-11-11"
 ---
 
 Recent research has shown remarkable performance in leveraging multiple extraneous conditional and non-mutually-exclusive semantic concepts for sound source separation, allowing the flexibility to extract a given target source based on multiple different queries. In this work, we propose a new optimal condition training (OCT) method for single-channel target source separation, based on greedy parameter updates using the highest performing condition among equivalent conditions associated with a given target source. Our experiments show that the complementary information carried by the diverse semantic concepts significantly helps to disentangle and isolate sources of interest much more efficiently compared to single-conditioned models. Moreover, we propose a variation of OCT with condition refinement, in which an initial condition vector is adapted to the given mixture and transformed to a more amenable representation for target source extraction. We showcase the effectiveness of OCT on diverse source separation experiments where it improves upon permutation invariant models with oracle assignment between estimated and target sources and obtains state-of-the-art performance in the more challenging task of text-based source separation, outperforming even dedicated text-only conditioned models.

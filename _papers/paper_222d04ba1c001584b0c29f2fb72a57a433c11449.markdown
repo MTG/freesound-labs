@@ -6,6 +6,7 @@ publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Spe
 year: 2019
 external_url: https://www.semanticscholar.org/paper/222d04ba1c001584b0c29f2fb72a57a433c11449
 authors: "Nicolas Turpault, R. Serizel, E. Vincent"
+publication_date: "2019-05-01"
 ---
 
 Deep neural networks are particularly useful to learn relevant representations from data. Recent studies have demonstrated the potential of unsupervised representation learning for ambient sound analysis using various flavors of the triplet loss. They have compared this approach to supervised learning. However, in real situations, it is common to have a small labeled dataset and a large unlabeled one. In this paper, we combine unsupervised and supervised triplet loss based learning into a semi-supervised representation learning approach. We propose two flavors of this approach, whereby the positive samples for those triplets whose anchors are unlabeled are obtained either by applying a transformation to the anchor, or by selecting the nearest sample in the training set. We compare our approach to supervised and unsupervised representation learning as well as the ratio between the amount of labeled and unlabeled data. We evaluate all the above approaches on an audio tagging task using the DCASE 2018 Task 4 dataset, and we show the impact of this ratio on the tagging performance.

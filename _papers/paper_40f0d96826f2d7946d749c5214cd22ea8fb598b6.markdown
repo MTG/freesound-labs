@@ -6,6 +6,7 @@ publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Spe
 year: 2023
 external_url: https://www.semanticscholar.org/paper/40f0d96826f2d7946d749c5214cd22ea8fb598b6
 authors: "Pavan Seshadri, Chaeyeon Han, B. Koo, Noah Posner, S. Guhathakurta, Alexander Lerch"
+publication_date: "2023-09-12"
 ---
 
 We introduce the new audio analysis task of pedestrian detection and present a new large-scale dataset for this task. While the preliminary results prove the viability of using audio approaches for pedestrian detection, they also show that this challenging task cannot be easily solved with standard approaches.

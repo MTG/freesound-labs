@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/cb359cfb20426e361cd809a29bdc60db4d924ba9
 authors: "Kenneth Ooi, Karn N. Watcharasupat, Santi Peksi, Furi Andi Karnapi, Zhen-Ting Ong, Danny Chua, Hui-Wen Leow, Li-Long Kwok, Xin-Lei Ng, Zhen-Ann Loh, W. Gan"
+publication_date: "2021-11-03"
 ---
 
 This paper introduces SINGA: PURA, a strongly labelled polyphonic urban sound dataset with spatiotemporal context. The data were collected via several recording units deployed across Singapore as a part of a wireless acoustic sensor network. These recordings were made as part of a project to identify and mitigate noise sources in Singapore, but also possess a wider applicability to sound event detection, classification, and localization. This paper introduces an accompanying hierarchical label taxonomy, which has been designed to be compatible with other existing datasets for urban sound tagging while also able to capture sound events unique to the Singaporean context. This paper details the data collection, annotation, and processing methodologies for the creation of the dataset. We further perform exploratory data analysis and include the performance of a baseline model on the dataset as a benchmark.

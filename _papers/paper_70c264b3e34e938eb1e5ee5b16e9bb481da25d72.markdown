@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/70c264b3e34e938eb1e5ee5b16e9bb481da25d72
 authors: "Dongheon Lee, Jung-Woo Choi"
+publication_date: "2024-09-19"
 ---
 
 This paper presents a framework for universal sound separation and polyphonic audio classification, addressing the challenges of separating and classifying individual sound sources in a multichannel mixture. The proposed framework, DeFT-Mamba, utilizes the dense frequency-time attentive network (DeFTAN) combined with Mamba to extract sound objects, capturing the local time-frequency relations through gated convolution block and the global time-frequency relations through position-wise Hybrid Mamba. DeFT-Mamba surpasses existing separation and classification networks by a large margin, particularly in complex scenarios involving in-class polyphony. Additionally, a classification-based source counting method is introduced to identify the presence of multiple sources, outperforming conventional threshold-based approaches. Separation refinement tuning is also proposed to improve performance further. The proposed framework is trained and tested on a multichannel universal sound separation dataset developed in this work, designed to mimic realistic environments with moving sources and varying onsets and offsets of polyphonic events.

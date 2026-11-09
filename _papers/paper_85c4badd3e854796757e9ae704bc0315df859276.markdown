@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/85c4badd3e854796757e9ae704bc0315df859276
 authors: "Gallil Maimon, Amit Roth, Yossi Adi"
+publication_date: "2024-09-11"
 ---
 
 Speech language models have recently demonstrated great potential as universal speech processing systems. Such models have the ability to model the rich acoustic information existing in audio signals, beyond spoken content, such as emotion, background noise, etc. Despite this, evaluation benchmarks which evaluate awareness to a wide range of acoustic aspects, are lacking. To help bridge this gap, we introduce SALMON, a novel evaluation suite encompassing background noise, sentiment, speaker identity and room impulse response. The proposed benchmarks both evaluate the consistency of the inspected element and how much it matches the spoken text. We follow a modelling based approach, measuring whether a model gives correct samples higher scores than incorrect ones. This approach makes the benchmark fast to compute even for large models. We evaluated several speech language models on SALMON, thus highlighting the strengths and weaknesses of each evaluated method. We make the code and data publicly available at - pages.cs.huji.ac.il/adiyoss-lab/salmon/.

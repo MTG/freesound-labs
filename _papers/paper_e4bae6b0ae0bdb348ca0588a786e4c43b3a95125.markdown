@@ -6,6 +6,7 @@ publication: "IEEE Internet of Things Journal"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/e4bae6b0ae0bdb348ca0588a786e4c43b3a95125
 authors: "L. Turchet, M. Lagrange, C. Rottondi, György Fazekas, Nils Peters, J. Ostergaard, F. Font, T. Backstrom, C. Fischione"
+publication_date: "2023-07-01"
 ---
 
 Current sound-based practices and systems developed in both academia and industry point to convergent research trends that bring together the field of sound and music Computing with that of the Internet of Things. This article proposes a vision for the emerging field of the Internet of Sounds (IoS), which stems from such disciplines. The IoS relates to the network of Sound Things, i.e., devices capable of sensing, acquiring, processing, actuating, and exchanging data serving the purpose of communicating sound-related information. In the IoS paradigm, which merges under a unique umbrella the emerging fields of the Internet of Musical Things and the Internet of Audio Things, heterogeneous devices dedicated to musical and nonmusical tasks can interact and cooperate with one another and with other things connected to the Internet to facilitate sound-based services and applications that are globally available to the users. We survey the state-of-the-art in this space, discuss the technological and nontechnological challenges ahead of us and propose a comprehensive research agenda for the field.

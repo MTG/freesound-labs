@@ -6,4 +6,5 @@ publication: "Internet of Things"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/60dd55fccebb2f2a5ca744ffb57a9a1e3c24fbd9
 authors: "Angelo Soto-Vergel, Prashant Sankaran, J. C. Velez, René Amaya-Mier, D. R. Ríos"
+publication_date: "2025-11-01"
 ---

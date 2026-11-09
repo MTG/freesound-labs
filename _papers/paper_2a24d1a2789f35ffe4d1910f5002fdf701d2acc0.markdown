@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/2a24d1a2789f35ffe4d1910f5002fdf701d2acc0
 authors: "Javier Naranjo-Alcazar, Annamaria Mesaros, Tuomas Virtanen, P. Zuccarello"
+publication_date: "2026-07-05"
 ---
 
 The performance of acoustic machine learning systems is commonly evaluated using fully annotated test sets. In real-world deployments, however, exhaustively labeling large volumes of continuously collected audio data is often infeasible. Consequently, performance assessment typically relies on a small labeled subset of the available data, introducing a sampling bias that can severely distort evaluation metrics. This paper studies methods for compensating the bias in evaluation-labeled subsets under strict annotation-budget constraints. We study whether importance weighting techniques can mitigate this discrepancy by compensating for the selection bias. Specifically, we implement and compare three density-ratio estimation methods: kernel density estimation (KDE), logistic regression, and k-nearest neighbors (kNN), utilizing feature-space representations of the deployed audio. To emulate realistic deployment scenarios, the labeled subsets are generated using five distinct sampling strategies based on active learning techniques. Experiments conducted on an audio scene classification (ASC) benchmark demonstrate that importance weighting consistently yields more realistic accuracy estimates, significantly reducing the gap between subset-based metrics and the true evaluation performance.

@@ -6,6 +6,7 @@ publication: "INTERSPEECH"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/355336a907b6c96636a9878de276ac417b47daa2
 authors: "Yu Wang, M. Cartwright, J. Bello"
+publication_date: "2022-09-18"
 ---
 
 Few-shot learning has shown promising results in sound event detection where the model can learn to recognize novel classes assuming a few labeled examples (typically five) are available at inference time. Most research studies simulate this process by sampling support examples randomly and uniformly from all test data with the target class label. However, in many real-world scenarios, users might not even have five examples at hand or these examples may be from a limited context and not representative, resulting in model performance lower than ex-pected. In this work, we relax these assumptions, and to recover model performance, we propose to use active learning techniques to efficiently sample additional informative support examples at inference time. We developed a novel dataset simulating the long-term temporal characteristics of sound events in real-world environmental soundscapes. Then we ran a series of experiments with this dataset to explore the modeling and sampling choices that arise when combining few-shot learning and active learning, including different training schemes, sampling strategies, models, and temporal windows in sampling.

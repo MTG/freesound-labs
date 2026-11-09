@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/9437cfbc6a64d9ef83a7e9976665a8d88d43d4a4
 authors: "Amirhossein Hajavi, Hanhee Lee, P. Jain, Sky Qiao, Emmanuel Ko, Yuan-Hao Yu, Irina Kezele"
+publication_date: "2026-10-07"
 ---
 
 Language-queried audio source separation (LASS) enables extracting any sound source using natural language. However, adapting LASS models to application-specific sound classes is challenging due to noisy training data and limited semantic coverage of the CLAP-based control signals. We propose a framework comprised of an automated data engine for training-data curation and a two-stage optimization process for class-specific CLAP control signals. Our objective evaluations across seven sound classes show that data refinement and control signal optimization consistently improve source separation performance. Subjective evaluation with 17 participants further demonstrates perceptual improvements of the model trained with optimized control signals over baseline and similar commercial models.

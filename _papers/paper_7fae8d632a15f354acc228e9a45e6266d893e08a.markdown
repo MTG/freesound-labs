@@ -6,6 +6,7 @@ publication: "Anais do XVIII Encontro Nacional de Inteligência Artificial e Com
 year: 2021
 external_url: https://www.semanticscholar.org/paper/7fae8d632a15f354acc228e9a45e6266d893e08a
 authors: "Tiago B. Lacerda, Péricles B. C. Miranda, André Câmara, Ana Paula C. Furtado"
+publication_date: "2021-11-29"
 ---
 
 Há um crescente interesse em sistemas de detecção de violência de forma automática por meio do áudio ambiente. Neste trabalho, construímos e avaliamos 4 classificadores com essa proposta. Porém, em vez de processar diretamente os sinais de áudio, nós os convertemos para imagens, conhecidas como mel-spectrograms, e em seguida utilizamos Redes Neurais Convolucionais (CNN) para tratar como um problema de classificação de imagens utilizando-se de redes pre-treinadas neste contexto. Testou-se as arquiteturas Inception v3, VGG-16, MobileNet v2 e ResNet152 v2, tendo o classificador oriundo da arquitetura MobileNet obtido os melhores resultados de classificação, quando avaliado no HEAR Dataset, criado para a realização desta pesquisa.

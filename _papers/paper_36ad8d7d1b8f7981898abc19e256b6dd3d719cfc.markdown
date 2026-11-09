@@ -6,6 +6,7 @@ publication: "Interspeech 2024"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/36ad8d7d1b8f7981898abc19e256b6dd3d719cfc
 authors: "Jacob Kealey, John Hershey, Franccois Grondin"
+publication_date: "2024-06-10"
 ---
 
 Neural networks have recently become the dominant approach to sound separation. Their good performance relies on large datasets of isolated recordings. For speech and music, isolated single channel data are readily available; however the same does not hold in the multi-channel case, and with most other sound classes. Multi-channel methods have the potential to outperform single channel approaches as they can exploit both spatial and spectral features, but the lack of training data remains a challenge. We propose unsupervised improved minimum variation distortionless response (UIMVDR), which enables multi-channel separation to leverage in-the-wild single-channel data through unsupervised training and beamforming. Results show that UIMVDR generalizes well and improves separation performance compared to supervised models, particularly in cases with limited supervised data. By using data available online, it also reduces the effort required to gather data for multi-channel approaches.

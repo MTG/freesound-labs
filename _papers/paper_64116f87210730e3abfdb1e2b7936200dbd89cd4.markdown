@@ -6,4 +6,5 @@ publication: "Tangible and Embedded Interaction"
 year: 2018
 external_url: https://www.semanticscholar.org/paper/64116f87210730e3abfdb1e2b7936200dbd89cd4
 authors: "Sophie Skach, Anna Xambó, L. Turchet, A. Stolfi, R. Stewart, M. Barthet"
+publication_date: "2018-03-18"
 ---

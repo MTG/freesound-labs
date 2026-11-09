@@ -6,4 +6,5 @@ publication: "EDCC Workshops"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/7350196f45d87fcd3afe286ec80707967359d5e6
 authors: "Tony Marteau, Sitou Afanou, D. Sodoyer, Sébastien Ambellouis, F. Elbahhar"
+publication_date: "2020-09-07"
 ---

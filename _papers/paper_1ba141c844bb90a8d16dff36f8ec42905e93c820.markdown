@@ -6,6 +6,7 @@ publication: "Organised Sound"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/1ba141c844bb90a8d16dff36f8ec42905e93c820
 authors: "Anna Xambó Sedó"
+publication_date: "2023-08-01"
 ---
 
 This article reports on a study to identify the new sonic challenges and opportunities for live coders, computer musicians and sonic artists using MIRLCa, a live-coding environment powered by an artificial intelligence (AI) system. MIRLCa works as a customisable worldwide sampler, with sounds retrieved from the collective online Creative Commons (CC) database Freesound. The live-coding environment was developed in SuperCollider by the author in conversation with the live-coding community through a series of workshops and by observing its use by 16 live coders, including the author, in work-in-progress sessions, impromptu performances and concerts. This article presents a qualitative analysis of the workshops, work-in-progress sessions and performances. The findings identify (1) the advantages and disadvantages, and (2) the different compositional strategies that result from manipulating a digital sampler of online CC sounds in live coding. A prominent advantage of using sound samples in live coding is its low-entry access suitable for music improvisation. The article concludes by highlighting future directions relevant to performance, composition, musicology and education.

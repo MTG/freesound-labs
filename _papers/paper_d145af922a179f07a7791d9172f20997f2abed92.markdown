@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/d145af922a179f07a7791d9172f20997f2abed92
 authors: "Adri'an Barahona-R'ios, Tom Collins"
+publication_date: "2021-10-14"
 ---
 
 Single-image generative adversarial networks learn from the internal distribution of a single training example to generate variations of it, removing the need of a large dataset. In this paper we introduce SpecSinGAN, an unconditional generative architecture that takes a single one-shot sound effect (e.g., a footstep; a character jump) and produces novel variations of it, as if they were different takes from the same recording session. We explore the use of multi-channel spectrograms to train the model on the various layers that comprise a single sound effect. A listening study comparing our model to real recordings and to digital signal processing procedural audio models in terms of sound plausibility and variation revealed that SpecSinGAN is more plausible and varied than the procedural audio models considered, when using multi-channel spectrograms. Sound examples can be found at the project website: https://www.adrianbarahonarios.com/specsingan/

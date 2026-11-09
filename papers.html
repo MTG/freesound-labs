@@ -6,21 +6,44 @@ permalink: /papers/
 <p class="note">
 What follows is a list of <b>{{ site.papers|size }} papers</b> that mention Freesound or use Freesound data for research. 
 This list is created automatically by finding articles that cite one of the main Freesound
-reference papers. Some entries have also been added manually. Papers are sorted by year of publication
-and alphabetically by first author surname.
+reference papers. Some entries have also been added manually. Papers are sorted by publication date,
+newest first; papers without a date are listed after dated papers from the same year.
 <br><br>
 If you have a paper which should be
 on the list and is not, please <b>send us an email</b> at freesound@freesound.org.
 </p>
+<link rel="stylesheet" href="{{ '/css/papers.css' | relative_url }}">
+<div class="papers-browser" id="papers-browser">
+    <div class="papers-search" hidden>
+        <label for="papers-search">Search papers</label>
+        <input type="search" id="papers-search" placeholder="Search title, author, publication or abstract">
+    </div>
+    <p class="papers-status" id="papers-status" role="status" aria-live="polite" hidden></p>
+    <ul class="papers-list" id="papers-list">
 {% assign papers_grouped_year = site.papers | group_by: "year" %}
 {% assign papers_grouped_year = papers_grouped_year| sort: "name" | reverse %}
 {% for y in papers_grouped_year %}
-<h4>{{ y.name }} ({{ y.items.size }})</h4>
-<ul>
     {% assign papers_year = y.items | sort: "authors" %}
     {% for paper in papers_year %}
-    <li>{{ paper.authors }}. <a href="{{ paper.external_url }}">{{ paper.title }}</a>{% if paper.publication.size > 0 %}. {{ paper.publication }}{% endif %} ({{ paper.year }}).</li>
+        <li class="papers-item" data-sort-date="{% if paper.publication_date %}{{ paper.publication_date | date: '%Y-%m-%d' }}{% else %}{{ paper.year | escape }}-00-00{% endif %}">
+            <div class="papers-citation">{{ paper.authors | escape }}. <a href="{{ paper.external_url | escape }}">{{ paper.title | escape }}</a>{% if paper.publication.size > 0 %}. {{ paper.publication | escape }}{% endif %} ({% if paper.publication_date %}{{ paper.publication_date | date: '%Y-%m-%d' }}{% else %}{{ paper.year | escape }}{% endif %}).</div>
+            <details class="papers-abstract">
+                <summary>Show abstract</summary>
+                {% assign abstract = paper.content | strip_html | strip %}
+                {% if abstract != empty %}
+                    <p>{{ abstract | escape | newline_to_br }}</p>
+                {% else %}
+                    <p>No abstract available.</p>
+                {% endif %}
+            </details>
+        </li>
     {% endfor %}
-</ul>
 {% endfor %}
-
+    </ul>
+    <nav class="papers-pagination" aria-label="Paper results pages" hidden>
+        <button type="button" id="papers-previous">Previous</button>
+        <span id="papers-page"></span>
+        <button type="button" id="papers-next">Next</button>
+    </nav>
+</div>
+<script src="{{ '/js/papers.js' | relative_url }}" defer></script>

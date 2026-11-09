@@ -6,6 +6,7 @@ publication: "Sensors"
 year: 2016
 external_url: https://www.semanticscholar.org/paper/8101d425db2be2ad8f960b3d999e16261b54df86
 authors: "Etto L. Salomons, P. Havinga, H. V. Leeuwen"
+publication_date: "2016-09-27"
 ---
 
 A wireless sensor network that consists of nodes with a sound sensor can be used to obtain context awareness in home environments. However, the limited processing power of wireless nodes offers a challenge when extracting features from the signal, and subsequently, classifying the source. Although multiple papers can be found on different methods of sound classification, none of these are aimed at limited hardware or take the efficiency of the algorithms into account. In this paper, we compare and evaluate several classification methods on a real sensor platform using different feature types and classifiers, in order to find an approach that results in a good classifier that can run on limited hardware. To be as realistic as possible, we trained our classifiers using sound waves from many different sources. We conclude that despite the fact that the classifiers are often of low quality due to the highly restricted hardware resources, sufficient performance can be achieved when (1) the window length for our classifiers is increased, and (2) if we apply a two-step approach that uses a refined classification after a global classification has been performed.

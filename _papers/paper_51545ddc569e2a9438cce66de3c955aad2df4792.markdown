@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/51545ddc569e2a9438cce66de3c955aad2df4792
 authors: "Keunwoo Choi, Jae-Yeol Im, L. Heller, Brian McFee, Keisuke Imoto, Yuki Okamoto, M. Lagrange, Shinosuke Takamichi"
+publication_date: "2023-04-25"
 ---
 
 The addition of Foley sound effects during post-production is a common technique used to enhance the perceived acoustic properties of multimedia content. Traditionally, Foley sound has been produced by human Foley artists, which involves manual recording and mixing of sound. However, recent advances in sound synthesis and generative models have generated interest in machine-assisted or automatic Foley synthesis techniques. To promote further research in this area, we have organized a challenge in DCASE 2023: Task 7 - Foley Sound Synthesis. Our challenge aims to provide a standardized evaluation framework that is both rigorous and efficient, allowing for the evaluation of different Foley synthesis systems. We received 17 submissions, and performed both objective and subjective evaluation to rank them according to three criteria: audio quality, fit-to-category, and diversity. Through this challenge, we hope to encourage active participation from the research community and advance the state-of-the-art in automatic Foley synthesis. In this technical report, we provide a detailed overview of the Foley sound synthesis challenge, including task definition, dataset, baseline, evaluation scheme and criteria, challenge result, and discussion.

@@ -6,6 +6,7 @@ publication: ""
 year: 2025
 external_url: https://www.semanticscholar.org/paper/90fde7241781b1a72b22ce1b0e8d113d8bd3bb5e
 authors: "Yusun Shul, Dayun Choi, Jung-Woo Choi"
+publication_date: "2025-04-17"
 ---
 
 Sound event localization and detection (SELD) is a task for the classification of sound events and the identification of direction of arrival (DoA) utilizing multichannel acoustic signals. For effective classification and localization, a channel-spectro-temporal transformer (CST-former) was suggested. CST-former employs multidimensional attention mechanisms across the spatial, spectral, and temporal domains to enlarge the model's capacity to learn the domain information essential for event detection and DoA estimation over time. In this work, we present an enhanced version of CST-former with multiscale unfolded local embedding (MSULE) developed to capture and aggregate domain information over multiple time-frequency scales. Also, we propose finetuning and post-processing techniques beneficial for conducting the SELD task over limited training datasets. In-depth ablation studies of the proposed architecture and detailed analysis on the proposed modules are carried out to validate the efficacy of multidimensional attentions on the SELD task. Empirical validation through experimentation on STARSS22 and STARSS23 datasets demonstrates the remarkable performance of CST-former and post-processing techniques without using external data.

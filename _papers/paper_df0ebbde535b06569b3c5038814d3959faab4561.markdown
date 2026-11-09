@@ -6,6 +6,7 @@ publication: "ACM Multimedia"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/df0ebbde535b06569b3c5038814d3959faab4561
 authors: "Lijian Gao, Qirong Mao, Jingjing Chen, Ming Dong, R. Chinnam, L. Sassatelli, Miguel Fabian Romero-Rondón, Ujjwal Sharma"
+publication_date: "2021-10-17"
 ---
 
 This companion paper is provided to describe the major experiments reported in our paper "On Learning Disentangled Representation for Acoustic Event Detection" published in ACM Multimedia 2019. To make the replication of our work easier, we first give an introduction of the computing environment where all of our experiments are conducted. Furthermore, we provide an environmental configuration file to setup the compiling environment and other artifacts including the source code, datasets and the files generated during our experiments. Finally, we summarize the structure and usage of the source code. For more details, please consult the README file in the archive of artifacts on GitHub: https://github.com/mastergofujs/SED_PyTorch.

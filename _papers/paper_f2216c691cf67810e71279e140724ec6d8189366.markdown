@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/f2216c691cf67810e71279e140724ec6d8189366
 authors: "Zhepei Wang, Cem Subakan, K. Subramani, Junkai Wu, T. Tavares, Fabio Ayres, P. Smaragdis"
+publication_date: "2023-05-03"
 ---
 
 Recent advances in using language models to obtain cross-modal audio-text representations have overcome the limitations of conventional training approaches that use predefined labels. This has allowed the community to make progress in tasks like zero-shot classification, which would otherwise not be possible. However, learning such representations requires a large amount of human-annotated audio-text pairs. In this paper, we study unsupervised approaches to improve the learning framework of such representations with unpaired text and audio. We explore domain-unspecific and domain-specific curation methods to create audio-text pairs that we use to further improve the model. We also show that when domain-specific curation is used in conjunction with a soft-labeled contrastive loss, we are able to obtain significant improvement in terms of zero-shot classification performance on downstream sound event classification or acoustic scene classification tasks.

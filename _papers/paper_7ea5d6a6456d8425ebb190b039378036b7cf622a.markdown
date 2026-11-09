@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/7ea5d6a6456d8425ebb190b039378036b7cf622a
 authors: "Yu Wang, Nicholas J. Bryan, J. Salamon, M. Cartwright, J. Bello"
+publication_date: "2021-10-17"
 ---
 
 Few-shot learning aims to train models that can recognize novel classes given just a handful of labeled examples, known as the support set. While the field has seen notable advances in recent years, they have often focused on multi-class image classification. Audio, in contrast, is often multi-label due to overlapping sounds, resulting in unique properties such as polyphony and signal-to-noise ratios (SNR). This leads to unanswered questions concerning the impact such audio properties may have on few-shot learning system design, performance, and human-computer interaction, as it is typically up to the user to collect and provide inference-time support set examples. We address these questions through a series of experiments designed to elucidate the answers to these questions. We introduce two novel datasets, FSD-MIX-CLIPS and FSD-MIX-SED, whose programmatic generation allows us to explore these questions systematically. Our experiments lead to audio-specific insights on few-shot learning, some of which are at odds with recent findings in the image domain: there is no best one-size- fits-all model, method, and support set selection criterion. Rather, it depends on the expected application scenario. Our code and data are available at https://github.com/wangyu/rethink-audio-fsl.

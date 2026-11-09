@@ -6,6 +6,7 @@ publication: ""
 year: 2022
 external_url: https://www.semanticscholar.org/paper/a14a6e5732d7e182653d3674285d31c3a1f011f3
 authors: "Zexu Pan, G. Wichern, Franccois G. Germain, A. Subramanian, Jonathan Le Roux"
+publication_date: "2022-11-02"
 ---
 
 Speaker diarization has been well studied for constrained scenarios but little explored for in-the-wild videos, which have more speakers, shorter utterances, and inconsistent on-screen speakers. We address this gap by proposing an audio-visual diarization model which combines audio-only and visual-centric sub-systems via late fusion. For audio, we improve the attractor-based end-to-end system EEND-EDA with an attention mechanism and a speaker recognition loss to handle the larger speaker number and retain the speaker identity across recordings. The visual-centric sub-system leverages facial attributes and lip-audio synchrony for identity and speech activity estimation of on-screen speakers. Both sub-systems surpass the state of the art (SOTA) by a wide margin, with the fused audiovisual system achieving a new SOTA on the AVA-AVD benchmark.

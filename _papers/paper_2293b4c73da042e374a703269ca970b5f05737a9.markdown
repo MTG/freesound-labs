@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/2293b4c73da042e374a703269ca970b5f05737a9
 authors: "V. Vidyasagar, Jasmine X. Zhang, Mahima Uliyar, Seung-myoung Oh, Emily C. Gates, M. Rosenthal, Shyamnath Gollakota"
+publication_date: "2026-09-28"
 ---
 
 Misophonia, a disorder of decreased tolerance to specific sounds, affects 5-20% of the population, yet sufferers have no good options: therapy helps a minority, and earplugs or noise cancellation silence everything. We present a study for neural trigger sound suppression for misophonia, selectively removing trigger sounds. We curate a dataset covering the 10 most common trigger classes. Using streaming dual-path networks operating on 6 ms audio chunks, we explore both one-hot and multi-hot-conditioned models that suppress 1-3 triggers from the acoustic scene. We validate our model outputs in a listening study with 30 adults with clinically elevated misophonia impairment. Participants reported significantly lower distress and arousal, and improved valence, for suppressed audio.

@@ -6,6 +6,7 @@ publication: "Audio Mostly Conference"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/8b5eb789892e47b5359ba6d773f5dc592d1473fc
 authors: "F. Font"
+publication_date: "2021-09-01"
 ---
 
 SOURCE is an open-source hardware music sampler powered by Freesound’s collection of near 500k Creative Commons sounds contributed by a community of thousands of people around the world. SOURCE provides a hardware interface with Freesound and implements different methods to search and load sounds into the sampler. We see SOURCE as a proof of concept device that can be used as and extendable base system on top of which further research on the interaction between hardware devices and online large sound collections can be carried out. This paper describes the architecture of SOURCE and the different ways in which it interacts with Freesound. Even though we have not carried out a formal evaluation of SOURCE our informal tests show that SOURCE can be successfully integrated into a live music performance setup, and influence the creative process in interesting ways by being able to quickly generate new rich sound palettes that would otherwise be difficult to create with traditional hardware music samplers.

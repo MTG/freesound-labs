@@ -6,6 +6,7 @@ publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Spe
 year: 2023
 external_url: https://www.semanticscholar.org/paper/9cbd933c04218c9b642c15a49f8470d54524d9fb
 authors: "Zhongqiu Wang, Samuele Cornell, Shukjae Choi, Younglo Lee, Byeonghak Kim, Shinji Watanabe"
+publication_date: "2023-04-18"
 ---
 
 We propose FSB-LSTM, a novel long short-term memory (LSTM) based architecture that integrates full- and sub-band (FSB) modeling, for single- and multi-channel speech enhancement in the short-time Fourier transform (STFT) domain. The model maintains an information highway to flow an over-complete input representation through multiple FSB-LSTM modules. Each FSB-LSTM module consists of a full-band block to model spectro-temporal patterns at all frequencies and a sub-band block to model patterns within each sub-band, where each of the two blocks takes a down-sampled representation as input and returns an up-sampled discriminative representation to be added to the block input via a residual connection. The model is designed to have a low algorithmic complexity, a small run-time buffer and a very low algorithmic latency, at the same time producing a strong enhancement performance on a noisy-reverberant speech enhancement task even if the hop size is as low as 2 ms.

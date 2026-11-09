@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/102e5c5a04305477a11245e7fa2da139aa52a207
 authors: "Chengyu Tang, Sanjeev Baskiyar"
+publication_date: "2025-12-03"
 ---
 
 In this study, we evaluate the efficacy of the Mamba architecture bioacoustics by introducing BioMamba, a Mamba-based audio representation model for wildlife sounds. We pre-train a BioMamba using self-supervised learning on a large audio corpus and evaluate it on the BEANS benchmark across diverse classification and detection tasks. Compared to the state-of-the-art Transformer-based model (AVES), BioMamba achieves comparable performance while significantly reducing VRAM consumption. Our results demonstrate Mamba's potential as a computationally efficient alternative for real-world environmental monitoring.

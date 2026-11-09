@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/979bd04f8bb9b164ba1f6c66353f36f8b71d814f
 authors: "Jinbo Hu, Yin Cao, Ming Wu, Feiran Yang, Jun Yang"
+publication_date: "2025-07-22"
 ---
 
 Spatial audio understanding is essential for accurately perceiving and interpreting acoustic environments. However, existing audio-language models exhibit limitations in processing spatial audio and perceiving spatial acoustic scenes. To address this gap, we propose the Spatial Audio Language Model (SALM), a novel framework that bridges spatial audio and language through multi-modal contrastive learning. SALM integrates a text encoder with a dual-branch audio encoder that decomposes spatial sound into semantic and spatial components via structured audio embeddings. Key features of SALM include seamless alignment between spatial audio and natural language, both separate and joint extraction of spatial and semantic representations, zero-shot direction classification, and flexible support for spatial audio editing. Experimental results demonstrate that SALM effectively captures and aligns cross-modal representations, yielding well-structured audio embeddings. Furthermore, SALM enables advanced editing capabilities, such as modifying directional audio using text-based embeddings.

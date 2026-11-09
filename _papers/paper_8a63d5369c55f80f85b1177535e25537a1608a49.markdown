@@ -6,6 +6,7 @@ publication: ""
 year: 2025
 external_url: https://www.semanticscholar.org/paper/8a63d5369c55f80f85b1177535e25537a1608a49
 authors: "Yi Su, Jisheng Bai, Qisheng Xu, Kele Xu, Yong Dou"
+publication_date: "2025-01-25"
 ---
 
 Audio-Language Models (ALMs), trained on paired audio-text data, are designed to process, understand, and reason about audio-centric multimodal content. Unlike traditional supervised approaches that use predefined labels, ALMs leverage natural language supervision to better handle complex real-world audio scenes with multiple overlapping events. While demonstrating impressive zero-shot and task generalization capabilities, there is still a notable lack of systematic surveys that comprehensively organize and analyze developments. In this article, we present the first systematic review of ALMs with three main contributions: 1) comprehensive coverage of ALM works across speech, music, and sound from a general audio perspective; 2) a unified taxonomy of ALM foundations, including model architectures and training objectives; and 3) establishment of a research landscape capturing mutual promotion and constraints among different research aspects, aiding in summarizing evaluations, limitations, concerns, and promising directions. Our review contributes to helping researchers understand the development of existing technologies and future trends, while also providing valuable references for implementation in practical applications.

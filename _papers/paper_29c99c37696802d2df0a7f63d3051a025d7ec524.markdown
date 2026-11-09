@@ -6,6 +6,7 @@ publication: "Neural Networks"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/29c99c37696802d2df0a7f63d3051a025d7ec524
 authors: "Fei Chen, Hui Xue, Peng-Fei Fang"
+publication_date: "2026-10-01"
 ---
 
 This paper presents a novel Cross-Modal Distillation Contrastive Language-Audio Pretraining (CDCLAP) framework to address the challenges of zero-shot audio event classification (ZAEC) under limited hardware resources. The proposed method transfers visual knowledge from an ImageNet-pretrained MobileNetV3 to a lightweight student audio network, and employs a CLAP model-comprising HTSAT and natural language processing model GPT-2-as the teacher to enhance the representational capacity and semantic generalization of the audio encoder. Furthermore, a description generation strategy using GPT-2 is introduced to augment the audio-text pairs, thereby improving model performance. Extensive evaluations on three benchmark datasets-ESC50, US8K, and TUT17 demonstrate that CDCLAP achieves superior performance compared to existing state-of-the-art methods, while maintaining significantly lower model complexity. These results validate the effectiveness of the proposed cross-modal distillation strategy in improving zero-shot recognition accuracy and robustness, offering new insights into efficient multimodal audio understanding.

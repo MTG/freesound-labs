@@ -6,4 +6,5 @@ publication: "Semantic Audio"
 year: 2014
 external_url: https://www.semanticscholar.org/paper/042a55596a31cf4339e09a9c4cfafa43a7e65c73
 authors: "F. Font, J. Serrà, X. Serra"
+publication_date: "2014-01-27"
 ---

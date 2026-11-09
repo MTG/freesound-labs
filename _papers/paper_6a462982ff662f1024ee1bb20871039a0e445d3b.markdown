@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/6a462982ff662f1024ee1bb20871039a0e445d3b
 authors: "Zhi-Heng Jin, Shi-Chao Hu, Chun-Yang Xu, Meng-Yao Zhu"
+publication_date: "2026-09-28"
 ---
 
 Microphone positional encoding supports cross-array direction-of-arrival (DOA) estimation, but coordinates alone cannot fully describe device shadowing or microphone directivity. We propose a Generalizable ATF Matching Framework (GAMF) for DOA estimation across array geometries and microphone counts, using array transfer functions (ATFs) as acoustic descriptors. The learned branch incorporates ATF embeddings into geometry-conditioned neural estimation to match acoustic observations with candidate directions. The analytical branch performs normalized ATF matching adapted from generalized steered response power. A hybrid configuration combines their scores through adaptive gating. Simulations across array configurations show that both learned and hybrid configurations outperform a representative positional-encoding-based neural baseline, remain competitive with analytical ATF matching in clean, low-reverberation scenes, and substantially improve upon it under stronger noise or reverberation. On eight-microphone LOCATA Task 1 recordings, the hybrid configuration outperforms the evaluated state-of-the-art baselines for three-dimensional DOA estimation, achieving mean errors of $3.76^\circ$ for three-dimensional DOA and $2.87^\circ$ for azimuth.

@@ -6,6 +6,7 @@ publication: "ASSETS"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/c1256d18050902f8ba95aac11e25780ae72cdc19
 authors: "R. Guo, Y. Yang, Johnson Kuang, X. Bin, Dhruv Jain, Steven Goodman, Leah Findlater, Jon Froehlich"
+publication_date: "2020-10-26"
 ---
 
 Head-mounted displays can provide private and glanceable speech and sound feedback to deaf and hard of hearing people, yet prior systems have largely focused on speech transcription. We introduce HoloSound, a HoloLens-based augmented reality (AR) prototype that uses deep learning to classify and visualize sound identity and location in addition to providing speech transcription. This poster paper presents a working proof-of-concept prototype, and discusses future opportunities for advancing AR-based sound awareness.

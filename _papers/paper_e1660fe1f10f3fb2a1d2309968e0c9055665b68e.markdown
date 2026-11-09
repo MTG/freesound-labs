@@ -6,6 +6,7 @@ publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/e1660fe1f10f3fb2a1d2309968e0c9055665b68e
 authors: "Zi-Hua Zhang, Sanyuan Chen, Long Zhou, Yu Wu, Shuo Ren, Shujie Liu, Zhuoyuan Yao, Xun Gong, Lirong Dai, Jinyu Li, Furu Wei"
+publication_date: "2022-09-30"
 ---
 
 How to boost speech pre-training with textual data is an unsolved problem due to the fact that speech and text are very different modalities with distinct characteristics. In this paper, we propose a cross-modal Speech and Language Model (SpeechLM) to explicitly align speech and text pre-training with a pre-defined unified discrete representation. Specifically, we introduce two alternative discrete tokenizers to bridge the speech and text modalities, including phoneme-unit and hidden-unit tokenizers, which can be trained using unpaired speech or a small amount of paired speech-text data. Based on the trained tokenizers, we convert the unlabeled speech and text data into tokens of phoneme units or hidden units. The pre-training objective is designed to unify the speech and the text into the same discrete semantic space with a unified Transformer network. We evaluate SpeechLM on various spoken language processing tasks including speech recognition, speech translation, and universal representation evaluation framework SUPERB, demonstrating significant improvements on content-related tasks.

@@ -6,4 +6,5 @@ publication: "Audio Mostly Conference"
 year: 2010
 external_url: https://www.semanticscholar.org/paper/51bd20f032cc2a54f35486a9615adeba3a408a4c
 authors: "G. Roma, P. Herrera"
+publication_date: "2010-09-15"
 ---

@@ -6,6 +6,7 @@ publication: "European Signal Processing Conference"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/49e9ab02d04bbac60371bb516283366bd59b202d
 authors: "Parthasaarathy Sudarsanam, Irene Mart'in-Morat'o, Tuomas Virtanen"
+publication_date: "2025-05-20"
 ---
 
 This paper proposes a single-stage training approach that semantically aligns three modalities - audio, visual, and text using a contrastive learning framework. Contrastive training has gained prominence for multimodal alignment, utilizing large-scale unlabeled data to learn shared representations. Existing deep learning approach for trimodal alignment involves two-stages, that separately align visual-text and audiotext modalities. This approach suffers from mismatched data distributions, resulting in suboptimal alignment. Leveraging the AVCaps dataset, which provides audio, visual and audio-visual captions for video clips, our method jointly optimizes the representation of all the modalities using contrastive training. Our Results demonstrate that the single-stage approach outperforms the two-stage method, achieving a two-fold improvement in audio based visual retrieval, highlighting the advantages of unified multimodal representation learning.

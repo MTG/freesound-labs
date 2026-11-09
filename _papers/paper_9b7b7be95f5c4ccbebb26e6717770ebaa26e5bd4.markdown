@@ -6,4 +6,5 @@ publication: "2012 3rd International Workshop on Cognitive Information Processin
 year: 2012
 external_url: https://www.semanticscholar.org/paper/9b7b7be95f5c4ccbebb26e6717770ebaa26e5bd4
 authors: "F. Font, G. Roma, P. Herrera, X. Serra"
+publication_date: "2012-05-28"
 ---

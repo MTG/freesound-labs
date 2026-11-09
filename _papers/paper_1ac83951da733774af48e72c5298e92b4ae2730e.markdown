@@ -6,6 +6,7 @@ publication: ""
 year: 2025
 external_url: https://www.semanticscholar.org/paper/1ac83951da733774af48e72c5298e92b4ae2730e
 authors: "Linwei Zhai, H. Ding, Cui Zhao, Fei Wang, Ge Wang, Wang Zhi, Wei Xi"
+publication_date: "2025-04-07"
 ---
 
 Neural audio codecs have recently gained traction for their ability to compress high-fidelity audio and provide discrete tokens for generative modeling. However, leading approaches often rely on resource-intensive models and complex multi-quantizer architectures, limiting their practicality in real-world applications. In this work, we introduce L3AC, a lightweight neural audio codec that addresses these challenges by leveraging a single quantizer and a highly efficient architecture. To enhance reconstruction fidelity while minimizing model complexity, L3AC explores streamlined convolutional networks and local Transformer modules, alongside TConv--a novel structure designed to capture acoustic variations across multiple temporal scales. Despite its compact design, extensive experiments across diverse datasets demonstrate that L3AC matches or exceeds the reconstruction quality of leading codecs while reducing computational overhead by an order of magnitude. The single-quantizer design further enhances its adaptability for downstream tasks. The source code is publicly available at https://github.com/zhai-lw/L3AC.

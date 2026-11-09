@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/fdd0bae3491d5544025b9cf87e994ab6b5d27005
 authors: "Nicolas Turpault, S. Wisdom, H. Erdogan, J. Hershey, Romain Serizel, E. Fonseca, P. Seetharaman, Justin Salamon"
+publication_date: "2020-07-08"
 ---
 
 Performing sound event detection on real-world recordings often implies dealing with overlapping target sound events and non-target sounds, also referred to as interference or noise. Until now these problems were mainly tackled at the classifier level. We propose to use sound separation as a pre-processing for sound event detection. In this paper we start from a sound separation model trained on the Free Universal Sound Separation dataset and the DCASE 2020 task 4 sound event detection baseline. We explore different methods to combine separated sound sources and the original mixture within the sound event detection. Furthermore, we investigate the impact of adapting the sound separation model to the sound event detection data on both the sound separation and the sound event detection.

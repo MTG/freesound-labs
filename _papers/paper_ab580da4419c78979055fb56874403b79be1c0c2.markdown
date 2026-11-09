@@ -6,6 +6,7 @@ publication: "Journal of New Music Research"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/ab580da4419c78979055fb56874403b79be1c0c2
 authors: "Anna Xambó, Gerard Roma"
+publication_date: "2024-03-14"
 ---
 
 In this article, we explore the notion of human–machine agencies in live coding applied to music performance. We first survey the literature on interactive music systems, new interfaces for musical expression, live coding and human–data interaction to identify common characteristics related to agency, which can be applied to the analysis of live coding practices. Then, we propose a theoretical framework for supporting the design, evaluation, and analysis of data-driven, AI-enhanced live coding systems. The framework, inspired by actor-network theory and human–data interaction, is composed of four dimensions: legibility, modifiability, predictability and cardinality. We reflect on two live coding systems built by the authors, utilising the four dimensions. We hope that the framework will help understand live coding in the datafication era, in which the data becomes a participating agent. Beyond live coding, our analysis can inform other artistic practices that use AI in interactive or real-time settings while keeping the human in the loop.

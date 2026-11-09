@@ -6,6 +6,7 @@ publication: "2020 IEEE 22nd International Workshop on Multimedia Signal Process
 year: 2020
 external_url: https://www.semanticscholar.org/paper/0437e541b59afa4b4bab18871a39e29a7ed0bc25
 authors: "Abdulaziz Saleh Ba Wazir, H. A. Karim, Mohd Haris Lye Abdullah, Sarina Mansor, Nouar AlDahoul, M. Fauzi, John See"
+publication_date: "2020-09-21"
 ---
 
 Excessive content of profanity in audio and video files has proven to shape one’s character and behavior. Currently, conventional methods of manual detection and censorship are being used. Manual censorship method is time consuming and prone to misdetection of foul language. This paper proposed an intelligent model for foul language censorship through automated and robust detection by deep convolutional neural networks (CNNs). A dataset of foul language was collected and processed for the computation of audio spectrogram images that serve as an input to evaluate the classification of foul language. The proposed model was first tested for 2-class (Foul vs Normal) classification problem, the foul class is then further decomposed into a 10-class classification problem for exact detection of profanity. Experimental results show the viability of proposed system by demonstrating high performance of curse words classification with 1.24-2.71 Error Rate (ER) for 2-class and 5.49-8.30 F1- score. Proposed Resnet50 architecture outperforms other models in terms of accuracy, sensitivity, specificity, F1-score.

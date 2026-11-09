@@ -6,6 +6,7 @@ publication: "IEEE International Conference on Acoustics, Speech, and Signal Pro
 year: 2026
 external_url: https://www.semanticscholar.org/paper/34256c20127c51b3aed13569485a586d62525c68
 authors: "Chenda Li, Wei Wang, Marvin Sach, Wangyou Zhang, Kohei Saijo, Samuele Cornell, Yihui Fu, Zhaoheng Ni, Tim Fingscheidt, Shinji Watanabe, Yanmin Qian"
+publication_date: "2026-01-20"
 ---
 
 The ICASSP 2026 URGENT Challenge advances the series by focusing on universal speech enhancement (SE) systems that handle diverse distortions, domains, and input conditions. This overview paper details the challenge's motivation, task definitions, datasets, baseline systems, evaluation protocols, and results. The challenge is divided into two complementary tracks. Track 1 focuses on universal speech enhancement, while Track 2 introduces speech quality assessment for enhanced speech. The challenge attracted over 80 team registrations, with 29 submitting valid entries, demonstrating significant community interest in robust SE technologies.

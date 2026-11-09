@@ -6,4 +6,5 @@ publication: ""
 year: 2020
 external_url: https://www.semanticscholar.org/paper/27de102a18e76a7112ba71e02ca703150389e908
 authors: "João Pedro Duarte Galileu"
+publication_date: "2020-02-11"
 ---

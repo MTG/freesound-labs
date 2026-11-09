@@ -6,6 +6,7 @@ publication: "ICAAI"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/74f708a3249df9a4339c52abfcf189351c3d5882
 authors: "Muddsair Sharif, Mayur Hotwani, Huseyin Seker, Gero Lückemeyer"
+publication_date: "2021-11-20"
 ---
 
 Machine Learning can work very well with image recognition, but it is used to recognize audio patterns. Machine listening identifies audio patterns of different entities like the car engine, human speaking, nature sounds, etc. The environmental sound classification plays an important role to encourage citizens to travel smartly within a city without creating unbearable noises. On the other hand, it also promotes the city council to maintain and predict a sustainable sound at rush hour with ins the city. The aim of this early-stage research is to present a methodology that will read the labeled audio files, extract features from them, feed features to a sequential model. Moreover, the model will have the ability to classify these audio files of vehicles based on their input feature(s) and then further categorize them as it either light-weight, medium-weight, heavy-weight, rail-bound or two-wheeled vehicle using the applications of machine listening and deep learning in the field of sound acoustics. Therefore, It will also classify unlabelled test data files on a pre-trained model. This research provides us the base model for the vehicle classification giving both advantages and disadvantages along with the possibility for future extensions.

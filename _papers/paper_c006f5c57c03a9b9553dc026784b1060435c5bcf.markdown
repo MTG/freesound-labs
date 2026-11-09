@@ -6,6 +6,7 @@ publication: "2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abs
 year: 2025
 external_url: https://www.semanticscholar.org/paper/c006f5c57c03a9b9553dc026784b1060435c5bcf
 authors: "Joanna Luberadzka, Enric Gusó, Umut Sayin, Adan Garriga"
+publication_date: "2025-03-08"
 ---
 
 Hearing loss is typically managed with hearing aids, which amplify sound based on the user’s hearing profile. However, unlike glasses for vision, hearing aids cannot address the reduced time-frequency resolution of the auditory system. To raise awareness of the challenges faced by hearing aid users, particularly in complex acoustic environments, we use virtual reality (VR). We integrate hearing loss and hearing aid simulators into a VR application, allowing users to experience the altered soundscape in an immersive way.

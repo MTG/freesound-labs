@@ -6,6 +6,7 @@ publication: "IEEE International Joint Conference on Neural Network"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/4547bb75d5d068127c591e9d01c8cc3fb286c948
 authors: "Daisuke Niizumi, Daiki Takeuchi, Yasunori Ohishi, N. Harada, K. Kashino"
+publication_date: "2021-03-11"
 ---
 
 Inspired by the recent progress in self-supervised learning for computer vision that generates supervision using data augmentations, we explore a new general-purpose audio representation learning approach. We propose learning general-purpose audio representation from a single audio segment without expecting relationships between different time segments of audio samples. To implement this principle, we introduce Bootstrap Your Own Latent (BYOL) for Audio (BYOL-A, pronounced “viola”), an audio self-supervised learning method based on BYOL for learning general-purpose audio representation. Unlike most previous audio self-supervised learning methods that rely on agreement of vicinity audio segments or disagreement of remote ones, BYOL-A creates contrasts in an augmented audio segment pair derived from a single audio segment. With a combination of normalization and augmentation techniques, BYOL-A achieves state-of-the-art results in various downstream tasks. Extensive ablation studies also clarified the contribution of each component and their combinations.

@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/5fd92e1694900cac37f4d73331020e457bba1a7d
 authors: "Xian Li, Nian Shao, Xiaofei Li"
+publication_date: "2023-06-07"
 ---
 
 Self-supervised learning (SSL) has emerged as a popular approach for learning audio representations. One goal of audio self-supervised pre-training is to transfer knowledge to downstream audio tasks, generally including clip-level and frame-level tasks. While frame-level tasks are important for fine-grained acoustic scene/event understanding, prior studies primarily evaluate on clip-level downstream tasks. In order to tackle both clip-level and frame-level tasks, this paper proposes Audio Teacher-Student Transformer (ATST), with a clip-level version (named ATST-Clip) and a frame-level version (named ATST-Frame), responsible for learning clip-level and frame-level representations, respectively. Both methods use a Transformer encoder and a teacher-student training scheme. We have carefully designed a view creation strategy for ATST-Clip and ATST-Frame. Specifically, ATST-Clip uses segment-wise data augmentations, and ATST-Frame integrates frame-wise data augmentations and masking. Experimental results show that our ATST-Frame model obtains state-of-the-art (SOTA) performances on most of the clip-level and frame-level downstream tasks. Especially, it outperforms other models by a large margin on the frame-level sound event detection task. In addition, the performance can be further improved by combining the two models through knowledge distillation.

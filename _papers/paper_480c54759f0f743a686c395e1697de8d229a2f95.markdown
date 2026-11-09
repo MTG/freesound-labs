@@ -6,6 +6,7 @@ publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Spe
 year: 2020
 external_url: https://www.semanticscholar.org/paper/480c54759f0f743a686c395e1697de8d229a2f95
 authors: "Ant'onio Ramires, Pritish Chandna, Xavier Favory, E. Gómez, X. Serra"
+publication_date: "2019-11-25"
 ---
 
 We present a deep neural network-based methodology for synthesising percussive sounds with control over high-level timbral characteristics of the sounds. This approach allows for intuitive control of a synthesizer, enabling the user to shape sounds without extensive knowledge of signal processing. We use a feedforward convolutional neural network-based architecture, which is able to map input parameters to the corresponding waveform. We propose two datasets to evaluate our approach on both a restrictive context, and in one covering a broader spectrum of sounds. The timbral features used as parameters are taken from recent literature in signal processing. We also use these features for evaluation and validation of the presented model, to ensure that changing the input parameters produces a congruent waveform with the desired characteristics. Finally, we evaluate the quality of the output sound using a subjective listening test. We provide sound examples and the system’s source code for reproducibility.

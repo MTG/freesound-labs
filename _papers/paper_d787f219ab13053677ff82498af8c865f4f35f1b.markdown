@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/d787f219ab13053677ff82498af8c865f4f35f1b
 authors: "Dimitrios Bralios, Paris Smaragdis, Minje Kim"
+publication_date: "2026-06-25"
 ---
 
 Neural audio autoencoders have become a core component of compression, feature extraction, and generation. However, while existing systems support variable bitrate, the vast majority of models still operate at a fixed latent frame-rate, allocating equal temporal budget to regions with very different information density, which can result in unnecessarily long sequences. We introduce Elastic Time, a dynamic frame-rate bottleneck that converts fixed-frame-rate autoencoders to dynamic ones. Our method learns a lightweight latent predictor used to decide which frames can be skipped and later reconstructed, enabling efficient greedy boundary selection at inference. Experiments show our method enables deployment-time rate control while improving efficiency-quality tradeoffs relative to baselines. Overall, we provide a flexible mechanism for adjusting temporal resolution in audio autoencoders, potentially facilitating more efficient downstream modeling for generation and long-context tasks.

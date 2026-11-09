@@ -6,4 +6,5 @@ publication: "Circuits, systems, and signal processing"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/db70edd4a3cef57eb942d694825c32bb034dcdb0
 authors: "Feilong Chen, Wenmo Lin, Chengli Sun, Qiaosheng Guo"
+publication_date: "2024-04-01"
 ---

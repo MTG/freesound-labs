@@ -6,4 +6,5 @@ publication: "Multimedia Tools and Applications"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/9d5d50f817ae7b176be27ea761ce9ad1f9eb73a0
 authors: "Z. Mnasri, S. Rovetta, F. Masulli"
+publication_date: "2021-12-27"
 ---

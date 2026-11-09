@@ -6,4 +6,5 @@ publication: ""
 year: 2018
 external_url: https://www.semanticscholar.org/paper/c5a884781f33a19d7ffd53bab5529caf4ebc6d8c
 authors: "Zhicun Xu, P. Smit, M. Kurimo"
+publication_date: "2018-11-01"
 ---

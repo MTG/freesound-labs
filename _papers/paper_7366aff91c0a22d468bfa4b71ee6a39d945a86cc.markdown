@@ -6,6 +6,7 @@ publication: "2024 IEEE Spoken Language Technology Workshop (SLT)"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/7366aff91c0a22d468bfa4b71ee6a39d945a86cc
 authors: "Fei Liu, Yang Ai, Hui-Peng Du, Ye-Xin Lu, Ruixin Zheng, Zhenhua Ling"
+publication_date: "2024-10-07"
 ---
 
 This paper proposes a novel Stage-wise and Prior-aware Neural Speech Phase Prediction (SP-NSPP) model, which predicts the phase spectrum from input amplitude spectrum by two-stage neural networks. In the initial prior-construction stage, we preliminarily predict a rough prior phase spectrum from the amplitude spectrum. The subsequent refinement stage transforms the amplitude spectrum into a refined high-quality phase spectrum conditioned on the prior phase. Networks in both stages use ConvNeXt v2 blocks as the backbone and adopt adversarial training by innovatively introducing a phase spectrum discriminator (PSD). To further improve the continuity of the refined phase, we also incorporate a time-frequency integrated difference (TFID) loss in the refinement stage. Experimental results confirm that, compared to neural network-based no-prior phase prediction methods, the proposed SP-NSPP achieves higher phase prediction accuracy, thanks to introducing the coarse phase priors and diverse training criteria. Compared to iterative phase estimation algorithms, our proposed SP-NSPP does not require multiple rounds of staged iterations, resulting in higher generation efficiency.

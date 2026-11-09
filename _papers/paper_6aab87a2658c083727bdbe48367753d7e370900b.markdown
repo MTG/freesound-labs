@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/6aab87a2658c083727bdbe48367753d7e370900b
 authors: "Purnima Kamath, Adrian S. Roman, Koichi Saito, Yuki Mitsufuji, J. Bello"
+publication_date: "2026-06-10"
 ---
 
 Evaluating generative spatial audio for First-Order Ambisonics (FOA) remains challenging due to a limited understanding of how metrics respond to changes in spatial parameters such as azimuth and elevation. We propose a framework to analyze metric sensitivity along continuous spatial trajectories, drawing on principles of sensitivity analysis in parametric sound synthesis. Using controlled FOA scenes with increasing scene complexity, we define three desiderata for metric behavior: Responsiveness, Smoothness, and Symmetry. We assess standard distribution-based and sample-based metrics, including Fr\'echet Audio Distance (FAD), intensity vectors, and acoustic maps. Our findings show that FAD using localization-specific embeddings and acoustic maps yield high Responsiveness and robust Smoothness and Symmetry across conditions, while intensity vectors degrade with increasing scene complexity. This is the first step towards investigating the sensitivity of metrics for generative spatial audio.

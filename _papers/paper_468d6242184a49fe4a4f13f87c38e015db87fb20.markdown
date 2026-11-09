@@ -6,6 +6,7 @@ publication: "Computer Speech &amp; Language"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/468d6242184a49fe4a4f13f87c38e015db87fb20
 authors: "N. Tomashenko, Xiaoxiao Miao, Pierre Champion, S. Meyer, M. Panariello, Xin Wang, Nicholas W. D. Evans, Emmanuel Vincent, Junichi Yamagishi, Massimiliano Todisco"
+publication_date: "2026-01-17"
 ---
 
 We present results and analyses from the third VoicePrivacy Challenge held in 2024, which focuses on advancing voice anonymization technologies. The task was to develop a voice anonymization system for speech data that conceals a speaker's voice identity while preserving linguistic content and emotional state. We provide a systematic overview of the challenge framework, including detailed descriptions of the anonymization task and datasets used for both system development and evaluation. We outline the attack model and objective evaluation metrics for assessing privacy protection (concealing speaker voice identity) and utility (content and emotional state preservation). We describe six baseline anonymization systems and summarize the innovative approaches developed by challenge participants. Finally, we provide key insights and observations to guide the design of future VoicePrivacy challenges and identify promising directions for voice anonymization research.

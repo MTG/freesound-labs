@@ -6,6 +6,7 @@ publication: "Automatic Speech Recognition & Understanding"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/4bd6817d80343718fe99db817ee4dc9eefe716aa
 authors: "Gokul Karthik Kumar, Rishabh Saraf, Ludovick Lepauloux, A. Muneer, Billel Mokeddem, Hakim Hacid"
+publication_date: "2025-09-09"
 ---
 
 Large language models (LLMs) have transformed NLP, yet their integration with audio remains underex-plored-despite audio’s centrality to human communication. We introduce Falcon3-Audio, a family of Audio-Language Models (ALMs) built on instruction-tuned LLMs and Whisper encoders. Using a remarkably small amount of public audio data-less than 30 K hours (5 K unique)-Falcon3-Audio-7B matches the best reported performance among open-weight models on the MMAU benchmark, with a score of 64.14, matching R1-AQA, while distinguishing itself through superior data and parameter efficiency, single-stage training, and transparency. Notably, our smallest 1B model remains competitive with larger open models ranging from 2 B to 13 B parameters. Through extensive ablations, we find that common complexities-such as curriculum learning, multiple audio encoders, and intricate cross-attention connec-tors-are not required for strong performance, even compared to models trained on over $\mathbf{5 0 0 K}$ hours of data.

@@ -6,6 +6,7 @@ publication: "IEEE International Conference on Acoustics, Speech, and Signal Pro
 year: 2025
 external_url: https://www.semanticscholar.org/paper/f2ba5d9a3b324c50f3ac97ad92fc677697211391
 authors: "Prateek Verma, Mert Pilanci"
+publication_date: "2025-09-24"
 ---
 
 We propose a framework that enables neural models to"think while listening"to everyday sounds, thereby enhancing audio classification performance. Motivated by recent advances in the reasoning capabilities of large language models, we address two central questions: (i) how can thinking be incorporated into existing audio classification pipelines to enable reasoning in the category space and improve performance, and (ii) can a new architecture be designed from the ground up to support both thinking and test-time scaling? We demonstrate that in both settings, our models exhibit improved classification accuracy. Leveraging test-time scaling, we observe consistent gains as the number of sampled traces increases. Furthermore, we evaluate two open-source reasoning models, GPT-OSS-20B and Qwen3-14B, showing that while such models are capable of zero-shot reasoning, a lightweight approach--retraining only the embedding matrix of a frozen, smaller model like GPT-2--can surpass the performance of billion-parameter text-based reasoning models.

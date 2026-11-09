@@ -6,6 +6,7 @@ publication: "INTERSPEECH 2023"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/b1a4342950e0081fb86220105d660e36eb59a6fa
 authors: "Chuan Wen, S. Verhulst"
+publication_date: "2023-08-20"
 ---
 
 Most state-of-the-art speech enhancement (SE) methods utilize time-frequency (T-F) features or waveforms as input features and have poor generalizability at negative signal-to-noise ra-tios (SNR). To overcome these issues, we propose a novel network that integrates biophysical properties of the human auditory system known to perform even at negative SNRs. We generated biophysical features using CoNNear, a neural network auditory model, which were fed into a SOTA speech enhancement model AECNN. The model was trained on the INTER-SPEECH 2021 DNS Challenge dataset and evaluated on mis-matched noise conditions at various SNRs. The experimental results revealed that the bio-inspired approaches outperformed T-F and waveform features under positive SNRs and demonstrated stronger robustness to unseen noise at negative SNRs. We conclude that incorporating human-like features can extend the operating range of SE systems to more negative SNRs.

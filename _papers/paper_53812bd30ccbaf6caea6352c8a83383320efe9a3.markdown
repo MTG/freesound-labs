@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/53812bd30ccbaf6caea6352c8a83383320efe9a3
 authors: "Chun-wei Ho, Sabato Marco Siniscalchi, Kai Li, Chin-Hui Lee"
+publication_date: "2026-02-25"
 ---
 
 We propose a knowledge-driven, model-based approach to segmenting audio into single-category and mixed-category chunks with applications to source separation."Knowledge"here denotes information associated with the data, such as music scores."Model"here refers to tool that can be used for audio segmentation and recognition, such as hidden Markov models. In contrast to conventional learning that often relies on annotated data with given segment categories and their corresponding boundaries to guide the learning process, the proposed framework does not depend on any pre-segmented training data and learns directly from the input audio and its related knowledge sources to build all necessary models autonomously. Evaluation on simulation data shows that score-guided learning achieves very good music segmentation and separation results. Tested on movie track data for cinematic audio source separation also shows that utilizing sound category knowledge achieves better separation results than those obtained with data-driven techniques without using such information.

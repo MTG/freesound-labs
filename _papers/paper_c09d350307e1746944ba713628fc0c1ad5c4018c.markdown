@@ -6,4 +6,5 @@ publication: "IET Signal Processing"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/c09d350307e1746944ba713628fc0c1ad5c4018c
 authors: "Muhammad Mamunur Rashid, Guiqing Li, Chengrui Du"
+publication_date: "2023-06-01"
 ---

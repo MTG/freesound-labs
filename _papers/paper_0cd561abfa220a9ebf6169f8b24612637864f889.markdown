@@ -6,6 +6,7 @@ publication: "ACM Trans. Graph."
 year: 2020
 external_url: https://www.semanticscholar.org/paper/0cd561abfa220a9ebf6169f8b24612637864f889
 authors: "Jinta Zheng, Shih-Hsuan Hung, Kyle Hiebel, Y. Zhang"
+publication_date: "2020-11-26"
 ---
 
 Audio recordings contain rich information about sound sources and their properties such as the location, loudness, and frequency of events. One prevalent component in sound recordings is the sound texture, which contains a massive number of events. In such a texture, there can be some distinct and repeated sounds that we term as a foreground sound. Birds chirping in the wind is one such decorative sound texture with the chirping as a foreground sound and the wind as a background texture. To render these decorative sound textures in real-time and with high quality, we create two-layer Markov Models to enable smooth transitions from sound grain to sound grain and propose a hierarchical scheme to generate Head-Related Transfer Function filters for localization cues of sounds represented as area/volume sources. Moreover, during the synthesis stage, we provide control over the frequency and intensity of sounds for customization. Lastly, foreground sounds are often blended into background textures such as the sound of rain splats on car surfaces becoming submerged in the background rain. We develop an extraction component that outperforms existing learning-based methods to facilitate our synthesis with perceptible foreground sounds and well-defined textures.

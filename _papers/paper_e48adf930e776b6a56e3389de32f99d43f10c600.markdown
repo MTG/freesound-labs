@@ -6,6 +6,7 @@ publication: "ACM Computing Surveys"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/e48adf930e776b6a56e3389de32f99d43f10c600
 authors: "Shuyu Li, Shulei Ji, Zihao Wang, Songruoyao Wu, Jiaxing Yu, Kejun Zhang"
+publication_date: "2025-04-01"
 ---
 
 With the rapid development of artificial intelligence, music generation has evolved from single-modal to cross-modal approaches and is gradually moving toward multi-modal fusion. This survey systematically reviews this developmental trajectory. The discussion begins with the representation methods for key modalities, including audio, symbolic, text, and visual data. Music generation techniques are then organized across single-modal, cross-modal, and multi-modal settings. In addition, key datasets and evaluation methodologies relevant to these tasks are compiled. Finally, the survey discusses core challenges in the field, including modal fusion, data scarcity, and evaluation frameworks, and outlines potential directions for future research.

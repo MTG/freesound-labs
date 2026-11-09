@@ -6,6 +6,7 @@ publication: ""
 year: 2025
 external_url: https://www.semanticscholar.org/paper/9f5d2e86b02de2c0b33289f8b3fcf513b2dd8e82
 authors: "Mattson Ogg"
+publication_date: "2025-02-04"
 ---
 
 Self-supervised learning (SSL) algorithms have emerged as powerful tools that can leverage large quantities of unlabeled audio data to pre-train robust representations that support strong performance on diverse downstream tasks. Up to now these have mostly been developed separately for speech and non-speech applications. Here, we explored the domain specificity of a convolutional model's pre-training data relative to different downstream speech and non-speech tasks using a self-supervised pre-training approach (BYOL-A). We found that these pre-trained models (regardless of whether they were pre-trained on speech data, non-speech data or both) enabled good performance on nearly all downstream tasks, beating or nearly matching the performance of popular domain-specific models. Only small domain-specificity advantages were observed between the different pre-training datasets. The popular domain-specific models used as baselines performed very well in their target domains, but generally faltered outside of them. Together, these results demonstrate that SSL methods can be a powerful way to learn flexible representations for domain specific data without labels. These models can be a powerful resource for later transfer learning, fine-tuning or data exploration applications when the downstream data are similar, but also perhaps when there may be a domain mismatch.

@@ -6,6 +6,7 @@ publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Spe
 year: 2023
 external_url: https://www.semanticscholar.org/paper/e03d2a894cc1f8d60f89858a7b615a98f80dc02d
 authors: "Vasudha Kowtha, Miquel Espi Marques, Jonathan Huang, Yichi Zhang, C. Avendaño"
+publication_date: "2023-05-03"
 ---
 
 This work investigates pretrained audio representations for few shot Sound Event Detection. We specifically address the task of few shot detection of novel acoustic sequences, or sound events with semantically meaningful temporal structure, without assuming access to non-target audio. We develop procedures for pretraining suitable representations, and methods which transfer them to our few shot learning scenario. Our experiments evaluate the general purpose utility of our pretrained representations on AudioSet, and the utility of proposed few shot methods via tasks constructed from real-world acoustic sequences. Our pretrained embeddings are suitable to the proposed task, and enable multiple aspects of our few shot framework.

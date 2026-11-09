@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/44423491c90d39f02098159d6e464b0cc9260ee3
 authors: "Sebastian Braun, H. Gamper"
+publication_date: "2024-07-20"
 ---
 
 We propose a novel training scheme using self-label correction and data augmentation methods designed to deal with noisy labels and improve real-world accuracy on a polyphonic audio content detection task. The augmentation method reduces label noise by mixing multiple audio clips and joining their labels, while being compatible with multiple active labels. We additionally show that performance can be improved by a self-label correction method using the same pretrained model. Finally, we show that it is feasible to use a strong zero-shot model such as CLAP to generate labels for unlabeled data and improve the results using the proposed training and label enhancement methods. The resulting model performs similar to CLAP while being an efficient mobile device friendly architecture and can be quickly adapted to unlabeled sound classes.

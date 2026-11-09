@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/27b47f43851779b84f316f113b6f5d1855556c8a
 authors: "Shi-Qi Zhang, Tuomas Virtanen"
+publication_date: "2026-10-26"
 ---
 
 Active learning (AL) reduces annotation by querying informative examples. Continual active learning (CAL) also cuts the training cost, the total number of gradient steps, by training one model across AL rounds with a fixed number of mini-batch steps per round. Pseudo-labels add supervision without annotation, but they increase training cost. In CAL, where every round trains on a fixed number of mini-batches, whether and how pseudo-labeled examples should share these mini-batches with labeled examples is therefore open. We provide the first formalization of this problem as two decisions after each query, namely (i) which unlabeled examples should enter training with a pseudo-label and (ii) what share of each mini-batch they should take. Our method, semi-supervised continual active learning (SSCAL), works with any acquisition function. It admits pseudo-labels based on distances from unlabeled examples to labeled neighbors, caps their share, and reweights the loss on labeled examples to keep their expected gradient contribution unchanged. On frozen embeddings, its pseudo-labeler updates incrementally without extra model forward passes. Across two audio datasets, two frozen encoders, six acquisition functions and ten seeds, SSCAL ranks first on average among four protocols with equal training steps, answering the question affirmatively.

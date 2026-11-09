@@ -6,6 +6,7 @@ publication: "2023 IEEE Sensors Applications Symposium (SAS)"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/0aac85fbb6be993f271c92305254ff4334ee4fad
 authors: "Ki In Tan, Seanglidet Yean, B. Lee"
+publication_date: "2023-07-18"
 ---
 
 Urban soundscape research and their impact study are gaining more prominence with regard to a livable environment. Machine learning models have been used extensively to classify sounds where the input sound data, commonly in wave form, needs to be collected in its full frequency spectrum. However, in an application like NoiseCapture, the sound spectrum is divided into 23 frequency bands and thus some information or features are lost. Given the recent success in training a deep learning model to classify sounds with a limited sound spectrum, we developed a pipeline for maximizing the performance of sound spectrum input with attention-based model. Using data from ESC-50, we discover that the use of transformers improve accuracy over the conventional neural networks by 22.5%; however the limited frequency bands in NoiseCapture sound spectrum impairs the model accuracy, necessitating the use of data augmentation. The data pipeline is analyzed for our case study of Singapore, where selected sound labels, curated to fit the local context, are used to train the model, resulting in an improvement in base transformer accuracy by 12.7%.

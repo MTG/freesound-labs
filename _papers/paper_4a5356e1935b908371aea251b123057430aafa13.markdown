@@ -6,6 +6,7 @@ publication: "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Spe
 year: 2020
 external_url: https://www.semanticscholar.org/paper/4a5356e1935b908371aea251b123057430aafa13
 authors: "Beat Gfeller, Dominik Roblek, M. Tagliasacchi"
+publication_date: "2020-11-04"
 ---
 
 We consider the problem of separating a particular sound source from a single-channel mixture, based on only a short sample of the target source (from the same recording). Using SoundFilter, a wave-to-wave neural network architecture, we can train a model without using any sound class labels. Using a conditioning encoder model which is learned jointly with the source separation network, the trained model can be "configured" to filter arbitrary sound sources, even ones that it has not seen during training. Evaluated on the FSD50k dataset, our model obtains an SI-SDR improvement of 9.6 dB for mixtures of two sounds. When trained on Librispeech, our model achieves an SI-SDR improvement of 14.0 dB when separating one voice from a mixture of two speakers. Moreover, we show that the representation learned by the conditioning encoder clusters acoustically similar sounds together in the embedding space, even though it is trained without using any labels.

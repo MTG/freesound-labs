@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/a28c1f20974de555b22363e77d1274448c90730f
 authors: "Emilian Postolache, Jordi Pons, Santiago Pascual, Joan Serra"
+publication_date: "2022-10-21"
 ---
 
 Universal sound separation consists of separating mixes with arbitrary sounds of different types, and permutation invariant training (PIT) is used to train source agnostic models that do so. In this work, we complement PIT with adversarial losses but find it challenging with the standard formulation used in speech source separation. We overcome this challenge with a novel I-replacement context-based adversarial loss, and by training with multiple discriminators. Our experiments show that by simply improving the loss (keeping the same model and dataset) we obtain a non-negligible improvement of 1.4 dB SI-SNRI in the reverberant FUSS dataset. We also find adversarial PIT to be effective at reducing spectral holes, ubiquitous in mask-based separation models, which highlights the potential relevance of adversarial losses for source separation.

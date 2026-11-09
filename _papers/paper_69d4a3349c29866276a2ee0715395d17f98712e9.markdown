@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/69d4a3349c29866276a2ee0715395d17f98712e9
 authors: "Do Hyun Lee, Yoon-Gue Song, Hong Kook Kim"
+publication_date: "2024-06-17"
 ---
 
 We present a prompt-engineering-based text-augmentation approach applied to a language-queried audio source separation (LASS) task. To enhance the performance of LASS, the proposed approach utilizes large language models (LLMs) to generate multiple captions corresponding to each sentence of the training dataset. To this end, we first perform experiments to identify the most effective prompts for caption augmentation with a smaller number of captions. A LASS model trained with these augmented captions demonstrates improved performance on the DCASE 2024 Task 9 validation set compared to that trained without augmentation. This study highlights the effectiveness of LLM-based caption augmentation in advancing language-queried audio source separation.

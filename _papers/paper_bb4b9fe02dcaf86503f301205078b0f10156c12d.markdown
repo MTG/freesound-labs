@@ -6,4 +6,5 @@ publication: "NeuroImage"
 year: 2016
 external_url: https://www.semanticscholar.org/paper/bb4b9fe02dcaf86503f301205078b0f10156c12d
 authors: "M. F. Assaneo, J. Sitt, G. Varoquaux, M. Sigman, L. Cohen, M. Trevisan"
+publication_date: "2016-11-01"
 ---

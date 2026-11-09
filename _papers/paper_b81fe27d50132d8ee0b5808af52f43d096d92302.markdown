@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/b81fe27d50132d8ee0b5808af52f43d096d92302
 authors: "B. V. Merrienboer, Vincent Dumoulin, Jenny Hamer, Lauren Harrell, Andrea Burns, Tom Denton"
+publication_date: "2025-08-06"
 ---
 
 Perch is a performant pre-trained model for bioacoustics. It was trained in supervised fashion, providing both off-the-shelf classification scores for thousands of vocalizing species as well as strong embeddings for transfer learning. In this new release, Perch 2.0, we expand from training exclusively on avian species to a large multi-taxa dataset. The model is trained with self-distillation using a prototype-learning classifier as well as a new source-prediction training criterion. Perch 2.0 obtains state-of-the-art performance on the BirdSet and BEANS benchmarks. It also outperforms specialized marine models on marine transfer learning tasks, despite having almost no marine training data. We present hypotheses as to why fine-grained species classification is a particularly robust pre-training task for bioacoustics.

@@ -6,4 +6,5 @@ publication: "Pattern Recognition"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/230681570ca8c718e4734d8ffaaa70ad778ad03c
 authors: "Chen Chen, Jia Zhou, Yong Chen, Ao Li, Fengwei Gu, Liang Xi"
+publication_date: "2026-04-01"
 ---

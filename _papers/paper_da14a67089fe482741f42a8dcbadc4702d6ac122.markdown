@@ -6,6 +6,7 @@ publication: "ICASSP"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/da14a67089fe482741f42a8dcbadc4702d6ac122
 authors: "Yuan Gong, Jingbo Yu, James R. Glass"
+publication_date: "2022-05-06"
 ---
 
 Recognizing human non-speech vocalizations is an important task and has broad applications such as automatic sound transcription and health condition monitoring. However, existing datasets have a relatively small number of vocal sound samples or noisy labels. As a consequence, state-of-the-art audio event classification models may not perform well in detecting human vocal sounds. To support research on building robust and accurate vocal sound recognition, we have created a VocalSound dataset consisting of over 21,000 crowdsourced recordings of laughter, sighs, coughs, throat clearing, sneezes, and sniffs from 3,365 unique subjects. Experiments show that the vocal sound recognition performance of a model can be significantly improved by 41.9% by adding VocalSound dataset to an existing dataset as training material. In addition, different from previous datasets, the VocalSound dataset contains meta information such as speaker age, gender, native language, country, and health condition.

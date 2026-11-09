@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/cf8a6223d6ea6bdbb5311580564a46afce5487a8
 authors: "Hyeong-Seok Choi, Hye-Seong Heo, J. H. Lee, K. Lee"
+publication_date: "2020-06-01"
 ---
 
 In this work, we tackle a denoising and dereverberation problem with a single-stage framework. Although denoising and dereverberation may be considered two separate challenging tasks, and thus, two modules are typically required for each task, we show that a single deep network can be shared to solve the two problems. To this end, we propose a new masking method called phase-aware beta-sigmoid mask (PHM), which reuses the estimated magnitude values to estimate the clean phase by respecting the triangle inequality in the complex domain between three signal components such as mixture, source and the rest. Two PHMs are used to deal with direct and reverberant source, which allows controlling the proportion of reverberation in the enhanced speech at inference time. In addition, to improve the speech enhancement performance, we propose a new time-domain loss function and show a reasonable performance gain compared to MSE loss in the complex domain. Finally, to achieve a real-time inference, an optimization strategy for U-Net is proposed which significantly reduces the computational overhead up to 88.9% compared to the naive version.

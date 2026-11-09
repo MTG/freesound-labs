@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/26101ff8b85a4d9004ed2937ba1335a6205d5dd9
 authors: "Ge Zhu, Zhiyao Duan"
+publication_date: "2024-02-10"
 ---
 
 Despite recent advancements, audio-text models still lag behind their image-text counterparts in scale and performance. In this paper, we propose to improve both the data scale and the training procedure of audio-text contrastive models. Specifically, we craft a large-scale audio-text dataset containing 13,000 hours of text-labeled audio, using pretrained language models to process noisy text descriptions and automatic captioning to obtain text descriptions for unlabeled audio samples. We first train on audio-only data with a masked autoencoder (MAE) objective, which allows us to benefit from the scalability of unlabeled audio datasets. We then train a contrastive model with an auxiliary captioning objective with the audio encoder initialized from the MAE model. Our final model, which we name Cacophony, achieves state-of-the-art performance on audio-text retrieval tasks, and exhibits competitive results on the HEAR benchmark and other downstream tasks such as zero-shot classification.

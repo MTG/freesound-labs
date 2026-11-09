@@ -6,6 +6,7 @@ publication: "IEEE International Conference on Acoustics, Speech, and Signal Pro
 year: 2025
 external_url: https://www.semanticscholar.org/paper/84594f9151c5fa992f6636f20f39b68e2ef6826c
 authors: "Zhen Wang, Jiqing Han, Liwen Zhang, Youcheng Zhang"
+publication_date: "2025-04-06"
 ---
 
 The query-based universal sound separation (QUSS) has been addressed, aiming to perform the separation of specific sound sources based on a given query. Most of existed methods focus on the improvement of separation models, ignoring the influence of category-conditioned query embedding distribution on separation performance. To address this issue, we propose an optimization method for query embedding that reduces mutual information (MI) between query embeddings while keeping task-related information intact, named the InfoMin principle. In addition, we propose the Frequency-varying Feature-wise Linear Modulation (FFiLM), which leverages frequency band differences in acoustic events to enhance the modulation capability of query embedding and improve the performance of the separation model. Experimental results show that our method achieves considerable improvements over the existing SoTA method.

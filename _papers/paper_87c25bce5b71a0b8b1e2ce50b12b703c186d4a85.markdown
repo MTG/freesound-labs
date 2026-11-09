@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/87c25bce5b71a0b8b1e2ce50b12b703c186d4a85
 authors: "S. Eskimez, Takuya Yoshioka, Alex Ju, M. Tang, Tanel Pärnamaa, Huaming Wang"
+publication_date: "2022-11-04"
 ---
 
 Personalized speech enhancement (PSE) is a real-time SE approach utilizing a speaker embedding of a target person to remove background noise, reverberation, and interfering voices. To deploy a PSE model for full duplex communications, the model must be combined with acoustic echo cancellation (AEC), although such a combination has been less explored. This paper proposes a series of methods that are applicable to various model architectures to develop efficient causal models that can handle the tasks of PSE, AEC, and joint PSE-AEC. We present extensive evaluation results using both simulated data and real recordings, covering various acoustic conditions and evaluation metrics. The results show the effectiveness of the proposed methods for two different model architectures. Our best joint PSE-AEC model comes close to the expert models optimized for individual tasks of PSE and AEC in their respective scenarios and significantly outperforms the expert models for the combined PSE-AEC task.

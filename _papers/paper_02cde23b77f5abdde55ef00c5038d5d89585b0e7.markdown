@@ -6,6 +6,7 @@ publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Spe
 year: 2025
 external_url: https://www.semanticscholar.org/paper/02cde23b77f5abdde55ef00c5038d5d89585b0e7
 authors: "Kan Jen Cheng, Tingle Li, G. Anumanchipalli"
+publication_date: "2025-01-21"
 ---
 
 Audio texture manipulation involves modifying the perceptual characteristics of a sound to achieve specific transformations, such as adding, removing, or replacing auditory elements. In this paper, we propose an exemplar-based analogy model for audio texture manipulation. Instead of conditioning on text-based instructions, our method uses paired speech examples, where one clip represents the original sound and another illustrates the desired transformation. The model learns to apply the same transformation to new input, allowing for the manipulation of sound textures. We construct a quadruplet dataset representing various editing tasks, and train a latent diffusion model in a self-supervised manner. We show through quantitative evaluations and perceptual studies that our model outperforms text-conditioned baselines and generalizes to real-world, out-of-distribution, and non-speech scenarios.

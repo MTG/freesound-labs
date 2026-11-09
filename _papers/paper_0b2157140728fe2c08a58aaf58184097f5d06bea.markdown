@@ -6,4 +6,5 @@ publication: "TIST"
 year: 2015
 external_url: https://www.semanticscholar.org/paper/0b2157140728fe2c08a58aaf58184097f5d06bea
 authors: "F. Font, J. Serrà, X. Serra"
+publication_date: "2015-09-22"
 ---

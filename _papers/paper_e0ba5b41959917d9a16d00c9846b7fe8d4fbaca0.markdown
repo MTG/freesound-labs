@@ -6,6 +6,7 @@ publication: "IEEE Workshop on Applications of Signal Processing to Audio and Ac
 year: 2025
 external_url: https://www.semanticscholar.org/paper/e0ba5b41959917d9a16d00c9846b7fe8d4fbaca0
 authors: "Jiarui Hai, Mounya Elhilali"
+publication_date: "2025-09-23"
 ---
 
 Data synthesis and augmentation are essential for Sound Event Detection (SED) due to the scarcity of temporally labeled data. While augmentation methods like SpecAugment and Mix-up can enhance model performance, they remain constrained by the diversity of existing samples. Recent generative models offer new opportunities, yet their direct application to SED is challenging due to the lack of precise temporal annotations and the risk of introducing noise through unreliable filtering. To address these challenges and enable generative-based augmentation for SED, we propose SynSonic, a data augmentation method tailored for this task. SynSonic leverages text-to-audio diffusion models guided by an energy-envelope ControlNet to generate temporally coherent sound events. A joint score filtering strategy with dual classifiers ensures sample quality, and we explore its practical integration into training pipelines. Experimental results show that SynSonic improves Polyphonic Sound Detection Scores (PSDS1 and PSDS2), enhancing both temporal localization and sound class discrimination.

@@ -6,6 +6,7 @@ publication: "IJCNLP-AACL"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/ea1e16c3702e64494a761cc813d5d7779ee84f54
 authors: "Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, Changhao Pan, Zhou Zhao"
+publication_date: "2025-08-08"
 ---
 
 With the rapid development of spatial audio technologies today, applications in AR, VR, and other scenarios have garnered extensive attention. Unlike traditional mono sound, spatial audio offers a more realistic and immersive auditory experience. Despite notable progress in the field, there remains a lack of comprehensive surveys that systematically organize and analyze these methods and their underlying technologies. In this paper, we provide a comprehensive overview of spatial audio and systematically review recent literature in the area. To address this, we chronologically outlining existing work related to spatial audio and categorize these studies based on input-output representations, as well as generation and understanding tasks, thereby summarizing various research aspects of spatial audio. In addition, we review related datasets, evaluation metrics, and benchmarks, offering insights from both training and evaluation perspectives. Related materials are available at https://github.com/dieKarotte/ASAudio.

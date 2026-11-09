@@ -6,6 +6,7 @@ publication: "ACM Multimedia"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/08e7d7d63fa9e1ab4f99883142aa8e48f3582be1
 authors: "Moreno La Quatra, L. Vaiani, Alkis Koudounas, Luca Cagliero, P. Garza, Elena Baralis"
+publication_date: "2022-10-10"
 ---
 
 Mosquitoes are a major global health problem. They are responsible for the transmission of diseases and can have a large impact on local economies. Monitoring mosquitoes is therefore helpful in preventing the outbreak of mosquito-borne diseases. In this paper, we propose a novel data-driven approach that leverages Transformer-based models for the identification of mosquitoes in audio recordings. The task aims at detecting the time intervals corresponding to the acoustic mosquito events in an audio signal. We formulate the problem as a sequence tagging task and train a Transformer-based model using a real-world dataset collecting mosquito recordings. By leveraging the sequential nature of mosquito recordings, we formulate the training objective so that the input recordings do not require fine-grained annotations. We show that our approach is able to outperform baseline methods using standard evaluation metrics, albeit suffering from unexpectedly high false negatives detection rates. In view of the achieved results, we propose future directions for the design of more effective mosquito detection models.

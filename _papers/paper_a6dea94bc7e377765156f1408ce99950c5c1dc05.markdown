@@ -6,4 +6,5 @@ publication: "MUM"
 year: 2013
 external_url: https://www.semanticscholar.org/paper/a6dea94bc7e377765156f1408ce99950c5c1dc05
 authors: "Long-Van Nguyen-Dinh, U. Blanke, G. Tröster"
+publication_date: "2013-12-02"
 ---

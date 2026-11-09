@@ -6,6 +6,7 @@ publication: "Integrated Spatial Databases"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/bf01166bc5c64fe12884d73c5969bfc92ec9612d
 authors: "Mariusz Kleć, Krzysztof Szklanny, Alicja Wieczorkowska"
+publication_date: "2024-09-09"
 ---
 
 This paper presents a solution for generating corpora of simulated Polish speech recordings in complex acoustic environments. The proposed method introduces a layer of unpredictable sound events, in addition to the acoustic scene noise and reverberation, making the solution unique. We generated a corpus comprising over 277 hours of training examples and over 5.5 hours for testing purposes using publicly available data sources. Next, we trained several Conv-TasNet networks on the generated data to enhance single speech and separate two speakers from complex noise. The results of the experiments indicated the potential of the generated corpora for solving these tasks. Researchers can use publicly available code to create their corpora tailored to the Polish language and solve various speech-related tasks.

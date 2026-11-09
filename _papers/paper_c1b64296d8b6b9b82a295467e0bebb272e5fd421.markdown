@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/c1b64296d8b6b9b82a295467e0bebb272e5fd421
 authors: "Sarthak Yadav, S. Theodoridis, Zheng-Hua Tan"
+publication_date: "2024-08-29"
 ---
 
 While the transformer has emerged as the eminent neural architecture, several independent lines of research have emerged to address its limitations. Recurrent neural approaches have observed a lot of renewed interest, including the extended long short-term memory (xLSTM) architecture, which reinvigorates the original LSTM. However, while xLSTMs have shown competitive performance compared to the transformer, their viability for learning self-supervised general-purpose audio representations has not been evaluated. This work proposes Audio xLSTM (AxLSTM), an approach for learning audio representations from masked spectrogram patches in a self-supervised setting. Pretrained on the AudioSet dataset, the proposed AxLSTM models outperform comparable self-supervised audio spectrogram transformer (SSAST) baselines by up to 25% in relative performance across a set of ten diverse downstream tasks while having up to 45% fewer parameters.

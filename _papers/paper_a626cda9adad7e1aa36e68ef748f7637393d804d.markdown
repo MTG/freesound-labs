@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/a626cda9adad7e1aa36e68ef748f7637393d804d
 authors: "Takuya Fujimura, G. Wichern, Yoshiki Masuyama, Christoph Boeddeker, Kohei Saijo, Julius Richter, Takahiro Edo, J. Le Roux"
+publication_date: "2026-08-01"
 ---
 
 In this paper, we introduce noise-aware self-supervised learning (NA-SSL) models for noise-aware anomalous sound detection (NA-ASD). NA-ASD is an ASD task with two-channel audio recordings, where one microphone is located close to the target machine and the other is located farther away to capture noise. For this task, we simulate two-channel recordings using diverse audio datasets and train NA-SSL models to extract clean SSL representations of the close-microphone signal by using the far-microphone recording dominated by background noise as auxiliary information. The NA-SSL models are then used as frontends in the standard ASD framework. Our experimental evaluation on the DCASE 2026 Challenge Task 2 development dataset demonstrates the effectiveness of the NA-SSL framework across three base SSL models (BEATs, EAT, and Dasheng), both with and without discriminative fine-tuning. Furthermore, the challenge results proved the effectiveness of the proposed approach, where the NA-BEATs system won the challenge by a large margin, achieving an official score of 70.24%, while the second-place system achieved 65.46%.

@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/42fa93f81084059a1453f95a1503f4633f5edd96
 authors: "Mingda Lin, Lei Ding, Xin-Yu Zhou, Tiantian Xiong, Han-Chen Pei, Gongping Huang, Hao Zhang, Jing-Dong Chen, Jacob Benesty"
+publication_date: "2026-06-25"
 ---
 
 While pre-trained models excel in specialized tasks, learning universal representations across diverse acoustic domains remains challenging. To address this, we propose WQ-Fusion, a robust dual-encoder framework for cross-domain audio representation learning. Overcoming the limitations of static concatenation, WQ-Fusion integrates whisper and qwen via an Adaptive Feature Modulation module and a novel element-wise gated attention mechanism. This design enables dynamic feature selection, allowing the model to selectively emphasize relevant acoustic and semantic dimensions. Extensive experiments on the Interspeech 2026 Audio Encoder Capability Challenge (Track A) benchmark demonstrate that by effectively routing heterogeneous information, WQ-Fusion achieves a superior overall score of 0.836, significantly outperforming the strongest single-encoder baseline.

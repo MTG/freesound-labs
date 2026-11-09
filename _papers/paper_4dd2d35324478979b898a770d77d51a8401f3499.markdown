@@ -6,6 +6,7 @@ publication: "2023 3rd International Conference on Electrical, Computer, Communi
 year: 2023
 external_url: https://www.semanticscholar.org/paper/4dd2d35324478979b898a770d77d51a8401f3499
 authors: "Dagis Daniels Vidulejs, J. Teličko, A. Jakovičs"
+publication_date: "2023-07-19"
 ---
 
 In the realm of audio-based health monitoring, precise cough detection is of paramount importance for evaluating and managing patient symptoms and epidemiological risk. Automated cough detection systems and neural networks in general frequently struggle with suboptimal performance in real-world applications. In this study, we empirically demonstrate that noise augmentation can improve the robustness of the end-to-end cough detection model with the input feature of raw audio waveforms. Temporal Convolutional Networks (TCNs) are trained on a large-scale, crowd-sourced cough dataset, and the false positive rate (FPR) for out-of-distribution (OOD) classes—i.e., sounds from environments not included in the training dataset—is assessed. To reduce the FPR, we investigate training with noise-augmented data and truncated loss functions. We show that the mean FPR on OOD classes can be reduced by 84.6% compared to the reference model of CCE clean (data).

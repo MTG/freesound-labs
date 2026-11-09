@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/b29e8a52477a57064ef592c6ec349ef4466b94ca
 authors: "Jérémy Rouch, M. Ducrettet, S. Haupert, R. Emonet, F. Sèbe"
+publication_date: "2025-06-23"
 ---
 
 The accessibility of long-duration recorders, adapted to sometimes demanding field conditions, has enabled the deployment of extensive animal population monitoring campaigns through ecoacoustics. The effectiveness of automatic signal detection methods, increasingly based on neural approaches, is frequently evaluated solely through machine learning metrics, while acoustic analysis of performance remains rare. As part of the acoustic monitoring of Rock Ptarmigan populations, we propose here a simple method for acoustic analysis of the detection system's performance. The proposed measure is based on relating the signal-to-noise ratio of synthetic signals to their probability of detection. We show how this measure provides information about the system and allows optimisation of its training. We also show how it enables modelling of the detection distance, thus offering the possibility of evaluating its dynamics according to the sound environment and accessing an estimation of the spatial density of calls.

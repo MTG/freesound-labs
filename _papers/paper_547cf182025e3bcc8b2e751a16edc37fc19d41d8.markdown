@@ -6,6 +6,7 @@ publication: ""
 year: 2019
 external_url: https://www.semanticscholar.org/paper/547cf182025e3bcc8b2e751a16edc37fc19d41d8
 authors: "H. Koh, W. L. Woo"
+publication_date: "2019-03-26"
 ---
 
 In the classification of non-stationary time series data such as sounds, it is often tedious and expensive to get a training set that is representative of the target concept. To alleviate this problem, the proposed method treats the outputs of a number of deep learning sub-models as the views of the same target concept that can be linearly combined according to their complementarity. It is proposed that the view’s complementarity be the contribution of the view to the global view, chosen in this paper to be the Laplacian eigenmap of the combined data. Complementarity is computed by alternate optimization, a process that involves the cost function of the Laplacian eigenmap and the weights of the linear combination. By blending the views in this way, a more complete view of the underlying phenomenon can be made available to the final classifier. Better generalization is obtained, as the consensus between the views reduces the variance while the increase in the discriminatory information reduces the bias. The data experiment with artificial views of environment sounds formed by deep learning structures of different configurations shows that the proposed method can improve the classification performance.

@@ -6,4 +6,5 @@ publication: "2017 IEEE Workshop on Applications of Signal Processing to Audio a
 year: 2017
 external_url: https://www.semanticscholar.org/paper/3907d7530c07bc640d84a50ff3e48a27a27ab6ac
 authors: "Aleksandr Diment, T. Virtanen"
+publication_date: "2017-10-01"
 ---

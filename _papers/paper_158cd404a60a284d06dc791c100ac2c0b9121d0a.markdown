@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/158cd404a60a284d06dc791c100ac2c0b9121d0a
 authors: "Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-Wei Chang, Jiawei Du, Ke-Han Lu, Alexander H. Liu, Ho-Lam Chung, Yuan-Kuei Wu, Dongchao Yang, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee"
+publication_date: "2024-09-21"
 ---
 
 Neural audio codec models are becoming increasingly important as they serve as tokenizers for audio, enabling efficient transmission or facilitating speech language modeling. The ideal neural audio codec should maintain content, paralinguistics, speaker characteristics, and audio information even at low bitrates. Recently, numerous advanced neural codec models have been proposed. However, codec models are often tested under varying experimental conditions. As a result, we introduce the Codec-SUPERB challenge at SLT 20241, designed to facilitate fair and lightweight comparisons among existing codec models and inspire advancements in the field. This challenge brings together representative speech applications and objective metrics, and carefully selects license-free datasets, sampling them into small sets to reduce evaluation computation costs. This paper presents the challenge’s rules, datasets, participant systems, results, and findings.1https://codecsuperb.github.io/

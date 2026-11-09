@@ -6,6 +6,7 @@ publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Spe
 year: 2023
 external_url: https://www.semanticscholar.org/paper/6086fc3ba522d41286240f8045f2280da100dd64
 authors: "Dianwen Ng, Chong Zhang, Ruixiu Zhang, Yukun Ma, Fabian Ritter-Gutierrez, Trung Hieu Nguyen, Chongjia Ni, Shengkui Zhao, E. Chng, B. Ma"
+publication_date: "2023-09-18"
 ---
 
 Large self-supervised pre-trained speech models require computationally expensive fine-tuning for downstream tasks. Soft prompt tuning offers a simple parameter-efficient alternative by utilizing minimal soft prompt guidance, enhancing portability while also maintaining competitive performance. However, not many people understand how and why this is so. In this study, we aim to deepen our understanding of this emerging method by investigating the role of soft prompts in automatic speech recognition (ASR). Our findings highlight their role as zero-shot learners in improving ASR performance while also exposing them to the risk of malicious modifications. Soft prompts aid generalization but are not obligatory for inference. We also identify two primary roles of soft prompts: content refinement and noise information enhancement, which enhances robustness against background noise. Additionally, we propose an effective modification on noise prompts to show that they are capable of zero-shot learning on adapting to out-of-distribution noise environments.

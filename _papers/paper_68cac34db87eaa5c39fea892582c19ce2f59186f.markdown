@@ -6,6 +6,7 @@ publication: "2022 IEEE Spoken Language Technology Workshop (SLT)"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/68cac34db87eaa5c39fea892582c19ce2f59186f
 authors: "Kuan-Po Huang, Yu-Kuan Fu, Tsung-Yuan Hsu, Fabian Ritter Gutierrez, Fan Wang, Liang-Hsuan Tseng, Yu Zhang, Hung-yi Lee"
+publication_date: "2022-10-14"
 ---
 
 Self-supervised learned (SSL) speech pre-trained models perform well across various speech processing tasks. Distilled versions of SSL models have been developed to match the needs of on-device speech applications. Though having similar performance as original SSL models, distilled counterparts suffer from performance degradation even more than their original versions in distorted environments. This paper proposes to apply Cross-Distortion Mapping and Domain Adversarial Training to SSL models during knowledge distillation to alleviate the performance gap caused by the domain mismatch problem. Results show consistent performance improvements under both in- and out-of-domain distorted setups for different downstream tasks while keeping efficient model size.

@@ -6,6 +6,7 @@ publication: "2018 23rd Conference of Open Innovations Association (FRUCT)"
 year: 2018
 external_url: https://www.semanticscholar.org/paper/9b8006f9ea0469a6326e072b932c98602e77a50d
 authors: "L. Turchet, M. Barthet"
+publication_date: "2018-11-01"
 ---
 
 This paper presents an Internet of Musical Things ecosystem involving musicians and audiences interacting with a smart mandolin, smartphones, and the Audio Commons online repository Freesound. The ecosystem has been devised to support performer-instrument and performer-audience interactions through the generation of musical accompaniments exploiting crowd-sourced sounds. We present two use cases investigating how audio content retrieved from Freesound can be leveraged by performers or audiences to produce accompanying soundtracks for music performance with a smart mandolin. In the performer-instrument interaction use case, the performer can select content to be retrieved prior to performing through a set of keywords and structure it in order to create the desired accompaniment. In the performer-audience interaction use case, a group of audience members participates in the music creation by selecting and arranging Freesound audio content to create an accompaniment collaboratively. We discuss the advantages and limitations of the system with regard to music making and audience participation, along with its implications and challenges.

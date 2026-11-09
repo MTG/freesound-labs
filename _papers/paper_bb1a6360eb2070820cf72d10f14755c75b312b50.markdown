@@ -6,4 +6,5 @@ publication: "Computer Speech and Language"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/bb1a6360eb2070820cf72d10f14755c75b312b50
 authors: "Ladislav Mošner, Oldrich Plchot, Lukáš Burget, Chunlei Zhang, J. Černocký, Meng Yu"
+publication_date: "2026-01-01"
 ---

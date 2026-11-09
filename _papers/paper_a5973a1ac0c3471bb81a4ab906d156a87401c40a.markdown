@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/a5973a1ac0c3471bb81a4ab906d156a87401c40a
 authors: "Dianwen Ng, Ruixiong Zhang, Jia Qi Yip, Zhao Yang, Jinjie Ni, Chong Zhang, Yukun Ma, Chongjia Ni, E. Chng, B. Ma"
+publication_date: "2023-02-28"
 ---
 
 Existing self-supervised pre-trained speech models have offered an effective way to leverage massive unannotated corpora to build good automatic speech recognition (ASR). However, many current models are trained on a clean corpus from a single source, which tends to do poorly when noise is present during testing. Nonetheless, it is crucial to overcome the adverse influence of noise for real-world applications. In this work, we propose a novel training framework, called deHuBERT, for noise reduction encoding inspired by H. Barlow’s redundancy-reduction principle. The new framework improves the HuBERT training algorithm by introducing auxiliary losses that drive the self- and cross-correlation matrix between pairwise noise-distorted embeddings towards identity matrix. This encourages the model to produce noise- agnostic speech representations. With this method, we report improved robustness in noisy environments, including unseen noises, without impairing the performance on the clean set.

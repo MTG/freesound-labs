@@ -6,6 +6,7 @@ publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Spe
 year: 2020
 external_url: https://www.semanticscholar.org/paper/66831f683141c11ed7e20b0f2e8b40700740c164
 authors: "Honglie Chen, Weidi Xie, A. Vedaldi, Andrew Zisserman"
+publication_date: "2020-04-29"
 ---
 
 Our goal is to collect a large-scale audio-visual dataset with low label noise from videos ‘in the wild’ using computer vision techniques. The resulting dataset can be used for training and evaluating audio recognition models. We make three contributions. First, we propose a scalable pipeline based on computer vision techniques to create an audio dataset from open-source media. Our pipeline involves obtaining videos from YouTube; using image classification algorithms to localize audio-visual correspondence; and filtering out ambient noise using audio verification. Second, we use this pipeline to curate the VGGSound dataset consisting of more than 200k videos for 300 audio classes. Third, we investigate various Convolutional Neural Network (CNN) architectures and aggregation approaches to establish audio recognition baselines for our new dataset. Compared to existing audio datasets, VGGSound ensures audio-visual correspondence and is collected under unconstrained conditions. Code and the dataset are available at http://www.robots.ox.ac.uk/~vgg/data/vggsound/.

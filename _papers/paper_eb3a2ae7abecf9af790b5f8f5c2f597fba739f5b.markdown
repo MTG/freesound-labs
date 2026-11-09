@@ -6,4 +6,5 @@ publication: "Socio-Economic Planning Sciences"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/eb3a2ae7abecf9af790b5f8f5c2f597fba739f5b
 authors: "A. Soto-Vergel, D. Ramírez-Ríos, J. C. Velez, R. Amaya-Mier"
+publication_date: "2025-10-01"
 ---

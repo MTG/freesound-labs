@@ -6,6 +6,7 @@ publication: "Proceedings of the 11th Convention of the European Acoustics Assoc
 year: 2025
 external_url: https://www.semanticscholar.org/paper/6e65e93c566bd49a1797be250e4ecef5499f30b7
 authors: "Taous Iatariene, Alexandre Guérin, Romain Serizel"
+publication_date: "2025-06-11"
 ---
 
 This paper presents the problem of tracking intermittent and moving sources, i.e, sources that may change position when they are inactive. This issue is seldom explored, and most current tracking methods rely on spatial observations for track identity management. They are either based on a previous localization step, or designed to perform joint localization and tracking by predicting ordered position estimates. This raises concerns about whether such methods can maintain reliable track identity assignment performance when dealing with discontinuous spatial tracks, which may be caused by a change of direction during silence. We introduce LibriJump, a novel dataset of acoustic scenes in the First Order Ambisonics format focusing on speaker tracking. The dataset contains speakers with changing positions during inactivity periods, thus simulating discontinuous tracks. To measure the identity assignment performance, we propose to use tracking association metrics adapted from the computer vision community. We provide experiments showing the complementarity of association metrics with previously used tracking metrics, given continuous and discontinuous spatial tracks.

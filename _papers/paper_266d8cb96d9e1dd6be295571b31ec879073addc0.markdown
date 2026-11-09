@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/266d8cb96d9e1dd6be295571b31ec879073addc0
 authors: "Chang-Hao Pan, Yi-Fei Fan, Fan Zhuo, Yi-Fu Chen, Wenxiang Guo, Yu Zhang, Ruiqi Li, Zhi-Yuan Zhu, Rui Yang, Shengpeng Ji, Chenyuhao Wen, Jia-Yang Xu, Ke Lei, Xiao-Da Yang, Jingyu Lu, Zhou Zhao"
+publication_date: "2026-06-22"
 ---
 
 Audio editing aims to modify a given synthetic or real-world audio signal to satisfy specific user needs. As a promising yet challenging direction in AIGC, it has attracted increasing attention. Recent advances in audio generation have made powerful generative models central to modern audio editing systems. This rapid progress has created a growing need to organize emerging tasks, methods, and resources into a coherent view. In this survey, we provide a comprehensive review of audio editing in the era of foundation models. We first present a unified taxonomy of existing editing tasks and then summarize the major foundation-model paradigms that support modern audio editing, covering representative approaches from both training-based and training-free perspectives. We further discuss related resources, including datasets, evaluation protocols, and data construction tools. Finally, we identify open challenges in this field and outline promising directions for future research. The project page is released at https://github.com/DaViD-Pigeon/AudioEditSurvey.

@@ -6,6 +6,7 @@ publication: "IEEE Signal Processing Letters"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/5a690f8448b67133f5e44a24d81a43fd82178181
 authors: "Shubhr Singh, Christian J. Steinmetz, Emmanouil Benetos, Huy Phan, Dan Stowell"
+publication_date: "2023-11-02"
 ---
 
 Deep learning models such as CNNs and Transformers have achieved impressive performance for end-to-end audio tagging. Recent works have shown that despite stacking multiple layers, the receptive field of CNNs remains severely limited. Transformers on the other hand are able to map global context through self-attention, but treat the spectrogram as a sequence of patches which is not flexible enough to capture irregular audio objects. In this letter, we treat the spectrogram in a more flexible way by considering it as graph structure and process it with a novel graph neural architecture called ATGNN. ATGNN not only combines the capability of CNNs with the global information sharing ability of Graph Neural Networks, but also maps semantic relationships between learnable class embeddings and corresponding spectrogram regions. We evaluate ATGNN on two audio tagging tasks, where it achieves 0.585 mAP on the FSD50 K dataset and 0.335 mAP on the AudioSet-balanced dataset, achieving comparable results to Transformer based models with significantly lower number of learnable parameters.

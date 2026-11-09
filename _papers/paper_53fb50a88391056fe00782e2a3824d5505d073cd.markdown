@@ -6,6 +6,7 @@ publication: "2022 IEEE Spoken Language Technology Workshop (SLT)"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/53fb50a88391056fe00782e2a3824d5505d073cd
 authors: "Hyungchan Song, Sanyuan Chen, Zhuo Chen, Yu Wu, Takuya Yoshioka, M. Tang, Jong Won Shin, Shujie Liu"
+publication_date: "2022-11-18"
 ---
 
 There is a surge in interest in self-supervised learning approaches for end-to-end speech encoding in recent years as they have achieved great success. Especially, WavLM showed state-of-the-art performance on various speech processing tasks. To better understand the efficacy of self-supervised learning models for speech enhancement, in this work, we design and conduct a series of experiments with three resource conditions by combining WavLM and two high-quality speech enhancement systems. Also, We propose a regression-based WavLM training objective and a noise-mixing data configuration to further boost the downstream enhancement performance. The experiments on the DNS challenge dataset and a simulation dataset show that the WavLM benefits the speech enhancement task in terms of both speech quality and speech recognition accuracy, especially for low fine-tuning resources. For the high fine-tuning resource condition, only the word error rate is substantially improved.

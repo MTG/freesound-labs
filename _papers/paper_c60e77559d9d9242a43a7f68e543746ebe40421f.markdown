@@ -6,6 +6,7 @@ publication: "IEEE Transactions on Industrial Informatics"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/c60e77559d9d9242a43a7f68e543746ebe40421f
 authors: "Weiyu Li, Weizhi Lu, Xijun Liang, Mingrui Chen, Kai Guo"
+publication_date: "2024-07-01"
 ---
 
 In this article, we study the multiple dictionaries-based compressed sensing, which has sparse signals recovered with several different dictionaries, and then takes the average as the final recovery. Statistically, the averaging method will reduce the errors with zero mean, but can hardly deal with the errors with nonzero means. In practice, the nonzero-mean errors are usually inevitable since sparse recovery will drop relatively small elements. To reduce such kind of errors, we analytically show that the error distributions of different dictionaries should be different to each other. Interestingly, the condition is hard to achieve, even though the dictionaries are learned independently. This is because the dictionaries, which are trained on the same dataset tend to converge to close points and, thus, yield similar recovery errors. In an attempt to address the issue, we propose a collaborative dictionary learning model to enhance the difference between dictionaries. The model is implemented with a block coordinate descent algorithm, with guaranteed convergence. Experiments show that our collaboratively learned dictionaries perform better than the independently learned ones.

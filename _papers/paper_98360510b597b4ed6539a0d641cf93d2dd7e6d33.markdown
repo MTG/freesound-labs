@@ -6,4 +6,5 @@ publication: "Measurement"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/98360510b597b4ed6539a0d641cf93d2dd7e6d33
 authors: "E. Vidaña-Vila, Alejandro Moñux-Bernal, M. Freixes, Aleix Ventayol, Jeroen Paymans, R. Alsina-Pagès"
+publication_date: "2026-12-01"
 ---

@@ -6,6 +6,7 @@ publication: "10th International Conference on Digital and Interactive Arts"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/700cb13f0fd989989bb47c729c002d1dbaea83ad
 authors: "Haron Anis, Chee Onn Wong, Soon Hin Hew"
+publication_date: "2021-10-13"
 ---
 
 Tone color is an important timbral descriptor for sound that is commonly referred to using semantic descriptors such as warm, dark and bright. This article introduces a novel algorithm using hidden Markov models to computationally identify a best fit semantic descriptor of tone color for a given sound file. The algorithm is developed using dataset annotated by trained individuals and tested against thousands of sound samples obtained from an online database. A survey is conducted to alongside the algorithm development in order to compare identification results from the algorithm against identification results by survey respondents. Results from the algorithm shows positive match in general suggesting its viability. Algorithmic identification of tone color finds its application in music production, where it can be used as a parameter recommendation tool for synthesizers.

@@ -6,6 +6,7 @@ publication: "Interspeech 2021"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/77e924b0103cc5f3a25071ff80b943a883b9eecd
 authors: "Aswin Sivaraman, Sunwoo Kim, Minje Kim"
+publication_date: "2021-04-05"
 ---
 
 Training personalized speech enhancement models is innately a no-shot learning problem due to privacy constraints and limited access to noise-free speech from the target user. If there is an abundance of unlabeled noisy speech from the test-time user, a personalized speech enhancement model can be trained using self-supervised learning. One straightforward approach to model personalization is to use the target speaker's noisy recordings as pseudo-sources. Then, a pseudo denoising model learns to remove injected training noises and recover the pseudo-sources. However, this approach is volatile as it depends on the quality of the pseudo-sources, which may be too noisy. As a remedy, we propose an improvement to the self-supervised approach through data purification. We first train an SNR predictor model to estimate the frame-by-frame SNR of the pseudo-sources. Then, the predictor's estimates are converted into weights which adjust the frame-by-frame contribution of the pseudo-sources towards training the personalized model. We empirically show that the proposed data purification step improves the usability of the speaker-specific noisy data in the context of personalized speech enhancement. Without relying on any clean speech recordings or speaker embeddings, our approach may be seen as privacy-preserving.

@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/420c6e6dbf00199965c80d60e3cfb9f303447e37
 authors: "K. Prinz, A. Flexer"
+publication_date: "2020-07-29"
 ---
 
 Small adversarial perturbations of input data are able to drastically change performance of machine learning systems, thereby challenging the validity of such systems. We present the very first end-to-end adversarial attacks on a music instrument classification system allowing to add perturbations directly to audio waveforms instead of spectrograms. Our attacks are able to reduce the accuracy close to a random baseline while at the same time keeping perturbations almost imperceptible and producing misclassifications to any desired instrument.

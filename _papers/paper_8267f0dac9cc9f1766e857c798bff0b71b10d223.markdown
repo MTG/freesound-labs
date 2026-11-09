@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/8267f0dac9cc9f1766e857c798bff0b71b10d223
 authors: "Zhenyi Hou, Xu Zhao, Kejie Ye, Xinyu Sheng, Shanggerile Jiang, Jiajing Xia, Yitao Zhang, Chenxi Ban, Daijun Luo, Jiaxing Chen, Yan Zou, Yuchao Feng, Guangyu Fan, Xin Yuan"
+publication_date: "2024-10-30"
 ---
 
 Vocal education in the music field is difficult to quantify due to the individual differences in singers' voices and the different quantitative criteria of singing techniques. Deep learning has great potential to be applied in music education due to its efficiency to handle complex data and perform quantitative analysis. However, accurate evaluations with limited samples over rare vocal types, such as Mezzo-soprano, requires extensive well-annotated data support using deep learning models. In order to attain the objective, we perform transfer learning by employing deep learning models pre-trained on the ImageNet and Urbansound8k datasets for the improvement on the precision of vocal technique evaluation. Furthermore, we tackle the problem of the lack of samples by constructing a dedicated dataset, the Mezzo-soprano Vocal Set (MVS), for vocal technique assessment. Our experimental results indicate that transfer learning increases the overall accuracy (OAcc) of all models by an average of 8.3%, with the highest accuracy at 94.2%. We not only provide a novel approach to evaluating Mezzo-soprano vocal techniques but also introduce a new quantitative assessment method for music education.

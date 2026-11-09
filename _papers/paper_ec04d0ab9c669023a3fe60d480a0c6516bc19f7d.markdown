@@ -6,6 +6,7 @@ publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Spe
 year: 2019
 external_url: https://www.semanticscholar.org/paper/ec04d0ab9c669023a3fe60d480a0c6516bc19f7d
 authors: "B. Elizalde, Shuayb Zarar, B. Raj"
+publication_date: "2019-04-29"
 ---
 
 Existing audio search engines use one of two approaches: matching text-text or audio-audio pairs. In the former, text queries are matched to semantically similar words in an index of audio metadata to retrieve corresponding audio clips or segments, while in the latter, audio signals are directly used to retrieve acoustically-similar recordings from an audio database. However, independent treatment of text and audio has precluded information exchange between the two modalities. This is a problem because similarity in language does not always imply similarity in acoustics, and vice versa. Moreover, independent modeling can be error prone especially for ad hoc, user-generated recordings, which are noisy in both audio and their associated textual labels. To overcome this limitation, we propose a framework that learns joint embeddings from a shared lexico-acoustic space, where vectors from either modality can be mapped together and compared directly. Thus, we improve semantic knowledge and enable the use of either text or audio queries to search and retrieve audio. Our results break new ground for a cross-modal audio search engine, and further exploration of lexico-acoustic spaces.

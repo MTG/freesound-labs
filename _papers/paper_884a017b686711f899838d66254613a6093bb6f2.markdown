@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/884a017b686711f899838d66254613a6093bb6f2
 authors: "Won-Ryeol Jeong"
+publication_date: "2026-05-07"
 ---
 
 In audio generation evaluation, Fr\'echet Audio Distance (FAD) is a 2-Wasserstein distance with structural constraints for both primitives: the cost is a frozen embedding pullback whose invariance set hides severe artifacts, and the coupling is a Gaussian fit that dilutes rank-1 contamination relative to discrete OT. We propose Optimal Transport Audio Distance (OTAD), which corrects each primitive with one dedicated mechanism -- a residual Riemannian ground-metric adapter for the cost and entropic Sinkhorn optimal transport for the coupling. Across eight encoders under a four-axis protocol, coupling-only comparisons at $\epsilon = 0.05$ show that Sinkhorn's rank-1 sensitivity exceeds FAD's by a factor of 1.9 to 3.6. Furthermore, OTAD achieves a higher mean Spearman correlation with audio-quality MOS (DCASE 2023 Task 7) than baseline metrics. As an intrinsic benefit of the discrete transport plan, OTAD yields per-sample diagnostics with AUROC $\ge 0.86$, a capability that scalar- or kernel-aggregated metrics structurally lack.

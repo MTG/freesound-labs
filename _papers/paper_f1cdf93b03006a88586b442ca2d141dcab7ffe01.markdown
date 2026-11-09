@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/f1cdf93b03006a88586b442ca2d141dcab7ffe01
 authors: "Jingwen Zhou, Mingzhe Wang"
+publication_date: "2026-06-15"
 ---
 
 Contrastive language-audio pretraining (CLAP) enables zero-shot audio classification, but standard inference classifies each clip in isolation and ignores the structure of the unlabeled test set. We present the first systematic study of TransCLIP-style transductive inference for CLAP: a text-anchored spherical Gaussian-mixture EM that refines zero-shot posteriors using the audio-embedding statistics of the test batch, with no labels, no gradients, and negligible compute (about 15 ms on one CPU core for 2,000 clips). Across ESC-50, UrbanSound8K, and VocalSound, this consistently improves top-1 accuracy by +4.6 to +9.2 points over the zero-shot baseline (e.g., 89.1 ->94.8% on ESC-50, 73.8 ->81.8% on UrbanSound8K). We further show that the gain (i) is governed by a simple operating boundary -- roughly 2.5 test samples per class per batch are required, with diminishing returns beyond ~5; (ii) is complementary to entropy-guided prompt weighting, with the combination reaching 96.2% on ESC-50; and (iii) attenuates but remains positive under long-tailed batches (+4.9 ->+3.1 points at a 20:1 imbalance), which we report as an explicit limitation. We also document a negative result: on TUT Urban Acoustic Scenes 2018, where zero-shot CLAP is near chance, transduction has no signal to amplify.

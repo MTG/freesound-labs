@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/15e48c480d95861f5325b3a0422d616e8ef6fbca
 authors: "Aarish Shah Mohsin, Mohammad Nadeem, S. Sohail, Tughrul Arslan, M. Gogate, Nasir Saleem, Amir Hussain"
+publication_date: "2025-08-17"
 ---
 
 Text-to-Audio (TTA) generation models have demonstrated significant advancements in generating quality audio content from textual prompts. However, these models may inherit and propagate gender biases present in their training data potentially resulting audio outputs that reinforce harmful stereotypes. To address this concern, we systematically analyzed the presence of gender bias in TTA models by employing a comprehensive taxonomy of gender-associated terms. We utilized three state-of-the-art TTA generation models (AudioGen, AudioLDM and Stable Audio) for generating audio samples and applied a gender identification tool to classify their perceived gender. Furthermore, we proposed a novel metric to quantitatively measure the extent of gender bias in audio outputs. Our findings reveal that TTA models frequently exhibit gender bias, often reflecting existing societal stereotypes. The study highlights the need for robust bias evaluation frameworks in text-to-audio generation systems.

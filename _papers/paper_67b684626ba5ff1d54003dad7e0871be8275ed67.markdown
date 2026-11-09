@@ -6,4 +6,5 @@ publication: "Information Fusion"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/67b684626ba5ff1d54003dad7e0871be8275ed67
 authors: "Francesca Incitti, Federico Urli, L. Snidaro"
+publication_date: "2022-08-01"
 ---

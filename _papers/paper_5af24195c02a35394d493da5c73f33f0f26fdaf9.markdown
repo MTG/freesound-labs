@@ -6,4 +6,5 @@ publication: ""
 year: 2012
 external_url: https://www.semanticscholar.org/paper/5af24195c02a35394d493da5c73f33f0f26fdaf9
 authors: "Miles Thorogood, P. Pasquier, Arne Eigenfeldt"
+publication_date: "2012-07-01"
 ---

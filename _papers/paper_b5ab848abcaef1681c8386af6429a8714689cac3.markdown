@@ -6,6 +6,7 @@ publication: "Multim. Tools Appl."
 year: 2021
 external_url: https://www.semanticscholar.org/paper/b5ab848abcaef1681c8386af6429a8714689cac3
 authors: "N. Orio, B. D. Carolis, Francesco Liotard"
+publication_date: "2021-03-25"
 ---
 
 Although overshadowed by visual information, sound plays a central role in how people perceive an environment. The effect of a landscape is enriched by its soundscape, that is, the stratification of all the acoustic sources that, often unconsciously, are heard. This paper presents a framework for archiving, browsing, and accessing soundscapes, either remotely or on-site. The framework is based on two main components: a web-based interface to upload and search the recordings of an acoustic environment, enriched by in- formation about geolocation, timing, and context of the recording; and a mobile app to browse and listen to the recordings, using an interactive map or GPS information. To populate the archive, we launched two crowdsourcing initiatives. An initial experiment examined the city of Padua’s soundscape through the participation of a group of undergraduate students. A broader experiment, which was proposed to all people in Italy, aimed at tracking how the nationwide COVID-19 lockdown was dramatically changing the soundscape of the entire country.

@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/2306d41d41176ea5452d4c40c48e65bd68e27661
 authors: "Tarikul Islam Tamiti, Sajid Fardin Dipto, Luke Baja-Ricketts, D. Vergano, Anomadarshi Barua"
+publication_date: "2026-07-21"
 ---
 
 Hearables are wearable computers worn on the ear. Bone conduction microphones are used with air conduction microphones in hearables for multimodal speech enhancement in noisy conditions. Despite this potential, current models largely fail to explore how jointly reducing sampling bit resolution and sampling frequency in analog-to-digital converters (ADCs) of hearables impacts both power usage and audio quality. Furthermore, current frameworks cannot do sub-Nyquist sampling in hearables because they lack a method to reconstruct wideband signals from narrowband components. We therefore propose CAPS, which (i) intentionally employs sub-Nyquist sampling and low bit resolution in ADCs, achieving a 3.3x reduction in power consumption in hearables, and (ii) supports streaming operation on mobile platforms with an inference time of 1.36 ms and a memory footprint of 11.04 MB. CAPS ensures robust speech intelligibility in real-world settings, bridging the gap between efficiency and power savings.

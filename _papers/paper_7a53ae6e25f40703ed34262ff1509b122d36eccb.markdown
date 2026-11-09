@@ -6,6 +6,7 @@ publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Spe
 year: 2023
 external_url: https://www.semanticscholar.org/paper/7a53ae6e25f40703ed34262ff1509b122d36eccb
 authors: "Xilin Jiang, Cong Han, Y. Li, N. Mesgarani"
+publication_date: "2023-09-27"
 ---
 
 In this study, we present a simple multi-channel framework for contrastive learning (MC-SimCLR) to encode ‘what’ and ‘where’ of spatial audios. MC-SimCLR learns joint spectral and spatial representations from unlabeled spatial audios, thereby enhancing both event classification and sound localization in downstream tasks. At its core, we propose a multi-level data augmentation pipeline that augments different levels of audio features, including waveforms, Mel spectrograms, and generalized cross-correlation (GCC) features. In addition, we introduce simple yet effective channel-wise augmentation methods to randomly swap the order of the microphones and mask Mel and GCC channels. By using these augmentations, we find that linear layers on top of the learned representation significantly outperform supervised models in terms of both event classification accuracy and localization error. We also perform a comprehensive analysis of the effect of each augmentation method and a comparison of the fine-tuning performance using different amounts of labeled data.

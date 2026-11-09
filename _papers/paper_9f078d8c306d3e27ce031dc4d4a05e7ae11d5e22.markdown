@@ -6,6 +6,7 @@ publication: "2020 Twelfth International Conference on Quality of Multimedia Exp
 year: 2020
 external_url: https://www.semanticscholar.org/paper/9f078d8c306d3e27ce031dc4d4a05e7ae11d5e22
 authors: "Alessandro Ragano, Emmanouil Benetos, Andrew Hines"
+publication_date: "2020-03-22"
 ---
 
 Audio impairment recognition is based on finding noise in audio files and categorising the impairment type. Recently, significant performance improvement has been obtained thanks to the usage of advanced deep learning models. However, feature robustness is still an unresolved issue and it is one of the main reasons why we need powerful deep learning architectures. In the presence of a variety of musical styles, handcrafted features are less efficient in capturing audio degradation characteristics and they are prone to failure when recognising audio impairments and could mistakenly learn musical concepts rather than impairment types. In this paper, we propose a new representation of hand-crafted features that is based on the correlation of feature pairs. We experimentally compare the proposed correlation-based feature representation with a typical raw feature representation used in machine learning and we show superior performance in terms of compact feature dimensionality and improved computational speed in the test stage whilst achieving comparable accuracy.

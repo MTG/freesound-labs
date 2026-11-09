@@ -6,6 +6,7 @@ publication: "Asia-Pacific Signal and Information Processing Association Annual 
 year: 2025
 external_url: https://www.semanticscholar.org/paper/669ab506da1324c95381fa34d40b896e4237c7c2
 authors: "Wenmiao Gao, Han Yin"
+publication_date: "2025-07-13"
 ---
 
 Pre-training methods have greatly improved the performance of sound event localization and detection (SELD). However, existing Transformer-based models still face high computational cost. To solve this problem, we present a stereo SELD system using a pre-trained PSELDnet and a bidirectional Mamba sequence model. Specifically, we replace the Conformer module with a BiMamba module. We also use asymmetric convolutions to better capture the time and frequency relationships in the audio signal. Test results on the DCASE2025 Task 3 development dataset show that our method performs better than both the baseline and the original PSELDnet with a Conformer decoder. In addition, the proposed model costs fewer computing resources than the baselines. These results show that the BiMamba architecture is effective for solving key challenges in SELD tasks. The source code is publicly accessible at https://github.com/alexandergwm/DCASE2025_TASK3_Stereo_PSELD_Mamba.

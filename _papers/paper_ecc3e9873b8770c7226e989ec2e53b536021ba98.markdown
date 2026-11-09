@@ -6,6 +6,7 @@ publication: "IEEE International Joint Conference on Neural Network"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/ecc3e9873b8770c7226e989ec2e53b536021ba98
 authors: "Kai Guo, Xiang Xie, Shang-Kai Zhao, Shuai Wu"
+publication_date: "2026-06-01"
 ---
 
 Although large-scale pre-trained models have revolutionized audio classification, adapting them to downstream few-shot tasks remains challenging. Existing methods face a dilemma: conventional few-shot adaptation requires resource-intensive gradient updates, while zero-shot inference often suffers from semantic misalignment in text prompts. To address these issues in deployment-constrained scenarios, we propose Audio-Guided Adaptive Prompt Ensembling (AGAPE), a training-free framework for few-shot audio classification. Specifically, AGAPE first utilizes limited support shots to construct optimal class-specific text prototypes, thereby enhancing text-prompt-based classification. Subsequently, the final classification is achieved by fusing the similarity scores of the test sample against both these optimized text prototypes and the audio prototypes. Furthermore, we introduce the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) for Test-Time Adaptation (TTA), enabling efficient model adaptation without gradient updates. Experiments on ESC-50 and FSD50K demonstrate that AGAPE significantly outperforms the baseline. Ablation studies further validate the effectiveness of our methods.

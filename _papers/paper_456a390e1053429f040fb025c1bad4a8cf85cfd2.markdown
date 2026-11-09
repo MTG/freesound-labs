@@ -6,4 +6,5 @@ publication: ""
 year: 2020
 external_url: https://www.semanticscholar.org/paper/456a390e1053429f040fb025c1bad4a8cf85cfd2
 authors: "Francisco Bernardo"
+publication_date: "2020-01-31"
 ---

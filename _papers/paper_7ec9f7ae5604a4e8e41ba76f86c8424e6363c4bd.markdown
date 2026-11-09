@@ -6,6 +6,7 @@ publication: "INTERSPEECH"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/7ec9f7ae5604a4e8e41ba76f86c8424e6363c4bd
 authors: "Seong-Gyun Leem, Daniel Fulford, J. Onnela, David Gard, Carlos Busso"
+publication_date: "2024-09-01"
 ---
 
 Speech emotion recognition (SER) system can exploit an Speech enhancement (SE) model to increase its noise robustness by suppressing the background noise. However, SE could also suppress emotionally discriminative features, affecting the emotion prediction. We propose an alternative framework, Keep or Delete (KoD), to keep the information of the original speech while minimizing the influence of background noise. We train a frame reliability predictor that determines clean frames to keep, discarding the noisy frames. We expand this framework by re-placing the dropped frames with those extracted from the enhanced speech to keep the lexical information. We refer to this implementation as Keep or Substitute (KoS). Our experiment shows that the KoD model improves the SER results under noisy conditions without fine-tuning the whole model. Also, the KoS framework performs better than enhancing all the frames, indicating the importance of avoiding speech distortion.

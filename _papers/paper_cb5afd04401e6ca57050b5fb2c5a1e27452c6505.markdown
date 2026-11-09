@@ -6,6 +6,7 @@ publication: "2019 15th International Conference on Distributed Computing in Sen
 year: 2019
 external_url: https://www.semanticscholar.org/paper/cb5afd04401e6ca57050b5fb2c5a1e27452c6505
 authors: "A. Salekin, Shabnam Ghaffarzadegan, Zhe Feng, J. Stankovic"
+publication_date: "2019-05-01"
 ---
 
 An effective and non-invasive audio monitoring system needs to be capable of simultaneous real-time detection of multiple audio events in many different environments, and locally executable on resource constrained devices, such as, smart microphones. A major challenge in this research domain is having limited available annotated data. This paper presents a novel framework to generate robust detection models of environmental and human audio events with limited available data. The framework presents the generation of a large synthetic dataset using limited data for any audio event, a novel computationally efficient feature modeling technique, named Audio2Vec, that is robust against environmental variations, and identifies and exploits the syntactic relation between audio states represented by the features and the targeted audio events. The presented framework achieves 10.3% higher F-1 scores compared to the best baseline approaches. To demonstrate the effectiveness of the framework we implemented a real-time audio monitoring system that simultaneously detects 10 audio events on a Raspberry Pi 3B and evaluate it in real home and in-car settings, that achieve F-1 scores of 0.96 and 0.956, respectively.

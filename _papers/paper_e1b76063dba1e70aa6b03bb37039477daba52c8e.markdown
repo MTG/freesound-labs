@@ -6,6 +6,7 @@ publication: "PETRA"
 year: 2019
 external_url: https://www.semanticscholar.org/paper/e1b76063dba1e70aa6b03bb37039477daba52c8e
 authors: "W. Wang, F. Seraj, N. Meratnia, P. Havinga"
+publication_date: "2019-06-05"
 ---
 
 This paper presents a comparative study on different feature extraction and machine learning techniques for indoor environmental sound classification. Compared to outdoor environmental sound classification systems, indoor systems need to pay special attention to power consumption and privacy. We consider feature calculation complexity, classification accuracy and privacy as evaluation metrics. To ensure privacy, we strip voice bands from sound input to make human conversations unrecognizable. With 5 classes of 2500 indoor audio events as input, our experimental results show that using SVM model with LPCC feature, 78% classification accuracy can be reached. Furthermore, the performance is improved to more than 85% by combining several simple features and dropping unreliable predictions, which only slightly increase the complexity.

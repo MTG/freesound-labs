@@ -6,6 +6,7 @@ publication: "2022 44th Annual International Conference of the IEEE Engineering 
 year: 2022
 external_url: https://www.semanticscholar.org/paper/c153d87be2a330cf2c33e9539edd306d5961266b
 authors: "Julia Berezutskaya, L. Ambrogioni, N. Ramsey, M. Gerven"
+publication_date: "2022-07-01"
 ---
 
 Speech decoding from brain activity can enable development of brain-computer interfaces (BCIs) to restore naturalistic communication in paralyzed patients. Previous work has focused on development of decoding models from isolated speech data with a clean background and multiple repetitions of the material. In this study, we describe a novel approach to speech decoding that relies on a generative adversarial neural network (GAN) to reconstruct speech from brain data recorded during a naturalistic speech listening task (watching a movie). We compared the GAN-based approach, where reconstruction was done from the compressed latent representation of sound decoded from the brain, with several baseline models that reconstructed sound spectrogram directly. We show that the novel approach provides more accurate reconstructions compared to the baselines. These results underscore the potential of GAN models for speech decoding in naturalistic noisy environments and further advancing of BCIs for naturalistic communication. Clinical Relevance - This study presents a novel speech decoding paradigm that combines advances in deep learning, speech synthesis and neural engineering, and has the potential to advance the field of BCI for severely paralyzed individuals.

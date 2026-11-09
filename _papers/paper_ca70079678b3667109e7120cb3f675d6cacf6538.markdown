@@ -6,6 +6,7 @@ publication: ""
 year: 2021
 external_url: https://www.semanticscholar.org/paper/ca70079678b3667109e7120cb3f675d6cacf6538
 authors: "Mohammad Mohammadamini, D. Matrouf, J. Bonastre, R. Serizel, Sandipana Dowerah, Denis, Jouvet"
+publication_date: "2021-08-23"
 ---
 
 The performance of speaker recognition systems reduces dramatically in severe conditions in the presence of additive noise and/or reverberation. In some cases, there is only one kind of domain mismatch like additive noise or reverberation, but in many cases, there are more than one distortion. Finding a solution for domain adaptation in the presence of different distortions is a challenge. In this paper we investigate the situation in which there is none, one or more of the following distortions: early reverberation, full reverberation, additive noise. We propose two configurations to compensate for these distortions. In the first one a specific denoising autoencoder is used for each distortion. In the second configuration, a denoising autoencoder is used to compensate for all of these distortions simultaneously. Our experiments show that, in the co-existence of noise and reverberation, the second configuration gives better results. For example, with the second configuration we obtained 76.6% relative improvement of EER for utterances longer than 12 seconds. For other situations in the presence of only one distortion, the second configuration gives almost the same results achieved by using a specific model for each distortion.

@@ -6,4 +6,5 @@ publication: "Multimedia tools and applications"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/c338c9ddbd7625191d0937774cf5fc4fe2345b66
 authors: "Zahra Abolfazli, H. R. Abutalebi"
+publication_date: "2026-10-27"
 ---

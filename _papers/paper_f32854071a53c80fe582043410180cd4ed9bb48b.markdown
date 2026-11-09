@@ -6,6 +6,7 @@ publication: "Sensors"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/f32854071a53c80fe582043410180cd4ed9bb48b
 authors: "Anaswara Antony, Wolfgang Theimer, Giovanni Grossetti, Christoph M. Friedrich"
+publication_date: "2025-04-01"
 ---
 
 Autonomous driving technologies for environmental perception are mostly based on visual cues obtained from sensors like cameras, RADAR, or LiDAR. They capture the environment as if seen through “human eyes”. If this visual information is complemented with auditory information, thereby also providing “ears”, driverless cars can become more reliable and safer. In this paper, an Acoustic Event Detection model is presented that can detect various acoustic events in an automotive context along with their time of occurrence to create an audio scene description. The proposed detection methodology uses the pre-trained network Bidirectional Encoder representation from Audio Transformers (BEATs) and a single-layer neural network trained on the database of real audio recordings collected from different cars. The performance of the model is evaluated for different parameters and datasets. The segment-based results for a duration of 1 s show that the model performs well for 11 sound classes with a mean accuracy of 0.93 and F1-Score of 0.39 for a confidence threshold of 0.5. The threshold-independent metric mAP has a value of 0.77. The model also performs well for sound mixtures containing two overlapping events with mean accuracy, F1-Score, and mAP equal to 0.89, 0.42, and 0.658, respectively.

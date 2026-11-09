@@ -6,6 +6,7 @@ publication: "Interspeech 2024"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/be94a1b689f2def0b9d5110110170c9261be3a43
 authors: "Jonathan Svirsky, Uri Shaham, Ofir Lindenbaum"
+publication_date: "2024-06-09"
 ---
 
 With the increasing prevalence of voice-activated devices and applications, keyword spotting (KWS) models enable users to interact with technology hands-free, enhancing convenience and accessibility in various contexts. Deploying KWS models on edge devices, such as smartphones and embedded systems, offers significant benefits for real-time applications, privacy, and bandwidth efficiency. However, these devices often possess limited computational power and memory. This necessitates optimizing neural network models for efficiency without significantly compromising their accuracy. To address these challenges, we propose a novel keyword-spotting model based on sparse input representation followed by a linear classifier. The model is four times faster than the previous state-of-the-art edge device-compatible model with better accuracy. We show that our method is also more robust in noisy environments while being fast. Our code is available at: https://github.com/jsvir/sparknet.

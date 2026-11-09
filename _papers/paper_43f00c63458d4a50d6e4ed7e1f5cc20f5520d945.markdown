@@ -6,6 +6,7 @@ publication: "2023 International Conference on Wireless Communications and Signa
 year: 2023
 external_url: https://www.semanticscholar.org/paper/43f00c63458d4a50d6e4ed7e1f5cc20f5520d945
 authors: "Lihua Xue, Hongqing Liu, Yi Zhou, Lu Gan"
+publication_date: "2023-11-02"
 ---
 
 Sound Event Localization and Detection (SELD) aims at detecting the class and activity time of the sound events, while estimating their corresponding direction of arrival (DOA). The difficulties of SELD lie in the change of acoustic scenes and the presence of overlapping sound events. To improve the performance of SELD, in this work, we propose a Resnet-Conformer network based on multi-scale channel attention (MSCA-RCnet) to conduct SELD. To that end, first, we take the RCnet as the backbone of the model and add the multi-scale channel attention (MSCA) to the Resnet block to capture channel-level dependencies. Second, we utilize attentive statistics pooling (ASP) to resolve the mismatch between label resolution and frame-level feature temporal resolution and enhance the discriminability of the features. Finally, we integrate the MSCA-RCnet and the Event-Independent Network V2 (EINV2) by multi-ACCDOA representation into an EINV2-based multi-ACCDOA network. Subsequently, we perform an average ensemble of these two models. To address the shortage of training data, we employ audio channel swapping (ACS) and AugMix to the dataset. Finally, we evaluate our proposed systems in the Audio-only Track of the DCASE 2023 Task 3 and rank the second place in the competition.

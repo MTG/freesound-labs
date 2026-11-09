@@ -6,6 +6,7 @@ publication: "Mathematics"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/9b421825eb22df200b4a8515f6a98d912dd00525
 authors: "León Beleña, Ernesto Curbelo, Luca Martino, Valero Laparra"
+publication_date: "2024-05-04"
 ---
 
 Volatility estimation and quantile regression are relevant active research areas in statistics, machine learning and econometrics. In this work, we propose two procedures to estimate the local variances in generic regression problems by using kernel smoothers. The proposed schemes can be applied in multidimensional scenarios (not just for time series analysis) and easily in a multi-output framework as well. Moreover, they enable the possibility of providing uncertainty estimation using a generic kernel smoother technique. Several numerical experiments show the benefits of the proposed methods, even compared with the benchmark techniques. One of these experiments involves a real dataset analysis.

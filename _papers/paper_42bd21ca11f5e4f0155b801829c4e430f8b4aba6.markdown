@@ -6,6 +6,7 @@ publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Spe
 year: 2024
 external_url: https://www.semanticscholar.org/paper/42bd21ca11f5e4f0155b801829c4e430f8b4aba6
 authors: "Artem Dementyev, Chandan K. A. Reddy, Scott Wisdom, Navin Chatlani, J. Hershey, Richard F.Lyon"
+publication_date: "2024-09-26"
 ---
 
 Low latency models are critical for real-time speech enhancement applications, such as hearing aids and hearables. However, the sub-millisecond latency space for resource-constrained hearables remains underexplored. We demonstrate speech enhancement using a computationally efficient minimum-phase FIR filter, enabling sample-by-sample processing to achieve mean algorithmic latency of 0.32 ms to 1.25 ms. With a single microphone, we observe a mean SI-SDRi of 4.1 dB. The approach shows generalization with a DNSMOS increase of 0.2 on unseen audio recordings. We use a lightweight LSTM-based model of 626k parameters to generate FIR taps. Using a real hardware implementation on a low-power DSP, our system can run with 376 MIPS and a mean end-to-end latency of 3.35 ms. In addition, we provide a comparison with existing low-latency spectral masking techniques. We hope this work will enable a better understanding of latency and can be used to improve the comfort and usability of hearables.

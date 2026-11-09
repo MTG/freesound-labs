@@ -6,6 +6,7 @@ publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/f21e0288222783a9632b216895898ea16e622f00
 authors: "Adri'an Barahona-R'ios, Tom Collins"
+publication_date: "2023-07-16"
 ---
 
 Controllable neural audio synthesis of sound effects is a challenging task due to the potential scarcity and spectro-temporal variance of the data. Differentiable digital signal processing (DDSP) synthesisers have been successfully employed to model and control musical and harmonic signals using relatively limited data and computational resources. Here we propose NoiseBandNet, an architecture capable of synthesising and controlling sound effects by filtering white noise through a filterbank, thus going further than previous systems that make assumptions about the harmonic nature of sounds. We evaluate our approach via a series of experiments, modelling footsteps, thunderstorm, pottery, knocking, and metal sound effects. Comparing NoiseBandNet audio reconstruction capabilities to four variants of the DDSP-filtered noise synthesiser, NoiseBandNet scores higher in nine out of ten evaluation categories, establishing a flexible DDSP method for generating time-varying, inharmonic sound effects of arbitrary length with both good time and frequency resolution. Finally, we introduce some potential creative uses of NoiseBandNet, by generating variations, performing loudness transfer, and by training it on user-defined control curves.

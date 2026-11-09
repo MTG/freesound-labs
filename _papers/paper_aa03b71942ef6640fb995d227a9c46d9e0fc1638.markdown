@@ -6,6 +6,7 @@ publication: "2022 9th NAFOSTED Conference on Information and Computer Science (
 year: 2022
 external_url: https://www.semanticscholar.org/paper/aa03b71942ef6640fb995d227a9c46d9e0fc1638
 authors: "Hoang-Thi Nguyen-Vo, Huy Nguycn-Gia, Hoan-Duy Nguyen-Tran, Hoang Pham-Minh, Hung Vo-Thanh, Hao Do-Due"
+publication_date: "2022-10-31"
 ---
 
 Voice activity detection in the wild is considered to be challenging work, especially when applied to the Vietnamese language as many proposed approaches are not extensive enough. In this paper, we aim to solve this problem by using MarbleNet, a model built on top of previous successful applications of using ID CNNs to solve conventional problems. We compiled a dataset, a combination of the VIVOS dataset for speech labelling and audios collected from Freesound.org for background noise. We present the performance of MarbleNet on the chosen dataset and perform experiments that compare the performance of MarbleNet and two other CNN-based architectures to measure the efficiency of our solution. Experiments show that MarbleNet, with a smaller size, can outperform other CNN-based models in clean and many noisy environments.

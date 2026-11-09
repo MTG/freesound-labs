@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/198e68ceb3c630573481275932739691a95fc6f3
 authors: "Michel Olvera, Paraskevas Stamatiadis, S. Essid"
+publication_date: "2024-09-19"
 ---
 
 Audio-text models trained via contrastive learning offer a practical approach to perform audio classification through natural language prompts, such as"this is a sound of"followed by category names. In this work, we explore alternative prompt templates for zero-shot audio classification, demonstrating the existence of higher-performing options. First, we find that the formatting of the prompts significantly affects performance so that simply prompting the models with properly formatted class labels performs competitively with optimized prompt templates and even prompt ensembling. Moreover, we look into complementing class labels by audio-centric descriptions. By leveraging large language models, we generate textual descriptions that prioritize acoustic features of sound events to disambiguate between classes, without extensive prompt engineering. We show that prompting with class descriptions leads to state-of-the-art results in zero-shot audio classification across major ambient sound datasets. Remarkably, this method requires no additional training and remains fully zero-shot.

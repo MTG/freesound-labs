@@ -6,4 +6,5 @@ publication: ""
 year: 2011
 external_url: https://www.semanticscholar.org/paper/68a0285f5aa90921ff26d784ce106e074811d838
 authors: "J. Janer, S. Kersten, Mattian Schirosa, G. Roma"
+publication_date: "2011-02-02"
 ---

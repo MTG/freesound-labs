@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/98333b28ff57691341c3842fb356ac005f62017e
 authors: "Sergei Polezhaev, Saba Anjum, Michael Gormish"
+publication_date: "2026-10-12"
 ---
 
 Large audio-language models (LALMs) have become highly capable on a wide range of tasks spanning speech, music, and environmental sound. However, many modern LALMs resample input audio to 16 kHz mono, making all frequencies above 8 kHz unobservable. We present SpectralBridge, a lightweight extension that gives such a model access to the 8-16 kHz band by joining low- and upper-band representations with time-aligned paired cross-frequency attention. Applied to Audio Flamingo Next, the method trains only a small adapter and rank-8 LoRA modules, while leaving the original audio encoder, audio projector, and base language model frozen. SpectralBridge improves both zero-shot transfer and downstream fine-tuning: it raises zero-shot balanced accuracy on the ESC-50 audio classification dataset from 75.5 to 90.5, and when fine-tuned on Insect-10, a 10-way insect species task we construct from InsectSet459 recordings, under the same budget as a LoRA fine-tuned baseline, it reaches 55.4 balanced accuracy against the baseline's 26.2. On a benchmark where the answer depends only on the 8-16 kHz band, it gains 30 mAP over the frozen model. Erasing the upper-band stream from the trained model removes these gains, showing that they come from the high-frequency signal itself rather than from extra tokens or the adapted prompt format.

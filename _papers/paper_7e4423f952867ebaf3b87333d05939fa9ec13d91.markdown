@@ -6,4 +6,5 @@ publication: "Advances in Computer Entertainment Technology"
 year: 2011
 external_url: https://www.semanticscholar.org/paper/7e4423f952867ebaf3b87333d05939fa9ec13d91
 authors: "Nuno N. Correia"
+publication_date: "2011-11-08"
 ---

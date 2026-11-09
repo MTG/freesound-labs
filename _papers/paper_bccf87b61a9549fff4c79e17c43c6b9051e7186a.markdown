@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/bccf87b61a9549fff4c79e17c43c6b9051e7186a
 authors: "Masato Hagiwara"
+publication_date: "2022-10-26"
 ---
 
 The lack of annotated training data in bioacoustics hinders the use of large-scale neural network models trained in a supervised way. In order to leverage a large amount of unannotated audio data, we propose AVES (Animal Vocalization Encoder based on Self-Supervision), a self-supervised, transformer-based audio representation model for encoding animal vocalizations. We pretrain AVES on a diverse set of unannotated audio datasets and fine-tune them for downstream bioacoustics tasks. Comprehensive experiments with a suite of classification and detection tasks have shown that AVES outperforms all the strong baselines and even the supervised "topline" models trained on annotated audio classification datasets. The results also suggest that curating a small training subset related to downstream tasks is an efficient way to train high-quality audio representation models. We open-source our models1.

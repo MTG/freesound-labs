@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/ad1d16c506d28f36ac772411cda36a12199eb6f9
 authors: "Karn Nichakarn Watcharasupat, Thi Ngoc Tho Nguyen, Ngoc Khanh Nguyen, Zhen Jian Lee, Douglas L. Jones, W. Gan"
+publication_date: "2021-07-22"
 ---
 
 The S{\o}rensen--Dice Coefficient has recently seen rising popularity as a loss function (also known as Dice loss) due to its robustness in tasks where the number of negative samples significantly exceeds that of positive samples, such as semantic segmentation, natural language processing, and sound event detection. Conventional training of polyphonic sound event detection systems with binary cross-entropy loss often results in suboptimal detection performance as the training is often overwhelmed by updates from negative samples. In this paper, we investigated the effect of the Dice loss, intra- and inter-modal transfer learning, data augmentation, and recording formats, on the performance of polyphonic sound event detection systems with multichannel inputs. Our analysis showed that polyphonic sound event detection systems trained with Dice loss consistently outperformed those trained with cross-entropy loss across different training settings and recording formats in terms of F1 score and error rate. We achieved further performance gains via the use of transfer learning and an appropriate combination of different data augmentation techniques.

@@ -6,6 +6,7 @@ publication: "ACM Multimedia"
 year: 2019
 external_url: https://www.semanticscholar.org/paper/f0caa48bd2a7efc3af2972692195d9722c6029f1
 authors: "L. Gao, Qirong Mao, M. Dong, Y. Jing, R. Chinnam"
+publication_date: "2019-10-15"
 ---
 
 Polyphonic Acoustic Event Detection (AED) is a challenging task as the sounds are mixed with the signals from different events, and the features extracted from the mixture do not match well with features calculated from sounds in isolation, leading to suboptimal AED performance. In this paper, we propose a supervised β-VAE model for AED, which adds a novel event-specific disentangling loss in the objective function of disentangled learning. By incorporating either latent factor blocks or latent attention in disentangling, supervised β-VAE learns a set of discriminative features for each event. Extensive experiments on benchmark datasets show that our approach outperforms the current state-of-the-arts (top-1 performers in the Detection and Classification of Acoustic Scenes and Events (DCASE) 2017 AED challenge). Supervised β-VAE has great success in challenging AED tasks with a large variety of events and imbalanced data.

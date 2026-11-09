@@ -6,6 +6,7 @@ publication: "Sensors"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/5888305da24386a1360c4330fe82b38611be8f13
 authors: "David Schindler, S. Spors, Burcu Demiray, Frank Krüger"
+publication_date: "2022-11-01"
 ---
 
 The manual categorization of behavior from sensory observation data to facilitate further analyses is a very expensive process. To overcome the inherent subjectivity of this process, typically, multiple domain experts are involved, resulting in increased efforts for the labeling. In this work, we investigate whether social behavior and environments can automatically be coded based on uncontrolled everyday audio recordings by applying deep learning. Recordings of daily living were obtained from healthy young and older adults at randomly selected times during the day by using a wearable device, resulting in a dataset of uncontrolled everyday audio recordings. For classification, a transfer learning approach based on a publicly available pretrained neural network and subsequent fine-tuning was implemented. The results suggest that certain aspects of social behavior and environments can be automatically classified. The ambient noise of uncontrolled audio recordings, however, poses a hard challenge for automatic behavior assessment, in particular, when coupled with data sparsity.

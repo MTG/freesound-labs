@@ -6,6 +6,7 @@ publication: "2026 10th International Artificial Intelligence and Data Processin
 year: 2026
 external_url: https://www.semanticscholar.org/paper/3f8b4ef9fdd5198461b899ea481017a4c89683c6
 authors: "Wendel Rey C. Salaum, Cristina Repollo, Ronnel O. Cacho"
+publication_date: "2026-09-01"
 ---
 
 Illegal logging remains a persistent concern in the Philippines, particularly in Caraga, where limited forest guards make continuous patrol-based monitoring difficult. This study developed and evaluated a proof-of-concept edge AI prototype for real-time chainsaw sound detection with an interactive web dashboard. The system used a float16-quantized MobileNetV3-Small model deployed on a Raspberry Pi 4 Model B with TensorFlow Lite and XNNPACK acceleration. Audio was captured through an INMP441 microphone, processed into Mel spectrograms, and classified using a confidence accumulation mechanism over a 2-second sliding window. Detection events were transmitted to a FastAPI backend, stored in PostgreSQL, and displayed in real time through a React TypeScript dashboard using Server-Sent Events. Trained on 34,167 one-second audio snippets, the model achieved 94.79% test accuracy, 90% live deployment accuracy at 50 meters, 100% end-to-end validation, and a mean SUS score of 62.50 from six DENR staff. The results show that integrated edge-to-dashboard acoustic monitoring is technically feasible.

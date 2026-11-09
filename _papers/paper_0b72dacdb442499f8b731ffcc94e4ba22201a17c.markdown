@@ -6,6 +6,7 @@ publication: "bioRxiv"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/0b72dacdb442499f8b731ffcc94e4ba22201a17c
 authors: "Dan Stowell, E. Vidaña-Vila, I. Nolasco, Ben McEwen, Lucie Jean-Labadye, Yasmine Benhamadi, G. Dubus, Benjamin Hoffman, P. Linhart, Ilaria Morandi, Dorian Cazau, Brian S. Miller, Elena Schall, Clea Parcerisas, Anatole Gros-Martial, Ilyass Moummad, Pierre-Yves Raumer, E. White, Paul White, P. V. N. Duc, Vincent Lostanlen"
+publication_date: "2026-04-06"
 ---
 
 Computational bioacoustics has seen significant advances in recent decades. However, the rate of insights from automated analysis of bioacoustic audio lags behind our rate of collecting the data – due to key capacity constraints in data annotation and bioacoustic algorithm development. Gaps in analysis methodology persist: not because they are intractable, but because of resource limitations in the bioacoustics community. To bridge these gaps, we advocate the open science method of data challenges, structured as public contests. We conducted a bioacoustics data challenge named BioDCASE, within the format of an existing event (DCASE). In this work we report on the procedures needed to select and then conduct useful bioacoustics data challenges. We consider aspects of task design such as dataset curation, annotation, and evaluation metrics. We report the three tasks included in BioDCASE 2025 and the resulting progress made. Based on this we make recommendations for open community initiatives in computational bioacoustics.

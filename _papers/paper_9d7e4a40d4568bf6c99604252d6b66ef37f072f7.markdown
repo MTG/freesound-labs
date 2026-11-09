@@ -6,6 +6,7 @@ publication: ""
 year: 2025
 external_url: https://www.semanticscholar.org/paper/9d7e4a40d4568bf6c99604252d6b66ef37f072f7
 authors: "Haohe Liu, Thomas Deacon, Wenwu Wang, Matt Paradis, Mark D. Plumbley"
+publication_date: "2025-04-22"
 ---
 
 Locating the right sound effect efficiently is an important yet challenging topic for audio production. Most current sound-searching systems rely on pre-annotated audio labels created by humans, which can be time-consuming to produce and prone to inaccuracies, limiting the efficiency of audio production. Following the recent advancement of contrastive language-audio pre-training (CLAP) models, we explore an alternative CLAP-based sound-searching system (CLAP-UI) that does not rely on human annotations. To evaluate the effectiveness of CLAP-UI, we conducted comparative experiments with a widely used sound effect searching platform, the BBC Sound Effect Library. Our study evaluates user performance, cognitive load, and satisfaction through ecologically valid tasks based on professional sound-searching workflows. Our result shows that CLAP-UI demonstrated significantly enhanced productivity and reduced frustration while maintaining comparable cognitive demands. We also qualitatively analyzed the participants' feedback, which offered valuable perspectives on the design of future AI-assisted sound search systems.

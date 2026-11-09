@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/8d79aba9685fb510ed99d70834d9ea38609cb273
 authors: "Eleonora Grassucci, Gioia Mancini, Christian Brignone, A. Uncini, D. Comminiello"
+publication_date: "2022-04-04"
 ---
 
 Spatial audio methods are gaining a growing interest due to the spread of immersive audio experiences and applications, such as virtual and augmented reality. For these purposes, 3D audio signals are often acquired through arrays of Ambisonics microphones, each comprising four capsules that decompose the sound field in spherical harmonics. In this paper, we propose a dual quaternion representation of the spatial sound field acquired through an array of two First Order Ambisonics (FOA) microphones. The audio signals are encapsulated in a dual quaternion that leverages quaternion algebra properties to exploit correlations among them. This augmented representation with 6 degrees of freedom (6DOF) involves a more accurate coverage of the sound field, resulting in a more precise sound localization and a more immersive audio experience. We evaluate our approach on a sound event localization and detection (SELD) benchmark. We show that our dual quaternion SELD model with temporal convolution blocks (DualQSELD-TCN) achieves better results with respect to real and quaternion-valued baselines thanks to our augmented representation of the sound field. Full code is available at: https://github.com/ispamm/DualQSELD-TCN.

@@ -6,6 +6,7 @@ publication: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Spe
 year: 2024
 external_url: https://www.semanticscholar.org/paper/1d470e702da974fb6818a8e71f9bc4dbc069e526
 authors: "Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, M. Cusimano"
+publication_date: "2024-10-04"
 ---
 
 Animal vocalization denoising is a task similar to human speech enhancement, which is relatively well-studied. In contrast to the latter, it comprises a higher diversity of sound production mechanisms and recording environments, and this higher diversity is a challenge for existing models. Adding to the challenge and in contrast to speech, we lack large and diverse datasets comprising clean vocalizations. As a solution we use as training data pseudo-clean targets, i.e. pre-denoised vocalizations, and segments of background noise without a vocalization. We propose a train set derived from bioacoustics datasets and repositories representing diverse species, acoustic environments, geographic regions. Additionally, we introduce a non-overlapping benchmark set comprising clean vocalizations from different taxa and noise samples. We show that that denoising models (demucs, CleanUNet) trained on pseudo-clean targets obtained with speech enhancement models achieve competitive results on the benchmarking set. We publish data, code, libraries, and demos at https://mariusmiron.com/research/biodenoising.

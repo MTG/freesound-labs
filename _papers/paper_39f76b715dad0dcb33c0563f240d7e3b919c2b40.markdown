@@ -6,6 +6,7 @@ publication: "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Spe
 year: 2024
 external_url: https://www.semanticscholar.org/paper/39f76b715dad0dcb33c0563f240d7e3b919c2b40
 authors: "Xiaoying Zhao, Qiushi Zhu, Yuchen Hu"
+publication_date: "2024-04-14"
 ---
 
 With the advance in deep learning, text-to-speech (TTS) using clean speech has witnessed significant performance improvements. As the data collected in real scenes often contain noise and thus needs to be denoised, TTS models trained on the enhanced speech suffer from distortions and residual noises, which affect the quality of the synthesized speech. Meanwhile, self-supervised pre-trained models exhibit good noise robustness in many tasks, indicating that the learned representation is more tolerant to noise perturbations. It was shown that WavLM-based representations are noise-robust for speech synthesis, but the impact of different self-supervised representations on the performance remains unknown. In this paper, we therefore experimentally compare four types of self-supervised representations (e.g., WavLM, Wav2vec2.0, HuBERT, Data2vec) for TTS using a HiFi-GAN-based representation-to-waveform vocoder and a Fastspeech-based text-to-representation acoustic model. Since the representations have a better capacity to suppress the noise and speaker clues, we further integrate speaker embedding for voice conversion. Experimental results on the LJSpeech and LibriTTS datasets demonstrate the efficacy of the proposed method. Some audio samples are available at: https://zxyzqs.github.io/.

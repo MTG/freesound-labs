@@ -6,6 +6,7 @@ publication: "ASSETS"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/243a694be1b17c4018272ecce46685ad24b079a6
 authors: "Dhruv Jain, Hung Q. Ngo, P. Patel, Steven Goodman, Leah Findlater, Jon Froehlich"
+publication_date: "2020-10-26"
 ---
 
 Smartwatches have the potential to provide glanceable, always-available sound feedback to people who are deaf or hard of hearing. In this paper, we present a performance evaluation of four low-resource deep learning sound classification models: MobileNet, Inception, ResNet-lite, and VGG-lite across four device architectures: watch-only, watch+phone, watch+phone+cloud, and watch+cloud. While direct comparison with prior work is challenging, our results show that the best model, VGG-lite, performed similar to the state of the art for non-portable devices with an average accuracy of 81.2% (SD=5.8%) across 20 sound classes and 97.6% (SD=1.7%) across the three highest-priority sounds. For device architectures, we found that the watch+phone architecture provided the best balance between CPU, memory, network usage, and classification latency. Based on these experimental results, we built and conducted a qualitative lab evaluation of a smartwatch-based sound awareness app, called SoundWatch (Figure 1), with eight DHH participants. Qualitative findings show support for our sound awareness app but also uncover issues with misclassifications, latency, and privacy concerns. We close by offering design considerations for future wearable sound awareness technology.

@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/acb3fc972ce6ddc41b1c982c921a85d92c817535
 authors: "Alice Zhang, Edison Thomaz, Lie Lu"
+publication_date: "2025-04-18"
 ---
 
 Advancements in audio neural networks have established state-of-the-art results on downstream audio tasks. However, the black-box structure of these models makes it difficult to interpret the information encoded in their internal audio representations. In this work, we explore the semantic interpretability of audio embeddings extracted from these neural networks by leveraging CLAP, a contrastive learning model that brings audio and text into a shared embedding space. We implement a post-hoc method to transform CLAP embeddings into concept-based, sparse representations with semantic interpretability. Qualitative and quantitative evaluations show that the concept-based representations outperform or match the performance of original audio embeddings on downstream tasks while providing interpretability. Additionally, we demonstrate that fine-tuning the concept-based representations can further improve their performance on downstream tasks. Lastly, we publish three audio-specific vocabularies for concept-based interpretability of audio embeddings.

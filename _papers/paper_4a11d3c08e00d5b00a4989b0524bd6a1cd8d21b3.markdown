@@ -6,6 +6,7 @@ publication: "ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Spe
 year: 2019
 external_url: https://www.semanticscholar.org/paper/4a11d3c08e00d5b00a4989b0524bd6a1cd8d21b3
 authors: "J. Pons, J. Serrà, X. Serra"
+publication_date: "2018-10-24"
 ---
 
 We investigate supervised learning strategies that improve the training of neural network audio classifiers on small annotated collections. In particular, we study whether (i) a naive regularization of the solution space, (ii) prototypical networks, (iii) transfer learning, or (iv) their combination, can foster deep learning models to better leverage a small amount of training examples. To this end, we evaluate (i–iv) for the tasks of acoustic event recognition and acoustic scene classification, considering from 1 to 100 labeled examples per class. Results indicate that transfer learning is a powerful strategy in such scenarios, but prototypical networks show promising results when one does not count with external or validation data.

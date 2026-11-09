@@ -6,6 +6,7 @@ publication: ""
 year: 2019
 external_url: https://www.semanticscholar.org/paper/4446b6594a25fe2f770967cdcb3eb6ed690b49db
 authors: "Evren Kanalici, Gokhan Bilgin"
+publication_date: "2019-08-23"
 ---
 
 Fingerprint design is the cornerstone of the audio recognition systems in which aims robustness and fast retrieval. Short-term Fourier transform and Mel-spectral representations are common for the task in mind, however these extraction methods suffer from being unstable and having limited spectral-spatial resolution. Scattering wavelet transform (SWT) provides another approach to these limitations by recovering information loss, while ensuring translation invariance and stability. We propose a two-stage feature extraction framework using SWT coupled with deep Siamese hashing model for musical audio recognition. Similarity-preserving hashes are the final fingerprints and in the projected embedding space, similarity is defined by a distance metric. Hashing model is trained by roughly aligned and non-matching audio snippets to model musical audio data via two-layer scattering spectrum. Our proposed framework provides competitive performance results to identify audio signals superimposed with environmental noise which can be modeled as real-world obstacles for music recognition. With a very compact storage footprint (256 bytes/sec.), we achieve 98.2% ROC AUC score on GTZAN dataset

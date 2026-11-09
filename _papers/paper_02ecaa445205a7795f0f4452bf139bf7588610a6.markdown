@@ -6,6 +6,7 @@ publication: "2023 Asia Pacific Signal and Information Processing Association An
 year: 2023
 external_url: https://www.semanticscholar.org/paper/02ecaa445205a7795f0f4452bf139bf7588610a6
 authors: "Zhongxin Bai, Chao Pan, Gong Chen, Jingdong Chen, J. Benesty"
+publication_date: "2023-10-31"
 ---
 
 The performance of sound event classification, including detection or tagging, depends heavily on the number of training samples and the quality of the training data. This paper presents an approach to improving sound event classification performance for events with limited training samples through using a weighted binary cross-entropy loss function. This function aims to constrain the representation space to have lower intra-class variance and higher inter-class differences by mining difficult samples and applying stricter penalties. Experiments demonstrate that the proposed method outperforms the existing ones, and the improvement is particularly significant in scenarios with limited training samples.

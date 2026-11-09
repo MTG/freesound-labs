@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/897c262f0fc8d522a2bbd3d928d91f9769cc2dac
 authors: "Xiang-Yu Jing, Hong-Qing Liu, Li-Ming Shi"
+publication_date: "2026-10-10"
 ---
 
 User-generated audio collections frequently contain textual metadata such as titles, tags, and descriptions. Effectively leveraging these complementary fields requires accounting for both field het erogeneity and varying semantic relevance relative to the acoustic content. We propose FAM-Gate, a two-stage framework for metadata-enriched audio classification. In the first stage, field-aware metadata-view attention dynamically aggregates multiple metadata views using audio-guided weighting, explicit field-identity embeddings, a shared identity-initialized projection, and mean-anchored regularized aggregation. In the second stage, a prior-constrained vector gate performs bounded, dimension-wise fusion of audio and metadata representations centered around an acoustic prior. Ex periments on BSD10K, BSD35K, and FSD50K show consistent improvements in both hierarchical single-label and multi-label classification. Compared with matched random-view scalar-fusion base lines, FAM-Gate improves the hierarchical F-score by 2.53 and 5.72 percentage points on BSD10K and BSD35K, respectively, while increasing macro mAP and macro F1 by 5.07 and 10.25 percentage points on FSD50K.

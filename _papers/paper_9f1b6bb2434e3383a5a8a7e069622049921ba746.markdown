@@ -6,6 +6,7 @@ publication: "Ieee Journal of Selected Topics in Signal Processing"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/9f1b6bb2434e3383a5a8a7e069622049921ba746
 authors: "Alexander Alexander Ponomarchuk Ponomarchuk, Ilya Ilya Burenko Burenko, Elian Elian Malkin Malkin, Ivan Ivan Nazarov Nazarov, Vladimir Vladimir Kokh Kokh, Manvel Manvel Avetisian Avetisian, Leonid Leonid Zhukov Zhukov"
+publication_date: "2021-07-12"
 ---
 
 The COVID-19 pandemic created significant interest and demand for infection detection and monitoring solutions. In this paper, we propose a machine learning method to quickly detect COVID-19 using audio recordings made on consumer devices. The approach combines signal processing and noise removal methods with an ensemble of fine-tuned deep learning networks and enables COVID detection on coughs. We have also developed and deployed a mobile application that uses a symptoms checker together with voice, breath, and cough signals to detect COVID-19 infection. The application showed robust performance on both openly sourced datasets and the noisy data collected during beta testing by the end users.

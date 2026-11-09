@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/79d510564dcb0707c7e5130bb573a2b413add527
 authors: "Marc C. Green, MarkD . Plumbley"
+publication_date: "2021-05-18"
 ---
 
 Federated learning (FL) is a privacy-preserving machine learning method that has been proposed to allow training of models using data from many different clients, without these clients having to transfer all their data to a central server. There has as yet been relatively little consideration of FL or other privacy-preserving methods in audio. In this paper, we investigate using FL for a sound event detection task using audio from the FSD50K dataset. Audio is split into clients based on uploader metadata. This results in highly imbalanced subsets of data between clients, noted as a key issue in FL scenarios. A series of models is trained using `high-volume' clients that contribute 100 audio clips or more, testing the effects of varying FL parameters, followed by an additional model trained using all clients with no minimum audio contribution. It is shown that FL models trained using the high-volume clients can perform similarly to a centrally-trained model, though there is much more noise in results than would typically be expected for a centrally-trained model. The FL model trained using all clients has a considerably reduced performance compared to the centrally-trained model.

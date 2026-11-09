@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/1aaf88ceb030300a7d9f2882c287df15441cdd62
 authors: "Shuaihang Yuan, Congcong Wen, Muhammad Shafique, Anthony Tzes, Yi Fang"
+publication_date: "2025-11-25"
 ---
 
 The rapid advances in audio analysis underscore its vast potential for humancomputer interaction, environmental monitoring, and public safety; yet, existing audioonly datasets often lack spatial context. To address this gap, we present two novel audiospatial scene datasets, AudioScanNet and AudioRoboTHOR, designed to explore audioconditioned tasks within 3D environments. By integrating audio clips with spatially aligned 3D scenes, our datasets enable research on how audio signals interact with spatial context. To associate audio events with corresponding spatial information, we leverage the common sense reasoning ability of large language models and supplement them with rigorous human verification, This approach offers greater scalability compared to purely manual annotation while maintaining high standards of accuracy, completeness, and diversity, quantified through inter annotator agreement and performance on two benchmark tasks audio based 3D visual grounding and audio based robotic zeroshot navigation. The results highlight the limitations of current audiocentric methods and underscore the practical challenges and significance of our datasets in advancing audio guided spatial learning.

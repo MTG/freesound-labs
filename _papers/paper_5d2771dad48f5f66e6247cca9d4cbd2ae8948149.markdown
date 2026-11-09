@@ -6,6 +6,7 @@ publication: "arXiv.org"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/5d2771dad48f5f66e6247cca9d4cbd2ae8948149
 authors: "Gijs Wijngaard, Elia Formisano, Michele Esposito, M. Dumontier"
+publication_date: "2025-05-20"
 ---
 
 Audio-language models have shown promising results in various sound understanding tasks, yet they remain limited in their ability to reason over the fine-grained semantics of sound. In this paper, we present AudSemThinker, a model whose reasoning is structured around a framework of auditory semantics inspired by human cognition. To support this, we introduce AudSem, a novel dataset specifically curated for semantic descriptor reasoning in audio-language models. AudSem addresses the persistent challenge of data contamination in zero-shot evaluations by providing a carefully filtered collection of audio samples paired with captions generated through a robust multi-stage pipeline. Our experiments demonstrate that AudSemThinker outperforms state-of-the-art models across multiple training settings, highlighting its strength in semantic audio reasoning. Both AudSemThinker and the AudSem dataset are released publicly.

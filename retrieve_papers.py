@@ -1,7 +1,9 @@
 import requests
 import time
 import argparse
+import json
 import os
+import re
 
 API_KEY = os.getenv('SEMANTIC_SCHOLAR_API_KEY', None)
 if API_KEY is None:
@@ -9,7 +11,7 @@ if API_KEY is None:
 
 PAPERS_DIR = '_papers'
 MANUAL_PAPERS_FILENAME = 'manual_paper_semantic_scholar_urls.txt'
-PAPER_FIELDS = 'paperId,title,authors,year,url,venue,abstract'
+PAPER_FIELDS = 'paperId,title,authors,year,url,venue,abstract,publicationDate'
 MAX_REQUEST_ATTEMPTS = 8
 MIN_REQUEST_INTERVAL = 1.0
 last_request_time = None
@@ -29,12 +31,12 @@ parser = argparse.ArgumentParser(
 
 TEMPLATE = """---
 layout: paper
-id: "{id}"
-title: "{title}"
-publication: "{publication}"
+id: {id}
+title: {title}
+publication: {publication}
 year: {year}
-external_url: {url}
-authors: "{authors}"
+{publication_date}external_url: {url}
+authors: {authors}
 ---
 """
 
@@ -44,16 +46,19 @@ def paper_filename_from_id(paper_id):
 def write_markdown_file(paper_data, filename):
     authors = ', '.join([author['name']  for author in paper_data['authors']])
     contents = TEMPLATE.format(
-        title=paper_data['title'].title().replace('"', "'"),
-        url=paper_data['url'],
+        title=json.dumps(paper_data['title'].title().replace('"', "'"), ensure_ascii=False),
+        url=json.dumps(paper_data['url'], ensure_ascii=False),
         year=paper_data['year'],
-        authors=authors,
-        id=paper_data['paperId'],
-        publication=paper_data['venue'] or '',
+        publication_date=('publication_date: {}\n'.format(json.dumps(paper_data['publicationDate']))
+                          if paper_data.get('publicationDate') else ''),
+        authors=json.dumps(authors, ensure_ascii=False),
+        id=json.dumps(paper_data['paperId'], ensure_ascii=False),
+        publication=json.dumps(paper_data['venue'] or '', ensure_ascii=False),
     )
     abstract = paper_data.get('abstract')
     if abstract and abstract.strip():
-        contents += '\n' + abstract.strip() + '\n'
+        abstract = re.sub(r'\{\{|\{%', lambda match: '{% raw %}' + match.group() + '{% endraw %}', abstract.strip())
+        contents += '\n' + abstract + '\n'
     with open(filename, 'w', encoding='utf-8') as fid:
         fid.write(contents)
 

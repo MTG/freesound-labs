@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2020
 external_url: https://www.semanticscholar.org/paper/506fbd9837bd775d178baad669260905a8c0b6cc
 authors: "Nicolas Turpault, Romain Serizel"
+publication_date: "2020-07-08"
 ---
 
 Training a sound event detection algorithm on a heterogeneous dataset including both recorded and synthetic soundscapes that can have various labeling granularity is a non-trivial task that can lead to systems requiring several technical choices. These technical choices are often passed from one system to another without being questioned. We propose to perform a detailed analysis of DCASE 2020 task 4 sound event detection baseline with regards to several aspects such as the type of data used for training, the parameters of the mean-teacher or the transformations applied while generating the synthetic soundscapes. Some of the parameters that are usually used as default are shown to be sub-optimal.

@@ -6,6 +6,7 @@ publication: "Applied Sciences"
 year: 2022
 external_url: https://www.semanticscholar.org/paper/00ff0e85e6563c622b86955c597e2e5503c19f0a
 authors: "Tara Vanhatalo, P. Legrand, M. Desainte-Catherine, P. Hanna, Antoine Brusco, Guillaume Pille, Yann Bayle"
+publication_date: "2022-06-09"
 ---
 
 Vacuum tube amplifiers present sonic characteristics frequently coveted by musicians, that are often due to the distinct nonlinearities of their circuits, and accurately modelling such effects can be a challenging task. A recent rise in machine learning methods has lead to the ubiquity of neural networks in all fields of study including virtual analog modelling. This has lead to the appearance of a variety of architectures tailored to this task. This article aims to provide an overview of the current state of the research in neural emulation of analog distortion circuits by first presenting preceding methods in the field and then focusing on a complete review of the deep learning landscape that has appeared in recent years, detailing each subclass of available architectures. This is done in order to bring to light future possible avenues of work in this field.

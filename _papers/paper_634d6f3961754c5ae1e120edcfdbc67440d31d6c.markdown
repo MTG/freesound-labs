@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2019
 external_url: https://www.semanticscholar.org/paper/634d6f3961754c5ae1e120edcfdbc67440d31d6c
 authors: "Ivo Trowitzsch, Jalil Taghia, Youssef Kashef, K. Obermayer"
+publication_date: "2019-02-21"
 ---
 
 Computational auditory scene analysis is gaining interest in the last years. Trailing behind the more mature field of speech recognition, it is particularly general sound event detection that is attracting increasing attention. Crucial for training and testing reasonable models is having available enough suitable data -- until recently, general sound event databases were hardly found. We release and present a database with 714 wav files containing isolated high quality sound events of 14 different types, plus 303 `general' wav files of anything else but these 14 types. All sound events are strongly labeled with perceptual on- and offset times, paying attention to omitting in-between silences. The amount of isolated sound events, the quality of annotations, and the particular general sound class distinguish NIGENS from other databases.

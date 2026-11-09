@@ -6,6 +6,7 @@ publication: ""
 year: 2025
 external_url: https://www.semanticscholar.org/paper/39c5f7e4e7c45e1bb41c17f00734c89bdc4b99f0
 authors: "Alexandra Popescu, R. Frost, Milos Cernak"
+publication_date: "2025-09-12"
 ---
 
 Neurodivergent people frequently experience decreased sound tolerance, with estimates suggesting it affects 50-70% of this population. This heightened sensitivity can provoke reactions ranging from mild discomfort to severe distress, highlighting the critical need for assistive audio enhancement technologies In this paper, we propose several assistive audio enhancement algorithms designed to selectively filter distressing sounds. To address this, we curated a list of potential trigger sounds by analyzing neurodivergent-focused communities on platforms such as Reddit. Using this list, a dataset of trigger sound samples was compiled from publicly available sources, including FSD50K and ESC50. These samples were then used to train and evaluate various Digital Signal Processing (DSP) and Machine Learning (ML) audio enhancement algorithms. Among the approaches explored, Dynamic Range Compression (DRC) proved the most effective, successfully attenuating trigger sounds and reducing auditory distress for neurodivergent listeners.

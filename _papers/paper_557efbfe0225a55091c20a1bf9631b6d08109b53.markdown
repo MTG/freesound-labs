@@ -6,6 +6,7 @@ publication: "2019 IEEE Pacific Rim Conference on Communications, Computers and 
 year: 2019
 external_url: https://www.semanticscholar.org/paper/557efbfe0225a55091c20a1bf9631b6d08109b53
 authors: "Harishchandra Dubey, Dimitra Emmanouilidou, I. Tashev"
+publication_date: "2019-08-01"
 ---
 
 Audio event classification is an important task for several applications such as surveillance, audio, video and multimedia retrieval etc. There are approximately 340 million people with hearing loss who can’t perceive events happening around them. This paper establishes the CURE dataset which contains curated set of specific audio events most relevant for people with hearing loss. It is formatted as 5 sec sound recordings derived from the Freesound project. We propose a ladder network based audio event classifier. We adopted the state-of-the-art convolutional neural network (CNN) embeddings as audio features for this task. We start with signal and feature normalization that aims to reduce the mismatch between different recordings scenarios. Initially, a CNN is trained on weakly labeled Audioset data. Next, the pre-trained model is adopted as feature extractor for proposed CURE corpus. We also explore the performance of extreme learning machine (ELM) and use support vector machine (SVM) as baseline classifier. As a second evaluation set we incorporate ESC-50. Results and discussions validate the superiority of Ladder network over ELM and SVM classifier in terms of robustness and increased classification accuracy.

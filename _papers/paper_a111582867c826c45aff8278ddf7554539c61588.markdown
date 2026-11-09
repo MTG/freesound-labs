@@ -6,6 +6,7 @@ publication: "International Journal of Software Innovation"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/a111582867c826c45aff8278ddf7554539c61588
 authors: "Marcello Messina, Ariane de Souza Stolfi, Luzilei Aliel, I. Simurra, Damián Keller"
+publication_date: "2024-05-22"
 ---
 
 A recent initiative within ubimus research contemplates the development of an internet of musical stuff (IoMuSt) as a concept that interacts with and expands the pre-existing rubric of the internet of musical things (IoMusT). Opposed to the ontological fixedness of things, stuff is pliable, fairly amorphous, changeable depending on usage, context-reliant, either persistent or volatile. It encompasses adaptable and flexible temporalities, featuring non-allotable, non-monetisable and non-reifiable resources. Furthermore, IoMuSt highlights the distinction between object and subject, blurring this crisp separation. The IoMuSt rubric is sustained by aesthetic pliability, fostering an expansion of creative practices and a critical stance towards utilitarian human-computer interaction perspectives. The authors discuss key dimensions of aesthetic pliability as related to flexible infrastructures, open sources and methods, enhanced collaboration and a low ecological footprint. The properties of aesthetic pliability are explored within the realm of two case studies.

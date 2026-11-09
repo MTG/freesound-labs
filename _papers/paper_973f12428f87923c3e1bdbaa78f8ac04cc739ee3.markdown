@@ -6,4 +6,5 @@ publication: "Expert systems with applications"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/973f12428f87923c3e1bdbaa78f8ac04cc739ee3
 authors: "Chengtai Cao, Xinhong Chen, Qun Song, Rui Tan, Yung-Hui Li, Jianping Wang"
+publication_date: "2026-06-01"
 ---

@@ -6,6 +6,7 @@ publication: "2025 International Conference on Emerging Technologies in Electron
 year: 2025
 external_url: https://www.semanticscholar.org/paper/63ace348581d9db1d58839f8c3d4b98a8a1654ed
 authors: "R. Pari, P. Amareshwaran"
+publication_date: "2025-10-10"
 ---
 
 Music is a fantastic stress reliever for the human being and thus enhances mental health. It is necessary to provide a seamless and intuitive way to interact with music libraries for everyone, including blind people. Traditional methods of music control often require manual input, such as typing on a keyboard or tapping on a touchscreen, and this is challenging for blind people. The proposed automated system revolutionizes music playback control by harnessing the power of clap recognition technology. This study used a Convolutional Neural Network to classify the clap with an accuracy of 94.8% and is found to be better than the state-of-the-art algorithms. The user-friendly interface and intuitive design provide a solution that simplifies music playback control while also adding a touch of innovation to the process. Thus, it enables the blind people to control the music play as per their desire.

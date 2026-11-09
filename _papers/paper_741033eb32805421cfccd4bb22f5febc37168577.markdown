@@ -6,6 +6,7 @@ publication: "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Spe
 year: 2020
 external_url: https://www.semanticscholar.org/paper/741033eb32805421cfccd4bb22f5febc37168577
 authors: "Andreas Hüwel, K. Adiloglu, Jörg-Hendrik Bach"
+publication_date: "2020-05-01"
 ---
 
 State-of-the-art hearing aids (HA) are limited in recognizing acoustic environments. Much effort is spent on research to improve listening experience for HA users in every acoustic situation. There is, however, no dedicated public database to train acoustic environment recognition algorithms with a specific focus on HA applications accounting for their requirements. Existing acoustic scene classification databases are inappropriate for HA signal processing. In this work we propose a novel, binaural HA acoustic environment recognition data set (HEAR-DS) suitable for the environment recognition needs of HAs. We present the details about each individual environment provided within the data set. To show separability of these acoustic environments we trained a group of deep neural network-based classifiers which vary in complexity. The obtained classification accuracies provide a reliable indicator about the validity and separability of the provided data set. Finally, as we do not aim at providing the best possible neural network architecture to perform such a classification, but propose solely a novel data set, further research is needed to streamline such networks and optimize them for robustness, real-time and limited computational capability to fit into modern HAs.

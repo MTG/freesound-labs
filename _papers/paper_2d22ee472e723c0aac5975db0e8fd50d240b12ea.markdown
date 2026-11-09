@@ -6,6 +6,7 @@ publication: "2022 Asia-Pacific Signal and Information Processing Association An
 year: 2022
 external_url: https://www.semanticscholar.org/paper/2d22ee472e723c0aac5975db0e8fd50d240b12ea
 authors: "Dianwen Ng, Jia Qi Yip, Tanmay Surana, Zhao Yang, Chong Zhang, Yukun Ma, Chongjia Ni, Chng Eng Siong, B. Ma"
+publication_date: "2022-09-14"
 ---
 
 Noise robustness in keyword spotting remains a challenge as many models fail to overcome the heavy influence of noises, causing the deterioration of the quality of feature embeddings. We proposed a contrastive regularization method called Inter-Intra Contrastive Regularization (I2CR) to improve the feature representations by guiding the model to learn the fundamental speech information specific to the cluster. This involves maximizing the similarity across Intra and Inter samples of the same class. As a result, it pulls the instances closer to more generalized representations that form more prominent clusters and reduces the adverse impact of noises. We show that our method provides consistent improvements in accuracy over different backbone model architectures under different noise environments. We also demonstrate that our proposed framework has improved the accuracy of unseen out-of-domain noises and unseen variant noise SNRs. This indicates the significance of our work with the overall refinement in noise robustness.

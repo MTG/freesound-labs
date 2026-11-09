@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/20fc6868fd6f7213768954149061e71fd3d9f8a4
 authors: "Sen Fang, Sizhou Chen, Yalin Feng, Xiaofeng Zhang, TeikToe Teoh"
+publication_date: "2024-10-04"
 ---
 
 This paper presents an innovative approach called BGTAI to simplify multimodal understanding by utilizing gloss-based annotation as an intermediate step in aligning Text and Audio with Images. While the dynamic temporal factors in textual and audio inputs contain various predicate adjectives that influence the meaning of the entire sentence, images, on the other hand, present static scenes. By representing text and audio as gloss notations that omit complex semantic nuances, a better alignment with images can potentially be achieved. This study explores the feasibility of this idea, specifically, we first propose the first Langue2Gloss model and then integrate it into the multimodal model UniBriVL for joint training. To strengthen the adaptability of gloss with text/audio and overcome the efficiency and instability issues in multimodal training, we propose a DS-Net (Data-Pair Selection Network), an Result Filter module, and a novel SP-Loss function. Our approach outperforms previous multimodal models in the main experiments, demonstrating its efficacy in enhancing multimodal representations and improving compatibility among text, audio, visual, and any sequence modalities.

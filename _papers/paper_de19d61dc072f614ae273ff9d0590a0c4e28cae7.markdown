@@ -6,6 +6,7 @@ publication: "IETE Journal of Research"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/de19d61dc072f614ae273ff9d0590a0c4e28cae7
 authors: "Rajapantula Kranthi, Vasundhara"
+publication_date: "2023-06-21"
 ---
 
 Active noise reduction in the existential of impulsive noise poses a serious challenge in a distributed scenario. The conventional centralized multichannel active noise control (MANC) and diffusion filtered-x least mean square (F-xLMS) based distributed active noise control (DANC) systems exhibit deteriorated performance in the existence of impulse noise and outliers. In this regard, a diffusion least logarithmic hyperbolic cosine function (D-Llncosh) based algorithm for DANC system is developed with the goal of mitigating noise in such an environment. It utilizes natural logarithmic of hyperbolic cosine function integrating the mean square error (MSE) and mean absolute error (MAE) as the cost function depending upon the parameter value. The weight update rule of the introduced D-Llncosh-based DANC system is hereby derived. The convergence analysis of the suggested method is also carried out. The proposed system is validated for various types of impulsive noise under different scenarios. The extensive simulation results assert the efficacy of the posited DANC system in comparison with the existing techniques. The suggested method achieves quicker convergence and approximately a 1–5 dB improvement is the noise reduction for different noise scenarios as evident from the obtained results.

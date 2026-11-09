@@ -6,6 +6,7 @@ publication: "Electronics"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/fb7db556f925b6ba1d9521251b32d4c64b2846af
 authors: "Xiaohuan Li, Yi Liu, Libo Zheng, Wenqiong Zhang"
+publication_date: "2024-07-26"
 ---
 
 As urbanization accelerates, the prevalence of fire incidents leads to significant hazards. Enhancing the accuracy of remote fire detection systems while reducing computation complexity and power consumption in edge hardware are crucial. Therefore, this paper investigates an innovative lightweight Convolutional Spiking Neural Network (CSNN) method for fire detection based on acoustics. In this model, Poisson encoder and convolution encoder strategies are considered and compared. Additionally, the study investigates the impact of observation time steps, surrogate gradient functions, and the threshold and decay rate of membrane potential on network performance. A comparison is made between the classification metrics of the traditional Convolutional Neural Network (CNN) approaches and the proposed lightweight CSNN method. To assess the generalization performance of the proposed lightweight method, publicly available datasets are merged with our experimental data for training, which results in a high accuracy of 99.02%, a precision of 99.37%, a recall of 98.75%, and an F1 score of 99.06% on the test datasets.

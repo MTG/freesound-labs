@@ -6,6 +6,7 @@ publication: "European Signal Processing Conference"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/c5840e9e87a8c57a307afdeb19b6f30c2a43709b
 authors: "Taous Iatariene, Can Cui, Alexandre Guérin, Romain Serizel"
+publication_date: "2025-06-23"
 ---
 
 Speaker tracking methods often rely on spatial observations to assign coherent track identities over time. This raises limits in scenarios with intermittent and moving speakers, i.e., speakers that may change position when they are inactive, thus leading to discontinuous spatial trajectories. This paper investigates the use of speaker embeddings, in a simple solution to this issue. We propose to perform identity reassignment posttracking, using speaker embeddings. We leverage trajectoryrelated information provided by an initial tracking step and the multichannel audio signal. Beamforming is used to enhance the signal towards the speakers' positions in order to compute speaker embeddings. These are then used to assign new track identities based on an enrollment pool. We evaluate the performance of the proposed speaker embedding-based identity reassignment method on a dataset where speakers change position during inactivity periods. Results show that it consistently improves the identity assignment performance of neural and standard tracking systems. In particular, we study the impact of beamforming and input duration for embedding extraction.

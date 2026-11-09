@@ -6,4 +6,5 @@ publication: "Alexandria Engineering Journal"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/f15b35c123ceedee318ba5998889a9bd829169d1
 authors: "Yanxi Shen, Anran Li"
+publication_date: "2026-02-01"
 ---

@@ -6,4 +6,5 @@ publication: "Developments in the Built Environment"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/f9b61692fe89238552052eefc7faa15ac5b36f1b
 authors: "Jia-Jing Liu, Jianxin Wu, Hanbin Luo, Przemysław Sekuła"
+publication_date: "2026-05-01"
 ---

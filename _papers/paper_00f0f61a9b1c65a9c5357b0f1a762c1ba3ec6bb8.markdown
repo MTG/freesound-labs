@@ -6,6 +6,7 @@ publication: "Interspeech"
 year: 2025
 external_url: https://www.semanticscholar.org/paper/00f0f61a9b1c65a9c5357b0f1a762c1ba3ec6bb8
 authors: "Xue Yang, Guiru Shen, Yu Yang"
+publication_date: "2025-08-17"
 ---
 
 Target sound extraction aims to isolate the target sound event (SE) from a mixture containing undesired interference. The enrollment of the target SE class is often utilized to derive an embedding for guidance. However, this embedding is highly summarized and discards important details, resulting in suboptimal performance. To address this problem, the local dynamics and temporal structures of the enrollment are leveraged in this paper. Specifically, the enrollment and mixture are first processed separately along the frequency and time axes, mapping them into a shared latent space. The processed features are then interacted via a cross-attention mechanism, with the resulting feature serving as guidance. This approach effectively leverages the contextual information in the enrollment and allows for the extraction of SE class that are unseen during training. Experimental results show that our proposed method attains high performance and exhibits certain zero-shot generalization ability.

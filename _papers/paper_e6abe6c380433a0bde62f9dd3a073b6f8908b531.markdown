@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/e6abe6c380433a0bde62f9dd3a073b6f8908b531
 authors: "Philipp Wagner, Andreas Triantafyllopoulos, Alexander Gebhard, Bjorn W. Schuller"
+publication_date: "2024-06-10"
 ---
 
 In recent decades, running has become an increasingly popular pastime activity due to its accessibility, ease of practice, and anticipated health benefits. However, the risk of running-related injuries is substantial for runners of different experience levels. Several common forms of injuries result from overuse - extending beyond the recommended running time and intensity. Recently, audio-based tracking has emerged as yet another modality for monitoring running behaviour and performance, with previous studies largely concentrating on predicting runner fatigue. In this work, we investigate audiobased step count estimation during outdoor running, achieving a mean absolute error of 1.098 in window-based step-count differences and a Pearson correlation coefficient of 0.479 when predicting the number of steps in a 5-second window of audio. Our work thus showcases the feasibility of audio-based monitoring for estimating important physiological variables and lays the foundations for further utilising audio sensors for a more thorough characterisation of runner behaviour.

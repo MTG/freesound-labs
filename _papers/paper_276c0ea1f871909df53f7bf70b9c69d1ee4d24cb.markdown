@@ -6,6 +6,7 @@ publication: "2024 Asia Pacific Signal and Information Processing Association An
 year: 2024
 external_url: https://www.semanticscholar.org/paper/276c0ea1f871909df53f7bf70b9c69d1ee4d24cb
 authors: "Xingyu Shen, Wei-Ping Zhu"
+publication_date: "2024-12-03"
 ---
 
 Multichannel speech enhancement has gained significant attention for its capability of improving speech quality and intelligibility in noisy environments. This paper presents a novel approach to multichannel speech enhancement utilizing complex-valued graph-in-graph convolutional networks (GiGCN) and triple-path attentive recurrent networks (TPARN). The proposed model leverages complex-valued operations to capture spatial dependencies and decoupled LSTM blocks to model temporal correlations. Meanwhile, the TPARN can effectively fuse the frequency, time, and spatial features for the reconstruction of the enhanced speech. Our experimental results based on the CHiME-3 and L3DAS22 datasets show that the proposed integrated model outperforms the state-of-the-art methods in terms of the PESQ, STOI and WER performance metrics.

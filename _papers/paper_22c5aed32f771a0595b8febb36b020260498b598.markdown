@@ -6,4 +6,5 @@ publication: ""
 year: 2012
 external_url: https://www.semanticscholar.org/paper/22c5aed32f771a0595b8febb36b020260498b598
 authors: "G. Roma, Anna Xambó, P. Herrera, Robin C. Laney"
+publication_date: "2012-07-12"
 ---

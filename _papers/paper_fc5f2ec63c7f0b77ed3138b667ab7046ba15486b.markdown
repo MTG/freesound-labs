@@ -6,4 +6,5 @@ publication: "ACM Multimedia"
 year: 2014
 external_url: https://www.semanticscholar.org/paper/fc5f2ec63c7f0b77ed3138b667ab7046ba15486b
 authors: "L. Wyse"
+publication_date: "2014-11-03"
 ---

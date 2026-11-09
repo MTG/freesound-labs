@@ -6,6 +6,7 @@ publication: "2026 8th International Conference on Internet of Things, Automatio
 year: 2026
 external_url: https://www.semanticscholar.org/paper/9530a07427ad16f0b1529a17d870ef794e5f8540
 authors: "Qiushi Yang"
+publication_date: "2026-05-01"
 ---
 
 Cross-modal Large Audio-Language Models (LALMs) demonstrate strong zero-shot reasoning in general audio understanding, but their robustness in noisy environments is limited. In a zero-shot “prompt + post-processing matching” setting, Qwen2-Audio achieved only 13% category similarity on the FSD50K dataset—far below the $0.30-0.49 \text{mAP}$ of specialized audio-text alignment models like CLAP[1]. This paper proposes three progressive prompt strategies: “establishing interference awareness”, “supplementing background information via Sound Event Classification (SEC) for targeted filtering”, and “guiding precise differentiation through Chain-of-Thought (CoT) reasoning”. Experimental results show the CoT-based strategy delivers optimal performance, increasing overall recognition accuracy by 13.0% and high-interference scenario accuracy by 20.4%. This work provides a lightweight, reusable engineering solution for LALMs in uncontrolled zero-shot environments.

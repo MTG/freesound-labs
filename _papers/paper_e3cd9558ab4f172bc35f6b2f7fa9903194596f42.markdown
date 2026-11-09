@@ -6,6 +6,7 @@ publication: "IEEE International Conference on Acoustics, Speech, and Signal Pro
 year: 2025
 external_url: https://www.semanticscholar.org/paper/e3cd9558ab4f172bc35f6b2f7fa9903194596f42
 authors: "C. Templin, Yanda Zhu, Hao Wang"
+publication_date: "2025-07-09"
 ---
 
 Spatial audio has become central to immersive applications such as VR/AR, cinema, and music. Existing generative audio models are largely limited to mono or stereo formats and cannot capture the full 3D localization cues available in first-order Ambisonics (FOA). Recent FOA models extend text-to-audio generation but remain restricted to static sources. In this work, we introduce SonicMotion, the first end-to-end latent diffusion framework capable of generating FOA audio with explicit control over moving sound sources. SonicMotion is implemented in two variations: 1) a descriptive model conditioned on natural language prompts, and 2) a parametric model conditioned on both text and spatial trajectory parameters for higher precision. To support training and evaluation, we construct a new dataset of over one million simulated FOA caption pairs that include both static and dynamic sources with annotated azimuth, elevation, and motion attributes. Experiments show that SonicMotion achieves state-of-the-art semantic alignment and perceptual quality comparable to leading text-to-audio systems, while uniquely attaining low spatial localization error.

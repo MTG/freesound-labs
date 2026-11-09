@@ -6,6 +6,7 @@ publication: ""
 year: 2026
 external_url: https://www.semanticscholar.org/paper/5e49018d8359b907ff7a4e0b672d0ef6ea1ba3e1
 authors: "Pei-Hao Chen, Qing Wang, Li-Chun Fan, Yu-Feng Hao, Zhi-Feng Kong, Meng-Yao Zhu, Heng-Yi Hong, Hang Chen, Hang Su, Yu-Jie Jian, Chao-Han Huck Yang, Shi-Chao Hu, Jun Du, Jian Luan, Ke Li"
+publication_date: "2026-10-01"
 ---
 
 Embodied assistants in domestic environments must infer what happened, where and when it occurred, and how to respond. To address this, we introduce RMS-AQA, a spatial audio question answering (SAQA) benchmark for real-world domestic environments. The benchmark features a two-stage question-answering (QA) format to comprehensively assess the ability of audio-language models (ALMs) to first ground audible sound events and subsequently perform complex spatio-temporal reasoning based on that grounding. To maximize acoustic realism, our dataset combines authentic real-world first-order Ambisonics (FOA) recordings with high-fidelity synthetic data generated using measured room impulse responses (RIRs). Furthermore, we provide a lightweight spatial plug-in that injects FOA-format data into frozen audio-language backbones. Experimental results reveal that the primary challenges stem from concurrent sources, far distance, and sim-to-real domain gap between RIR-synthesized and authentic recordings.

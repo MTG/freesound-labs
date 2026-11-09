@@ -6,4 +6,5 @@ publication: "Applied Acoustics"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/5d9e6d190a11c24251560e1279c2b49283a96fbf
 authors: "Qingchun Jiao, Xiaolong Wang, Lijun Wang, Huihui Bai"
+publication_date: "2023-08-01"
 ---

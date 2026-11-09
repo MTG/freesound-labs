@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/0643759137a733bfd140c60d7e30a0f982d874bd
 authors: "Marco Furio Colombo, Francesca Ronchini, Luca Comanducci, Fabio Antonacci"
+publication_date: "2024-09-13"
 ---
 
 Recent advancements in deep learning have led to widespread use of techniques for audio content generation, notably employing Denoising Diffusion Probabilistic Models (DDPM) across various tasks. Among these, Foley Sound Synthesis is of particular interest for its role in applications for the creation of multimedia content. Given the temporal-dependent nature of sound, it is crucial to design generative models that can effectively handle the sequential modeling of audio samples. Selective State-Space Models (SSMs) have recently been proposed as a valid alternative to previously proposed techniques, demonstrating competitive performance with lower computational complexity. In this paper, we introduce MambaFoley, a diffusion-based model that, to the best of our knowledge, is the first to leverage the recently proposed SSM known as Mamba for the Foley sound generation task. To evaluate the effectiveness of the proposed method, we compare it with a state-of-the-art Foley sound generative model using both objective and subjective analyses.

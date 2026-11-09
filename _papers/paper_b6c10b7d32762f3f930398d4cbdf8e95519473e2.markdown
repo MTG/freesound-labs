@@ -6,6 +6,7 @@ publication: "Interspeech 2024"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/b6c10b7d32762f3f930398d4cbdf8e95519473e2
 authors: "Da Mu, Zhicheng Zhang, Haobo Yue"
+publication_date: "2024-06-13"
 ---
 
 Sound Event Localization and Detection (SELD) involves detecting and localizing sound events using multichannel sound recordings. Previously proposed Event-Independent Network V2 (EINV2) has achieved outstanding performance on SELD. However, it still faces challenges in effectively extracting features across spectral, spatial, and temporal domains. This paper proposes a three-stage network structure named Multi-scale Feature Fusion (MFF) module to fully extract multi-scale features across spectral, spatial, and temporal domains. The MFF module utilizes parallel subnetworks architecture to generate multi-scale spectral and spatial features. The TF-Convolution Module is employed to provide multi-scale temporal features. We incorporated MFF into EINV2 and term the proposed method as MFF-EINV2. Experimental results in 2022 and 2023 DCASE challenge task3 datasets show the effectiveness of our MFF-EINV2, which achieves state-of-the-art (SOTA) performance compared to published methods.

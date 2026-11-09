@@ -6,6 +6,7 @@ publication: "IEEE International Conference on Acoustics, Speech, and Signal Pro
 year: 2025
 external_url: https://www.semanticscholar.org/paper/e433368c0af019440367ed84fcc46bf09503137c
 authors: "Chen-An Li, Tzu-Han Lin, Hung-yi Lee"
+publication_date: "2025-10-01"
 ---
 
 Large audio-language models (LALMs) unify speech and text processing, but their robustness in noisy real-world settings remains underexplored. We investigate how irrelevant audio, such as silence, synthetic noise, and environmental sounds, affects text reasoning tasks where audio is unnecessary. Across three text-based benchmarks, we find that even non-informative audio reduces accuracy and increases prediction volatility; the severity of interference scales with longer durations, higher amplitudes, and elevated decoding temperatures. Silence, often assumed neutral, destabilizes outputs as strongly as synthetic noise. While larger models show greater resilience, vulnerabilities persist across all evaluated systems. We further test mitigation strategies and find that prompting shows limited effectiveness, whereas self-consistency improves stability at the cost of increased computation. Our results reveal cross-modal interference as a key robustness challenge and highlight the need for efficient fusion strategies that preserve reasoning performance in the presence of irrelevant inputs.

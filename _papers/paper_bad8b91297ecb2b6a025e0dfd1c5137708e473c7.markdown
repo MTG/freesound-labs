@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2021
 external_url: https://www.semanticscholar.org/paper/bad8b91297ecb2b6a025e0dfd1c5137708e473c7
 authors: "J. Abeßer"
+publication_date: "2021-05-06"
 ---
 
 This paper introduces a novel dataset for polyphonic sound event detection in urban sound monitoring use-cases. Based on isolated sounds taken from the FSD50k dataset, 20,000 polyphonic soundscapes are synthesized with sounds being randomly positioned in the stereo panorama using different loudness levels. The paper gives a detailed discussion of possible application scenarios, explains the dataset generation process in detail, and discusses current limitations of the proposed USM-SED dataset.

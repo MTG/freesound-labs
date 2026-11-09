@@ -6,6 +6,7 @@ publication: ""
 year: 2023
 external_url: https://www.semanticscholar.org/paper/53af3021b6fed69f8207e6f08aaa9a845cac89d0
 authors: "Han Yin, Jisheng Bai, Mou Wang, S. Huang, Yafei Jia, Jianfeng Chen"
+publication_date: "2023-06-08"
 ---
 
 3D speech enhancement can effectively improve the auditory experience and plays a crucial role in augmented reality technology. However, traditional convolutional-based speech enhancement methods have limitations in extracting dynamic voice information. In this paper, we incorporate a dual-path recurrent neural network block into the U-Net to iteratively extract dynamic audio information in both the time and frequency domains. And an attention mechanism is proposed to fuse the original signal, reference signal, and generated masks. Moreover, we introduce a loss function to simultaneously optimize the network in the time-frequency and time domains. Experimental results show that our system outperforms the state-of-the-art systems on the dataset of ICASSP L3DAS23 challenge.

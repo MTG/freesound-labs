@@ -6,6 +6,7 @@ publication: "CHI Extended Abstracts"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/fc87d11b223201320020988ff3db298ff8303799
 authors: "Xiyuxing Zhang, Yuntao Wang, Jingru Zhang, Yaqing Yang, Shwetak N. Patel, Yuanchun Shi"
+publication_date: "2023-03-18"
 ---
 
 Cough monitoring can enable new individual pulmonary health applications. Subject cough event detection is the foundation for continuous cough monitoring. Recently, the rapid growth in smart hearables has opened new opportunities for such needs. This paper proposes EarCough, which enables continuous subject cough event detection on edge computing hearables, by leveraging the always-on active noise cancellation (ANC) microphones. Specifically, we proposed a lightweight end-to-end neural network model — EarCoughNet. To evaluate the effectiveness of our method, we constructed a synchronous motion and audio dataset through a user study. Results show that EarCough achieved an accuracy of 95.4% and an F1-score of 92.9% with a space requirement of only 385 kB. We envision EarCough as a low-cost add-on for future hearables to enable continuous subject cough event detection.

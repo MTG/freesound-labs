@@ -6,6 +6,7 @@ publication: "2024 IEEE Spoken Language Technology Workshop (SLT)"
 year: 2024
 external_url: https://www.semanticscholar.org/paper/943114246d3f0853e9403eb7e25fa902a4045340
 authors: "Xiao-Hang Jiang, Yang Ai, Ruixin Zheng, Hui-Peng Du, Ye-Xin Lu, Zhenhua Ling"
+publication_date: "2024-11-01"
 ---
 
 In this paper, we propose MDCTCodec, an efficient lightweight end-to-end neural audio codec based on the modified discrete cosine transform (MDCT). The encoder takes the MDCT spectrum of audio as input, encoding it into a continuous latent code which is then discretized by a residual vector quantizer (RVQ). Subsequently, the decoder decodes the MDCT spectrum from the quantized latent code and reconstructs audio via inverse MDCT. During the training phase, a novel multi-resolution MDCT-based discriminator (MR-MDCTD) is adopted to discriminate the natural or decoded MDCT spectrum for adversarial training. Experimental results confirm that, in scenarios with high sampling rates and low bitrates, the MDCTCodec exhibited high decoded audio quality, improved training and generation efficiency, and compact model size compared to baseline codecs. Specifically, the MDCTCodec achieved a ViSQOL score of 4.18 at a sampling rate of 48 kHz and a bitrate of 6 kbps on the public VCTK corpus.

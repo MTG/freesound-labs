@@ -6,6 +6,7 @@ publication: "Frontiers Virtual Real."
 year: 2025
 external_url: https://www.semanticscholar.org/paper/0aa93fdf29476c5965392141d1363ca5d14929e2
 authors: "Joanna Luberadzka, Enric Gusó Muñoz, Umut Sayin Saraç, Adan Garriga"
+publication_date: "2025-01-23"
 ---
 
 In recent years, extended reality (XR) has gained interest as a platform for human communication, with the emergence of the “Metaverse” promising to reshape social interactions. At the same time, concerns about harmful behavior and criminal activities in virtual environments have increased. This paper explores the potential of technology to support social harmony within XR, focusing specifically on audio aspects. We introduce the concept of acoustic coherence and discuss why it is crucial for smooth interaction. We further explain the challenges of speech communication in XR, including noise and reverberation, and review sound processing methods to enhance the auditory experience. We also comment on the potential of using virtual reality as a tool for the development and evaluation of audio algorithms aimed at enhancing communication. Finally, we present the results of a pilot study comparing several audio enhancement techniques inside a virtual environment.

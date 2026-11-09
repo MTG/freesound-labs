@@ -6,4 +6,5 @@ publication: "Eng. Appl. Artif. Intell."
 year: 2024
 external_url: https://www.semanticscholar.org/paper/14bd2954fd51426f3935797b6547d00d85982aa2
 authors: "Luca Lazzaroni, F. Bellotti, Riccardo Berta"
+publication_date: "2024-10-01"
 ---

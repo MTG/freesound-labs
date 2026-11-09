@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/be9827006841733487dbfdae469a7835c8e57cc8
 authors: "Athul Raimon, Shubha Masti, Shyam K Sateesh, Siyani Vengatagiri, Bhaskarjyoti Das"
+publication_date: "2024-08-19"
 ---
 
 This survey overviews various meta-learning approaches used in audio and speech processing scenarios. Meta-learning is used where model performance needs to be maximized with minimum annotated samples, making it suitable for low-sample audio processing. Although the field has made some significant contributions, audio meta-learning still lacks the presence of comprehensive survey papers. We present a systematic review of meta-learning methodologies in audio processing. This includes audio-specific discussions on data augmentation, feature extraction, preprocessing techniques, meta-learners, task selection strategies and also presents important datasets in audio, together with crucial real-world use cases. Through this extensive review, we aim to provide valuable insights and identify future research directions in the intersection of meta-learning and audio processing.

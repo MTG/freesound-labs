@@ -6,4 +6,5 @@ publication: "Smart Agricultural Technology"
 year: 2026
 external_url: https://www.semanticscholar.org/paper/0f1a07e1c9ca5625b38070d32ef04e0b4ea64ddf
 authors: "Valentina Restrepo, Sarah C. L. Fischer, S. Herter"
+publication_date: "2026-11-01"
 ---

@@ -6,6 +6,7 @@ publication: "MCGE@MM"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/13a681e41801ae121a928eb9464fd09eca8bc1d2
 authors: "J. Zou, Jiahao Mei, Guangze Ye, Tianyu Huai, Qiwei Shen, Daoguo Dong"
+publication_date: "2023-08-15"
 ---
 
 In this paper, we propose Emotionally paired Music and Image Dataset (EMID), a novel dataset designed for the emotional matching of music and images, to facilitate auditory-visual cross-modal tasks such as generation and retrieval. Unlike existing approaches that primarily focus on semantic correlations or roughly divided emotional relations, EMID emphasizes the significance of emotional consistency between music and images using an advanced 13-dimension emotional model. By incorporating emotional alignment into the dataset, it aims to establish pairs that closely align with human perceptual understanding, thereby raising the performance of auditory-visual cross-modal tasks. We also design a supplemental module named EMI-Adapter to optimize existing cross-modal alignment methods. To validate the effectiveness of the EMID, we conduct a psychological experiment, which has demonstrated that considering the emotional relationship between the two modalities effectively improves the accuracy of matching in abstract perspective. This research lays the foundation for future cross-modal research in domains such as psychotherapy and contributes to advancing the understanding and utilization of emotions in cross-modal alignment. The EMID dataset is available at https://github.com/ecnu-aigc/EMID.

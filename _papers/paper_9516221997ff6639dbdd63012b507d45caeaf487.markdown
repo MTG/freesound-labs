@@ -6,6 +6,7 @@ publication: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Spe
 year: 2023
 external_url: https://www.semanticscholar.org/paper/9516221997ff6639dbdd63012b507d45caeaf487
 authors: "Michael Nigro, S. Krishnan"
+publication_date: "2023-06-04"
 ---
 
 This paper introduces a first of its kind dataset for audio scene analysis (ASA) and presents a baseline approach for audio source counting. SARdBScene is developed to promote research for audio source counting, as a relatively new ASA task, and present a comprehensive dataset that covers a variety of scenarios and audio-based tasks. It contains 80 hours of audio scene mixtures depicting four distinct environments with detailed annotations that make it a unique collection of curated data in the audio analysis landscape. Our baseline approach using ResNet establishes state-of-the-art results of 77.3% and 85.7% accuracy for audio source counting up to 12 sources and speaker counting up to 4 speakers, respectively.

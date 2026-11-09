@@ -6,4 +6,5 @@ publication: "Applied Acoustics"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/1a288ef133fb71d4ae862031e0a40613d26e3ca7
 authors: "R. Viveros-Muñoz, P. Huijse, Victor Vargas, Diego Espejo, Víctor Poblete, Jorge P. Arenas, M. Vernier, Diego Vergara, Enrique Suárez"
+publication_date: "2023-11-01"
 ---

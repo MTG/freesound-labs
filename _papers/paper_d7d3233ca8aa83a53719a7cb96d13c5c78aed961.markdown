@@ -6,6 +6,7 @@ publication: "ArXiv"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/d7d3233ca8aa83a53719a7cb96d13c5c78aed961
 authors: "Fabian Ritter Gutierrez, Kuan-Po Huang, Dianwen Ng, J. H. M. Wong, Hung-yi Lee, Chng Eng Siong, Nancy F. Chen"
+publication_date: "2023-12-19"
 ---
 
 Compared to large speech foundation models, small student models exhibit degraded noise robustness. The student’s robustness can be improved by introducing noise at the inputs during pre-training. Despite this, using the standard distillation loss still yields a student with degraded performance. Thus, this paper proposes improving student robustness via distillation with correlation metrics. Teacher behavior is learned by maximizing the teacher and student cross-correlation matrix between their representations towards identity. Noise robustness is encouraged via the student’s self-correlation minimization. The proposed method consistently outperforms the previous approach on Intent Classification, Keyword Spotting, and Automatic Speech Recognition tasks on SUPERB Challenge.

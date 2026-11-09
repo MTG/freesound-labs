@@ -6,6 +6,7 @@ publication: "2023 IEEE Automatic Speech Recognition and Understanding Workshop 
 year: 2023
 external_url: https://www.semanticscholar.org/paper/789fde857ccdf84fd0a7167c5b51bd8881c0c4d2
 authors: "Zexu Pan, G. Wichern, Yoshiki Masuyama, François G. Germain, Sameer Khurana, Chiori Hori, Jonathan Le Roux"
+publication_date: "2023-10-30"
 ---
 
 Target speech extraction aims to extract, based on a given conditioning cue, a target speech signal that is corrupted by interfering sources, such as noise or competing speakers. Building upon the achievements of the state-of-the-art (SOTA) time-frequency speaker separation model TF-GridNet, we propose AV-GridNet, a visual-grounded variant that incorporates the face recording of a target speaker as a conditioning factor during the extraction process. Recognizing the inherent dissimilarities between speech and noise signals as interfering sources, we also propose SAV-GridNet, a scenario-aware model that identifies the type of interfering scenario first and then applies a dedicated expert model trained specifically for that scenario. Our proposed model achieves SOTA results on the second COG-MHEAR Audio-Visual Speech Enhancement Challenge, outperforming other models by a significant margin, objectively and in a listening test. We also perform an extensive analysis of the results under the two scenarios.

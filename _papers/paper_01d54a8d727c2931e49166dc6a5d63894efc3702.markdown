@@ -6,4 +6,5 @@ publication: "International Journal of Computer Vision"
 year: 2023
 external_url: https://www.semanticscholar.org/paper/01d54a8d727c2931e49166dc6a5d63894efc3702
 authors: "Rishabh Garg, Ruohan Gao, K. Grauman"
+publication_date: "2023-06-20"
 ---

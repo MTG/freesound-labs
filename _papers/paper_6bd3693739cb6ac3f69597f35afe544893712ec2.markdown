@@ -6,4 +6,5 @@ publication: "2015 IEEE International Conference on Automation Science and Engin
 year: 2015
 external_url: https://www.semanticscholar.org/paper/6bd3693739cb6ac3f69597f35afe544893712ec2
 authors: "Qingchang Zhu, Z. Chen, Y. Soh"
+publication_date: "2015-10-08"
 ---

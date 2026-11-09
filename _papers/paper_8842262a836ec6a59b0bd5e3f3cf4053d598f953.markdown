@@ -6,6 +6,7 @@ publication: ""
 year: 2024
 external_url: https://www.semanticscholar.org/paper/8842262a836ec6a59b0bd5e3f3cf4053d598f953
 authors: "Han Yin, Jisheng Bai, Yang Xiao, Hui Wang, Siqi Zheng, Yafeng Chen, Rohan Kumar Das, Chong Deng, Jianfeng Chen"
+publication_date: "2024-09-20"
 ---
 
 In sound event detection (SED), overlapping sound events pose a significant challenge, as certain events can be easily masked by background noise or other events, resulting in poor detection performance. To address this issue, we propose the text-queried SED (TQ-SED) framework. Specifically, we first pre-train a language-queried audio source separation (LASS) model to separate the audio tracks corresponding to different events from the input audio. Then, multiple target SED branches are employed to detect individual events. AudioSep is a state-of-the-art LASS model, but has limitations in extracting dynamic audio information because of its pure convolutional structure for separation. To address this, we integrate a dual-path recurrent neural network block into the model. We refer to this structure as AudioSep-DP, which achieves the first place in DCASE 2024 Task 9 on language-queried audio source separation (objective single model track). Experimental results show that TQ-SED can significantly improve the SED performance, with an improvement of 7.22% on F1 score over the conventional framework. Additionally, we setup comprehensive experiments to explore the impact of model complexity. The source code and pre-trained model are released at https://github.com/apple-yinhan/TQ-SED.

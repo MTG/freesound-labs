@@ -6,6 +6,7 @@ publication: "2025 5th International Conference on Trends in Material Science an
 year: 2025
 external_url: https://www.semanticscholar.org/paper/1d696129e3822be6dc5c5ea968844c3fc791edad
 authors: "S.Padmaja, Dr. N. Sharmila Banu"
+publication_date: "2025-04-07"
 ---
 
 Sound Event Detection (SED) has appeared as a fundamental study area due to its broad applicability, including environmental monitoring, healthcare systems, in smart cities, and in industrial automation. Accurate identification and categorization of sound events are essential for developing intelligent systems capable of understanding and responding to acoustic environments. This article represents a systematic literature review (SLR) to explore the advancements and challenges in SED, focusing on feature extraction techniques and classification models. Key challenges, like background noise and overlapping audio signals, are addressed by reviewing feature extraction methods, including Mel-frequency cepstral coefficients (MFCCs), spectrogram analysis, and wavelet transforms. These strategies are foundational for capturing discriminative sound patterns required for accurate classification, and this review exposed the role of advanced classifiers, including deep learning mechanisms like CNNs and RNNs and hybrid approaches that combine machine learning techniques for improved performance.

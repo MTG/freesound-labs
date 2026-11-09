@@ -6,6 +6,7 @@ publication: "2023 IEEE Workshop on Applications of Signal Processing to Audio a
 year: 2023
 external_url: https://www.semanticscholar.org/paper/9e5c724901e3b5d457fe60939cc8ad3f7a24e002
 authors: "Alice Sokolova, Baris Aksanli, F. Harris, H. Garudadri"
+publication_date: "2023-10-22"
 ---
 
 The fitting process of modern compression hearing aids is becoming increasingly more complex as the processing capabilities of modern hearing aid devices continue to grow. However, a simplification of hearing aid parameters would enable more accessible user customization of a hearing aid, which is especially applicable in the growing field of over-the-counter devices. This work presents an alternative to the conventional compression input/output curve which consolidates numerous parameters while retaining equivalent performance, and revisits the concept of expansion in compression devices. The consolidated amplification rule is a continuous function without knee points, controlled by two parameters – gain and compression ratio. Experimental results have shown that the expansion properties of the function reduce amplification of low-level ambient noise by up to 4 dB, and improves signal-to-noise ratio by up to 1 dB (25%) in moderate noise conditions.

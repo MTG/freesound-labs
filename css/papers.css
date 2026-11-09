@@ -1,0 +1,84 @@
+.papers-search {
+    margin-bottom: 15px;
+}
+
+.papers-search label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.papers-search input {
+    width: 100%;
+    padding: 10px;
+    font: inherit;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+
+.papers-status {
+    color: #555;
+}
+
+.papers-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+.papers-item {
+    padding: 14px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.papers-abstract {
+    margin-top: 8px;
+}
+
+.papers-abstract summary {
+    color: #b51a2d;
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid #b51a2d;
+    border-radius: 4px;
+    padding: 4px 10px;
+}
+
+.papers-abstract summary::-webkit-details-marker {
+    display: none;
+}
+
+.papers-abstract summary:hover,
+.papers-abstract summary:focus-visible {
+    background: #f9e9eb;
+}
+
+.papers-abstract[open] summary {
+    margin-bottom: 10px;
+}
+
+.papers-abstract p {
+    margin-bottom: 0;
+    overflow-wrap: anywhere;
+}
+
+.papers-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px 0;
+}
+
+.papers-pagination[hidden] {
+    display: none;
+}
+
+.papers-pagination button {
+    font: inherit;
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+.papers-pagination button:disabled {
+    cursor: default;
+}
