@@ -22,21 +22,31 @@
     var next = document.getElementById('papers-next');
     var pageSize = 20;
     var page = 1;
+    function normalize(text) {
+        return text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
     var searchable = items.map(function (item) {
-        return item.textContent.toLowerCase();
+        var abstract = item.querySelector('.papers-abstract p');
+        return normalize(item.querySelector('.papers-citation').textContent + ' ' +
+            (abstract ? abstract.textContent : ''));
     });
 
     function render() {
-        var query = search.value.trim().toLowerCase();
+        var query = normalize(search.value.trim());
+        var terms = query ? query.split(/\s+/) : [];
         var matched = 0;
         var start = (page - 1) * pageSize;
 
         items.forEach(function (item, index) {
-            var matches = searchable[index].includes(query);
+            var matches = terms.every(function (term) {
+                return searchable[index].includes(term);
+            });
             var visible = matches && matched >= start && matched < start + pageSize;
             item.hidden = !visible;
-            if (!visible) {
-                item.querySelector('details').open = false;
+            var details = item.querySelector('details');
+            if (!visible && details) {
+                details.open = false;
             }
             if (matches) {
                 matched += 1;

@@ -35,21 +35,13 @@
 }
 
 .papers-abstract summary {
-    color: #b51a2d;
+    color: #6e6e6e;
     cursor: pointer;
     display: inline-block;
-    border: 1px solid #b51a2d;
-    border-radius: 4px;
-    padding: 4px 10px;
 }
 
 .papers-abstract summary::-webkit-details-marker {
     display: none;
-}
-
-.papers-abstract summary:hover,
-.papers-abstract summary:focus-visible {
-    background: #f9e9eb;
 }
 
 .papers-abstract[open] summary {

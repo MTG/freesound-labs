@@ -15,8 +15,8 @@ on the list and is not, please <b>send us an email</b> at freesound@freesound.or
 <link rel="stylesheet" href="{{ '/css/papers.css' | relative_url }}">
 <div class="papers-browser" id="papers-browser">
     <div class="papers-search" hidden>
-        <label for="papers-search">Search papers</label>
-        <input type="search" id="papers-search" placeholder="Search title, author, publication or abstract">
+        <label for="papers-search">Search all papers</label>
+        <input type="search" id="papers-search" placeholder="Search title, author, publication, year or abstract">
     </div>
     <p class="papers-status" id="papers-status" role="status" aria-live="polite" hidden></p>
     <ul class="papers-list" id="papers-list">
@@ -27,15 +27,13 @@ on the list and is not, please <b>send us an email</b> at freesound@freesound.or
     {% for paper in papers_year %}
         <li class="papers-item" data-sort-date="{% if paper.publication_date %}{{ paper.publication_date | date: '%Y-%m-%d' }}{% else %}{{ paper.year | escape }}-00-00{% endif %}">
             <div class="papers-citation">{{ paper.authors | escape }}. <a href="{{ paper.external_url | escape }}">{{ paper.title | escape }}</a>{% if paper.publication.size > 0 %}. {{ paper.publication | escape }}{% endif %} ({% if paper.publication_date %}{{ paper.publication_date | date: '%Y-%m-%d' }}{% else %}{{ paper.year | escape }}{% endif %}).</div>
-            <details class="papers-abstract">
-                <summary>Show abstract</summary>
-                {% assign abstract = paper.content | strip_html | strip %}
-                {% if abstract != empty %}
+            {% assign abstract = paper.content | strip_html | strip %}
+            {% if abstract != empty %}
+                <details class="papers-abstract">
+                    <summary>Show abstract</summary>
                     <p>{{ abstract | escape | newline_to_br }}</p>
-                {% else %}
-                    <p>No abstract available.</p>
-                {% endif %}
-            </details>
+                </details>
+            {% endif %}
         </li>
     {% endfor %}
 {% endfor %}

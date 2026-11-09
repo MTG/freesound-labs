@@ -82,14 +82,18 @@ First you'll need to build the "builder" image (in case it has not been built al
 
 Then you can build the Freesound Labs website with the command:
 
-    docker run --rm --volume="$PWD:/srv/jekyll" -it fslabs-builder jekyll build
+    docker run --rm --user "$(id -u):$(id -g)" --entrypoint ruby --volume="$PWD:/srv/jekyll" fslabs-builder /usr/gem/bin/jekyll build
 
 
 You can run the development server with the command:
 
-    docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it fslabs-builder jekyll serve
+    docker run --rm --user "$(id -u):$(id -g)" --entrypoint ruby --volume="$PWD:/srv/jekyll" -p 4000:4000 fslabs-builder /usr/gem/bin/jekyll serve --host 0.0.0.0
 
-...and point your browser to `http://0.0.0.0:4000`. Changes in will trigger the re-generation of the site.
+...and point your browser to `http://localhost:4000`. Changes will trigger the re-generation of the site.
+These commands run Jekyll as your host user, so it can write `_site` without
+changing the ownership of the repository. If `_site` already exists and is
+owned by another user, fix its ownership or remove that generated directory
+before running the commands.
 
 
 The `retrieve_papers.py` script can be run with the following command:
